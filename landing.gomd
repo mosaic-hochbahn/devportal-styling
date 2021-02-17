@@ -1,0 +1,49 @@
+<span>
+    {{define "landing-head"}}
+    {{end}}
+</span>
+
+# Welcome to the HVV MObility and SAles Integration Cluster (MOSAIC)
+
+## Introduction
+
+MOSAIC offers a lot of services in different areas. You can find services for
+* Trip Information
+* Order Tickets
+* Order extended mobility partners (seperate contracts needed)
+* Creating HVV Tickets
+* Services for User Management
+* Services for Customers (seperate contracts needed)
+
+## Available Services
+
+The following services are exposed through MOSAIC:
+
+<table cellpadding="2em" width="100%">
+    <thead>
+        <tr>
+            <td><b>Service Name</b></td>
+            <td><b>Swagger URL</b></td>
+        </tr>
+    </thead>
+    <tbody>
+        {{range $i, $element := .S.K8sStore.Slice }}
+        {{if isEven $i }}
+        <tr style="background: rgba(86,61,124,.05);">
+            {{else}}
+            <tr>
+                {{end}}
+                <td>
+                    <samp>{{$element.Service.Namespace}}.{{$element.Service.Name}}</samp>
+                </td>
+                <td>
+                    {{if $element.Metadata.HasDoc}}
+                    <a href="{{$.Prefix}}doc/{{$element.Service.Namespace}}/{{$element.Service.Name}}"><code>API Documentation</code></a>
+                    {{else}}
+                    <code><span style="color:red">No API Documentation</span></code>
+                    {{end}}
+                </td>
+            </tr>
+            {{end}}
+    </tbody>
+</table>
