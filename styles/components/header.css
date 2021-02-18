@@ -1,7 +1,10 @@
 .c-header {
   border-bottom: solid 1px var(--terciary-color);
   padding: 0 15px;
-  background-color: white;
+  background-color: gainsboro;
+  box-shadow: 1px 1px 3px 0px rgb(0 0 0 / 38%);
+  z-index: 99;
+  margin: 3px;
 }
 
 .c-header__brand {
@@ -42,7 +45,7 @@
 .c-header__misc {
   margin-left: auto;
   display: inline-flex;
-  align-items: center
+  align-items: center;
 }
 
 .c-header__misc > * {
@@ -58,5 +61,8 @@
   font-size: 16px;
   line-height: 1.5;
   color: var(--primary-color);
+}
+.paddingLink{
+  padding: 5px;
 }
 
