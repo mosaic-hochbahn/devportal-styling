@@ -7,13 +7,33 @@
 
 ## Introduction
 
-MOSAIC offers a lot of services in different areas. You can find services for
-* Trip Information
-* Order Tickets
-* Order extended mobility partners (seperate contracts needed)
-* Creating HVV Tickets
-* Services for User Management
-* Services for Customers (seperate contracts needed)
+The MOSAIC API is built on *HTTP*. Our API is *RESTful*. It returns *HTTP status codes* to indicate errors. It accepts and returns *JSON* in the HTTP
+body.
+
+This API covers topics like:
+
+- **Location** search
+- Booking of **public transport tickets**
+- Booking of **shuttle services**
+- Booking of **car rental services**
+- **Customer data** management
+
+The most important resources provided by this API are:
+
+- Locations
+- Tickets
+- Ticket Offers
+- Shuttle Services
+- Rental Services
+- Order History
+- Customers
+- Check In Be Out
+
+For a detailed list of all endpoints and resources, see the sections to the left.
+
+
+
+
 
 ## Available Services
 

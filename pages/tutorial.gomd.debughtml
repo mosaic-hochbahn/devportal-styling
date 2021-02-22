@@ -4,4 +4,36 @@
 
 <h2>Authentication</h2>
 
-<h2>Where i get support?</h2>
+<p>At the moment we have to option to authenticate. For most of the services we use the deprecated methode called.
+The newer methode is the MOSAIC Identity Provider that is already in place for e.g. this MOSAIC API Portal. We will
+change the methode during the years 2021.</p>
+
+<h3>BEAM</h3>
+
+<p>To use the MOSAIC API you are given the <strong>login information</strong> for a single <strong>Anonymous User</strong> and a secret <strong>Application Key</strong>. You authenticate to
+the MOSAIC API with HTTP Basic Authentication using the login information and your secret Application key in the request header.</p>
+
+<p>Never share your secret keys. Keep them guarded and secure.</p>
+
+<p>Initial authentication against the MOSAIC API happens via Basic Authentication, every subsequent request is using Bearer Authentication:</p>
+
+<p>Instead of the standard HTTP Basic Authentication, where the payload consists of <code>username:password</code> it also contains the <strong>Application Key</strong>: <code>applicationKey/username:password</code>.
+        Usage format: Header <code>Authorization</code>, Content <code>Basic &lt;Base64.encode(applicationKey/username:password)&gt;</code>.</p>
+
+<pre><code> You can create a JSON Web Token (JWT) via our [JWT resource](#operation/getToken).
+    Usage format: Header `Authorization`, Content `Bearer &lt;JWT&gt;`.
+    If your token has expired refresh it using [/token/refresh](#operation/refreshToken) with a smilar usage format.
+    Replace the `&lt;JWT&gt;` with `{applicationKey}/{refreshToken}`, the applicationKey given to you in advance, the refreshToken acquired together with the [JWT resource](#operation/getToken).
+</code></pre>
+
+<h3>MOSAIC Identity Provider</h3>
+
+<h4>Client Authentication</h4>
+
+<h4>Customer Authentication</h4>
+
+<p>OpenId Connect :-)</p>
+
+<h2>Support</h2>
+
+<p>mosaic@hochbahn.de</p>

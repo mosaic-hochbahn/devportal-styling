@@ -1,0 +1,196 @@
+Basics
+============
+# Roles
+
+There are basically 2 different roles important for you, using this API:
+
+- **Anonymous User:** The credentials for an anonymous user are provided by Upstream Mobility in advance. Your App will stay authenticated using these
+  credentials until the user uses their own credentials.
+- **Registered User:** A manually registered account, by one of your App's users, based on the user's credentials.
+
+The Anonymous User is considered the least priviledged authenticated consumer of the API. It can consume APIs providing basic information,
+like [Locations](#operation/search) or [Ticket Offers](#operation/getOffers). For customer-specific resources you need to be authenticated as a
+Registered User. The same applies to all Offer-related topics. I.e. if you want to buy a ticket, you need to be authenticated as a Registered User.
+
+More special roles are required for CRM-related APIs ("Customer-Relationship-Management"), i.e. for back office applications:
+
+- **Agent:** An agent can call APIs which deliver information about any registered user. This role is relevant for a back office employee.
+- **Admin:** An admin is able to manage agents, e.g. create a new agent account. This role is relevant for a back office manager.
+
+For almost every API endpoint, some form of Authentication is required. Every documented API lists the applicable Security Schemes and Roles.
+
+Whenever you try to access an API endpoint with a not privileged role, a HttpStatus 403 Error Response is returned
+
+
+
+# Error Responses
+
+If something goes wrong, you will receive a uniform Error Response.
+
+## Error Format
+
+```
+{
+    "httpStatusCode": 404, //required, contains the HTTP status code
+    "server": { //required, contains information about the specific server that sent the response
+        "time": '2019-05-28T14:07:17Z' //required, contains the current server time (UTC)
+    },
+    "error": { //required, contains a description of the error
+        "code": "NOT_FOUND", //required, specific error code
+        "message": "The requested resource couldn't be found" //required, human readable description, useful for debugging, NOT to be used for display purposes
+    },
+    "fields": [ //optional, a list of field validation errors for POST and PUT requests with a Request Body
+        {
+            "name": "firstName", //required, the field name of the Request Body
+            "error": { //required, same as above
+                "code": "MISSING",
+                "message": "field is required, but missing"
+            }
+        }
+    ]
+}
+```
+
+For Legacy reasons, at some API endpoints it is necessary to send a custom `Accept` Header to receive this error response format. The endpoints in
+question mention the possibility of the custom `Accept` Header explicitly. If the custom `Accept` Header is not set and something goes wrong, the
+response will contain the Legacy error format. Since we don't recommend using the Legacy error format, we won't document it here.
+
+## Error Codes
+
+General Client errors (HTTP Status 4xx):
+
+- `BAD_REQUEST` The request is malformed or required properties are missing (HTTP Status 400)
+- `VALIDATION_ERROR` An error occurred validating the request body (HTTP Status 400)
+- `UNAUTHORIZED` Authentication information is missing (HTTP Status 401)
+- `TOKEN_EXPIRED` Authentication token is expired (HTTP Status 401)
+- `AUTHENTICATION_FAILED` The given Authentication information is invalid (HTTP Status 401)
+- `FORBIDDEN` The user privileges are insufficient (HTTP Status 403)
+- `TOO_MANY_FAILED_LOGINS` Login & other password related features are temporarily blocked because of too many failed login attempts (HTTP Status 403)
+- `NOT_FOUND` A resource could not be found (HTTP Status 404)
+- `CONFLICT` Unable to perform the operation because of a conflict (HTTP Status 409)
+- `MISSING_REQUIREMENTS` Unable to comply due to missing requirements (HTTP Status 409)
+- `USER_LOCKED` The Account of the User has been locked f.e. by a CRM User (HTTP Status 401)
+
+Payment-related Client errors (HTTP Status 4xx)
+
+- `NOT_VALID` The requested payment provider is invalid (HTTP Status 400)
+- `VALIDATION_ERROR` An error occurred validating the billing agreement token (HTTP Status 409)
+- `PSP_ERROR_REJECTED` The payment has been rejected by LogPay (HTTP Status 409)
+- `PSP_ACCOUNT_ERROR` The customer is blocked at LogPay (HTTP Status 409)
+
+Drivers-licence-related Client errors (HTTP Status 4xx)
+
+- `DRIVERS_LICENCE_ALREADY_KNOWN` The drivers licence with this licence number is already known (HTTP Status 409)
+
+Order-related Client errors (HTTP Status 4xx)
+
+- `NOT_VALID` The requested order contained an invalid combination of parameters (HTTP Status 400)
+- `AREA_NOT_VALID` The requested order is not applicable to the given area parameter (HTTP Status 409)
+- `ORDER_FORBIDDEN` The customer is not allowed to order (HTTP Status 403)
+
+Ticket-related Client errors (HTTP Status 4xx)
+
+- `TICKET_NOT_AVAILABLE` The ticket is not yet available for download (HTTP Status 403)
+- `TICKET_EXPIRED` The ticket is not available for download because the ticket validity is expired (HTTP Status 403)
+- `REQUEST_ALREADY_RECEIVED` The same ticket order request has been received more than once (HTTP Status 409)
+
+Shuttle-related Client errors (HTTP Status 4xx)
+
+- `MSP_CANCEL_REJECTED` Cancellation is not allowed at this point. (HTTP Status 400)
+- `MSP_TRIP_TO_CANCEL_NOT_FOUND` The trip to cancel wasn't found. (HTTP Status 400)
+- `MSP_CUSTOMER_NOT_ACTIVATED` The customer is not activated. (HTTP Status 400)
+- `MSP_TRIP_ACTIVE` A trip is already active for the given customer. (HTTP Status 400)
+- `MSP_TRIP_ALREADY_COMPLETED` A trip with the same id was previously completed. (HTTP Status 400)
+- `MSP_OFFER_FAILED_BEFORE` The offer has failed before and cannot be ordered anymore. (HTTP Status 400)
+- `MSP_OFFER_EXPIRED` The offer has expired. (HTTP Status 400)
+- `MSP_NOT_WITHIN_SERVICE_HOURS` The requested ride time is not within the service hours. (HTTP Status 400)
+- `MSP_NOT_WITHIN_SEATS_RANGE` Requested seats configuration can’t be served. (HTTP Status 400)
+- `MSP_NOT_WITHIN_SERVICE_AREA` The requested location is not inside a known service area. (HTTP Status 400)
+- `MSP_SAME_PICKUP_AND_DELIVERY_STOP` Only non-identical stops for pickup and delivery fit request. (HTTP Status 400)
+- `MSP_NO_PICKUP_STOPS_NEAR` No pickup stop found near the requested location. (HTTP Status 400)
+- `MSP_NO_DELIVERY_STOPS_NEAR` No delivery stop found near the requested location. (HTTP Status 400)
+- `MSP_NO_PICKUP_AND_DELIVERY_STOPS_NEAR` No pickup stop and no delivery stop found near requested locations. (HTTP Status 400)
+- `MSP_WALKING_LIMIT_EXCEEDED` The combined distance to pickup and from delivery stop is too long. (HTTP Status 400)
+- `MSP_DIRECT_WALK_IS_FASTER` The combined walking distance to pickup and from delivery stop is longer than the distance of the trip. (HTTP Status
+  400)
+- `MSP_DISPATCHING_ERROR` We failed to find a vehicle to fulfil the offer or order request. (HTTP Status 400)
+- `MSP_ALREADY_ORDERED` The offer has already been ordered. (HTTP Status 409)
+
+Rental-related Client errors (HTTP Status 4xx)
+
+- `FREE_RESERVATIONS_LIMIT_EXCEEDED` Customer did too many reservations in a short amount of time. (HTTP Status 400)
+- `PRICE_NOT_FOUND` MSP could not find given priceId in their system. Perhaps old priceId? (HTTP Status 400)
+- `VEHICLE_NOT_AVAILABLE` Vehicle is currently not available. (HTTP Status 400)
+- `CUSTOMER_NOT_ACTIVATED_AT_MSP` The customer is not yet activated for MSP. (HTTP Status 400)
+- `ERROR_UNLOCKING_VEHICLE` Could not unlock vehicle, because of an error. (HTTP Status 400)
+- `IGNITION_STILL_ON` Could not end rental, because the ignition is still on. (HTTP Status 400)
+- `RENTAL_ALREADY_ENDED` Given rental has already ended. (HTTP Status 400)
+- `TOO_FAR_AWAY` Too far away. We currently don't know what that means. (HTTP Status 400)
+- `VEHICLE_NOT_WITHIN_DISTANCE` The vehicle is not within user distance. (HTTP Status 400)
+- `VEHICLE_IN_FORBIDDEN_AREA` Vehicle is in forbidden area. (HTTP Status 400)
+- `VEHICLE_OUTSIDE_START_CITY` Vehicle is outside of start city. (HTTP Status 400)
+- `VEHICLE_NOT_IN_ASSIGNED_REGION_ZONE` Vehicle is not in assigned region zone. (HTTP Status 400)
+- `ERROR_LOCKING_VEHICLE` Could not lock vehicle, because of an error. (HTTP Status 400)
+- `PIN_WRONG` The given PIN is not correct. (HTTP Status 400)
+- `ALREADY_ACTIVE_RENTAL` Customer has an already active rent, so could not start a second one. (HTTP Status 409)
+- `INVALID_PHASE` The operation is not allowed in this rental phase. (HTTP Status 409)
+- `ADDITIONAL_FEE_NOT_VALID` The given additional fee and the real additional fee do not match. (HTTP Status 409)
+
+Specific Client errors (HTTP Status 4xx)
+
+- `USER_ALREADY_ACTIVATED` A new activation email is requested, but the user account has already been activated (HTTP Status 400)
+- `USER_EXISTS` A registration attempt is made with an already registered email address (HTTP Status 409)
+- `CUSTOMER_USAGE_BLOCKED` A registration attempt is made with for a blocked customer for this MSP (HTTP Status 403)
+
+Field Validation errors (HTTP Status 4xx)
+
+- `NotNull` Value is required but null or missing (HTTP Status 400)
+- `Size` Value violates the size restrictions (HTTP Status 400)
+- `NotBlank` Value may not be empty, but is null, missing or contains spaces only (HTTP Status 400)
+- `Email` Value must be a valid email address, but could not be validated (HTTP Status 400)
+- `Pattern` Value does not match an expected pattern (HTTP Status 400)
+- `Past` Date value is expected to be in the past, but is the present or in the future (HTTP Status 400)
+- `AssertTrue` Boolean value is expected to be true (HTTP Status 400)
+- `Type` The given value is not of the expected type, e.g. Enum or Date (HTTP Status 400)
+- `Min` Numerical value is below an expected minimum (HTTP Status 400)
+- `Max` Numerical value is above an expected minimum (HTTP Status 400)
+- `RemainingTries` Additional information about a failed login attempt, containing the number of remaining login tries in the "message" property (HTTP
+  Status 401)
+- `PinInvalid` The delivered PIN is not correct (HTTP Status 400)
+- `Duplicate` The delivered value is already present (HTTP Status 400)
+- `PriceInvalid` The price somehow has changed / was corrupted and the offer is not valid anymore (HTTP Status 400)
+- `TokenInvalid` The provided token is no valid billing agreement token (HTTP Status 409)
+
+General Server errors (HTTP Status 5xx):
+
+- `SERVER_ERROR` An internal server error occurred (HTTP Status 500)
+- `MSP_NOT_SUPPORTED` MSP is not supported. (HTTP Status 501)
+- Other non-documented error codes are possible in this case for debugging purposes. It is not required to parse and interpret the code for HTTP
+  Status 5xx.
+
+Shuttle-related Server errors (HTTP Status 5xx)
+
+- `MSP_GENERAL_ERROR` An internal, technical error occurred. (HTTP Status 500)
+
+Rental-related Server errors (HTTP Status 5xx)
+
+- `GENERAL_ERROR` An internal error has occurred (HTTP Status 500)
+- `UNKNOWN_MSP_ERROR` MSP sent an unknown error with errorCode 'UNICORN_ERROR' and message 'A unicorn blocks your car.' (HTTP Status 500)
+- `RENTAL_IS_IN_UNEXPECTED_STATE` Expected was STARTING or STARTED (HTTP Status 500)
+- `AUTHENTICATION_FAILED_AT_MSP` Could not authenticate against MSP. (HTTP Status 500)
+- `SUSPICIOUS_CUSTOMER_ACTIVITY_AT_MSP` MSP temporarily blocked the customer, because they have detected some suspicious activity on his/her account,
+  e.g. suspicious drivers licence number. (HTTP Status 500)
+- `PRICE_NOT_VALID` The given price is not correct. (HTTP Status 500)
+- `ORDER_CUSTOMER_NUMBER_NOT_MATCHING` The requested rental order does not belong to the user. (HTTP Status 500)
+
+# Date Format
+
+Our APIs sometimes expect dates as input in the request body or returns dates in the response body. In this case, we rely on string representation of
+the date according to [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601).
+
+Dates contained in the response body will always be in UTC timezone (zero offset), unless specified otherwise. You may, however, use any other
+timezone in requests, as long as the offset is specified correctly.
+
+For better understanding of how the string representation of a date might look like, please take a look
+at [the Java documentation of ISO_OFFSET_DATE_TIME](https://docs.oracle.com/javase/8/docs/api/java/time/format/DateTimeFormatter.html#ISO_OFFSET_DATE_TIME)
+.
