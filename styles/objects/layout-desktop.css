@@ -22,6 +22,7 @@
   .o-page__main {
     margin-top: var(--header-height);
     margin-left: var(--nav-width);
+    margin-bottom: var(--footer-height);
   }
 
   .o-page__main > div {
