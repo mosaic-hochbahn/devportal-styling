@@ -14,7 +14,7 @@
   display: block;
   padding: 1em;
   position: relative;
-  color: var(--secondary-color);
+  color: var(--brand-color);
   line-height: initial;
   border-bottom: solid 1px var(--terciary-color);
   transition: background-color 100ms ease-in-out;
@@ -50,6 +50,6 @@
   background-color: var(--brand-color);
 }
 
-h3{
-  color: #e52e2e;
+.c-nav h3{
+  color: var(--brand-color-light);
 }

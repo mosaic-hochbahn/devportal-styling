@@ -24,7 +24,7 @@
 }
 
 .c-header__nav > ul > li > a {
-  color: var(--hvvblue-color);
+  color: var(--brand-color);
   font-weight: 700;
   text-transform: uppercase;
   line-height: var(--header-height);
