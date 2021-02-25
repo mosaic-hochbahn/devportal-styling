@@ -39,29 +39,29 @@
 </pre>
 <h3>MOSAIC Identity Provider
 </h3>
-
+<pre>
 <p>
 </p>
-
+</pre>
 <h4>Client Authentication
 </h4>
-
+<pre>
 <p>
 
 </p>
-
+</pre>
 <h4>Customer Authentication
 </h4>
-
-<p>OpenId Connect :-)
-
+<pre>
+<p>
+  OpenId Connect :-)
 </p>
-
+</pre>
 <h2>Support
 </h2>
-
+<pre>
 <p>
     mosaic@hochbahn.de
-
 </p>
+</pre>
 
