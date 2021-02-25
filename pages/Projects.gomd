@@ -4,7 +4,7 @@ Here you can find the different projects that used services from MOSAIC.
 
 <h2>hvv switch</h2>
 <pre>
-    <img src="/docs/assets/projectLogos/HVV-Switch-Rocket.png" alt="hvv switch" title="hvv switch" /><br>
+    <img src="{{$.Prefix}}assets/projectLogos/switch_logo.png" alt="hvv switch" title="hvv switch" /> <p>
 
     <h3>Description</h3>
         <p>hvv switch integrates different mobility providers with in one App. The idea is to have
@@ -17,11 +17,13 @@ Here you can find the different projects that used services from MOSAIC.
 
     <h3>Next Steps</h3>
     <p>Integrate a couple more mobility provider</p>-
-
 </pre>
 
-<h2>Check-in / Be-out (ANY)</h2>
+
+
+<h2> hvv Any (Check-in / Be-out)</h2>
 <pre>
+    <img src="{{$.Prefix}}assets/projectLogos/hvv_any_logo.png" alt="hvv Any" title="hvv Any" /> <p>
     <h3>Description</h3>
         <p>An easy way to get your ticket with one click. The systems tracks your movement and
         afterwards you get calculate the best fare for your trip.</p>
@@ -71,5 +73,6 @@ Here you can find the different projects that used services from MOSAIC.
 
     <h3>Next Steps</h3>
 </pre>
+
 
 
