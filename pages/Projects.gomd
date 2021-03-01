@@ -7,8 +7,7 @@ Here you can find the different projects that used services from MOSAIC.
     <img src="{{$.Prefix}}assets/projectLogos/switch_logo.png" alt="hvv switch" title="hvv switch" /> <p>
 
     <h3>Description</h3>
-        <p>hvv switch integrates different mobility providers with in one App. The idea is to have
-      access to all kind of mobility in the greater Area of Hamburg with one App.</p>
+        <p>hvv switch integrates different mobility providers with in one App. The idea is to have access to all kind of mobility in the greater Area of Hamburg with one App.</p>
     <h3>Used Services</h3>
         - MOIA
         - Ride services
@@ -25,8 +24,7 @@ Here you can find the different projects that used services from MOSAIC.
 <pre>
     <img src="{{$.Prefix}}assets/projectLogos/hvv_any_logo.png" alt="hvv Any" title="hvv Any" /> <p>
     <h3>Description</h3>
-        <p>An easy way to get your ticket with one click. The systems tracks your movement and
-        afterwards you get calculate the best fare for your trip.</p>
+        <p>An easy way to get your ticket with one click. The systems tracks your movement and afterwards you get calculate the best fare for your trip.</p>
 
     <h3>Used Services</h3>
     - CIBO
@@ -43,11 +41,10 @@ Here you can find the different projects that used services from MOSAIC.
     <h3>Description</h3>
     This is the new version of our fare collection machine. It looks a bit like a big iPhone.
 
-    #### Used Services
-    The use the tariff-server from MOSAIC to get all Tariff details. In another step they will
-    access the trip information system via MOSAIC.
+    <h4>Used Services</h4>
+    The use the tariff-server from MOSAIC to get all Tariff details. In another step they will access the trip information system via MOSAIC.
 
-    #### Next Steps
+    <h4>Next Steps</h4>
     - Integrate GTI Proxy
     - Integrate booking components via MOSAIC
 </pre>
@@ -66,8 +63,7 @@ Here you can find the different projects that used services from MOSAIC.
 <h2>ANDI (anonymes Digital Ticket)</h2>
 <pre>
     <h3>Description</h3>
-    Another step in direction of Account Based Ticketing. Sales within the vehicle will be
-    replaced by this project.
+    Another step in direction of Account Based Ticketing. Sales within the vehicle will be replaced by this project.
 
     <h3>Used Services</h3>
 
