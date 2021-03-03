@@ -10,7 +10,7 @@
 </h2>
 <pre>
 <p>
-    At the moment we have to option to authenticate. For most of the services we use the deprecated methode called.
+    At the moment we have two option to authenticate. For most of the services we use the deprecated method called.
     The newer methode is the MOSAIC Identity Provider that is already in place for e.g. this MOSAIC API Portal. We will
     change the methode during the years 2021.
 
@@ -20,21 +20,20 @@
 </h3>
 <pre>
 <p>
-    To use the MOSAIC API you are given the <strong>login information</strong> for a single <strong>Anonymous User</strong> and a secret <strong>Application Key</strong>. You authenticate to
-    the MOSAIC API with HTTP Basic Authentication using the login information and your secret Application key in the request header.
+   To use the MOSAIC API you are given the login information for a single Anonymous User and a secret Application Key. You authenticate to
+   the MOSAIC API with HTTP Basic Authentication using the login information and your secret Application key in the request header.
 
-    Never share your secret keys. Keep them guarded and secure.
+   Never share your secret keys. Keep them guarded and secure.
 
-    Initial authentication against the MOSAIC API happens via Basic Authentication, every subsequent request is using Bearer Authentication:
+   Initial authentication against the MOSAIC API happens via Basic Authentication, every subsequent request is using Bearer Authentication:
 
-    Instead of the standard HTTP Basic Authentication, where the payload consists of <code>username:password</code> it also contains the <strong>Application Key</strong>: <code>applicationKey/username:password</code>.
-    Usage format: Header <code>Authorization</code>, Content <code>Basic &lt;Base64.encode(applicationKey/username:password)&gt;</code>.
+   Instead of the standard HTTP Basic Authentication, where the payload consists of username:password it also contains the Application Key: applicationKey/username:password.
+   Usage format: Header Authorization, Content Basic <Base64.encode(applicationKey/username:password)>.
 
-    You can create a JSON Web Token (JWT) via our <a href="#operation/getToken">JWT resource</a>.
-    Usage format: Header <code>Authorization</code>, Content <code>Bearer &lt;JWT&gt;</code>.
-    If your token has expired refresh it using <a href="#operation/refreshToken">/token/refresh</a> with a smilar usage format.
-    Replace the <code>&lt;JWT&gt;</code> with <code>{applicationKey}/{refreshToken}</code>, the applicationKey given to you in advance, the refreshToken acquired together with the <a href="#operation/getToken">JWT resource</a>.
-
+   You can create a JSON Web Token (JWT) via our JWT resource.
+   Usage format: Header Authorization, Content Bearer <JWT>.
+   If your token has expired refresh it using /token/refresh with a smilar usage format.
+   Replace the <JWT> with {applicationKey}/{refreshToken}, the applicationKey given to you in advance, the refreshToken acquired together with the JWT resource.
 </p>
 </pre>
 <h3>MOSAIC Identity Provider
