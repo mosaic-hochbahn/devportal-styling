@@ -22,7 +22,7 @@ Here you can find the different projects that used services from MOSAIC.
 
 <h2> hvv Any (Check-in / Be-out)</h2>
 <pre>
-    <img src="{{$.Prefix}}assets/projectLogos/hvv_any_logo.png" alt="hvv Any" title="hvv Any" /> <p>
+    <img src="{{$.Prefix}}assets/projectLogos/hvv-switch-logo-ani_01.gif" alt="hvv Any" title="hvv Any" /> <p>
     <h3>Description</h3>
         <p>An easy way to get your ticket with one click. The systems tracks your movement and afterwards you get calculate the best fare for your trip.</p>
 
