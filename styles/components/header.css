@@ -1,7 +1,10 @@
 .c-header {
-  border-bottom: solid 1px var(--terciary-color);
-  padding: 0 15px;
-  background-color: white;
+  border-bottom: solid 1px gainsboro;
+  padding: 0 10px;
+  background-color: gainsboro;
+  box-shadow: 0px 0px 3px 0px rgb(0 0 0 / 70%);
+  z-index: 99;
+  margin: 0px 3px 3px 3px;
 }
 
 .c-header__brand {
@@ -21,7 +24,7 @@
 }
 
 .c-header__nav > ul > li > a {
-  color: var(--primary-color);
+  color: var(--brand-color);
   font-weight: 700;
   text-transform: uppercase;
   line-height: var(--header-height);
@@ -42,7 +45,7 @@
 .c-header__misc {
   margin-left: auto;
   display: inline-flex;
-  align-items: center
+  align-items: center;
 }
 
 .c-header__misc > * {
@@ -59,4 +62,10 @@
   line-height: 1.5;
   color: var(--primary-color);
 }
+.paddingLink{
+  padding: 5px;
+}
 
+.h3{
+  color: #e52e2e;
+}

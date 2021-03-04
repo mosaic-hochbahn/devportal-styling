@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  dev-portal-styling:
+    image: docker.io/datawire/ambassador_pro:local-devportal-0.11.0
+    ports:
+      - "8877:8877"
+    volumes:
+    - ".:/content"

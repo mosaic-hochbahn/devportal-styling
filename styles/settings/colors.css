@@ -1,8 +1,10 @@
 :root {
-  --brand-color: #e52e2e;
-  --brand-color-light: #e52e2e;
-  --primary-color: #222222;
-  --secondary-color: #5b8ac4;
+  --brand-color: #5b9bd5;
+  --brand-color-light: #00b050;
+  --primary-color: #626b72;
+  --secondary-color: #7c7e80;
   --terciary-color: #f1f1f3;
   --background-color: #f9f9f9;
+  --hvvblue-color: #004698;
+  --hvvred-color:#e52e2e;
 }

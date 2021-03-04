@@ -1,3 +1,7 @@
 :root {
   --font-default: 'Source Sans Pro', sans-serif;
 }
+
+pre{
+  font-family: 'Source Sans Pro', sans-serif;
+}

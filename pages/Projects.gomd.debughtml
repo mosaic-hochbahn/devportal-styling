@@ -1,3 +1,80 @@
 <h1>Projects</h1>
 
 <p>Here you can find the different projects that used services from MOSAIC.</p>
+
+<p><h2>hvv switch</h2>
+<pre>
+    <img src="{{$.Prefix}}assets/projectLogos/switch_logo.png" alt="hvv switch" title="hvv switch" /> <p></p>
+
+<pre><code>&lt;h3&gt;Description&lt;/h3&gt;
+    &lt;p&gt;hvv switch integrates different mobility providers with in one App. The idea is to have
+  access to all kind of mobility in the greater Area of Hamburg with one App.&lt;/p&gt;
+&lt;h3&gt;Used Services&lt;/h3&gt;
+    - MOIA
+    - Ride services
+    - Booking
+    - Order
+
+&lt;h3&gt;Next Steps&lt;/h3&gt;
+&lt;p&gt;Integrate a couple more mobility provider&lt;/p&gt;-
+</code></pre>
+
+<p></pre></p>
+
+<p><h2> hvv Any (Check-in / Be-out)</h2>
+<pre>
+    <img src="{{$.Prefix}}assets/projectLogos/hvv_any_logo.png" alt="hvv Any" title="hvv Any" /> <p>
+    <h3>Description</h3>
+        <p>An easy way to get your ticket with one click. The systems tracks your movement and
+        afterwards you get calculate the best fare for your trip.</p></p>
+
+<pre><code>&lt;h3&gt;Used Services&lt;/h3&gt;
+- CIBO
+- Order
+- ...
+
+&lt;h3&gt;Next Steps&lt;/h3&gt;
+</code></pre>
+
+<p></pre></p>
+
+<p><h2>Self Service Terminal</h2>
+<pre>
+    <h3>Description</h3>
+    This is the new version of our fare collection machine. It looks a bit like a big iPhone.</p>
+
+<pre><code>#### Used Services
+The use the tariff-server from MOSAIC to get all Tariff details. In another step they will
+access the trip information system via MOSAIC.
+
+#### Next Steps
+- Integrate GTI Proxy
+- Integrate booking components via MOSAIC
+</code></pre>
+
+<p></pre></p>
+
+<p><h2>VDV Barcode</h2>
+<pre>
+    <h3>Description</h3>
+    Generate all QR-Codes within the HVV.</p>
+
+<pre><code>&lt;h3&gt;Used Services
+&lt;/h3&gt;
+&lt;h3&gt;Next Steps&lt;/h3&gt;
+</code></pre>
+
+<p></pre></p>
+
+<p><h2>ANDI (anonymes Digital Ticket)</h2>
+<pre>
+    <h3>Description</h3>
+    Another step in direction of Account Based Ticketing. Sales within the vehicle will be
+    replaced by this project.</p>
+
+<pre><code>&lt;h3&gt;Used Services&lt;/h3&gt;
+
+&lt;h3&gt;Next Steps&lt;/h3&gt;
+</code></pre>
+
+<p></pre></p>

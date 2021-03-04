@@ -1,10 +1,20 @@
 .c-footer {
   border-top: solid 1px var(--terciary-color);
   text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 83.5%;
+  height: 4rem;
+  left: 0;
+  background: var(--terciary-color);
 }
 
 .c-footer li {
   display: inline-block;
+}
+.c-footer ul {
+  justify-content: space-evenly;
+  display: flex;
 }
 
 .c-footer li:not(:first-of-type)::before {
@@ -16,4 +26,8 @@
 
 .c-footer li a {
   color: #78757A;
+}
+
+img{
+  width: 5vw;
 }
