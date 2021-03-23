@@ -13,27 +13,29 @@ body.
 This API covers topics like:
 
 - **Location** search
+- Offering **products** for all kind of transportation
 - Booking of **public transport tickets**
-- Booking of **shuttle services**
-- Booking of **car rental services**
+- Booking of **different kind of Transportation**
 - **Customer data** management
 
-The most important resources provided by this API are:
+## Business Objects
 
-- Locations
-- Tickets
-- Ticket Offers
-- Shuttle Services
-- Rental Services
-- Order History
-- Customers
-- Check In Be Out
+The API handels different Business Objects
+
+![](assets/png/businessObjects.jpg)
+
+
+- Locations (POI, Adresses, Stations)
+- Connections 
+- Trips (Shuttle, CarSharing, Bus, Train, ...)
+- Offers
+- Orders
+- Delivery / Ticket
+- Product
+- Account / Customer
+- Billing
 
 For a detailed list of all endpoints and resources, see the sections to the left.
-
-
-
-
 
 ## Available Services
 
