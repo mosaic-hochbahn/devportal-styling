@@ -2,12 +2,7 @@
 User content for Ambassador Edge Stack Dev Portal
 
 ## How to customize
-
-- Fork this repository.
-
-- Update the `DEVPORTAL_CONTENT_URL` environment variable in your Ambassador Edge Stack deployment.
-
-- Modify your fork. Note: for now it's necessary to restart ambassador to refresh the portal content. We'll fix this in the next release.
+Do all changes in this repository and change the relevant parts. 
 
 ## kinds of content
 
