@@ -4,31 +4,43 @@ MOSAIC split up in different Domains
 
 <img src="../assets/png/domains.jpg" style="width:800px;"/>
 
-The different domains are:
-* Search (Mobility Info & Routing)
-* Ride (Offer, Order, Access)
-* Customer (Customer, Identity Management)
-* Billing (Billing, Payment)
+The different domains are covered by the following teams:
 
-# Search
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
-aliqua. Elementum eu facilisis sed odio morbi quis commodo odio. Mauris nunc congue nisi vitae. 
-Et netus et malesuada fames ac. Tellus in metus vulputate eu scelerisque.
+| Domain|   Team    |
+| :--------|   -------: |
+| Mobility Info | Search |
+| Routing | Search   |
+| Offer |   Ride   |
+| Order |   Ride   |
+| Access |  Ride   |
+| Customer |    Customer   |
+| Identity Management |  Customer   |
+| Billing | Billing   |
+| Payment | Billing   |
 
-# Ride
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
-aliqua. Elementum eu facilisis sed odio morbi quis commodo odio. Mauris nunc congue nisi vitae. 
-Et netus et malesuada fames ac. Tellus in metus vulputate eu scelerisque.
 
-# Customer
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
-aliqua. Elementum eu facilisis sed odio morbi quis commodo odio. Mauris nunc congue nisi vitae. 
-Et netus et malesuada fames ac. Tellus in metus vulputate eu scelerisque.
+## Search
+The search Team handles the Domains Mobility Info and Routing which can be summarized as search Domain. The Main
+Business Objects in this Domain are "Orte" (Places) and "Verbindungen" (Routes). Places can be a Bus Station,
+Train Station, Adress, a POI (e.g. a Theater or a switch-point), Cords.
 
-# Billing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna 
-aliqua. Elementum eu facilisis sed odio morbi quis commodo odio. Mauris nunc congue nisi vitae. 
-Et netus et malesuada fames ac. Tellus in metus vulputate eu scelerisque.
+
+## Ride
+The Ride Team is responsible for the three Domains Offer, Order and Access. All three domains can be in the context
+of public transport or in additional transportation mode, e.g. Taxi, Car Sharing, Bike Sharing, Ride Pooling. So an
+Offer can be something like an public transport tariff product, or an price calculation for an Taxi or the tariff
+the price / minute for a Car rent. So all kind of different types of offers are possibile.
+The order is the contractual part between the customer who accept an offer. And the third domain is to give the customer
+access to the vehicle, that could be a ticket for public transport,  open an car / bike or to pick up the customer with
+a taxi / ride pooling service.
+
+## Customer
+The core part is to persist every information about the customer. The other part is to be aware of the identity of
+a customer.
+
+
+## Billing
+It is all about the money.
 
 
 

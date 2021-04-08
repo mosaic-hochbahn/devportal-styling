@@ -20,10 +20,9 @@ This API covers topics like:
 
 ## Business Objects
 
-The API handels different Business Objects
+MOSAIC handels different Business Objects
 
-![](assets/png/businessObjects.jpg)
-
+<img src="./assets/png/businessObjects.jpg" style="width:800px;"/>
 
 - Locations (POI, Adresses, Stations)
 - Connections 

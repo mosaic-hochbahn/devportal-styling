@@ -1,43 +1,56 @@
-# Projects
+# References
+<table>
+    <tr>
+        <td> <img src="../assets/projectLogos/switch_logo.png" alt="hvv switch" title="hvv switch"/></td>
+        <td> <img src="../assets/projectLogos/hvv_any_logo.png" alt="hvv Any" title="hvv Any" /> </td>
+        <td> SST </td>
+        <td> VDV-Barcode </td>
+        <td> ANDI </td>
+    </tr>
+</table>
+
+</br>
+</br>
+
 - [hvv switch](#hvv-switch)
 - [hvv Any](#hvv-any)
 - [Self-Service-Terminal](#self-service-terminal)
 - [VDV-Barcode](#vdv-barcode)
 - [ANDI](#andi)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 
 
 
 Here you can find the different projects that used services from MOSAIC.
 
-## hvv switch
-<img src="../assets/projectLogos/switch_logo.png" alt="hvv switch" title="hvv switch" />
-### Description
-hvv switch integrates different mobility providers with in one App. The idea is to have access to all kind of mobility in the greater Area of Hamburg with one App.
-### Used Services
-* MOIA
-* Ride services
-* Booking
-* Order
-### Next Steps
-Integrate a couple more mobility provider
-</br>
-</br>
 
+## hvv switch
+### Description
+hvv switch integrates different mobility providers with in one App. The idea is to have access to all kind of mobility
+in the greater Area of Hamburg with one App.
+### MOSIAC part in Project
+MOSAIC did the integration of the different mobility provider, as well as the whole public transport ticketing process.
+The whole business process of HVV switch is implemented by MOSAIC, so the most of the business objects are used by the
+hvv switch App.
+### Next Steps
+* Integrate a couple more mobility provider
+* Add some more features, e.g. Coupons
+</br>
+</br>
 
 
 
 ## hvv Any
-<img src="../assets/projectLogos/hvv_any_logo.png" alt="hvv Any" title="hvv Any" /> <p>
 ### Description
 An easy way to get your ticket with one click. The systems tracks your movement and afterwards you get calculate the best fare for your trip.
-### Used Services
-* CIBO
-* Order
-* ...
+
+### MOSIAC part in Project
+Integrate the "Check-in / Be-out core system" from Scheidt & Bachmann for trip calculation, best pricing and beacon management. Add services
+to provide data for the "Check-in / Be-out core system", e.g. data for all Circulation, tariff information, collect all
+sensor data from the smartphones as base for trip calculation. It was possible to focus in the project on the part
+where expert knowledge is needed, create a algorithm for calculating trips and do best pricing.
 ### Next Steps
+* Best pricing up to one month.
 </br>
 </br>
 
@@ -45,7 +58,7 @@ An easy way to get your ticket with one click. The systems tracks your movement 
 ## Self-Service-Terminal
 ### Description
 This is the new version of our fare collection machine. It looks a bit like a big iPhone.
-### Used Services
+### MOSIAC part in Project
 The use the tariff-server from MOSAIC to get all Tariff details. In another step they will access the trip information system via MOSAIC.
 ### Next Steps
 * Integrate GTI Proxy
@@ -54,7 +67,10 @@ The use the tariff-server from MOSAIC to get all Tariff details. In another step
 ## VDV-Barcode
 ### Description
 Generate all QR-Codes within the HVV.
-### Used Services
+### MOSIAC part in Project
+Integrate the SAM Server from ATOS Worldline to provide an easy to use interface to generate VDV Barcode. On one hand it is
+possibile to generate just the barcode, with different level of information. On the other hand a barcode within a
+printable layout can be generated.
 </br>
 </br>
 ### Next Steps

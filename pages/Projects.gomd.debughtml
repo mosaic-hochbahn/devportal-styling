@@ -1,80 +1,117 @@
-<h1>Projects</h1>
+<h1>References</h1>
+
+<table>
+    <tr>
+        <td> <img src="../assets/projectLogos/switch_logo.png" alt="hvv switch" title="hvv switch"/></td>
+        <td> <img src="../assets/projectLogos/hvv_any_logo.png" alt="hvv Any" title="hvv Any" /> </td>
+        <td> SST </td>
+        <td> VDV-Barcode </td>
+        <td> ANDI </td>
+    </tr>
+</table>
+
+<p></br>
+</br></p>
+
+<ul>
+<li><a href="#hvv-switch">hvv switch</a></li>
+<li><a href="#hvv-any">hvv Any</a></li>
+<li><a href="#self-service-terminal">Self-Service-Terminal</a></li>
+<li><a href="#vdv-barcode">VDV-Barcode</a></li>
+<li><a href="#andi">ANDI</a></li>
+</ul>
 
 <p>Here you can find the different projects that used services from MOSAIC.</p>
 
-<p><h2>hvv switch</h2>
-<pre>
-    <img src="{{$.Prefix}}assets/projectLogos/switch_logo.png" alt="hvv switch" title="hvv switch" /> <p></p>
+<h2>hvv switch</h2>
 
-<pre><code>&lt;h3&gt;Description&lt;/h3&gt;
-    &lt;p&gt;hvv switch integrates different mobility providers with in one App. The idea is to have
-  access to all kind of mobility in the greater Area of Hamburg with one App.&lt;/p&gt;
-&lt;h3&gt;Used Services&lt;/h3&gt;
-    - MOIA
-    - Ride services
-    - Booking
-    - Order
+<h3>Description</h3>
 
-&lt;h3&gt;Next Steps&lt;/h3&gt;
-&lt;p&gt;Integrate a couple more mobility provider&lt;/p&gt;-
-</code></pre>
+<p>hvv switch integrates different mobility providers with in one App. The idea is to have access to all kind of mobility
+in the greater Area of Hamburg with one App.</p>
 
-<p></pre></p>
+<h3>MOSIAC part in Project</h3>
 
-<p><h2> hvv Any (Check-in / Be-out)</h2>
-<pre>
-    <img src="{{$.Prefix}}assets/projectLogos/hvv_any_logo.png" alt="hvv Any" title="hvv Any" /> <p>
-    <h3>Description</h3>
-        <p>An easy way to get your ticket with one click. The systems tracks your movement and
-        afterwards you get calculate the best fare for your trip.</p></p>
+<p>MOSAIC did the integration of the different mobility provider, as well as the whole public transport ticketing process.
+The whole business process of HVV switch is implemented by MOSAIC, so the most of the business objects are used by the
+hvv switch App.</p>
 
-<pre><code>&lt;h3&gt;Used Services&lt;/h3&gt;
-- CIBO
-- Order
-- ...
+<h3>Next Steps</h3>
 
-&lt;h3&gt;Next Steps&lt;/h3&gt;
-</code></pre>
+<ul>
+<li>Integrate a couple more mobility provider</li>
+<li>Add some more features, e.g. Coupons
+</br>
+</br></li>
+</ul>
 
-<p></pre></p>
+<h2>hvv Any</h2>
 
-<p><h2>Self Service Terminal</h2>
-<pre>
-    <h3>Description</h3>
-    This is the new version of our fare collection machine. It looks a bit like a big iPhone.</p>
+<h3>Description</h3>
 
-<pre><code>#### Used Services
-The use the tariff-server from MOSAIC to get all Tariff details. In another step they will
-access the trip information system via MOSAIC.
+<p>An easy way to get your ticket with one click. The systems tracks your movement and afterwards you get calculate the best fare for your trip.</p>
 
-#### Next Steps
-- Integrate GTI Proxy
-- Integrate booking components via MOSAIC
-</code></pre>
+<h3>MOSIAC part in Project</h3>
 
-<p></pre></p>
+<p>Integrate the "Check-in / Be-out core system" from Scheidt &amp; Bachmann for trip calculation, best pricing and beacon management. Add services
+to provide data for the "Check-in / Be-out core system", e.g. data for all Circulation, tariff information, collect all
+sensor data from the smartphones as base for trip calculation. It was possible to focus in the project on the part
+where expert knowledge is needed, create a algorithm for calculating trips and do best pricing.</p>
 
-<p><h2>VDV Barcode</h2>
-<pre>
-    <h3>Description</h3>
-    Generate all QR-Codes within the HVV.</p>
+<h3>Next Steps</h3>
 
-<pre><code>&lt;h3&gt;Used Services
-&lt;/h3&gt;
-&lt;h3&gt;Next Steps&lt;/h3&gt;
-</code></pre>
+<ul>
+<li>Best pricing up to one month.
+</br>
+</br></li>
+</ul>
 
-<p></pre></p>
+<h2>Self-Service-Terminal</h2>
 
-<p><h2>ANDI (anonymes Digital Ticket)</h2>
-<pre>
-    <h3>Description</h3>
-    Another step in direction of Account Based Ticketing. Sales within the vehicle will be
-    replaced by this project.</p>
+<h3>Description</h3>
 
-<pre><code>&lt;h3&gt;Used Services&lt;/h3&gt;
+<p>This is the new version of our fare collection machine. It looks a bit like a big iPhone.</p>
 
-&lt;h3&gt;Next Steps&lt;/h3&gt;
-</code></pre>
+<h3>MOSIAC part in Project</h3>
 
-<p></pre></p>
+<p>The use the tariff-server from MOSAIC to get all Tariff details. In another step they will access the trip information system via MOSAIC.</p>
+
+<h3>Next Steps</h3>
+
+<ul>
+<li>Integrate GTI Proxy</li>
+<li>Integrate booking components via MOSAIC</li>
+</ul>
+
+<h2>VDV-Barcode</h2>
+
+<h3>Description</h3>
+
+<p>Generate all QR-Codes within the HVV.</p>
+
+<h3>MOSIAC part in Project</h3>
+
+<p>Integrate the SAM Server from ATOS Worldline to provide an easy to use interface to generate VDV Barcode. On one hand it is
+possibile to generate just the barcode, with different level of information. On the other hand a barcode within a
+printable layout can be generated.
+</br>
+</br></p>
+
+<h3>Next Steps</h3>
+
+<p></br>
+</br></p>
+
+<h2>ANDI</h2>
+
+<h3>Description</h3>
+
+<p>Another step in direction of Account Based Ticketing. Sales within the vehicle will be replaced by this project.</p>
+
+<h3>Used Services</h3>
+
+<p></br>
+</br>
+Next Steps
+</br>
+</br></p>

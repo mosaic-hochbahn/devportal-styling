@@ -14,23 +14,28 @@ body.</p>
 
 <ul>
 <li><strong>Location</strong> search</li>
+<li>Offering <strong>products</strong> for all kind of transportation</li>
 <li>Booking of <strong>public transport tickets</strong></li>
-<li>Booking of <strong>shuttle services</strong></li>
-<li>Booking of <strong>car rental services</strong></li>
+<li>Booking of <strong>different kind of Transportation</strong></li>
 <li><strong>Customer data</strong> management</li>
 </ul>
 
-<p>The most important resources provided by this API are:</p>
+<h2>Business Objects</h2>
+
+<p>MOSAIC handels different Business Objects</p>
+
+<p><img src="./assets/png/businessObjects.jpg" style="width:800px;"/></p>
 
 <ul>
-<li>Locations</li>
-<li>Tickets</li>
-<li>Ticket Offers</li>
-<li>Shuttle Services</li>
-<li>Rental Services</li>
-<li>Order History</li>
-<li>Customers</li>
-<li>Check In Be Out</li>
+<li>Locations (POI, Adresses, Stations)</li>
+<li>Connections</li>
+<li>Trips (Shuttle, CarSharing, Bus, Train, ...)</li>
+<li>Offers</li>
+<li>Orders</li>
+<li>Delivery / Ticket</li>
+<li>Product</li>
+<li>Account / Customer</li>
+<li>Billing</li>
 </ul>
 
 <p>For a detailed list of all endpoints and resources, see the sections to the left.</p>
