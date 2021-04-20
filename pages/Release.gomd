@@ -1,7 +1,113 @@
 # Release Notes
 [comment]: <> (Just copy and paste from Jira Release Notes. Change the order to Story, Task, Sub Task, Bug. TODO: automate this process.)
-
 # Upcoming (QA Stage)
+
+        Release Notes - mosaic - Version MOSAIC-66.0
+
+<h2>        Story
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-982'>MOS-982</a>] -         Erstattungs-Transaktionsdatensatz vom MDL erhalten und prüfen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-999'>MOS-999</a>] -         Sondergebühren-Transaktionsdatensatz vom MDL erhalten und prüfen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-1013'>MOS-1013</a>] -         Parallele Mieten prüfen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-1236'>MOS-1236</a>] -         [crm] Als KSM möchte ich den Validierungsstatus für Stamm- und Führerscheindaten angezeigt bekommen (FE)
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2891'>MOS-2891</a>] -         Anlage technischer Account bei Miles
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2910'>MOS-2910</a>] -         Als Nutzer möchte ich Mobi hinzufügen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3007'>MOS-3007</a>] -         CRM: Als KSM möchte ich, dass ein geblockter Nutzungsstatus Auswirkung auf das MOIA-Angebot hat
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3038'>MOS-3038</a>] -         Miles: Fahrzeug-Schäden für App bereitstellen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3039'>MOS-3039</a>] -         Miles: Geschäftsgebiete für App bereitstellen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3382'>MOS-3382</a>] -         Korrektur sämtlicher Bestätigungsmails nicht erfolgreichen Validierung
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3383'>MOS-3383</a>] -         Korrektur Bestätigungsmail PIN-Änderung
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3457'>MOS-3457</a>] -         Als Entwickler möchte ich (Client-)API-Specs als Dependencies einbinden können
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3537'>MOS-3537</a>] -         Fehlende Debt-Daten von Sixt bei Recovery auf WARN loggen
+</li>
+</ul>
+
+<h2>        Task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2656'>MOS-2656</a>] -         ReDocPro Library aktualisieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3263'>MOS-3263</a>] -         OrderServiceApi um Schnittstelle für Sondergebühren und Gutschriften erweitern
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3445'>MOS-3445</a>] -         Event-Interfaces-Commons in allen Ride-Services auf 2.1.0 aktualisieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3450'>MOS-3450</a>] -         MILES PreisObjekt anpassen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3467'>MOS-3467</a>] -         MILES: Einzelfahrzeugabruf
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3520'>MOS-3520</a>] -         DB-Constraints aus Rental-Datenbanken entfernen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3575'>MOS-3575</a>] -         Ambassador Mappings für iTM auf Prod anlegen
+</li>
+</ul>
+
+<h2>        Sub-task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3040'>MOS-3040</a>] -         Miles Geschäftsgebiete: AreaType umsetzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3041'>MOS-3041</a>] -         Miles Geschäftsgebiete: GeoJson umsetzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3043'>MOS-3043</a>] -         Miles Fahrzeugschäden: Endpoint im Search-Adapter für Abruf
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3044'>MOS-3044</a>] -         Miles Fahrzeugschäden: Abruf bei Miles umsetzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3045'>MOS-3045</a>] -         Miles Fahrzeugschäden: Ambassador-Mapping für Routing der Miles-Damages an Search-Adapter
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3469'>MOS-3469</a>] -         MILES Einzelfahrzeugabruf: Client API-Spec erweitern
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3470'>MOS-3470</a>] -         MILES Einzelfahrzeugabruf: Umsetzen Abruf bei MILES
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3471'>MOS-3471</a>] -         MILES Einzelfahrzeugabruf: Anbindung an Search-API
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3474'>MOS-3474</a>] -         Endpoint zur Reservierungsprüfung erstellen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3475'>MOS-3475</a>] -         Sixt E-Mail für QA und Dev konfigurieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3493'>MOS-3493</a>] -         Reservierungsprüfung in Orchestrations einbauen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3509'>MOS-3509</a>] -         TIER: Exception beim Abruf der OperatingAreas beheben
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3527'>MOS-3527</a>] -         Ride: Livegang SIXT vorbereiten
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3528'>MOS-3528</a>] -         Sixt auf PROD aktivieren (Fahrzeuge + Geschäftsgebiete)
+</li>
+</ul>
+
+<h2>        Bug
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3381'>MOS-3381</a>] -         Korrektur der Mail zur Bestätigung einer erfolgreichen Validierung
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3448'>MOS-3448</a>] -         Letzer Validierungsfehler wird nicht angezeigt
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3479'>MOS-3479</a>] -         Erfolgreich beendete SIXT-Miete wird wieder auf AVAILABLE gesetzt
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3480'>MOS-3480</a>] -         ActiveUntil im Rental-Service wird für SIXT-Mieten nicht richtig aktualisiert
+</li>
+</ul>
+
+
+
+
+[comment]: <> (Please add the released Version here.)
+# Released
+
+
+
 ## MOSAIC-65.0
 <h2>        Story
 </h2>
@@ -79,8 +185,6 @@
 </br>
 </br>
 
-[comment]: <> (Please add the released Version here.)
-# Released
 
 ## MOSAIC-64.0
 <h2>        Story

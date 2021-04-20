@@ -14,7 +14,7 @@ The different domains are covered by the following teams:
 | Order |   Ride   |
 | Access |  Ride   |
 | Customer |    Customer   |
-| Identity Management |  Customer   |
+| Identity Management |  Basis   |
 | Billing | Billing   |
 | Payment | Billing   |
 
@@ -41,6 +41,9 @@ a customer.
 
 ## Billing
 It is all about the money.
+
+## Basis
+All environment and Architecture stuff.
 
 
 
