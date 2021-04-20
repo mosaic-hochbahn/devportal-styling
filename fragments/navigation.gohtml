@@ -5,6 +5,7 @@
   {{range $i, $element := .S.K8sStore.Slice }}
     {{if $element.Metadata.HasDoc}}
       {{$haveApi = true}}
+      {{$element.Service.Namespace}}
     {{else}}
       {{$haveOther = true}}
     {{end}}
