@@ -1,0 +1,732 @@
+<h1>Release Notes</h1>
+
+<p></p>
+
+<h1>Upcoming (QA Stage)</h1>
+
+<p>
+        Release Notes - mosaic - Version MOSAIC-66.0
+
+<h2>        Story
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-982'>MOS-982</a>] -         Erstattungs-Transaktionsdatensatz vom MDL erhalten und prüfen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-999'>MOS-999</a>] -         Sondergebühren-Transaktionsdatensatz vom MDL erhalten und prüfen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-1013'>MOS-1013</a>] -         Parallele Mieten prüfen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-1236'>MOS-1236</a>] -         [crm] Als KSM möchte ich den Validierungsstatus für Stamm- und Führerscheindaten angezeigt bekommen (FE)
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2891'>MOS-2891</a>] -         Anlage technischer Account bei Miles
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2910'>MOS-2910</a>] -         Als Nutzer möchte ich Mobi hinzufügen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3007'>MOS-3007</a>] -         CRM: Als KSM möchte ich, dass ein geblockter Nutzungsstatus Auswirkung auf das MOIA-Angebot hat
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3038'>MOS-3038</a>] -         Miles: Fahrzeug-Schäden für App bereitstellen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3039'>MOS-3039</a>] -         Miles: Geschäftsgebiete für App bereitstellen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3382'>MOS-3382</a>] -         Korrektur sämtlicher Bestätigungsmails nicht erfolgreichen Validierung
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3383'>MOS-3383</a>] -         Korrektur Bestätigungsmail PIN-Änderung
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3457'>MOS-3457</a>] -         Als Entwickler möchte ich (Client-)API-Specs als Dependencies einbinden können
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3537'>MOS-3537</a>] -         Fehlende Debt-Daten von Sixt bei Recovery auf WARN loggen
+</li>
+</ul>
+
+<h2>        Task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2656'>MOS-2656</a>] -         ReDocPro Library aktualisieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3263'>MOS-3263</a>] -         OrderServiceApi um Schnittstelle für Sondergebühren und Gutschriften erweitern
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3445'>MOS-3445</a>] -         Event-Interfaces-Commons in allen Ride-Services auf 2.1.0 aktualisieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3450'>MOS-3450</a>] -         MILES PreisObjekt anpassen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3467'>MOS-3467</a>] -         MILES: Einzelfahrzeugabruf
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3520'>MOS-3520</a>] -         DB-Constraints aus Rental-Datenbanken entfernen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3575'>MOS-3575</a>] -         Ambassador Mappings für iTM auf Prod anlegen
+</li>
+</ul>
+
+<h2>        Sub-task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3040'>MOS-3040</a>] -         Miles Geschäftsgebiete: AreaType umsetzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3041'>MOS-3041</a>] -         Miles Geschäftsgebiete: GeoJson umsetzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3043'>MOS-3043</a>] -         Miles Fahrzeugschäden: Endpoint im Search-Adapter für Abruf
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3044'>MOS-3044</a>] -         Miles Fahrzeugschäden: Abruf bei Miles umsetzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3045'>MOS-3045</a>] -         Miles Fahrzeugschäden: Ambassador-Mapping für Routing der Miles-Damages an Search-Adapter
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3469'>MOS-3469</a>] -         MILES Einzelfahrzeugabruf: Client API-Spec erweitern
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3470'>MOS-3470</a>] -         MILES Einzelfahrzeugabruf: Umsetzen Abruf bei MILES
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3471'>MOS-3471</a>] -         MILES Einzelfahrzeugabruf: Anbindung an Search-API
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3474'>MOS-3474</a>] -         Endpoint zur Reservierungsprüfung erstellen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3475'>MOS-3475</a>] -         Sixt E-Mail für QA und Dev konfigurieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3493'>MOS-3493</a>] -         Reservierungsprüfung in Orchestrations einbauen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3509'>MOS-3509</a>] -         TIER: Exception beim Abruf der OperatingAreas beheben
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3527'>MOS-3527</a>] -         Ride: Livegang SIXT vorbereiten
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3528'>MOS-3528</a>] -         Sixt auf PROD aktivieren (Fahrzeuge + Geschäftsgebiete)
+</li>
+</ul>
+
+<h2>        Bug
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3381'>MOS-3381</a>] -         Korrektur der Mail zur Bestätigung einer erfolgreichen Validierung
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3448'>MOS-3448</a>] -         Letzer Validierungsfehler wird nicht angezeigt
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3479'>MOS-3479</a>] -         Erfolgreich beendete SIXT-Miete wird wieder auf AVAILABLE gesetzt
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3480'>MOS-3480</a>] -         ActiveUntil im Rental-Service wird für SIXT-Mieten nicht richtig aktualisiert
+</li>
+</ul>
+
+
+
+</p>
+
+<p></p>
+
+<h1>Released</h1>
+
+<p>
+
+</p>
+
+<h2>MOSAIC-65.0</h2>
+
+<p><h2>        Story
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-1236'>MOS-1236</a>] -         [crm] Als KSM möchte ich den Validierungsstatus für Stamm- und Führerscheindaten angezeigt bekommen (FE)
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3378'>MOS-3378</a>] -         BCC Invoice Versand für MDLs
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3383'>MOS-3383</a>] -         Korrektur Bestätigungsmail PIN-Änderung
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3433'>MOS-3433</a>] -         Logpay Verwendungszweck für Sixt anpassen
+</li>
+</ul>
+
+
+<h2>        Task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2461'>MOS-2461</a>] -         Log-Level in der microservice-starter-commons überarbeiten
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2676'>MOS-2676</a>] -         [Testbarcode] Keycloak auf QA konfigurieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3287'>MOS-3287</a>] -         Neue Preisstruktur im Vehicle-Event umsetzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3296'>MOS-3296</a>] -         Automatisch ausgelaufene Reservierung erkennen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3298'>MOS-3298</a>] -         Automatisch beendete bzw. pausierte Miete erkennen und Status aktualisieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3407'>MOS-3407</a>] -         [crm] LogIn-Seite ausbauen für QA
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3408'>MOS-3408</a>] -         IdM: switchCRM QA Vorbereitung
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3413'>MOS-3413</a>] -         IdM: switchCRM QA Keycloak aktivieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3431'>MOS-3431</a>] -         SIXT reservation using sixt-share-adapter in SRO
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3434'>MOS-3434</a>] -         Rest Controller Timeouts nicht mit @Value, sondern in Configuration auslagern
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3436'>MOS-3436</a>] -         CIBO ausblenden auf qa zu Schulungszwecken
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3449'>MOS-3449</a>] -         Doppel-Slashes in Helm-Charts entfernen
+</li>
+</ul>
+
+<h2>        Sub-task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3262'>MOS-3262</a>] -         Miles Fahrzeug-Details: Defaults und geparste Werte setzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3339'>MOS-3339</a>] -         [notes-service] optimize log statements
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3340'>MOS-3340</a>] -         [clarification-service] optimize log statements
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3417'>MOS-3417</a>] -         Search-Adapter: Alte durch neue Preisstruktur ersetzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3418'>MOS-3418</a>] -         Vehicle-Service: Alte durch neue Preisstruktur ersetzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3459'>MOS-3459</a>] -         Sixt E-Mail Adresse für BCC hinterlegen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3472'>MOS-3472</a>] -         Reservierungsendpoint im rental-service um customerNumber erweitern
+</li>
+</ul>
+
+<h2>        Bug
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3435'>MOS-3435</a>] -         Testbarcode auf DEV verwendet QA URL als BaseUrl + fehlende Rollen
+</li>
+</ul>
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+</p>
+
+<h2>MOSAIC-64.0</h2>
+
+<p><h2>        Story
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2248'>MOS-2248</a>] -         Als Entwickler möchte ich auch asynchrone Abläufe (Kafka) über die Request-Id nachvollziehen können
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3166'>MOS-3166</a>] -         search-adapter: Endpoint zum Abruf eines einzelnen Fahrzeugs migrieren
+</li>
+</ul>
+
+<h2>        Task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2929'>MOS-2929</a>] -         Jenkins ADM-CRM-Frontend um Test-Step ergänzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3238'>MOS-3238</a>] -         SystemTests - Create-user aus den Tests entfernen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3287'>MOS-3287</a>] -         Neue Preisstruktur im Vehicle-Event umsetzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3297'>MOS-3297</a>] -         Phasenwechsel nach Datenschiefstand bei ACTIVE_RESERVATION
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3356'>MOS-3356</a>] -         Alten vehicle-service wieder deaktivieren und durch vehicle-service-searchfox ersetzt
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3359'>MOS-3359</a>] -         Umbenennung roo in sro
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3392'>MOS-3392</a>] -         Umstellung auf neue Miles images
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3399'>MOS-3399</a>] -         switch-points: Änderung Mappings
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3405'>MOS-3405</a>] -         Force-End Endpunkt im SIXT-Share Adapter implementieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3420'>MOS-3420</a>] -         vehicle-service: Parameter msp in /vehicles-Endpoint einbauen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3424'>MOS-3424</a>] -         CIBO: Mappings QA Umgebung - tariffserver / sensordata
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3429'>MOS-3429</a>] -         Cleanup - replace go-upgrade-1 images with real version tags
+</li>
+</ul>
+
+<h2>        Sub-task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3313'>MOS-3313</a>] -         integration-testing-commons migrate to searchfox template
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3335'>MOS-3335</a>] -         [document-validation-service] optimize log statements
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3336'>MOS-3336</a>] -         [itm-adapter] optimize log statements
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3338'>MOS-3338</a>] -         [paypal-adapter] optimize log statements
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3368'>MOS-3368</a>] -         Quartz-Scheduler in der Miles-Ride-Orchestration
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3389'>MOS-3389</a>] -         /expired Endpoint im rental-service implementieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3416'>MOS-3416</a>] -         Event:Vehicle-Data-Lib: Alte durch neue Preisstruktur ersetzen
+</li>
+</ul>
+
+<h2>        Bug
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3326'>MOS-3326</a>] -         [PMAO] Bug im Live Log
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3355'>MOS-3355</a>] -         vehicle-service: ErrorResponse-Objekte sind nicht korrekt
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3391'>MOS-3391</a>] -         CIBO: Produkte mit gleicher Currency führen zu Exception: &amp;quot;Different Currencies&amp;quot;
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3398'>MOS-3398</a>] -         correlationId in Schedulern fixen
+</li>
+</ul>
+
+</p>
+
+<h2>MOSAIC-63.0</h2>
+
+<p><h2>        Story
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-940'>MOS-940</a>] -         Als KSM möchte ich eine vor-Ort-Führerscheinvalidierung im Servicecenter durchführen können (BE)
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2609'>MOS-2609</a>] -         Als Betreiber möchte ich Buchungen, die innerhalb von 36 Stunden keinen finalen Status erhalten, in der Abrechnungs-Klärfall-Liste angezeigt bekommen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2871'>MOS-2871</a>] -         Logpay-Kundenkonto Check &amp; anlegen bei Miles Aktivierung
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2899'>MOS-2899</a>] -         CIBO: Schnittstelle erzeugen neue Order für 6 Uhr Übergang
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2948'>MOS-2948</a>] -         Als Nutzer möchte ich wissen, ob ich Mobi hinterlegt habe
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3007'>MOS-3007</a>] -         CRM: Als KSM möchte ich, dass ein geblockter Nutzungsstatus Auswirkung auf das MOIA-Angebot hat
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3108'>MOS-3108</a>] -         Doppeltes Ambassador Mapping durch ptnova &amp; tariffserver-proxy
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3282'>MOS-3282</a>] -         Erweiterung API für Bereitstellung Rechnungskopien
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3343'>MOS-3343</a>] -         Customer &amp; Distanz-Checks in Reservierung, Pausieren, Fortführen und Beenden einbauen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3351'>MOS-3351</a>] -         Tests ergänzen für getPaymentProviders
+</li>
+</ul>
+
+<h2>        Task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2267'>MOS-2267</a>] -         [Analyse] Sporadische 403 FORBIDDEN Fehler
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2379'>MOS-2379</a>] -         Ambassador Dev Portal - Services mit Specs ausstatten
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3067'>MOS-3067</a>] -         Löschen Accounts - Kündigungen hvv switch 18.02.2021-17.03.2021
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3245'>MOS-3245</a>] -         CRM: Umbenennen Leistungserbringer CIBO in hvv Any
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3257'>MOS-3257</a>] -         Anpassung der Tests im ptnova-adapter
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3280'>MOS-3280</a>] -         Sensordaten: Entfernen der Längenbeschränkung von bleBeaconSignal
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3341'>MOS-3341</a>] -         Starthaltestelle aus CIBO Checkin entfernen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3350'>MOS-3350</a>] -         DB-nutzende Services auf Postgres 13 umstellen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3361'>MOS-3361</a>] -         Logausgaben reduzieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3366'>MOS-3366</a>] -         rental-service Systemtests bereinigen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3370'>MOS-3370</a>] -         Neugenerierung Rental-Service mit EA
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3401'>MOS-3401</a>] -         MOIA Error Codes können nicht gemappt werden
+</li>
+</ul>
+
+<h2>        Sub-task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3105'>MOS-3105</a>] -         Systemtests Build-Job um Resource-Requests ergänzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3200'>MOS-3200</a>] -         Confluence Doku aktualisieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3259'>MOS-3259</a>] -         DevPortal PROD einrichten
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3322'>MOS-3322</a>] -         Offer über Orchestration ausliefern
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3334'>MOS-3334</a>] -         [customer-service] optimize log statements
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3337'>MOS-3337</a>] -         [payment-method-activation-os] optimize log statements
+</li>
+</ul>
+
+<h2>        Bug
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2709'>MOS-2709</a>] -         COM-PAY-05 - Es düfen nicht beide Formulare [Payment::is_offline] und [Payment::is_preauthorized] gemeldet werden.
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2794'>MOS-2794</a>] -         Land &amp;quot;Norwegen&amp;quot; (NO) in den Kundenstammdaten zulassen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3201'>MOS-3201</a>] -         SixtClarificationJob + TicketingAndMoiaClarificationJob  / SixtRecoveryJob im OrderService vereinheitlichen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3330'>MOS-3330</a>] -         vehicle-service: Response liefert null-Werte
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3331'>MOS-3331</a>] -         [customer-service] patch profile: driverslicense nicht maskiert
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3353'>MOS-3353</a>] -         vehicle-service: Zeit-Format im ErrorResponse nicht korrekt
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3364'>MOS-3364</a>] -         /print-ticket Filter sind auf QA im DEV Projekt falsch konfiguriert
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3376'>MOS-3376</a>] -         vehicle-service: Fehler beim Speichern von Fahrzeugschäden in die DB
+</li>
+</ul>
+
+
+
+
+</p>
+
+<h2>MOSAIC-62.0</h2>
+
+<p><h2>        Story
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2046'>MOS-2046</a>] -         Authentifizierung switchCRM &amp; MOSAIC Backoffice
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2866'>MOS-2866</a>] -         Miles-Aktivierungsstatus am HVV switch Account
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3174'>MOS-3174</a>] -         Custom JWT-Validierung und Logout-Button ausbauen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3184'>MOS-3184</a>] -         Michi-CRM Loginseite ausbauen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3223'>MOS-3223</a>] -         Als Nutzer möchte ich nur die noch hinzufügbaren Zahlungsmittel zurück gegeben bekommen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3224'>MOS-3224</a>] -         Restarbeiten 2 MOS-1010: Als Benutzer möchte ich Zugriff auf die Funktion &amp;quot;PIN vergessen&amp;quot; haben
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3267'>MOS-3267</a>] -         Claranet - Random Delay in Deployment Pipeline
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3291'>MOS-3291</a>] -         Prüfungen in Mietstart einbauen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3320'>MOS-3320</a>] -         Switch-Pin-Check für Mietstart in MRO überführen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3349'>MOS-3349</a>] -         CRM: Als KSM möchte ich im Kundenaccount die MDL-Nutzungserlaubnis vor der Aktirvierung editieren können
+</li>
+</ul>
+
+
+<h2>        Task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2598'>MOS-2598</a>] -         MOIA offer/ order: Erweiterung error codes um CODE_KILL_SWITCH_ACTIVE
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2600'>MOS-2600</a>] -         Altes Price-Modell ausbauen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2908'>MOS-2908</a>] -         Sixt Operating-Areas: Alte Implementierung in rental-order-orchestration und sixt-share-adapter ausbauen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2921'>MOS-2921</a>] -         Abruf von Sixt-Fahrzeugen: Alte Implementierung im sixt-share-adapter-scheduler ausbauen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3012'>MOS-3012</a>] -         Analyse: Sixt im search-adapter finalisieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3102'>MOS-3102</a>] -         CheckIn benötigt keine Starthaltestelle
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3218'>MOS-3218</a>] -         Pausieren der Miete im rental-service speichern
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3266'>MOS-3266</a>] -         Fortführen der Miete im rental-service speichern
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3281'>MOS-3281</a>] -         MOIA API v6 -&amp;gt; v7 umstellen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3283'>MOS-3283</a>] -         [Customer-Adatper] move project in GitLab
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3289'>MOS-3289</a>] -         Oberflächenanpassung customer-details
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3309'>MOS-3309</a>] -         Logging für Recovery im rental-service erweitern
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3310'>MOS-3310</a>] -         Billing-Api-Spezifikation erweitern um Security
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3329'>MOS-3329</a>] -         interne YAMLs aus API-Specs entfernen
+</li>
+</ul>
+
+<h2>        Sub-task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3101'>MOS-3101</a>] -         search-adapter: MDL in MSP umbenennen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3113'>MOS-3113</a>] -         Vorbereitungen zur Migration vom vehicle-service zu geofox
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3115'>MOS-3115</a>] -         michi CRM-eigene Endpunkte per Ambassador Filter absichern
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3137'>MOS-3137</a>] -         Servers-Abschnitt in Api-Specs korrigieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3271'>MOS-3271</a>] -         Alten vehicle-service durch neuen vehicle-service ersetzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3290'>MOS-3290</a>] -         vehicle-service: Offiziellen OpenApi-Generator verwenden
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3293'>MOS-3293</a>] -         Distanz-Check für Mietstart in MRO überführen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3323'>MOS-3323</a>] -         Customer-Checks in Mietstart einbauen
+</li>
+</ul>
+
+<h2>        Bug
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2073'>MOS-2073</a>] -         CIBO API Beispiele anpassen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3274'>MOS-3274</a>] -         ItmErrorKey wird bei temporärem Fehler nicht angezeigt
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3285'>MOS-3285</a>] -         print-ticket-service: Autorisierung QA
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3312'>MOS-3312</a>] -         vehicle-service startet nicht mehr auf DEV
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3321'>MOS-3321</a>] -         Billing - Download Authorisierung
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3332'>MOS-3332</a>] -         CRM-Endpoints des moia-adapter sind kaputt
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3342'>MOS-3342</a>] -         MILES Scheduler on DEV not working
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3346'>MOS-3346</a>] -         vehicle-service: Legacy vehicle-service reaktivieren
+</li>
+</ul>
+
+</p>
+
+<h2>MOSAIC-61.0</h2>
+
+<p><h2>        Story
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-941'>MOS-941</a>] -         Als KSM möchte ich Informationen zum iTM Auftrag im hvv switch Kundenservice-Tool angezeigt bekommen (FE)
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2479'>MOS-2479</a>] -         Rechnungskopien für SIXT bereitstellen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2637'>MOS-2637</a>] -         Authentifizierung und Autorisierung für print-ticket-service per Keycloak
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2870'>MOS-2870</a>] -         Bereitstellung Missing Requirements für Miles
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3026'>MOS-3026</a>] -         Anstoßen einer Umbuchung in PT für CIBO bei Ablehnung durch LogPay
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3135'>MOS-3135</a>] -         Eigener SAP-Benutzer für Tarifserver Aufrufe via Reverse-Proxy von außen
+</li>
+</ul>
+
+<h2>        Task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-1398'>MOS-1398</a>] -         SwitchTicketService - Zertifikate nach Vault
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2116'>MOS-2116</a>] -         Styling Ambassador Developer Portal
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2363'>MOS-2363</a>] -         Monolith - Billing Booking Journey Mobilityinfo entfernen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2753'>MOS-2753</a>] -         Build-Jobs um Resource-Requests ergänzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2796'>MOS-2796</a>] -         Migration: Event Interfaces Lib aktualisieren + Umstieg auf den Order-Service
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2922'>MOS-2922</a>] -         FS Nummer kann nur einmal vergeben werden
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2993'>MOS-2993</a>] -         MOIA offer / Anpassung der API v7-Änderungen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2994'>MOS-2994</a>] -         MOIA order / Anpassung der API v7-Änderungen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3004'>MOS-3004</a>] -         Miles-Auth-Proxy in Search-Adapter nutzen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3019'>MOS-3019</a>] -         Monolith: Rollback: Temporäre Anpassung Token expiration
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3031'>MOS-3031</a>] -         Canceln der Reservierung in Rental-Service speichern
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3036'>MOS-3036</a>] -         document-validation, itm-adapter: Ordnerstruktur angleichen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3068'>MOS-3068</a>] -         Sixt-Share: Operatingarea-Cache für Fahrzeugabruf soll in globalen Operatingarea-Cache aufgehen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3111'>MOS-3111</a>] -         hha-Pfade aus ptnova-adapter für PROD deaktivieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3136'>MOS-3136</a>] -         Bonvoyo Zugangsdaten in PaymentMethodActivationOrchestration hinterlegen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3151'>MOS-3151</a>] -         Anpassung Rechnungstemplate
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3182'>MOS-3182</a>] -         Eigene Credentials fuer CIBO-NANO
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3214'>MOS-3214</a>] -         Veröffentlichen switch-points API in switch-Doku
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3217'>MOS-3217</a>] -         Healthcheck-Konfiguration überprüfen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3232'>MOS-3232</a>] -         [Systemtests] Jenkinsfile Stage-Parameter über Env-Variable setzen
+</li>
+</ul>
+
+<h2>        Sub-task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2383'>MOS-2383</a>] -         Switch-Ticket-Service: API-Specs für Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2384'>MOS-2384</a>] -         Switch-Ticket-Order-Orchestration: API-Specs für Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2385'>MOS-2385</a>] -         Switch-Clarification-Service: API-Specs for Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2386'>MOS-2386</a>] -         Shuttle-Service: API-Specs for Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2387'>MOS-2387</a>] -         Shuttle-Order-Orchestration: API-Specs für Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2388'>MOS-2388</a>] -         Sensor-Data-Service: API-Specs for Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2389'>MOS-2389</a>] -         Rental-Order-Orchestration: API-Specs für Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2391'>MOS-2391</a>] -         Paypal-Adapter: API-Specs for Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2392'>MOS-2392</a>] -         Payment-Method-Activation-Orchestration: API-Specs for Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2393'>MOS-2393</a>] -         Order-History-Orchestration: API-Specs für Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2394'>MOS-2394</a>] -         MOIA-Adapter: API-Specs for Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2395'>MOS-2395</a>] -         ITM-Adapter: API-Specs for Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2396'>MOS-2396</a>] -         Geofox-Adapter: API-Specs for Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2397'>MOS-2397</a>] -         Document-Validation-Service: API-Specs for Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2398'>MOS-2398</a>] -         Customer-Service: API-Specs for Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2399'>MOS-2399</a>] -         Circulation-Service: API-Specs for Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2400'>MOS-2400</a>] -         Cibo-Ticket-Order-Orchestration: API-Specs für Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2401'>MOS-2401</a>] -         Beam-Monolith: API-Specs for Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2872'>MOS-2872</a>] -         Order-Billable / Finish endpoint entfernen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3046'>MOS-3046</a>] -         Miles Fahrzeugdetails: Datenmodell mit Sixt Share konsolidieren und mit App-Entwicklung diskutieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3054'>MOS-3054</a>] -         Order-Service aktualisieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3123'>MOS-3123</a>] -         API -Design zum Downloaden der Rechnung
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3124'>MOS-3124</a>] -         In KeyCloak wird ein SixtShare User angelegt mit der Rolle SIXT_SHARE
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3125'>MOS-3125</a>] -         API-Implementierung zum Downloaden der Rechnung
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3205'>MOS-3205</a>] -         Cancel-Endpoint im rental-service
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3222'>MOS-3222</a>] -         cancelReason und cancelTrigger an rental-service übergeben
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3228'>MOS-3228</a>] -         cancel-Daten in der order-history-orchestration aus der RentalOrder holen
+</li>
+</ul>
+
+
+<h2>        Bug
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3118'>MOS-3118</a>] -         Michi-CRM des notes Service ist erreichbar ohne Login
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3149'>MOS-3149</a>] -         Der MOIA-Adapter auf DEV und QA antwortet nur mit TOO MANY REQUESTS
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3204'>MOS-3204</a>] -         Miles Auth Proxy auf PROD nicht deploybar
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3229'>MOS-3229</a>] -         CRM: Leeres Geburtsdatum wird fehlerhaft angezeigt
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3415'>MOS-3415</a>] -         CRM: roter Marker &amp;quot;neuer Klärfall vorhanden&amp;quot; funktioniert nicht mehr
+</li>
+</ul>
+
+
+</p>
+
+<h2>MOSAIC-60.0</h2>
+
+<p><h2>        Story
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2837'>MOS-2837</a>] -         [LogPay-Adapter] Flow Überprüfung für Sixt
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2909'>MOS-2909</a>] -         Als Nutzer möchte ich ein Zahlungsmittel hinzufügen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2916'>MOS-2916</a>] -         Als Nutzer möchte ich wissen welche Zahlungsmittel hinterlegt sind
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3106'>MOS-3106</a>] -         Customer API Specifications pruefen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3140'>MOS-3140</a>] -         Restarbeiten MOS-1010: Als Benutzer möchte ich Zugriff auf die Funktion &amp;quot;PIN vergessen&amp;quot; haben
+</li>
+</ul>
+
+<h2>        Task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2368'>MOS-2368</a>] -         System-Test für GTI-Proxy
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2706'>MOS-2706</a>] -         System-Test für CRM-Rechnungsabruf
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2800'>MOS-2800</a>] -         Authentifizierung CRM - Unterstützung für MOS-2046
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2903'>MOS-2903</a>] -         Operating-Areas Endpoint in die Search-Domäne überführen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3010'>MOS-3010</a>] -         Startdaten in Rental-Service speichern
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3085'>MOS-3085</a>] -         Layout für Fahrtberechtigung
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3126'>MOS-3126</a>] -         activeUntil in Rental-Service speichern
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3142'>MOS-3142</a>] -         CI CD für searchfox-vehicle-service einrichten
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3145'>MOS-3145</a>] -         Enddaten in Rental-Service speichern
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3171'>MOS-3171</a>] -         Aufnahme aller neuen Pin-bezogenen HTMLs in das E-Mail-Templates-Repository
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3173'>MOS-3173</a>] -         ErrorCode angleichen:  PRICE_NOT_VALID -&amp;gt; PRICE_NOT_FOUND
+</li>
+</ul>
+
+
+
+<h2>        Sub-task
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2389'>MOS-2389</a>] -         Rental-Order-Orchestration: API-Specs für Ambassador
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2840'>MOS-2840</a>] -         Order-Billing-Orchestration in GitLab archivieren und aus dem Deployment nehmen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2905'>MOS-2905</a>] -         Operating-Areas: Integration des Cachings in den Search-Adapter
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2907'>MOS-2907</a>] -         Operating-Areas: Ambassador-Mappings umbiegen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3021'>MOS-3021</a>] -         Austausch der E-Mail-Templates in der customer Domäne
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3090'>MOS-3090</a>] -         APIs in PaymentMethodActivationOrchestration einbinden und Request weiterleiten
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3109'>MOS-3109</a>] -         Sixt-Error-Responses aufräumen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3110'>MOS-3110</a>] -         Test/Constants aufräumen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3112'>MOS-3112</a>] -         Zahlmittel in Switch-Ticket-Order-Orchestration einbinden und an Order-Service weiterleiten
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3121'>MOS-3121</a>] -         CRM Frontend mit Keycloak Login auf DEV nutzbar machen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3143'>MOS-3143</a>] -         activeUntil im rental-service entgegennehmen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3144'>MOS-3144</a>] -          activeUntil berechnen und an Rental-Service schicken
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3190'>MOS-3190</a>] -         activeUntil für Mietende im rental-service
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3193'>MOS-3193</a>] -         Ist-Zustand von Ambassador Filters/FilterPolicies per Code ausrollen
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3197'>MOS-3197</a>] -         activeUntil in der Miles-Ride-Orchestration liefern
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3199'>MOS-3199</a>] -         activeUntil für Ride in der Order-History-Orchestration
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3215'>MOS-3215</a>] -         Bug beim Holen des Billing Agreements OHNE Vor / Nachname
+</li>
+</ul>
+
+<h2>        Bug
+</h2>
+<ul>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2911'>MOS-2911</a>] -         NPE in OAuth2ResourceServerSecurityConfiguration wenn &amp;quot;roles&amp;quot; Claim nicht existiert
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3103'>MOS-3103</a>] -         NPE beim Error-Mapping
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3117'>MOS-3117</a>] -         CRM: Sucheergebnis wird bei Nutzung &amp;quot;+&amp;quot;-Zeichen nicht korrekt dargestellt
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3120'>MOS-3120</a>] -         Bei Cancel Reservation liefert Sixt eine DropOffFee
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3148'>MOS-3148</a>] -         CRM: Umsortierung der Buchungssucheergebnis-Liste nicht möglich
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3170'>MOS-3170</a>] -         BubblingException in RentalService
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3177'>MOS-3177</a>] -         ADM (QA) - Anlage neuer User nicht möglich
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3181'>MOS-3181</a>] -         CRM: Die Kundensuche berücksichtigt die Einschränkung Geburtsdatum nicht mehr
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3195'>MOS-3195</a>] -         birthDate mit NULL im CustomerUpdateEvent ignorieren
+</li>
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3203'>MOS-3203</a>] -         SearchForm ausgeklappt bei der Rücknavigatino führt zu Fehler
+</li>
+</ul>
+
+
+
+
+
+</p>

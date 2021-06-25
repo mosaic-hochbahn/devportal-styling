@@ -12,27 +12,31 @@ body.
 
 This API covers topics like:
 
-- **Location** search
-- Offering **products** for all kind of transportation
-- Booking of **public transport tickets**
-- Booking of **different kind of Transportation**
-- **Customer data** management
+<ul>
+<li> **Location** search</li>
+<li> Offering **products** for all kind of transportation</li>
+<li> Booking of **public transport tickets**</li>
+<li> Booking of **different kind of Transportation**</li>
+<li> **Customer data** management</li>
+</ul>
 
 ## Business Objects
 
-MOSAIC handles different Business Objects
+<p>MOSAIC handles different Business Objects</p>
 
 <img src="./assets/png/businessObjects.jpg" style="width:800px;"/>
 
-- Locations (POI, Addresses, Stations)
-- Connections 
-- Trips (Shuttle, CarSharing, Bus, Train, ...)
-- Offers
-- Orders
-- Delivery / Ticket
-- Product
-- Account / Customer
-- Billing
+<ul>
+<li> Locations (POI, Addresses, Stations)</li>
+<li> Connections </li>
+<li> Trips (Shuttle, CarSharing, Bus, Train, ...)</li>
+<li> Offers</li>
+<li> Orders</li>
+<li> Delivery / Ticket</li>
+<li> Product</li>
+<li> Account / Customer</li>
+<li> Billing</li>
+</ul>
 
 For a detailed list of all endpoints and resources, see the sections to the left.
 
@@ -40,31 +44,36 @@ For a detailed list of all endpoints and resources, see the sections to the left
 
 The following services are exposed through MOSAIC:
 
+
+{{template "filter" $}}
+{{define "filter"}}{{end}}
+
 <table cellpadding="2em" width="100%">
     <thead>
         <tr>
-            <td><b>Service Name</b></td>
-            <td><b>Swagger URL</b></td>
+            <td onclick="sortTable(this)"><b>Service Name</b></td>
+            <td onclick="gettest()"><b>Swagger URL</b></td>
         </tr>
     </thead>
     <tbody>
         {{range $i, $element := .S.K8sStore.Slice }}
-        {{if isEven $i }}
-        <tr style="background: rgba(86,61,124,.05);">
+            {{if isEven $i }}
+                <tr style="background: rgba(86,61,124,.05);">
             {{else}}
-            <tr>
-                {{end}}
-                <td>
-                    <samp>{{$element.Service.Namespace}}.{{$element.Service.Name}}</samp>
-                </td>
-                <td>
-                    {{if $element.Metadata.HasDoc}}
-                    <a href="{{$.Prefix}}doc/{{$element.Service.Namespace}}/{{$element.Service.Name}}"><code>API Documentation</code></a>
-                    {{else}}
-                    <code><span style="color:red">No API Documentation</span></code>
-                    {{end}}
-                </td>
-            </tr>
+                <tr>
             {{end}}
+            <td>
+                <samp>{{$element.Service.Namespace}}.{{$element.Service.Name}}</samp>
+            </td>
+            <td>
+                {{if $element.Metadata.HasDoc}}
+                    <a href="{{$.Prefix}}doc/{{$element.Service.Namespace}}/{{$element.Service.Name}}"><code>API Documentation</code></a>
+                {{else}}
+                    <code><span style="color:red">No API Documentation</span></code>
+                {{end}}
+            </td>
+            </tr>
+        {{end}}
     </tbody>
+
 </table>

@@ -1,0 +1,54 @@
+:root{
+    --button__color: #f6f5f8;
+    --button__color-active: #5b9bd5;
+    --button__color-hover: #c5d5e4;
+}
+
+.c-filter{
+    position: sticky;
+    top: 20px;
+}
+.c-filter .filter-bar{
+    padding: 15px 0 15px 15px;
+    background: white;
+    margin-bottom: 10px;
+}
+
+.c-filter button {
+    background-color:  var(--button__color);
+    border: 1px solid var(--button__color-active);
+    color: rgb(0, 0, 0); 
+    padding: 10px 24px; 
+    cursor: pointer; 
+    margin: 0 20px;
+  }
+
+  .c-filter .btn-group button {
+    float: left;
+    margin: 0;
+  }
+.c-filter button.active{
+    background-color:  var(--button__color-active);
+}
+  
+.c-filter .btn-group {
+    display: inline;
+  }
+
+  /* Clear floats (clearfix hack) */
+  .c-filter .btn-group:after {
+    content: "";
+    clear: both;
+  }
+  
+  .c-filter .btn-group button:not(:last-child) {
+    border-right: none; /* Prevent double borders */
+  }
+  
+  .c-filter button:hover {
+    background-color: var(--button__color-hover);
+  }
+
+  .c-filter input{
+    height: 36px;
+  }

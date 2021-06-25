@@ -1,0 +1,83 @@
+<div class="c-filter">
+  <h3>Filter</h3>
+  <div class="filter-bar">
+    <div class="btn-group">
+      <button onclick="filterTable(this, 'Search', 0)">Search</button>
+      <button onclick="filterTable(this, 'Customer', 0)">Customer</button>
+      <button onclick="filterTable(this, 'Billing', 0)">Billing</button>
+      <button onclick="filterTable(this, 'Ride', 0)">Ride</button>
+      <button onclick="filterTable(this, 'Basis', 0)">Basis</button>
+    </div>
+    <button onclick="filterTable(this, 'No', 1)">No Doc</button>
+    <input type="text" id="myInput" onkeyup="searchTable(this.value)" placeholder="Search names...">
+  </div>
+</div>
+
+
+<script>
+
+sortTable = (e) => {
+  const table = e.closest('table');
+  const tbody = table.querySelector('tbody');
+  Array.from(tbody.querySelectorAll('tr'))
+    .sort(comparer(Array.from(e.parentNode.children).indexOf(e), this.asc = !this.asc))
+    .forEach(tr => tbody.appendChild(tr) );
+};
+const getCellValue = (tr, idx) => tr.children[idx].innerText || tr.children[idx].textContent;
+
+const comparer = (idx, asc) => (a, b) => ((v1, v2) => 
+    v1 !== '' && v2 !== '' && !isNaN(v1) && !isNaN(v2) ? v1 - v2 : v1.toString().localeCompare(v2)
+    )(getCellValue(asc ? a : b, idx), getCellValue(asc ? b : a, idx));
+
+
+
+let FILTERPARAMS = new Map();
+let SEARCHPARAM = [];
+
+filterTable = (e, filterString, col) => {
+  e.classList.toggle("active");
+  if(FILTERPARAMS.has(filterString)){
+    FILTERPARAMS.delete(filterString);
+  } else {
+    FILTERPARAMS.set(filterString, col);
+  }
+  assembleFilterArray();
+}
+
+assembleFilterArray = () => {
+  let table, trList;
+  table = document.querySelector('tbody');
+  trList = table.getElementsByTagName("tr");
+  if(SEARCHPARAM.length > 0) {
+    filterList([SEARCHPARAM, ...FILTERPARAMS], trList, 0);
+  }
+  else
+    filterList([...FILTERPARAMS], trList, 0);
+}
+
+searchTable = (searchString) => {
+  SEARCHPARAM = searchString.length > 0 ? [searchString, 0] : [];
+  assembleFilterArray();
+}
+
+filterList = (params, elementList, index) => {
+  if(params.length === 0) Object.values(elementList).forEach(tr => tr.style.display = "");
+  if(params.length <= index) {
+    return;
+  } else {
+    let param = params[index];
+    let filteredList = Object.values(elementList).filter(tr => {
+        let td = tr.getElementsByTagName("td")[param[1]];
+        txtValue = td.textContent || td.innerText;
+        if(txtValue.toUpperCase().indexOf(param[0].toUpperCase()) > -1){
+          tr.style.display = "";
+          return tr;
+        } else {
+          tr.style.display = "none";
+          //return tr;
+        }
+      });
+    filterList(params, filteredList, ++index);
+  }
+}
+</script>

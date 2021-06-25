@@ -1,22 +1,33 @@
 # Domains in MOSAIC
 
-MOSAIC split up in different Domains 
+<p>MOSAIC split up in different Domains </p>
 
 <img src="../assets/png/domains.jpg" style="width:800px;"/>
 
-The different domains are covered by the following teams:
-
-| Domain|   Team    |
-| :--------|   -------: |
-| Mobility Info | Search |
-| Routing | Search   |
-| Offer |   Ride   |
-| Order |   Ride   |
-| Access |  Ride   |
-| Customer |    Customer   |
-| Identity Management |  Basis   |
-| Billing | Billing   |
-| Payment | Billing   |
+<p>The different domains are covered by the following teams: </p>
+<table>
+<tr>
+<th>Domain</th><th>Team</th>
+</tr><tr>
+<td>Mobility Info</td><td>Search</td>
+</tr><tr>
+<td>Routing</td><td>Search</td>
+</tr><tr>
+<td>Offer</td><td>Ride</td>
+</tr><tr>
+<td>Order</td><td>Ride</td>
+</tr><tr>
+<td>Access</td><td>Ride</td>
+</tr><tr>
+<td>Customer</td><td>Customer</td>
+</tr><tr>
+<td>Identity Management</td><td>Basis</td>
+</tr><tr>
+<td>Billing</td><td>Billing</td>
+</tr><tr>
+<td>Payment</td><td>Billing</td>
+</tr>
+</table>
 
 
 ## Search
