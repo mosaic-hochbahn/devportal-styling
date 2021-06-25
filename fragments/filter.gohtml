@@ -1,6 +1,7 @@
 <div class="c-filter">
-  <h3>Filter</h3>
   <div class="filter-bar">
+  <h3>Filter</h3>
+  <input type="text" id="myInput" onkeyup="searchTable(this.value)" placeholder="Search names...">
     <div class="btn-group">
       <button onclick="filterTable(this, 'Search', 0)">Search</button>
       <button onclick="filterTable(this, 'Customer', 0)">Customer</button>
@@ -8,8 +9,7 @@
       <button onclick="filterTable(this, 'Ride', 0)">Ride</button>
       <button onclick="filterTable(this, 'Basis', 0)">Basis</button>
     </div>
-    <button onclick="filterTable(this, 'No', 1)">No Doc</button>
-    <input type="text" id="myInput" onkeyup="searchTable(this.value)" placeholder="Search names...">
+    <button onclick="filterTable(this, 'No', 1)">No Documentation</button>
   </div>
 </div>
 
