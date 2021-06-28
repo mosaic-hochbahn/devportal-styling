@@ -72,7 +72,7 @@
                 {{if and (eq $.CurrentService $svc.Name) (eq $.CurrentNamespace $svc.Namespace)}}
                     {{$class = "c-nav__selected"}}
                 {{end}}
-                {{if and ($element.Metadata.HasDoc) (eq $svc.Namespace "example")}}
+                {{if and ($element.Metadata.HasDoc) (eq $svc.Namespace "testing")}}
                 <li>
                     <a class="{{$class}}" href="{{$.Prefix}}doc/{{$svc.Namespace}}/{{$svc.Name}}">
                         {{$svc.Namespace}}.{{$svc.Name}}
@@ -89,8 +89,8 @@
     {{if $haveOther}}
     <br />
     <div>
-        <strong>Services without documentation</strong>
-        <ul>
+        <strong class="collapsible">Services without documentation</strong>
+        <ul class="contentList">
         {{range $i, $element := .S.K8sStore.Slice }}
             {{$svc := $element.Service}}
             {{if not $element.Metadata.HasDoc}}
