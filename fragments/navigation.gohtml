@@ -24,15 +24,15 @@
     <br />
     <div>
         <h3>APIs</h3>
-            <h4>beam</h4>
-            <ul>
+            <h4 class="collapsible">beam</h4>
+            <ul class="contentList">
             {{range $i, $element := .S.K8sStore.Slice }}
                 {{$svc := $element.Service}}
                 {{$class := ""}}
                 {{if and (eq $.CurrentService $svc.Name) (eq $.CurrentNamespace $svc.Namespace)}}
                     {{$class = "c-nav__selected"}}
                 {{end}}
-                {{if and ($element.Metadata.HasDoc) (eq $svc.Namespace "beam")}}
+                {{if and ($element.Metadata.HasDoc) (eq $svc.Namespace "beam-dev")}}
                 <li>
                     <a class="{{$class}}" href="{{$.Prefix}}doc/{{$svc.Namespace}}/{{$svc.Name}}">
                         {{$svc.Namespace}}.{{$svc.Name}}
@@ -44,8 +44,8 @@
             <li><samp>None</samp></li>
             {{end}}
             </ul>
-            <h4>cibo</h4>
-            <ul>
+            <h4 class="collapsible">cibo</h4>
+            <ul class="contentList">
             {{range $i, $element := .S.K8sStore.Slice }}
                 {{$svc := $element.Service}}
                 {{$class := ""}}
@@ -64,15 +64,15 @@
             <li><samp>None</samp></li>
             {{end}}
             </ul>
-            <h4>test</h4>
-            <ul>
+            <h4 class="collapsible">test</h4>
+            <ul class="contentList">
             {{range $i, $element := .S.K8sStore.Slice }}
                 {{$svc := $element.Service}}
                 {{$class := ""}}
                 {{if and (eq $.CurrentService $svc.Name) (eq $.CurrentNamespace $svc.Namespace)}}
                     {{$class = "c-nav__selected"}}
                 {{end}}
-                {{if and ($element.Metadata.HasDoc) (eq $svc.Namespace "testing")}}
+                {{if and ($element.Metadata.HasDoc) (eq $svc.Namespace "example")}}
                 <li>
                     <a class="{{$class}}" href="{{$.Prefix}}doc/{{$svc.Namespace}}/{{$svc.Name}}">
                         {{$svc.Namespace}}.{{$svc.Name}}
@@ -104,3 +104,20 @@
     {{end}}
 </nav>
 </div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
