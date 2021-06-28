@@ -61,7 +61,7 @@
   text-align: left;
   font-size: 15px;
   color: #5b9bd5;
-  border-bottom: 1px solid #5b9bd5;
+  border-bottom: solid 1px var(--terciary-color);;
   margin-top: 0;
   font-weight: normal;
 }

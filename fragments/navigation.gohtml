@@ -89,7 +89,7 @@
     {{if $haveOther}}
     <br />
     <div>
-        <strong class="collapsible">Services without documentation</strong>
+        <h4 class="collapsible">Services without documentation</h4>
         <ul class="contentList">
         {{range $i, $element := .S.K8sStore.Slice }}
             {{$svc := $element.Service}}
