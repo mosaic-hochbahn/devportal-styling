@@ -54,7 +54,7 @@
   color: var(--brand-color-light);
 }
 
-ul .collapsible {
+h4.collapsible {
   cursor: pointer;
   padding: 15px;
   border: none;
