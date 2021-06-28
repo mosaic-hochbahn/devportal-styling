@@ -69,7 +69,6 @@ h4.collapsible {
 strong.collapsible{
   display: inline-block;
   margin-bottom: 10px;
-  list-style-type: square;
 }
 
 .collapsible.active, .collapsible:hover {
@@ -78,11 +77,12 @@ strong.collapsible{
   padding-bottom: 18px;
 }
 
-.contentList {
+ul.contentList {
   padding: 0 18px;
   display: none;
   overflow: hidden;
   background-color: #f1f1f1;
   margin-top: 0;
   margin-bottom: 0;
+  list-style-type: square;
 }
