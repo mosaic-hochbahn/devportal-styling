@@ -24,25 +24,66 @@
     <br />
     <div>
         <h3>APIs</h3>
-        <ul>
-        {{range $i, $element := .S.K8sStore.Slice }}
-            {{$svc := $element.Service}}
-            {{$class := ""}}
-            {{if and (eq $.CurrentService $svc.Name) (eq $.CurrentNamespace $svc.Namespace)}}
-                {{$class = "c-nav__selected"}}
+            <h4>beam</h4>
+            <ul>
+            {{range $i, $element := .S.K8sStore.Slice }}
+                {{$svc := $element.Service}}
+                {{$class := ""}}
+                {{if and (eq $.CurrentService $svc.Name) (eq $.CurrentNamespace $svc.Namespace)}}
+                    {{$class = "c-nav__selected"}}
+                {{end}}
+                {{if and ($element.Metadata.HasDoc) (eq $svc.Namespace "beam")}}
+                <li>
+                    <a class="{{$class}}" href="{{$.Prefix}}doc/{{$svc.Namespace}}/{{$svc.Name}}">
+                        {{$svc.Namespace}}.{{$svc.Name}}
+                    </a>
+                </li>
+                {{end}}
             {{end}}
-            {{if $element.Metadata.HasDoc}}
-            <li>
-                <a class="{{$class}}" href="{{$.Prefix}}doc/{{$svc.Namespace}}/{{$svc.Name}}">
-                    {{$svc.Namespace}}.{{$svc.Name}}
-                </a>
-            </li>
+            {{if not $haveApi}}
+            <li><samp>None</samp></li>
             {{end}}
-        {{end}}
-        {{if not $haveApi}}
-        <li><samp>None</samp></li>
-        {{end}}
-        </ul>
+            </ul>
+            <h4>cibo</h4>
+            <ul>
+            {{range $i, $element := .S.K8sStore.Slice }}
+                {{$svc := $element.Service}}
+                {{$class := ""}}
+                {{if and (eq $.CurrentService $svc.Name) (eq $.CurrentNamespace $svc.Namespace)}}
+                    {{$class = "c-nav__selected"}}
+                {{end}}
+                {{if and ($element.Metadata.HasDoc) (eq $svc.Namespace "cibo")}}
+                <li>
+                    <a class="{{$class}}" href="{{$.Prefix}}doc/{{$svc.Namespace}}/{{$svc.Name}}">
+                        {{$svc.Namespace}}.{{$svc.Name}}
+                    </a>
+                </li>
+                {{end}}
+            {{end}}
+            {{if not $haveApi}}
+            <li><samp>None</samp></li>
+            {{end}}
+            </ul>
+            <h4>test</h4>
+            <ul>
+            {{range $i, $element := .S.K8sStore.Slice }}
+                {{$svc := $element.Service}}
+                {{$class := ""}}
+                {{if and (eq $.CurrentService $svc.Name) (eq $.CurrentNamespace $svc.Namespace)}}
+                    {{$class = "c-nav__selected"}}
+                {{end}}
+                {{if and ($element.Metadata.HasDoc) (eq $svc.Namespace "testing")}}
+                <li>
+                    <a class="{{$class}}" href="{{$.Prefix}}doc/{{$svc.Namespace}}/{{$svc.Name}}">
+                        {{$svc.Namespace}}.{{$svc.Name}}
+                    </a>
+                </li>
+                {{end}}
+            {{end}}
+            {{if not $haveApi}}
+            <li><samp>None</samp></li>
+            {{end}}
+            </ul>
     </div>
     <br />
     {{if $haveOther}}
