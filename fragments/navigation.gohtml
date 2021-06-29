@@ -132,7 +132,7 @@ document.addEventListener('DOMContentLoaded', function() {
 }, false);
 
 getDifferentAPIs = (apiList) => {
-    let unique = [...new Set(apiList.map(item => item.Service.Namespace))];
+    let unique = [...new Set(apiList.map(item => item.Service.namespace))];
     console.log(unique);
     return unique;
 }
@@ -147,12 +147,12 @@ createCategoryLists = (unique, apiList) => {
         let uList = document.createElement("ul");
         uList.classList.add("contentList");
 
-        const liList = apiList.filter(i => i.Service.Namespace === item && i.Metadata.HasDoc);
+        const liList = apiList.filter(i => i.Service.namespace === item && i.Metadata.HasDoc);
         liList.forEach(li => {
             let liItem = document.createElement("li");
             let a = document.createElement("a");
-            a.href = {{$.Prefix}} + "doc/" + li.Service.Namespace + "/" + li.Service.Name;
-            a.innerText = li.Service.Namespace + "." + li.Service.Name;
+            a.href = {{$.Prefix}} + "doc/" + li.Service.namespace + "/" + li.Service.name;
+            a.innerText = li.Service.namespace + "." + li.Service.name;
             liItem.appendChild(a);
             uList.appendChild(liItem);
         });
