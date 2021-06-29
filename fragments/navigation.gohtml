@@ -24,6 +24,7 @@
     <br />
     <div>
         <h3>APIs</h3>
+        <div id="apiListWrapper"></div>
         {{/* Category ONE to add new category -> copy this element*/}}
             <h4 class="collapsible">beam</h4> {{/*AFTER copy change this topic to the Namespace*/}}
             <ul class="contentList">
@@ -122,5 +123,54 @@ for (i = 0; i < coll.length; i++) {
       content.style.display = "block";
     }
   });
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+   const apiList = {{.S.K8sStore.Slice}};
+   console.log(apiList);
+   createCategoryLists(getDifferentAPIs(apiList), apiList);
+}, false);
+
+getDifferentAPIs = (apiList) => {
+    let unique = [...new Set(apiList.map(item => item.Service.Namespace))];
+    console.log(unique);
+    return unique;
+}
+
+createCategoryLists = (unique, apiList) => {
+    unique.forEach(item => {
+        let topic = document.createElement("h4");
+        topic.innerText = item.toString();
+        topic.classList.add("collapsible");
+        addEvent(topic);
+
+        let uList = document.createElement("ul");
+        uList.classList.add("contentList");
+
+        const liList = apiList.filter(i => i.Service.Namespace === item && i.Metadata.HasDoc);
+        liList.forEach(li => {
+            let liItem = document.createElement("li");
+            let a = document.createElement("a");
+            a.href = {{$.Prefix}} + "doc/" + li.Service.Namespace + "/" + li.Service.Name;
+            a.innerText = li.Service.Namespace + "." + li.Service.Name;
+            liItem.appendChild(a);
+            uList.appendChild(liItem);
+        });
+        let wrapper = document.getElementById("apiListWrapper");
+        wrapper.appendChild(topic);
+        wrapper.appendChild(uList);
+    });
+}
+
+addEvent = (col) => {
+    col.addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.display === "block") {
+        content.style.display = "none";
+        } else {
+        content.style.display = "block";
+        }
+    });
 }
 </script>
