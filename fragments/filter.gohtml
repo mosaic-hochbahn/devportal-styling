@@ -44,6 +44,11 @@ filterTable = (e, filterString, col) => {
   assembleFilterArray();
 }
 
+searchTable = (searchString) => {
+  SEARCHPARAM = searchString.length > 0 ? [searchString, 0] : [];
+  assembleFilterArray();
+}
+
 assembleFilterArray = () => {
   let table, trList;
   table = document.querySelector('tbody');
@@ -53,11 +58,6 @@ assembleFilterArray = () => {
   }
   else
     filterList([...FILTERPARAMS], trList, 0);
-}
-
-searchTable = (searchString) => {
-  SEARCHPARAM = searchString.length > 0 ? [searchString, 0] : [];
-  assembleFilterArray();
 }
 
 filterList = (params, elementList, index) => {
@@ -71,9 +71,11 @@ filterList = (params, elementList, index) => {
         txtValue = td.textContent || td.innerText;
         if(txtValue.toUpperCase().indexOf(param[0].toUpperCase()) > -1){
           tr.style.display = "";
+          // and
           return tr;
         } else {
           tr.style.display = "none";
+          // or
           //return tr;
         }
       });

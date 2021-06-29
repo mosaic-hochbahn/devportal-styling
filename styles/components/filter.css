@@ -40,14 +40,13 @@
     display: inline;
   }
 
-  /* Clear floats (clearfix hack) */
   .c-filter .btn-group:after {
     content: "";
     clear: both;
   }
   
   .c-filter .btn-group button:not(:last-child) {
-    border-left: none; /* Prevent double borders */
+    border-left: none;
   }
   
   .c-filter button:hover {

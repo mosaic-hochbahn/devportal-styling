@@ -24,7 +24,8 @@
     <br />
     <div>
         <h3>APIs</h3>
-            <h4 class="collapsible">beam</h4>
+        {{/* Category ONE to add new category -> copy this element*/}}
+            <h4 class="collapsible">beam</h4> {{/*AFTER copy change this topic to the Namespace*/}}
             <ul class="contentList">
             {{range $i, $element := .S.K8sStore.Slice }}
                 {{$svc := $element.Service}}
@@ -32,7 +33,7 @@
                 {{if and (eq $.CurrentService $svc.Name) (eq $.CurrentNamespace $svc.Namespace)}}
                     {{$class = "c-nav__selected"}}
                 {{end}}
-                {{if and ($element.Metadata.HasDoc) (eq $svc.Namespace "beam-dev")}}
+                {{if and ($element.Metadata.HasDoc) (eq $svc.Namespace "beam-dev")}}{{/*AFTER copy change second parameter to corresponding Namespace*/}}
                 <li>
                     <a class="{{$class}}" href="{{$.Prefix}}doc/{{$svc.Namespace}}/{{$svc.Name}}">
                         {{$svc.Namespace}}.{{$svc.Name}}
@@ -44,6 +45,7 @@
             <li><samp>None</samp></li>
             {{end}}
             </ul>
+        {{/* Category TWO */}}
             <h4 class="collapsible">cibo</h4>
             <ul class="contentList">
             {{range $i, $element := .S.K8sStore.Slice }}
@@ -64,6 +66,7 @@
             <li><samp>None</samp></li>
             {{end}}
             </ul>
+        {{/* Category THREE */}}
             <h4 class="collapsible">test</h4>
             <ul class="contentList">
             {{range $i, $element := .S.K8sStore.Slice }}
