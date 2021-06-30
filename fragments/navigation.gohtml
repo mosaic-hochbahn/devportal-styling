@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Collects all unique APIs that exist
 getDifferentAPIs = (apiList) => {
-    let unique = [...new Set(apiList.map(item => {
+    let unique = [...new Set(apiList.flatMap(item => {
         let displayName = item.Metadata.ServiceDisplayName;
         if(displayName.match(/[a-z0-9_]+\.[a-z0-9_]+\.[a-z0-9_]+/g))
             return displayName.substring(0, displayName.indexOf('.'));
@@ -161,7 +161,7 @@ createCategoryLists = (unique, apiList) => {
             let a = document.createElement("a");
             a.href = {{$.Prefix}} + "doc/" + li.Service.namespace + "/" + li.Service.name;
             let displayName = li.Metadata.ServiceDisplayName;
-            a.innerText = displayName.split('.')[1] + "." + displayName.split('.')[2];
+            a.innerText = displayName.substring( displayName.indexOf('.') + 1 );
             liItem.appendChild(a);
             uList.appendChild(liItem);
         });
