@@ -135,7 +135,7 @@ document.addEventListener('DOMContentLoaded', function() {
 getDifferentAPIs = (apiList) => {
     let unique = [...new Set(apiList.flatMap(item => 
         item.Metadata.ServiceDisplayName.match(/[a-z0-9_]+\.[a-z0-9_]+\.[a-z0-9_]+/g) ? 
-            return [item.Metadata.ServiceDisplayName.substring(0, item.Metadata.ServiceDisplayName.indexOf('.'))] :
+            [item.Metadata.ServiceDisplayName.substring(0, item.Metadata.ServiceDisplayName.indexOf('.'))] :
             []
         ))];
     console.log(unique);
