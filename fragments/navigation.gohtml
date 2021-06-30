@@ -111,17 +111,15 @@ createCategoryLists = (unique, apiList) => {
 
 // Add click event to col
 addEvent = (col) => {
-    col.addEventListener("click", expandList());
-}
-
-expandList= () => {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-        content.style.display = "none";
-    } else {
-        content.style.display = "block";
-    }
+    col.addEventListener("click", function{
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.display === "block") {
+            content.style.display = "none";
+        } else {
+            content.style.display = "block";
+        }
+    });
 }
 
 </script>
