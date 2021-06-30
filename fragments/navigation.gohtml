@@ -135,8 +135,11 @@ document.addEventListener('DOMContentLoaded', function() {
 getDifferentAPIs = (apiList) => {
     let unique = [...new Set(apiList.flatMap(item => {
         let displayName = item.Metadata.ServiceDisplayName;
-        if(displayName.match(/[a-z0-9_]+\.[a-z0-9_]+\.[a-z0-9_]+/g))
-            return displayName.substring(0, displayName.indexOf('.'));
+        if(displayName.match(/[a-z0-9_]+\.[a-z0-9_]+\.[a-z0-9_]+/g)){
+            return [displayName.substring(0, displayName.indexOf('.'))];
+        } else {
+            [];
+        }
         }))];
     console.log(unique);
     return unique;
