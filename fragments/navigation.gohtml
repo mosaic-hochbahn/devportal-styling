@@ -111,7 +111,7 @@ createCategoryLists = (unique, apiList) => {
 
 // Add click event to col
 addEvent = (col) => {
-    col.addEventListener("click", function{
+    col.addEventListener("click", function(){
         this.classList.toggle("active");
         var content = this.nextElementSibling;
         if (content.style.display === "block") {
