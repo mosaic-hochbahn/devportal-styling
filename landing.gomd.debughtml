@@ -79,7 +79,7 @@ The following services are exposed through MOSAIC:
                 <tr>
             {{end}}
             <td>
-                <samp>{{$element.Service.Namespace}}.{{$element.Service.Name}}</samp>
+                <samp>{{$element.Metadata.ServiceDisplayName}}</samp>
             </td>
             <td>
                 {{if $element.Metadata.HasDoc}}
