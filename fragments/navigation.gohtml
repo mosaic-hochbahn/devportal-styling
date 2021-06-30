@@ -48,6 +48,16 @@
 
 <script>
 
+expandList= () => {
+    this.classList.toggle("active");
+    var content = e.nextElementSibling;
+    if (content.style.display === "block") {
+        content.style.display = "none";
+    } else {
+        content.style.display = "block";
+    }
+}
+
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
@@ -104,16 +114,6 @@ createCategoryLists = (unique, apiList) => {
 // Add click event to col
 addEvent = (col) => {
     col.addEventListener("click", expandList(event));
-}
-
-expandList= () => {
-    this.classList.toggle("active");
-    var content = e.nextElementSibling;
-    if (content.style.display === "block") {
-        content.style.display = "none";
-    } else {
-        content.style.display = "block";
-    }
 }
 
 </script>
