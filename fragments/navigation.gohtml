@@ -131,28 +131,36 @@ document.addEventListener('DOMContentLoaded', function() {
    createCategoryLists(getDifferentAPIs(apiList), apiList);
 }, false);
 
+// Collects all unique APIs that exist
 getDifferentAPIs = (apiList) => {
-    let unique = [...new Set(apiList.map(item => item.Service.namespace))];
+    let unique = [...new Set(apiList.map(item => {
+        let displayName = item.Metadata.ServiceDisplayName;
+        displayName.substring(0, displayName.indexOf('.'));
+        }))];
     console.log(unique);
     return unique;
 }
 
+// Creates a new list for each unique API
 createCategoryLists = (unique, apiList) => {
-    unique.forEach(item => {
+    unique.forEach(category => {
+        // create topic element
         let topic = document.createElement("h4");
-        topic.innerText = item.toString();
+        topic.innerText = category.toString();
         topic.classList.add("collapsible");
         addEvent(topic);
 
         let uList = document.createElement("ul");
         uList.classList.add("contentList");
-
-        const liList = apiList.filter(i => i.Service.namespace === item && i.Metadata.HasDoc);
+        // Collect all APIs belonging to same category and do have a documentation
+        const liList = apiList.filter(i => i.Metadata.ServiceDisplayName.startsWith(category) && i.Metadata.HasDoc);
+        // Create for each API a li element with a link to the documentation
         liList.forEach(li => {
             let liItem = document.createElement("li");
             let a = document.createElement("a");
             a.href = {{$.Prefix}} + "doc/" + li.Service.namespace + "/" + li.Service.name;
-            a.innerText = li.Service.namespace + "." + li.Service.name;
+            let displayName = li.Metadata.ServiceDisplayName;
+            a.innerText = displayName.substring(1, displayName.indexOf('.')) + "." + displayName.substring(2, displayName.indexOf('.'));
             liItem.appendChild(a);
             uList.appendChild(liItem);
         });
@@ -162,6 +170,7 @@ createCategoryLists = (unique, apiList) => {
     });
 }
 
+// Add click event to col
 addEvent = (col) => {
     col.addEventListener("click", function() {
         this.classList.toggle("active");
