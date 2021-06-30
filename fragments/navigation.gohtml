@@ -134,6 +134,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // Collects all unique APIs that exist
 getDifferentAPIs = (apiList) => {
     let unique = [...new Set(apiList.map(item => {
+        console.log(item);
         let displayName = item.Metadata.ServiceDisplayName;
         displayName.substring(0, displayName.indexOf('.'));
         }))];
