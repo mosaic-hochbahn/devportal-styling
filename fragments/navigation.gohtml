@@ -133,14 +133,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
 // Collects all unique APIs that exist
 getDifferentAPIs = (apiList) => {
-    let unique = [...new Set(apiList.flatMap(item => {
-        let displayName = item.Metadata.ServiceDisplayName;
-        if(displayName.match(/[a-z0-9_]+\.[a-z0-9_]+\.[a-z0-9_]+/g)){
-            return [displayName.substring(0, displayName.indexOf('.'))];
-        } else {
-            [];
-        }
-        }))];
+    let unique = [...new Set(apiList.flatMap(item => 
+        item.Metadata.ServiceDisplayName.match(/[a-z0-9_]+\.[a-z0-9_]+\.[a-z0-9_]+/g) ? 
+            return [item.Metadata.ServiceDisplayName.substring(0, item.Metadata.ServiceDisplayName.indexOf('.'))] :
+            []
+        ))];
     console.log(unique);
     return unique;
 }
