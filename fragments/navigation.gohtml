@@ -25,69 +25,6 @@
     <div>
         <h3>APIs</h3>
         <div id="apiListWrapper"></div>
-        {{/* Category ONE to add new category -> copy this element*/}}
-            <h4 class="collapsible">beam</h4> {{/*AFTER copy change this topic to the Namespace*/}}
-            <ul class="contentList">
-            {{range $i, $element := .S.K8sStore.Slice }}
-                {{$svc := $element.Service}}
-                {{$class := ""}}
-                {{if and (eq $.CurrentService $svc.Name) (eq $.CurrentNamespace $svc.Namespace)}}
-                    {{$class = "c-nav__selected"}}
-                {{end}}
-                {{if and ($element.Metadata.HasDoc) (eq $svc.Namespace "beam-dev")}}{{/*AFTER copy change second parameter to corresponding Namespace*/}}
-                <li>
-                    <a class="{{$class}}" href="{{$.Prefix}}doc/{{$svc.Namespace}}/{{$svc.Name}}">
-                        {{$svc.Namespace}}.{{$svc.Name}}
-                    </a>
-                </li>
-                {{end}}
-            {{end}}
-            {{if not $haveApi}}
-            <li><samp>None</samp></li>
-            {{end}}
-            </ul>
-        {{/* Category TWO */}}
-            <h4 class="collapsible">cibo</h4>
-            <ul class="contentList">
-            {{range $i, $element := .S.K8sStore.Slice }}
-                {{$svc := $element.Service}}
-                {{$class := ""}}
-                {{if and (eq $.CurrentService $svc.Name) (eq $.CurrentNamespace $svc.Namespace)}}
-                    {{$class = "c-nav__selected"}}
-                {{end}}
-                {{if and ($element.Metadata.HasDoc) (eq $svc.Namespace "cibo")}}
-                <li>
-                    <a class="{{$class}}" href="{{$.Prefix}}doc/{{$svc.Namespace}}/{{$svc.Name}}">
-                        {{$svc.Namespace}}.{{$svc.Name}}
-                    </a>
-                </li>
-                {{end}}
-            {{end}}
-            {{if not $haveApi}}
-            <li><samp>None</samp></li>
-            {{end}}
-            </ul>
-        {{/* Category THREE */}}
-            <h4 class="collapsible">test</h4>
-            <ul class="contentList">
-            {{range $i, $element := .S.K8sStore.Slice }}
-                {{$svc := $element.Service}}
-                {{$class := ""}}
-                {{if and (eq $.CurrentService $svc.Name) (eq $.CurrentNamespace $svc.Namespace)}}
-                    {{$class = "c-nav__selected"}}
-                {{end}}
-                {{if and ($element.Metadata.HasDoc) (eq $svc.Namespace "testing")}}
-                <li>
-                    <a class="{{$class}}" href="{{$.Prefix}}doc/{{$svc.Namespace}}/{{$svc.Name}}">
-                        {{$svc.Namespace}}.{{$svc.Name}}
-                    </a>
-                </li>
-                {{end}}
-            {{end}}
-            {{if not $haveApi}}
-            <li><samp>None</samp></li>
-            {{end}}
-            </ul>
     </div>
     <br />
     {{if $haveOther}}
@@ -110,20 +47,6 @@
 </div>
 
 <script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
 
 document.addEventListener('DOMContentLoaded', function() {
    const apiList = {{.S.K8sStore.Slice}};
