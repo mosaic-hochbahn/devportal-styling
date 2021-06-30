@@ -47,28 +47,21 @@
 </div>
 
 <script>
+addClickEvents= () => {
+    let coll = document.getElementsByClassName("collapsible");
+    let i;
 
-expandList= () => {
-    this.classList.toggle("active");
-    var content = e.nextElementSibling;
-    if (content.style.display === "block") {
-        content.style.display = "none";
-    } else {
-        content.style.display = "block";
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", expandList());
     }
 }
 
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", expandList());
-}
 
 document.addEventListener('DOMContentLoaded', function() {
-   const apiList = {{.S.K8sStore.Slice}};
-   console.log(apiList);
-   createCategoryLists(getDifferentAPIs(apiList), apiList);
+    addClickEvents();
+    const apiList = {{.S.K8sStore.Slice}};
+    console.log(apiList);
+    createCategoryLists(getDifferentAPIs(apiList), apiList);
 }, false);
 
 // Collects all unique APIs that exist
@@ -113,7 +106,17 @@ createCategoryLists = (unique, apiList) => {
 
 // Add click event to col
 addEvent = (col) => {
-    col.addEventListener("click", expandList(event));
+    col.addEventListener("click", expandList());
+}
+
+expandList= () => {
+    this.classList.toggle("active");
+    var content = e.nextElementSibling;
+    if (content.style.display === "block") {
+        content.style.display = "none";
+    } else {
+        content.style.display = "block";
+    }
 }
 
 </script>
