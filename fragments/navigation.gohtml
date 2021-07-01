@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // Collects all unique APIs that exist
 getDifferentAPIs = (apiList) => {
     let unique = [...new Set(apiList.flatMap(item => 
-        item.Metadata.ServiceDisplayName.match(/[a-z0-9_]+\.[a-z0-9_]+\.[a-z0-9_]+/g) ? 
+        item.Metadata.ServiceDisplayName.match(/mosaic:[a-z0-9_]+\.[a-z0-9_]+\.[a-z0-9_]+/g) ? 
             [item.Metadata.ServiceDisplayName.substring(0, item.Metadata.ServiceDisplayName.indexOf('.'))] :
             []
         ))];
