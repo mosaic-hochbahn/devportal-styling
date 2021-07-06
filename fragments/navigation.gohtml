@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', function() {
 getDifferentAPIs = (apiList) => {
     console.log(apiList);
     let unique = [...new Set(apiList.flatMap(item => 
-        item.Metadata.ServiceDisplayName.match(/mosaic:[a-z0-9_]+\.[a-z0-9_]+\.[a-z0-9_]+/g) ? 
+        item.Metadata.ServiceDisplayName.match(/mosaic:[a-z0-9_-]+\.[a-z0-9_-]+\.[a-z0-9_-]+/g) ? 
             [item.Metadata.ServiceDisplayName.substring(7, item.Metadata.ServiceDisplayName.indexOf('.'))] :
             []
         ))];
@@ -91,7 +91,7 @@ createCategoryLists = (unique, apiList) => {
         let uList = document.createElement("ul");
         uList.classList.add("contentList");
         // Collect all APIs belonging to same category and do have a documentation
-        const liList = apiList.filter(i => i.Metadata.ServiceDisplayName.startsWith(category) && i.Metadata.HasDoc);
+        const liList = apiList.filter(i => i.Metadata.ServiceDisplayName.substring(7, i.Metadata.ServiceDisplayName.indexOf('.')).startsWith(category) && i.Metadata.HasDoc);
         // Create for each API a li element with a link to the documentation
         liList.forEach(li => {
             let liItem = document.createElement("li");
