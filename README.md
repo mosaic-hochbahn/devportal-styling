@@ -33,3 +33,13 @@ These variables are available in all template-able file types
 | `.CurrentPage`      | The current page being accessed                                    | `Content`                   |
 | `.CurrentNamespace` | The namespace of the service for the current OpenAPI documentation | `default`                   |
 | `.CurrentService`   | The name of the service for the current OpenAPI documentation      | `quote`                     |
+
+# Deployment
+
+### Ambassador Dev-Portal
+The Ambassador Dev-Portal is part of the Ambassador installation. There is no separate deployment.
+
+### Styles
+The 3 Dev-Portals pull the styles live from this projects master (https://git.hochbahn.cloud/cicd/dev-portal-styling).  
+
+Any changes will immediately be visible on all 3 Dev-Portals after being merged to master. 
