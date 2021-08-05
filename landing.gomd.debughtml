@@ -22,12 +22,12 @@ body.</p>
 
 <h2>Business Objects</h2>
 
-<p>MOSAIC handels different Business Objects</p>
+<p>MOSAIC handles different Business Objects</p>
 
 <p><img src="./assets/png/businessObjects.jpg" style="width:800px;"/></p>
 
 <ul>
-<li>Locations (POI, Adresses, Stations)</li>
+<li>Locations (POI, Addresses, Stations)</li>
 <li>Connections</li>
 <li>Trips (Shuttle, CarSharing, Bus, Train, ...)</li>
 <li>Offers</li>

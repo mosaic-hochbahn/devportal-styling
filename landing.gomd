@@ -20,11 +20,11 @@ This API covers topics like:
 
 ## Business Objects
 
-MOSAIC handels different Business Objects
+MOSAIC handles different Business Objects
 
 <img src="./assets/png/businessObjects.jpg" style="width:800px;"/>
 
-- Locations (POI, Adresses, Stations)
+- Locations (POI, Addresses, Stations)
 - Connections 
 - Trips (Shuttle, CarSharing, Bus, Train, ...)
 - Offers

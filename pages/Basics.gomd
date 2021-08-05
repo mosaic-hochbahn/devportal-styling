@@ -9,7 +9,7 @@
     credentials until the user uses their own credentials.
   - <strong>Registered User:</strong> A manually registered account, by one of your App's users, based on the user's credentials.
 
-  The Anonymous User is considered the least priviledged authenticated consumer of the API. It can consume APIs providing basic information,
+  The Anonymous User is considered the least privileged authenticated consumer of the API. It can consume APIs providing basic information,
   like <a href="#operation/search">Locations</a> or <a href="#operation/getOffers">Ticket Offers</a>. For customer-specific resources you need to be authenticated as a
   Registered User. The same applies to all Offer-related topics. I.e. if you want to buy a ticket, you need to be authenticated as a Registered User.
 
