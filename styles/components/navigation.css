@@ -20,7 +20,7 @@
   transition: background-color 100ms ease-in-out;
 }
 
-.c-nav a:hover, .c-nav a:active {
+.c-nav a:hover, .c-nav a.active {
   text-decoration: none;
   font-weight: bold;
 }
