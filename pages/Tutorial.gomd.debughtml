@@ -32,7 +32,7 @@
 
    You can create a JSON Web Token (JWT) via our JWT resource.
    Usage format: Header Authorization, Content Bearer <JWT>.
-   If your token has expired refresh it using /token/refresh with a smilar usage format.
+   If your token has expired refresh it using /token/refresh with a similar usage format.
    Replace the <JWT> with {applicationKey}/{refreshToken}, the applicationKey given to you in advance, the refreshToken acquired together with the JWT resource.
 </p>
 </pre>

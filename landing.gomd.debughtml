@@ -2,17 +2,13 @@
     {{define "landing-head"}}
     {{end}}
 </span>
+</p>
 
-</p>
+<h1>Welcome to the HVV MObility and SAles Integration Cluster (MOSAIC)</h1>
 
-<h1>Welcome to the HVV MObility and SAles Integration Cluster (MOSAIC)
-</h1>
+<p></p>
 
-<p>
-</p>
-
-<h2>Introduction
-</h2>
+<h2>Introduction</h2>
 
 <p>
 The MOSAIC API is built on <em>HTTP</em>. Our API is <em>RESTful</em>. It returns <em>HTTP status codes</em> to indicate errors. It accepts and returns <em>JSON</em> in the HTTP
@@ -27,11 +23,9 @@ This API covers topics like:
 <li> Booking of <strong>different kind of Transportation</strong></li>
 <li> <strong>Customer data</strong> management</li>
 </ul>
+</p>
 
-</p>
-
-<h2>Business Objects
-</h2>
+<h2>Business Objects</h2>
 
 <p>
 <p>MOSAIC handles different Business Objects</p>
@@ -51,11 +45,9 @@ This API covers topics like:
 </ul>
 
 For a detailed list of all endpoints and resources, see the sections to the left.
+</p>
 
-</p>
-
-<h2>Available Services
-</h2>
+<h2>Available Services</h2>
 
 <p>
 The following services are exposed through MOSAIC:
@@ -92,5 +84,4 @@ The following services are exposed through MOSAIC:
         {{end}}
     </tbody>
 
-</table>
-</p>
+</table></p>
