@@ -69,7 +69,7 @@
     document.addEventListener('DOMContentLoaded', function () {
         createCategoryLists(getApiCategories(apiList), apiList);
 
-        createUncategorizedList(getUncategorizedApis);
+        createUncategorizedList(getUncategorizedApis());
     }, false);
 
     // Collect all API-categories from all display_names matching "mosaic:<category>.xxx.xxx"
