@@ -26,6 +26,7 @@
             <h3>APIs</h3>
             <div id="apiListWrapper"></div>
         </div>
+        <div id="uncategorizedApiListWrapper"></div>
         <br/>
         {{if $haveOther}}
             <br/>
@@ -67,6 +68,8 @@
 
     document.addEventListener('DOMContentLoaded', function () {
         createCategoryLists(getApiCategories(apiList), apiList);
+
+        createUncategorizedList(getUncategorizedApis);
     }, false);
 
     // Collect all API-categories from all display_names matching "mosaic:<category>.xxx.xxx"
@@ -77,6 +80,41 @@
                 [item.Metadata.ServiceDisplayName.substring(7, item.Metadata.ServiceDisplayName.indexOf('.'))] :
                 []
         ))];
+    }
+
+    // Collect all APIs that don't have a displayname matching the "mosaic:<category>.xxx.xxx" syntax, but do have a documentation.
+    getUncategorizedApis = () => {
+        return apiList.filter(i =>
+            (!i.Metadata.hasOwnProperty('ServiceDisplayName') || !i.Metadata.ServiceDisplayName.match(/mosaic:[a-z0-9_-]+\.[a-z0-9_-]+\.[a-z0-9_-]+/g))
+            && i.Metadata.HasDoc);
+    }
+
+    createUncategorizedList = (uncategorizedApis) => {
+        if (uncategorizedApis.length < 1) {
+            return;
+        }
+
+        let topic = document.createElement("h4");
+        topic.innerText = "Uncategorized";
+        topic.classList.add("collapsible");
+        addEvent(topic);
+
+        let uList = document.createElement("ul");
+        uList.classList.add("contentList");
+
+        // Create for each API a li element with a link to the documentation
+        uncategorizedApis.forEach(li => {
+            let liItem = document.createElement("li");
+            let a = document.createElement("a");
+            a.href = {{$.Prefix}} +"doc/" + li.Service.namespace + "/" + li.Service.name;
+            a.innerText = li.Service.name;
+            liItem.appendChild(a);
+            uList.appendChild(liItem);
+        });
+
+        let wrapper = document.getElementById("uncategorizedApiListWrapper");
+        wrapper.appendChild(topic);
+        wrapper.appendChild(uList);
     }
 
     // Create a new navigation-list for each API category
