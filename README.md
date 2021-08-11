@@ -40,6 +40,15 @@ These variables are available in all template-able file types
 The Ambassador Dev-Portal is part of the Ambassador installation. There is no separate deployment.
 
 ### Styles
-The 3 Dev-Portals pull the styles live from this projects master (https://git.hochbahn.cloud/cicd/dev-portal-styling).  
+The 3 Dev-Portals pull the styles live from our public Github project at https://github.com/mosaic-hochbahn/devportal-styling.
+Our gitlab-project  is synced there regularly. Careful: This sync will overwrite any changes that might have been committed to GitHub.
+Changes will immediately be visible on all 3 Dev-Portals after being synced to Github.
 
-Any changes will immediately be visible on all 3 Dev-Portals after being merged to master. 
+Due to this sync-behavior, changes should ONLY be committed to Gitlab:
+https://git.hochbahn.cloud/cicd/dev-portal-styling
+
+Question: When does the sync happen and where is it defined?
+
+## Sources:
+Original user content template:
+https://github.com/datawire/devportal-content
