@@ -99,8 +99,8 @@
         currentLink.classList.add('active');
 
         let currentCategory = currentLink.closest('ul');
-        currentCategory.classList.add('active');
-        currentCategory.nextElementSibling.style.display = "block";
+        currentCategory.style.display = "block";
+        currentCategory.previousElementSibling.classList.add('active');
 
         currentLink.scrollIntoView();
     }
