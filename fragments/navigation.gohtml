@@ -1,124 +1,124 @@
 <div>
-<nav class="o-page__nav c-nav">
-  {{$haveApi := false}}
-  {{$haveOther := false}}
-  {{range $i, $element := .S.K8sStore.Slice }}
-    {{if $element.Metadata.HasDoc}}
-      {{$haveApi = true}}
-    {{else}}
-      {{$haveOther = true}}
-    {{end}}
-  {{end}}
-    <div>
-        <h3>General</h3>
-        <ul>
-            {{range $i, $page := $.Pages}}
-                {{$class := ""}}
-                {{if eq $.CurrentPage $page}}
-                    {{$class = "c-nav__selected"}}
-                {{end}}
-                <li><a class="{{$class}}" href="{{$.Prefix}}page/{{$page}}">{{$page}}</a></li>
-            {{end}}
-        </ul>
-    </div>
-    <br />
-    <div>
-        <h3>APIs</h3>
-        <div id="apiListWrapper"></div>
-    </div>
-    <br />
-    {{if $haveOther}}
-    <br />
-    <div>
-        <h4 class="collapsible">Services without documentation</h4>
-        <ul class="contentList">
+    <nav class="o-page__nav c-nav">
+        {{$haveApi := false}}
+        {{$haveOther := false}}
         {{range $i, $element := .S.K8sStore.Slice }}
-            {{$mtdt := $element.Metadata}}
-            {{if not $mtdt.HasDoc}}
-            <li>
-                <samp>{{$mtdt.ServiceDisplayName}}</samp>
-            </li>
+            {{if $element.Metadata.HasDoc}}
+                {{$haveApi = true}}
+            {{else}}
+                {{$haveOther = true}}
             {{end}}
         {{end}}
-        </ul>
-    </div>
-    {{end}}
-</nav>
+        <div>
+            <h3>General</h3>
+            <ul>
+                {{range $i, $page := $.Pages}}
+                    {{$class := ""}}
+                    {{if eq $.CurrentPage $page}}
+                        {{$class = "c-nav__selected"}}
+                    {{end}}
+                    <li><a class="{{$class}}" href="{{$.Prefix}}page/{{$page}}">{{$page}}</a></li>
+                {{end}}
+            </ul>
+        </div>
+        <br/>
+        <div>
+            <h3>APIs</h3>
+            <div id="apiListWrapper"></div>
+        </div>
+        <br/>
+        {{if $haveOther}}
+            <br/>
+            <div>
+                <h4 class="collapsible">Services without documentation</h4>
+                <ul class="contentList">
+                    {{range $i, $element := .S.K8sStore.Slice }}
+                        {{$mtdt := $element.Metadata}}
+                        {{if not $mtdt.HasDoc}}
+                            <li>
+                                <samp>{{$mtdt.ServiceDisplayName}}</samp>
+                            </li>
+                        {{end}}
+                    {{end}}
+                </ul>
+            </div>
+        {{end}}
+    </nav>
 </div>
 
 <script>
 
-var coll = document.getElementsByClassName("collapsible");
-var i;
+    const apiList = {{.S.K8sStore.Slice}};
 
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
 
-document.addEventListener('DOMContentLoaded', function() {
-   const apiList = {{.S.K8sStore.Slice}};
-   createCategoryLists(getDifferentAPIs(apiList), apiList);
-}, false);
-
-// Collects all unique APIs that exist
-getDifferentAPIs = (apiList) => {
-    console.log(apiList);
-    let unique = [...new Set(apiList.flatMap(item => 
-        item.Metadata.ServiceDisplayName.match(/mosaic:[a-z0-9_-]+\.[a-z0-9_-]+\.[a-z0-9_-]+/g) ? 
-            [item.Metadata.ServiceDisplayName.substring(7, item.Metadata.ServiceDisplayName.indexOf('.'))] :
-            []
-        ))];
-    return unique;
-}
-
-// Creates a new list for each unique API
-createCategoryLists = (unique, apiList) => {
-    unique.forEach(category => {
-        // create topic element
-        let topic = document.createElement("h4");
-        topic.innerText = category.toString();
-        topic.classList.add("collapsible");
-        addEvent(topic);
-
-        let uList = document.createElement("ul");
-        uList.classList.add("contentList");
-        // Collect all APIs belonging to same category and do have a documentation
-        const liList = apiList.filter(i => i.Metadata.ServiceDisplayName.substring(7, i.Metadata.ServiceDisplayName.indexOf('.')).startsWith(category) && i.Metadata.HasDoc);
-        // Create for each API a li element with a link to the documentation
-        liList.forEach(li => {
-            let liItem = document.createElement("li");
-            let a = document.createElement("a");
-            a.href = {{$.Prefix}} + "doc/" + li.Service.namespace + "/" + li.Service.name;
-            let displayName = li.Metadata.ServiceDisplayName;
-            a.innerText = displayName.substring( displayName.indexOf('.') + 1 );
-            liItem.appendChild(a);
-            uList.appendChild(liItem);
+    for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function () {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+                content.style.display = "block";
+            }
         });
-        let wrapper = document.getElementById("apiListWrapper");
-        wrapper.appendChild(topic);
-        wrapper.appendChild(uList);
-    });
-}
+    }
 
-// Add click event to col
-addEvent = (col) => {
-    col.addEventListener("click", function(){
-        this.classList.toggle("active");
-        var content = this.nextElementSibling;
-        if (content.style.display === "block") {
-            content.style.display = "none";
-        } else {
-            content.style.display = "block";
-        }
-    });
-}
+    document.addEventListener('DOMContentLoaded', function () {
+        createCategoryLists(getApiCategories(apiList), apiList);
+    }, false);
+
+    // Collect all API-categories from all display_names matching "mosaic:<category>.xxx.xxx"
+    getApiCategories = (apiList) => {
+        console.log(apiList);
+        return [...new Set(apiList.flatMap(item =>
+            item.Metadata.ServiceDisplayName.match(/mosaic:[a-z0-9_-]+\.[a-z0-9_-]+\.[a-z0-9_-]+/g) ?
+                [item.Metadata.ServiceDisplayName.substring(7, item.Metadata.ServiceDisplayName.indexOf('.'))] :
+                []
+        ))];
+    }
+
+    // Create a new navigation-list for each API category
+    createCategoryLists = (unique, apiList) => {
+        unique.forEach(category => {
+            // create topic element
+            let topic = document.createElement("h4");
+            topic.innerText = category.toString();
+            topic.classList.add("collapsible");
+            addEvent(topic);
+
+            let uList = document.createElement("ul");
+            uList.classList.add("contentList");
+            // Collect all APIs belonging to same category and do have a documentation
+            const liList = apiList.filter(i => i.Metadata.ServiceDisplayName.substring(7, i.Metadata.ServiceDisplayName.indexOf('.')).startsWith(category) && i.Metadata.HasDoc);
+            // Create for each API a li element with a link to the documentation
+            liList.forEach(li => {
+                let liItem = document.createElement("li");
+                let a = document.createElement("a");
+                a.href = {{$.Prefix}} +"doc/" + li.Service.namespace + "/" + li.Service.name;
+                let displayName = li.Metadata.ServiceDisplayName;
+                a.innerText = displayName.substring(displayName.indexOf('.') + 1);
+                liItem.appendChild(a);
+                uList.appendChild(liItem);
+            });
+            let wrapper = document.getElementById("apiListWrapper");
+            wrapper.appendChild(topic);
+            wrapper.appendChild(uList);
+        });
+    }
+
+    // Add click event to col
+    addEvent = (col) => {
+        col.addEventListener("click", function () {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.display === "block") {
+                content.style.display = "none";
+            } else {
+                content.style.display = "block";
+            }
+        });
+    }
 
 </script>
