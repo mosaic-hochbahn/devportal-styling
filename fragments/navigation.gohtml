@@ -26,7 +26,9 @@
             <h3>APIs</h3>
             <div id="apiListWrapper"></div>
         </div>
-        <div id="uncategorizedApiListWrapper"></div>
+        <div id="uncategorizedApiListWrapper">
+            <!-- for debugging: v0.3 -->
+        </div>
         <br/>
         {{if $haveOther}}
             <br/>
@@ -70,6 +72,8 @@
         createCategoryLists(getApiCategories(apiList), apiList);
 
         createUncategorizedList(getUncategorizedApis());
+
+        openNavigation();
     }, false);
 
     // Collect all API-categories from all display_names matching "mosaic:<category>.xxx.xxx"
@@ -87,6 +91,18 @@
         return apiList.filter(i =>
             (!i.Metadata.hasOwnProperty('ServiceDisplayName') || !i.Metadata.ServiceDisplayName.match(/mosaic:[a-z0-9_-]+\.[a-z0-9_-]+\.[a-z0-9_-]+/g))
             && i.Metadata.HasDoc);
+    }
+
+    // Mark current link as active and show it.
+    openNavigation = () => {
+        let currentLink = document.querySelector("a[href='" + window.location.pathname + "']")
+        currentLink.classList.add('active');
+
+        let currentCategory = currentLink.closest('ul');
+        currentCategory.classList.add('active');
+        currentCategory.nextElementSibling.style.display = "block";
+
+        currentLink.scrollIntoView();
     }
 
     createUncategorizedList = (uncategorizedApis) => {
