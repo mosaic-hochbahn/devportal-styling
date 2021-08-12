@@ -122,7 +122,6 @@
         let topic = document.createElement("h4");
         topic.innerText = "Uncategorized";
         topic.classList.add("collapsible");
-        addEvent(topic);
 
         let uList = document.createElement("ul");
         uList.classList.add("contentList");
@@ -149,12 +148,13 @@
             let topic = document.createElement("h4");
             topic.innerText = category.toString();
             topic.classList.add("collapsible");
-            addEvent(topic);
 
             let uList = document.createElement("ul");
             uList.classList.add("contentList");
+
             // Collect all APIs belonging to same category and do have a documentation
             const liList = apiList.filter(i => i.Metadata.ServiceDisplayName.substring(7, i.Metadata.ServiceDisplayName.indexOf('.')).startsWith(category) && i.Metadata.HasDoc);
+
             // Create for each API a li element with a link to the documentation
             liList.forEach(li => {
                 let liItem = document.createElement("li");
@@ -165,6 +165,7 @@
                 liItem.appendChild(a);
                 uList.appendChild(liItem);
             });
+
             let wrapper = document.getElementById("apiListWrapper");
             wrapper.appendChild(topic);
             wrapper.appendChild(uList);
