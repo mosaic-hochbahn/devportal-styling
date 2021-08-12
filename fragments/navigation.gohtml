@@ -53,13 +53,19 @@
 
     const apiList = {{.S.K8sStore.Slice}};
 
-    var coll = document.getElementsByClassName("collapsible");
-    var i;
+    addCollapse = () => {
+        let collapsibles = document.getElementsByClassName("collapsible");
 
-    for (i = 0; i < coll.length; i++) {
-        coll[i].addEventListener("click", function () {
+        for (let i = 0; i < collapsibles.length; i++) {
+            addEvent(collapsibles[i]);
+        }
+    }
+
+    // Add click event to col
+    addEvent = (clickElement) => {
+        clickElement.addEventListener("click", function () {
             this.classList.toggle("active");
-            var content = this.nextElementSibling;
+            let content = this.nextElementSibling;
             if (content.style.display === "block") {
                 content.style.display = "none";
             } else {
@@ -69,16 +75,15 @@
     }
 
     document.addEventListener('DOMContentLoaded', function () {
-        createCategoryLists(getApiCategories(apiList), apiList);
-
+        createCategoryLists(getApiCategories());
         createUncategorizedList(getUncategorizedApis());
 
+        addCollapse();
         openNavigation();
     }, false);
 
     // Collect all API-categories from all display_names matching "mosaic:<category>.xxx.xxx"
-    getApiCategories = (apiList) => {
-        console.log(apiList);
+    getApiCategories = () => {
         return [...new Set(apiList.flatMap(item =>
             item.Metadata.ServiceDisplayName.match(/mosaic:[a-z0-9_-]+\.[a-z0-9_-]+\.[a-z0-9_-]+/g) ?
                 [item.Metadata.ServiceDisplayName.substring(7, item.Metadata.ServiceDisplayName.indexOf('.'))] :
@@ -88,16 +93,14 @@
 
     // Collect all APIs that don't have a displayname matching the "mosaic:<category>.xxx.xxx" syntax, but do have a documentation.
     getUncategorizedApis = () => {
-        return apiList.filter(i =>
-            (!i.Metadata.hasOwnProperty('ServiceDisplayName') || !i.Metadata.ServiceDisplayName.match(/mosaic:[a-z0-9_-]+\.[a-z0-9_-]+\.[a-z0-9_-]+/g))
-            && i.Metadata.HasDoc);
+        return apiList.filter(item =>
+            (!item.Metadata.hasOwnProperty('ServiceDisplayName') || !item.Metadata.ServiceDisplayName.match(/mosaic:[a-z0-9_-]+\.[a-z0-9_-]+\.[a-z0-9_-]+/g))
+            && item.Metadata.HasDoc);
     }
 
     // Mark current link as active and show it.
     openNavigation = () => {
-        console.log("{{.CurrentService}}")
-
-        if("{{.CurrentService}}".length === 0) {
+        if ("{{.CurrentService}}".length === 0) {
             return;
         }
 
@@ -140,8 +143,8 @@
     }
 
     // Create a new navigation-list for each API category
-    createCategoryLists = (unique, apiList) => {
-        unique.forEach(category => {
+    createCategoryLists = (categories) => {
+        categories.forEach(category => {
             // create topic element
             let topic = document.createElement("h4");
             topic.innerText = category.toString();
@@ -165,19 +168,6 @@
             let wrapper = document.getElementById("apiListWrapper");
             wrapper.appendChild(topic);
             wrapper.appendChild(uList);
-        });
-    }
-
-    // Add click event to col
-    addEvent = (col) => {
-        col.addEventListener("click", function () {
-            this.classList.toggle("active");
-            var content = this.nextElementSibling;
-            if (content.style.display === "block") {
-                content.style.display = "none";
-            } else {
-                content.style.display = "block";
-            }
         });
     }
 
