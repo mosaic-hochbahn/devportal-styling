@@ -12,6 +12,29 @@
       media="all"
     >
     <link rel="stylesheet" href="{{.Prefix}}styles/master.css" type="text/css" media="all">
+    <!--this is required so the deep linking in the swagger docs works-->
+    <!--i had no success making this an imported stylesheet, so that's why it is inline-->
+    <style>
+      html
+      {
+        box-sizing: border-box;
+        overflow: -moz-scrollbars-vertical;
+        overflow-y: scroll;
+      }
+
+      *,
+      *:before,
+      *:after
+      {
+        box-sizing: inherit;
+      }
+
+      body
+      {
+        margin:0;
+        background: #fafafa;
+      }
+    </style>
     {{if eq .Ctx "landing"}} {{template "landing-head" $}}
     {{else if eq .Ctx "page"}} {{template "page-magic-head" $}}
     {{else if eq .Ctx "doc"}} {{template "swagger-head" $}}

@@ -1,11 +1,10 @@
-<h1>Domains in MOSAIC</h1>
+<h1>Domains in MOSAIC</h1>
 
-<p>
 <p>MOSAIC split up in different Domains </p>
 
-<img src="../assets/png/domains.jpg" style="width:800px;"/>
+<p><img src="../assets/png/domains.jpg" style="width:800px;"/></p>
 
-<p>The different domains are covered by the following teams: </p>
+<p><p>The different domains are covered by the following teams: </p>
 <table>
 <tr>
 <th>Domain</th><th>Team</th>
@@ -28,19 +27,15 @@
 </tr><tr>
 <td>Payment</td><td>Billing</td>
 </tr>
-</table>
+</table></p>
 
-</p>
-
-<h2>Search</h2>
+<h2>Search</h2>
 
 <p>The search Team handles the Domains Mobility Info and Routing which can be summarized as search Domain. The Main
 Business Objects in this Domain are "Orte" (Places) and "Verbindungen" (Routes). Places can be a Bus Station,
-Train Station, Address, a POI (e.g. a Theater or a switch-point), Cords.
+Train Station, Address, a POI (e.g. a Theater or a switch-point), Cords.</p>
 
-</p>
-
-<h2>Ride</h2>
+<h2>Ride</h2>
 
 <p>The Ride Team is responsible for the three Domains Offer, Order and Access. All three domains can be in the context
 of public transport or in additional transportation mode, e.g. Taxi, Car Sharing, Bike Sharing, Ride Pooling. So an
@@ -48,24 +43,17 @@ Offer can be something like an public transport tariff product, or an price calc
 the price / minute for a Car rent. So all kind of different types of offers are possible.
 The order is the contractual part between the customer who accept an offer. And the third domain is to give the customer
 access to the vehicle, that could be a ticket for public transport,  open an car / bike or to pick up the customer with
-a taxi / ride pooling service.
-</p>
+a taxi / ride pooling service.</p>
 
-<h2>Customer</h2>
+<h2>Customer</h2>
 
 <p>The core part is to persist every information about the customer. The other part is to be aware of the identity of
-a customer.
+a customer.</p>
 
-</p>
+<h2>Billing</h2>
 
-<h2>Billing</h2>
+<p>It is all about the money.</p>
 
-<p>It is all about the money.
-</p>
+<h2>Basis</h2>
 
-<h2>Basis</h2>
-
-<p>All environment and Architecture stuff.
-
-
-</p>
+<p>All environment and Architecture stuff.</p>
