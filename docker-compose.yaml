@@ -1,4 +1,4 @@
-version: '3.7'
+version: '3.8'
 services:
   dev-portal-styling:
     image: docker.io/datawire/aes:1.14.2
