@@ -1,5 +1,9 @@
 # devportal-content
-User content for Ambassador Edge Stack Dev Portal
+User content for Ambassador Edge Stack Dev Portal.
+
+V2 is compatible with Edge Stack 1.13+.
+
+If using an earlier version, use v1 of the DevPortal content [here](https://github.com/datawire/devportal-content).
 
 ## How to customize
 Do all changes in this repository and change the relevant parts. 
@@ -25,14 +29,15 @@ Templating allows you to customize how pages look, create variables to use in st
 
 ### Variables
 These variables are available in all template-able file types
-| Name                | Description                                                        | Values (example)            |
-| ------------------- | ------------------------------------------------------------------ | --------------------------- |
-| `.Ctx`              | The current type of page being served                              | "landing", "page", or "doc" |
-| `.Prefix`           | The url prefix of the current request                              | `/docs/`                    |
-| `.Pages`            | List of static pages in the `pages/` directory                     | `[Content Introduction]`    |
-| `.CurrentPage`      | The current page being accessed                                    | `Content`                   |
-| `.CurrentNamespace` | The namespace of the service for the current OpenAPI documentation | `default`                   |
-| `.CurrentService`   | The name of the service for the current OpenAPI documentation      | `quote`                     |
+| Name                  | Description                                                        | Values (example)            |
+| -------------------   | ------------------------------------------------------------------ | --------------------------- |
+| `.Ctx`                | The current type of page being served                              | "landing", "page", or "doc" |
+| `.Prefix`             | The url prefix of the current request                              | `/docs/`                    |
+| `.Pages`              | List of static pages in the `pages/` directory                     | `[Content Introduction]`    |
+| `.CurrentPage`        | The current page being accessed                                    | `Content`                   |
+| `.CurrentNamespace`   | The namespace of the service for the current OpenAPI documentation | `default`                   |
+| `.CurrentService`     | The name of the service for the current OpenAPI documentation      | `quote`                     |
+| `.CurrentServicePath` | Relative service path for currently displayed service              | `default/quote`             |
 
 # Deployment
 

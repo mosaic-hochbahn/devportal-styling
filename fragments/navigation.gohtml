@@ -1,50 +1,53 @@
 <div>
     <nav class="o-page__nav c-nav">
-        {{$haveApi := false}}
-        {{$haveOther := false}}
-        {{range $i, $element := .S.K8sStore.Slice }}
-            {{if $element.Metadata.HasDoc}}
-                {{$haveApi = true}}
-            {{else}}
-                {{$haveOther = true}}
-            {{end}}
+      {{$haveApi := false}}
+      {{$haveOther := false}}
+      {{$docBasePath := printf "%s%s" $.Prefix $.S.DocsBasePath }}
+      {{$pageBasePath := printf "%s%s" $.Prefix $.S.PageBasePath }}
+      {{range $i, $element := .S.K8sStore.Slice }}
+        {{if $element.Metadata.HasDoc}}
+          {{$haveApi = true}}
+        {{else}}
+          {{$haveOther = true}}
         {{end}}
+      {{end}}
         <div>
             <h3>General</h3>
             <ul>
-                {{range $i, $page := $.Pages}}
-                    {{$class := ""}}
-                    {{if eq $.CurrentPage $page}}
-                        {{$class = "c-nav__selected"}}
-                    {{end}}
-                    <li><a class="{{$class}}" href="{{$.Prefix}}page/{{$page}}">{{$page}}</a></li>
+            {{range $i, $page := $.Pages}}
+                {{$class := ""}}
+                {{if eq $.CurrentPage $page}}
+                    {{$class = "c-nav__selected"}}
                 {{end}}
+                <li><a class="{{$class}}" href="{{$pageBasePath}}{{$page}}">{{$page}}</a></li>
+            {{end}}
             </ul>
         </div>
-        <br/>
+        <br />
         <div>
             <h3>APIs</h3>
             <div id="apiListWrapper"></div>
         </div>
+
         <div id="uncategorizedApiListWrapper">
             <!-- for debugging: v0.3 -->
         </div>
-        <br/>
+
         {{if $haveOther}}
-            <br/>
-            <div>
-                <h4 class="collapsible">Services without documentation</h4>
-                <ul class="contentList">
-                    {{range $i, $element := .S.K8sStore.Slice }}
-                        {{$mtdt := $element.Metadata}}
-                        {{if not $mtdt.HasDoc}}
-                            <li>
-                                <samp>{{$mtdt.ServiceDisplayName}}</samp>
-                            </li>
-                        {{end}}
-                    {{end}}
-                </ul>
-            </div>
+        <br />
+        <div>
+            <h4 class="collapsible">Services without documentation</h4>
+            <ul class="contentList">
+            {{range $i, $element := .S.K8sStore.Slice }}
+                {{$mtdt := $element.Metadata}}
+                {{if not $mtdt.HasDoc}}
+                    <li>
+                        <samp>{{$mtdt.ServiceDisplayName}}</samp>
+                    </li>
+                {{end}}
+            {{end}}
+            </ul>
+        </div>
         {{end}}
     </nav>
 </div>

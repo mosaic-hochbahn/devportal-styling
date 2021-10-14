@@ -1,13 +1,11 @@
-<h1>Release Notes</h1>
+<h1>Release Notes</h1>
 
-<p></p>
+<h1>Upcoming (QA Stage)</h1>
 
-<h1>Upcoming (QA Stage)</h1>
+<pre><code>    Release Notes - mosaic - Version MOSAIC-66.0
+</code></pre>
 
-<p>
-        Release Notes - mosaic - Version MOSAIC-66.0
-
-<h2>        Story
+<p><h2>        Story
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-982'>MOS-982</a>] -         Erstattungs-Transaktionsdatensatz vom MDL erhalten und prüfen
@@ -36,9 +34,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3537'>MOS-3537</a>] -         Fehlende Debt-Daten von Sixt bei Recovery auf WARN loggen
 </li>
-</ul>
+</ul></p>
 
-<h2>        Task
+<p><h2>        Task
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-2656'>MOS-2656</a>] -         ReDocPro Library aktualisieren
@@ -55,9 +53,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3575'>MOS-3575</a>] -         Ambassador Mappings für iTM auf Prod anlegen
 </li>
-</ul>
+</ul></p>
 
-<h2>        Sub-task
+<p><h2>        Sub-task
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3040'>MOS-3040</a>] -         Miles Geschäftsgebiete: AreaType umsetzen
@@ -88,9 +86,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3528'>MOS-3528</a>] -         Sixt auf PROD aktivieren (Fahrzeuge + Geschäftsgebiete)
 </li>
-</ul>
+</ul></p>
 
-<h2>        Bug
+<p><h2>        Bug
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3381'>MOS-3381</a>] -         Korrektur der Mail zur Bestätigung einer erfolgreichen Validierung
@@ -101,21 +99,11 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3480'>MOS-3480</a>] -         ActiveUntil im Rental-Service wird für SIXT-Mieten nicht richtig aktualisiert
 </li>
-</ul>
+</ul></p>
 
+<h1>Released</h1>
 
-
-</p>
-
-<p></p>
-
-<h1>Released</h1>
-
-<p>
-
-</p>
-
-<h2>MOSAIC-65.0</h2>
+<h2>MOSAIC-65.0</h2>
 
 <p><h2>        Story
 </h2>
@@ -128,10 +116,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3433'>MOS-3433</a>] -         Logpay Verwendungszweck für Sixt anpassen
 </li>
-</ul>
+</ul></p>
 
-
-<h2>        Task
+<p><h2>        Task
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-2461'>MOS-2461</a>] -         Log-Level in der microservice-starter-commons überarbeiten
@@ -158,9 +145,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3449'>MOS-3449</a>] -         Doppel-Slashes in Helm-Charts entfernen
 </li>
-</ul>
+</ul></p>
 
-<h2>        Sub-task
+<p><h2>        Sub-task
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3262'>MOS-3262</a>] -         Miles Fahrzeug-Details: Defaults und geparste Werte setzen
@@ -177,25 +164,22 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3472'>MOS-3472</a>] -         Reservierungsendpoint im rental-service um customerNumber erweitern
 </li>
-</ul>
+</ul></p>
 
-<h2>        Bug
+<p><h2>        Bug
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3435'>MOS-3435</a>] -         Testbarcode auf DEV verwendet QA URL als BaseUrl + fehlende Rollen
 </li>
-</ul>
+</ul></p>
 
+<p></br>
+</br>
+</br>
+</br>
+</br></p>
 
-</br>
-</br>
-</br>
-</br>
-</br>
-
-</p>
-
-<h2>MOSAIC-64.0</h2>
+<h2>MOSAIC-64.0</h2>
 
 <p><h2>        Story
 </h2>
@@ -204,9 +188,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3166'>MOS-3166</a>] -         search-adapter: Endpoint zum Abruf eines einzelnen Fahrzeugs migrieren
 </li>
-</ul>
+</ul></p>
 
-<h2>        Task
+<p><h2>        Task
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-2929'>MOS-2929</a>] -         Jenkins ADM-CRM-Frontend um Test-Step ergänzen
@@ -233,9 +217,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3429'>MOS-3429</a>] -         Cleanup - replace go-upgrade-1 images with real version tags
 </li>
-</ul>
+</ul></p>
 
-<h2>        Sub-task
+<p><h2>        Sub-task
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3313'>MOS-3313</a>] -         integration-testing-commons migrate to searchfox template
@@ -252,24 +236,22 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3416'>MOS-3416</a>] -         Event:Vehicle-Data-Lib: Alte durch neue Preisstruktur ersetzen
 </li>
-</ul>
+</ul></p>
 
-<h2>        Bug
+<p><h2>        Bug
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3326'>MOS-3326</a>] -         [PMAO] Bug im Live Log
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3355'>MOS-3355</a>] -         vehicle-service: ErrorResponse-Objekte sind nicht korrekt
 </li>
-<li>[<a href='https://jira.hochbahn.de/browse/MOS-3391'>MOS-3391</a>] -         CIBO: Produkte mit gleicher Currency führen zu Exception: &amp;quot;Different Currencies&amp;quot;
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3391'>MOS-3391</a>] -         CIBO: Produkte mit gleicher Currency führen zu Exception: "Different Currencies"
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3398'>MOS-3398</a>] -         correlationId in Schedulern fixen
 </li>
-</ul>
+</ul></p>
 
-</p>
-
-<h2>MOSAIC-63.0</h2>
+<h2>MOSAIC-63.0</h2>
 
 <p><h2>        Story
 </h2>
@@ -294,9 +276,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3351'>MOS-3351</a>] -         Tests ergänzen für getPaymentProviders
 </li>
-</ul>
+</ul></p>
 
-<h2>        Task
+<p><h2>        Task
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-2267'>MOS-2267</a>] -         [Analyse] Sporadische 403 FORBIDDEN Fehler
@@ -323,9 +305,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3401'>MOS-3401</a>] -         MOIA Error Codes können nicht gemappt werden
 </li>
-</ul>
+</ul></p>
 
-<h2>        Sub-task
+<p><h2>        Sub-task
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3105'>MOS-3105</a>] -         Systemtests Build-Job um Resource-Requests ergänzen
@@ -340,14 +322,14 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3337'>MOS-3337</a>] -         [payment-method-activation-os] optimize log statements
 </li>
-</ul>
+</ul></p>
 
-<h2>        Bug
+<p><h2>        Bug
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-2709'>MOS-2709</a>] -         COM-PAY-05 - Es düfen nicht beide Formulare [Payment::is_offline] und [Payment::is_preauthorized] gemeldet werden.
 </li>
-<li>[<a href='https://jira.hochbahn.de/browse/MOS-2794'>MOS-2794</a>] -         Land &amp;quot;Norwegen&amp;quot; (NO) in den Kundenstammdaten zulassen
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2794'>MOS-2794</a>] -         Land "Norwegen" (NO) in den Kundenstammdaten zulassen
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3201'>MOS-3201</a>] -         SixtClarificationJob + TicketingAndMoiaClarificationJob  / SixtRecoveryJob im OrderService vereinheitlichen
 </li>
@@ -361,14 +343,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3376'>MOS-3376</a>] -         vehicle-service: Fehler beim Speichern von Fahrzeugschäden in die DB
 </li>
-</ul>
+</ul></p>
 
-
-
-
-</p>
-
-<h2>MOSAIC-62.0</h2>
+<h2>MOSAIC-62.0</h2>
 
 <p><h2>        Story
 </h2>
@@ -383,7 +360,7 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3223'>MOS-3223</a>] -         Als Nutzer möchte ich nur die noch hinzufügbaren Zahlungsmittel zurück gegeben bekommen
 </li>
-<li>[<a href='https://jira.hochbahn.de/browse/MOS-3224'>MOS-3224</a>] -         Restarbeiten 2 MOS-1010: Als Benutzer möchte ich Zugriff auf die Funktion &amp;quot;PIN vergessen&amp;quot; haben
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3224'>MOS-3224</a>] -         Restarbeiten 2 MOS-1010: Als Benutzer möchte ich Zugriff auf die Funktion "PIN vergessen" haben
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3267'>MOS-3267</a>] -         Claranet - Random Delay in Deployment Pipeline
 </li>
@@ -393,10 +370,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3349'>MOS-3349</a>] -         CRM: Als KSM möchte ich im Kundenaccount die MDL-Nutzungserlaubnis vor der Aktirvierung editieren können
 </li>
-</ul>
+</ul></p>
 
-
-<h2>        Task
+<p><h2>        Task
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-2598'>MOS-2598</a>] -         MOIA offer/ order: Erweiterung error codes um CODE_KILL_SWITCH_ACTIVE
@@ -415,7 +391,7 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3266'>MOS-3266</a>] -         Fortführen der Miete im rental-service speichern
 </li>
-<li>[<a href='https://jira.hochbahn.de/browse/MOS-3281'>MOS-3281</a>] -         MOIA API v6 -&amp;gt; v7 umstellen
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3281'>MOS-3281</a>] -         MOIA API v6 -&gt; v7 umstellen
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3283'>MOS-3283</a>] -         [Customer-Adatper] move project in GitLab
 </li>
@@ -427,9 +403,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3329'>MOS-3329</a>] -         interne YAMLs aus API-Specs entfernen
 </li>
-</ul>
+</ul></p>
 
-<h2>        Sub-task
+<p><h2>        Sub-task
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3101'>MOS-3101</a>] -         search-adapter: MDL in MSP umbenennen
@@ -448,9 +424,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3323'>MOS-3323</a>] -         Customer-Checks in Mietstart einbauen
 </li>
-</ul>
+</ul></p>
 
-<h2>        Bug
+<p><h2>        Bug
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-2073'>MOS-2073</a>] -         CIBO API Beispiele anpassen
@@ -469,11 +445,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3346'>MOS-3346</a>] -         vehicle-service: Legacy vehicle-service reaktivieren
 </li>
-</ul>
+</ul></p>
 
-</p>
-
-<h2>MOSAIC-61.0</h2>
+<h2>MOSAIC-61.0</h2>
 
 <p><h2>        Story
 </h2>
@@ -490,9 +464,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3135'>MOS-3135</a>] -         Eigener SAP-Benutzer für Tarifserver Aufrufe via Reverse-Proxy von außen
 </li>
-</ul>
+</ul></p>
 
-<h2>        Task
+<p><h2>        Task
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-1398'>MOS-1398</a>] -         SwitchTicketService - Zertifikate nach Vault
@@ -535,9 +509,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3232'>MOS-3232</a>] -         [Systemtests] Jenkinsfile Stage-Parameter über Env-Variable setzen
 </li>
-</ul>
+</ul></p>
 
-<h2>        Sub-task
+<p><h2>        Sub-task
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-2383'>MOS-2383</a>] -         Switch-Ticket-Service: API-Specs für Ambassador
@@ -594,10 +568,9 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3228'>MOS-3228</a>] -         cancel-Daten in der order-history-orchestration aus der RentalOrder holen
 </li>
-</ul>
+</ul></p>
 
-
-<h2>        Bug
+<p><h2>        Bug
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3118'>MOS-3118</a>] -         Michi-CRM des notes Service ist erreichbar ohne Login
@@ -608,14 +581,11 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3229'>MOS-3229</a>] -         CRM: Leeres Geburtsdatum wird fehlerhaft angezeigt
 </li>
-<li>[<a href='https://jira.hochbahn.de/browse/MOS-3415'>MOS-3415</a>] -         CRM: roter Marker &amp;quot;neuer Klärfall vorhanden&amp;quot; funktioniert nicht mehr
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3415'>MOS-3415</a>] -         CRM: roter Marker "neuer Klärfall vorhanden" funktioniert nicht mehr
 </li>
-</ul>
+</ul></p>
 
-
-</p>
-
-<h2>MOSAIC-60.0</h2>
+<h2>MOSAIC-60.0</h2>
 
 <p><h2>        Story
 </h2>
@@ -628,11 +598,11 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3106'>MOS-3106</a>] -         Customer API Specifications pruefen
 </li>
-<li>[<a href='https://jira.hochbahn.de/browse/MOS-3140'>MOS-3140</a>] -         Restarbeiten MOS-1010: Als Benutzer möchte ich Zugriff auf die Funktion &amp;quot;PIN vergessen&amp;quot; haben
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3140'>MOS-3140</a>] -         Restarbeiten MOS-1010: Als Benutzer möchte ich Zugriff auf die Funktion "PIN vergessen" haben
 </li>
-</ul>
+</ul></p>
 
-<h2>        Task
+<p><h2>        Task
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-2368'>MOS-2368</a>] -         System-Test für GTI-Proxy
@@ -655,13 +625,11 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3171'>MOS-3171</a>] -         Aufnahme aller neuen Pin-bezogenen HTMLs in das E-Mail-Templates-Repository
 </li>
-<li>[<a href='https://jira.hochbahn.de/browse/MOS-3173'>MOS-3173</a>] -         ErrorCode angleichen:  PRICE_NOT_VALID -&amp;gt; PRICE_NOT_FOUND
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3173'>MOS-3173</a>] -         ErrorCode angleichen:  PRICE_NOT_VALID -&gt; PRICE_NOT_FOUND
 </li>
-</ul>
+</ul></p>
 
-
-
-<h2>        Sub-task
+<p><h2>        Sub-task
 </h2>
 <ul>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-2389'>MOS-2389</a>] -         Rental-Order-Orchestration: API-Specs für Ambassador
@@ -698,16 +666,16 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3215'>MOS-3215</a>] -         Bug beim Holen des Billing Agreements OHNE Vor / Nachname
 </li>
-</ul>
+</ul></p>
 
-<h2>        Bug
+<p><h2>        Bug
 </h2>
 <ul>
-<li>[<a href='https://jira.hochbahn.de/browse/MOS-2911'>MOS-2911</a>] -         NPE in OAuth2ResourceServerSecurityConfiguration wenn &amp;quot;roles&amp;quot; Claim nicht existiert
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-2911'>MOS-2911</a>] -         NPE in OAuth2ResourceServerSecurityConfiguration wenn "roles" Claim nicht existiert
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3103'>MOS-3103</a>] -         NPE beim Error-Mapping
 </li>
-<li>[<a href='https://jira.hochbahn.de/browse/MOS-3117'>MOS-3117</a>] -         CRM: Sucheergebnis wird bei Nutzung &amp;quot;+&amp;quot;-Zeichen nicht korrekt dargestellt
+<li>[<a href='https://jira.hochbahn.de/browse/MOS-3117'>MOS-3117</a>] -         CRM: Sucheergebnis wird bei Nutzung "+"-Zeichen nicht korrekt dargestellt
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3120'>MOS-3120</a>] -         Bei Cancel Reservation liefert Sixt eine DropOffFee
 </li>
@@ -723,10 +691,4 @@
 </li>
 <li>[<a href='https://jira.hochbahn.de/browse/MOS-3203'>MOS-3203</a>] -         SearchForm ausgeklappt bei der Rücknavigatino führt zu Fehler
 </li>
-</ul>
-
-
-
-
-
-</p>
+</ul></p>

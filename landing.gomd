@@ -57,23 +57,23 @@ The following services are exposed through MOSAIC:
     </thead>
     <tbody>
         {{range $i, $element := .S.K8sStore.Slice }}
-            {{if isEven $i }}
-                <tr style="background: rgba(86,61,124,.05);">
+        {{if isEven $i }}
+        <tr style="background: rgba(86,61,124,.05);">
             {{else}}
-                <tr>
-            {{end}}
-            <td>
-                <samp>{{$element.Metadata.ServiceDisplayName}}</samp>
-            </td>
-            <td>
-                {{if $element.Metadata.HasDoc}}
-                    <a href="{{$.Prefix}}doc/{{$element.Service.Namespace}}/{{$element.Service.Name}}"><code>API Documentation</code></a>
-                {{else}}
-                    <code><span style="color:red">No API Documentation</span></code>
+            <tr>
                 {{end}}
-            </td>
+                <td>
+                    <samp>{{$element.Metadata.ServiceDisplayName}}</samp>
+                </td>
+                <td>
+                    {{$docBasePath := printf "%s%s" $.Prefix $.S.DocsBasePath }}
+                    {{if $element.Metadata.HasDoc}}
+                    <a href="{{$docBasePath}}{{$element.Metadata.DevportalPath}}"><code>API Documentation</code></a>
+                    {{else}}
+                    <code><span style="color:red">No API Documentation</span></code>
+                    {{end}}
+                </td>
             </tr>
-        {{end}}
+            {{end}}
     </tbody>
-
 </table>

@@ -46,22 +46,13 @@
   margin-left: auto;
   display: inline-flex;
   align-items: center;
+  margin-right: 50px;
 }
 
 .c-header__misc > * {
   margin: 0;
 }
 
-.c-header .c-search-box input {
-  background: var(--background-color);
-  border: 1px solid var(--terciary-color);
-  border-radius: 3px;
-  outline: none;
-  padding: 10px;
-  font-size: 16px;
-  line-height: 1.5;
-  color: var(--primary-color);
-}
 .paddingLink{
   padding: 5px;
 }
