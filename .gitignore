@@ -6,3 +6,12 @@
 .idea/
 out/
 local.properties
+
+# Mac #
+#######
+.DS_Store
+
+# debugging #
+#############
+*.debugerr
+*.debughtml
