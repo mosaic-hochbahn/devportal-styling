@@ -32,23 +32,6 @@
         <div id="uncategorizedApiListWrapper">
             <!-- for debugging: v0.3 -->
         </div>
-
-        {{if $haveOther}}
-        <br />
-        <div>
-            <h4 class="collapsible">Services without documentation</h4>
-            <ul class="contentList">
-            {{range $i, $element := .S.K8sStore.Slice }}
-                {{$mtdt := $element.Metadata}}
-                {{if not $mtdt.HasDoc}}
-                    <li>
-                        <samp>{{$mtdt.ServiceDisplayName}}</samp>
-                    </li>
-                {{end}}
-            {{end}}
-            </ul>
-        </div>
-        {{end}}
     </nav>
 </div>
 

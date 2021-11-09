@@ -1,18 +1,9 @@
 <div class="c-filter">
   <div class="filter-bar">
-  <h3>Filter</h3>
-  <input type="text" id="myInput" onkeyup="searchTable(this.value)" placeholder="Search names...">
-    <div class="btn-group">
-      <button onclick="filterTable(this, 'Search', 0)">Search</button>
-      <button onclick="filterTable(this, 'Customer', 0)">Customer</button>
-      <button onclick="filterTable(this, 'Billing', 0)">Billing</button>
-      <button onclick="filterTable(this, 'Ride', 0)">Ride</button>
-      <button onclick="filterTable(this, 'Basis', 0)">Basis</button>
-    </div>
-    <button onclick="filterTable(this, 'No', 1)">No Documentation</button>
+    <h3>Filter</h3>
+    <input type="text" id="myInput" onkeyup="searchTable(this.value)" placeholder="Search names...">
   </div>
 </div>
-
 
 <script>
 
@@ -29,57 +20,22 @@ const comparer = (idx, asc) => (a, b) => ((v1, v2) =>
     v1 !== '' && v2 !== '' && !isNaN(v1) && !isNaN(v2) ? v1 - v2 : v1.toString().localeCompare(v2)
     )(getCellValue(asc ? a : b, idx), getCellValue(asc ? b : a, idx));
 
-
-
-let FILTERPARAMS = new Map();
-let SEARCHPARAM = [];
-
-filterTable = (e, filterString, col) => {
-  e.classList.toggle("active");
-  if(FILTERPARAMS.has(filterString)){
-    FILTERPARAMS.delete(filterString);
-  } else {
-    FILTERPARAMS.set(filterString, col);
-  }
-  assembleFilterArray();
-}
-
 searchTable = (searchString) => {
-  SEARCHPARAM = searchString.length > 0 ? [searchString, 0] : [];
-  assembleFilterArray();
-}
+  const table  = document.querySelector('tbody');
+  const tableRows =table.getElementsByTagName('tr');
+  filterList(searchString, tableRows);
+};
 
-assembleFilterArray = () => {
-  let table, trList;
-  table = document.querySelector('tbody');
-  trList = table.getElementsByTagName("tr");
-  if(SEARCHPARAM.length > 0) {
-    filterList([SEARCHPARAM, ...FILTERPARAMS], trList, 0);
-  }
-  else
-    filterList([...FILTERPARAMS], trList, 0);
-}
+filterList = (searchString, tableRows) => {
+   Object.values(tableRows).forEach(tr => {
+    const td = tr.getElementsByTagName('td')[0];
+    const txtValue = td.textContent || td.innerText;
 
-filterList = (params, elementList, index) => {
-  if(params.length === 0) Object.values(elementList).forEach(tr => tr.style.display = "");
-  if(params.length <= index) {
-    return;
-  } else {
-    let param = params[index];
-    let filteredList = Object.values(elementList).filter(tr => {
-        let td = tr.getElementsByTagName("td")[param[1]];
-        txtValue = td.textContent || td.innerText;
-        if(txtValue.toUpperCase().indexOf(param[0].toUpperCase()) > -1){
-          tr.style.display = "";
-          // and
-          return tr;
-        } else {
-          tr.style.display = "none";
-          // or
-          //return tr;
-        }
-      });
-    filterList(params, filteredList, ++index);
-  }
-}
+    if(txtValue.toUpperCase().indexOf(searchString.toUpperCase()) > -1){
+      tr.style.display = "";
+    } else {
+      tr.style.display = "none";
+    }
+  });
+};
 </script>
