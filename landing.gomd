@@ -51,7 +51,8 @@ The following services are exposed through MOSAIC:
 <table cellpadding="2em" width="100%">
     <thead>
         <tr>
-            <td onclick="sortTable(this)"><b>Service Name</b></td>
+            <td onclick="sortTable(this)"><b>Namespace</b></td>
+            <td onclick="sortTable(this)"><b>Service</b></td>
             <td onclick="gettest()"><b>Swagger URL</b></td>
         </tr>
     </thead>
@@ -60,11 +61,14 @@ The following services are exposed through MOSAIC:
             {{if $element.Metadata.HasDoc}}
             <tr style="background: rgba(86,61,124,.05);">
                 <td>
-                    <samp>{{$element.Metadata.ServiceDisplayName}}</samp>
+                    <samp>{{$element.Service.Namespace}}</samp>
+                </td>
+                <td>
+                    <samp>{{$element.Service.Name}}</samp>
                 </td>
                 <td>
                     {{$docBasePath := printf "%s%s" $.Prefix $.S.DocsBasePath }}
-                    <a href="{{$docBasePath}}{{$element.Metadata.DevportalPath}}"><code>API Documentation</code></a>
+                    <a href="{{$docBasePath}}{{$element.Service.Namespace}}/{{$element.Service.Name}}"><code>API Documentation</code></a>
                 </td>
             </tr>
             {{end}}
