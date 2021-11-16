@@ -3,9 +3,8 @@
 <table cellpadding="2em" width="100%">
     <thead>
         <tr>
-            <td onclick="sortTable(this)"><b>Domain</b></td>
             <td onclick="sortTable(this)"><b>Business Object</b></td>
-            <td onclick="gettest()"><b>Swagger URL</b></td>
+            <td><b>Swagger URL</b></td>
         </tr>
     </thead>
     <tbody id="tableRows">
@@ -13,9 +12,6 @@
         {{range $i, $element := .S.K8sStore.Slice }}
             {{if $element.Metadata.HasDoc}}
             <tr style="background: rgba(86,61,124,.05);" class=>
-                <td>
-                    <samp>{{$element.Service.Namespace}}</samp>
-                </td>
                 <td>
                     <samp>{{$element.Service.Name}}</samp>
                 </td>
@@ -41,18 +37,14 @@
             let tableRow = document.createElement("tr");
 
             let tableColumn1 = document.createElement("td");
-            tableColumn1.innerHTML = '';
+            tableColumn1.innerHTML = '<samp>' + apiItem.Metadata.ServiceDisplayName + '<samp>';
 
             let tableColumn2 = document.createElement("td");
-            tableColumn2.innerHTML = '<samp>' + apiItem.Metadata.ServiceDisplayName + '<samp>';
-
-            let tableColumn3 = document.createElement("td");
             let href = '{{$docBasePath := printf "%s%s" $.Prefix $.S.DocsBasePath }}doc/' + apiItem.Service.namespace + '/' + apiItem.Service.name;
-            tableColumn3.innerHTML = '<a href="' + href + '"><code>API Documentation</code></a>'
+            tableColumn2.innerHTML = '<a href="' + href + '"><code>API Documentation</code></a>'
 
             tableRow.appendChild(tableColumn1);
             tableRow.appendChild(tableColumn2);
-            tableRow.appendChild(tableColumn3);
 
             return tableRow;
         })

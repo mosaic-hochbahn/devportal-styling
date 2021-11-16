@@ -7,43 +7,38 @@
 
 ## Introduction
 
-The MOSAIC API is built on *HTTP*. Our API is *RESTful*. It returns *HTTP status codes* to indicate errors. It accepts and returns *JSON* in the HTTP
-body.
+The *MOSAIC API* is built on *HTTP*. Our API is *RESTful*. It returns *HTTP status codes* to indicate errors. It accepts and returns *JSON* in the HTTP body.
 
 This API covers topics like:
 
-<ul>
-<li> **Location** search</li>
-<li> Offering **products** for all kind of transportation</li>
-<li> Booking of **public transport tickets**</li>
-<li> Booking of **different kind of Transportation**</li>
-<li> **Customer data** management</li>
-</ul>
+* **Location** search
+* Offering **products** for all kind of transportation
+* Booking of **public transport tickets**
+* Booking of **different kind of Transportation**
+* **Customer data** management
+
 
 ## Business Objects
 
-<p>MOSAIC handles different Business Objects</p>
+MOSAIC handles many different kinds of Business Objects
 
 <img src="./assets/png/businessObjects.jpg" style="width:800px;"/>
 
-<ul>
-<li> Locations (POI, Addresses, Stations)</li>
-<li> Connections </li>
-<li> Trips (Shuttle, CarSharing, Bus, Train, ...)</li>
-<li> Offers</li>
-<li> Orders</li>
-<li> Delivery / Ticket</li>
-<li> Product</li>
-<li> Account / Customer</li>
-<li> Billing</li>
-</ul>
+* Locations (_POI, Addresses, Stations_)
+* Connections
+* Trips (Shuttle, CarSharing, Bus, Train, ...)
+* Offers
+* Orders
+* Delivery / Ticket
+* Product
+* Account / Customer
+* Billing
 
-For a detailed list of all endpoints and resources, see the sections to the left.
+For a detailed list of all endpoints and resources, see below or the **APIs** sections to the left.
 
-## Available Services
+## Available API Specs
 
-The following services are exposed through MOSAIC:
-
+The following API specs are exposed through MOSAIC:
 
 {{template "filter" $}}
 {{define "filter"}}{{end}}
