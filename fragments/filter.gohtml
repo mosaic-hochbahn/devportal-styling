@@ -28,7 +28,7 @@ searchTable = (searchString) => {
 
 filterList = (searchString, tableRows) => {
    Object.values(tableRows).forEach(tr => {
-    const td = tr.getElementsByTagName('td')[1];
+    const td = tr.getElementsByTagName('td')[0];
     const txtValue = td.textContent || td.innerText;
 
     if(txtValue.toUpperCase().indexOf(searchString.toUpperCase()) > -1){
