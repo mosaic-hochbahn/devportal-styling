@@ -3,7 +3,7 @@
     {{end}}
 </span>
 
-# Welcome to the HVV MObility and SAles Integration Cluster (MOSAIC)
+# Welcome to the HVV **MO**bility and **SA**les **I**ntegration **C**luster (**MOSAIC**)
 
 ## Introduction
 
@@ -16,23 +16,6 @@ This API covers topics like:
 * Booking of **public transport tickets**
 * Booking of **different kind of Transportation**
 * **Customer data** management
-
-
-## Business Objects
-
-MOSAIC handles many different kinds of Business Objects
-
-<img src="./assets/png/businessObjects.jpg" style="width:800px;"/>
-
-* Locations (_POI, Addresses, Stations_)
-* Connections
-* Trips (Shuttle, CarSharing, Bus, Train, ...)
-* Offers
-* Orders
-* Delivery / Ticket
-* Product
-* Account / Customer
-* Billing
 
 For a detailed list of all endpoints and resources, see below or the **APIs** sections to the left.
 
