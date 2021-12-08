@@ -13,6 +13,9 @@ h1, .h1 {
   margin-bottom: 0.70588236em;
   color: var(--hvvblue-color);
 }
+h1>strong, .h1>strong {
+  color: var(--brand-color-light);
+}
 h2, .h2 {
   font-size: 1.8em;
   line-height: 1.14285714em;
@@ -24,27 +27,27 @@ h3, .h3 {
   font-size: 1.4em;
   line-height: 1.84615385em;
   margin-top: 0.92307692em;
-  margin-bottom: 0em;
+  margin-bottom: 0;
 }
 h4, .h4 {
   font-size: 1em;
   line-height: 1.5em;
   margin-top: 1.5em;
-  margin-bottom: 0em;
+  margin-bottom: 0;
 }
 h5, .h5 {
   font-size: 1em;
   line-height: 1.5em;
   margin-top: 1.5em;
-  margin-bottom: 0em;
+  margin-bottom: 0;
 }
 p, ul, ol, pre, table, blockquote {
-  margin-top: 0em;
+  margin-top: 0;
   margin-bottom: 1.5em;
 }
 ul ul, ol ol, ul ol, ol ul {
-  margin-top: 0em;
-  margin-bottom: 0em;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 /* Let's make sure all's aligned */
