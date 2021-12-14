@@ -3,77 +3,30 @@
     {{end}}
 </span>
 
-# Welcome to the HVV MObility and SAles Integration Cluster (MOSAIC)
+# Welcome to the HVV **MO**bility and **SA**les **I**ntegration **C**luster (**MOSAIC**)
 
 ## Introduction
 
-The MOSAIC API is built on *HTTP*. Our API is *RESTful*. It returns *HTTP status codes* to indicate errors. It accepts and returns *JSON* in the HTTP
-body.
+The *MOSAIC API* is built on *HTTP*. Our API is *RESTful*. It returns *HTTP status codes* to indicate errors. It accepts and returns *JSON* in the HTTP body.
 
 This API covers topics like:
 
-<ul>
-<li> **Location** search</li>
-<li> Offering **products** for all kind of transportation</li>
-<li> Booking of **public transport tickets**</li>
-<li> Booking of **different kind of Transportation**</li>
-<li> **Customer data** management</li>
-</ul>
+* **Location** search
+* Offering **products** for all kind of transportation
+* Booking of **public transport tickets**
+* Booking of **different kind of Transportation**
+* **Customer data** management
 
-## Business Objects
+For a detailed list of all endpoints and resources, see below or the **APIs** sections to the left.
 
-<p>MOSAIC handles different Business Objects</p>
+## Available API Specs
 
-<img src="./assets/png/businessObjects.jpg" style="width:800px;"/>
-
-<ul>
-<li> Locations (POI, Addresses, Stations)</li>
-<li> Connections </li>
-<li> Trips (Shuttle, CarSharing, Bus, Train, ...)</li>
-<li> Offers</li>
-<li> Orders</li>
-<li> Delivery / Ticket</li>
-<li> Product</li>
-<li> Account / Customer</li>
-<li> Billing</li>
-</ul>
-
-For a detailed list of all endpoints and resources, see the sections to the left.
-
-## Available Services
-
-The following services are exposed through MOSAIC:
-
+The following API specs are exposed through MOSAIC:
 
 {{template "filter" $}}
 {{define "filter"}}{{end}}
 
-<table cellpadding="2em" width="100%">
-    <thead>
-        <tr>
-            <td onclick="sortTable(this)"><b>Service Name</b></td>
-            <td onclick="gettest()"><b>Swagger URL</b></td>
-        </tr>
-    </thead>
-    <tbody>
-        {{range $i, $element := .S.K8sStore.Slice }}
-        {{if isEven $i }}
-        <tr style="background: rgba(86,61,124,.05);">
-            {{else}}
-            <tr>
-                {{end}}
-                <td>
-                    <samp>{{$element.Metadata.ServiceDisplayName}}</samp>
-                </td>
-                <td>
-                    {{$docBasePath := printf "%s%s" $.Prefix $.S.DocsBasePath }}
-                    {{if $element.Metadata.HasDoc}}
-                    <a href="{{$docBasePath}}{{$element.Metadata.DevportalPath}}"><code>API Documentation</code></a>
-                    {{else}}
-                    <code><span style="color:red">No API Documentation</span></code>
-                    {{end}}
-                </td>
-            </tr>
-            {{end}}
-    </tbody>
-</table>
+{{template "apioverview" $}}
+
+
+
