@@ -80,7 +80,7 @@
     // Collect all APIs that don't have a displayname matching the "mosaic:<category>.xxx.xxx" syntax, but do have a documentation.
     getUncategorizedApis = () => {
         return apiList.filter(item =>
-            (!item.Metadata.hasOwnProperty('ServiceDisplayName') || !(item.Metadata.ServiceDisplayName.match(/mosaic:[a-z0-9_-]+\.[a-z0-9_-]+\.[a-z0-9_-]+/g) || item.Metadata.ServiceDisplayName.match(/.+:.+/g)))
+            (!item.Metadata.hasOwnProperty('ServiceDisplayName') || !(item.Metadata.ServiceDisplayName.match(/mosaic:[a-z0-9_-]+\.[a-z0-9_-]+\.[a-z0-9_-]+/g) || item.Metadata.ServiceDisplayName.match(/.+:.+/g))
             && item.Metadata.HasDoc);
     }
 
@@ -149,7 +149,13 @@
                 let a = document.createElement("a");
                 a.href = {{$.Prefix}} +"doc/" + li.Service.namespace + "/" + li.Service.name;
                 let displayName = li.Metadata.ServiceDisplayName;
+<<<<<<< HEAD
                 a.innerText = displayName.indexOf('.') >= 0 ? displayName.substring(displayName.indexOf('.') + 1) : displayName.substring(displayName.indexOf(':') + 1).trim();
+||||||| parent of 47a4e91 (MOS-5141 Adapt API category regex to new pattern)
+                a.innerText = displayName.substring(displayName.indexOf('.') + 1);
+=======
+                a.innerText = displayName.indexOf('.') >= 0 ? displayName.substring(displayName.indexOf('.') + 1) : displayName.substring(displayName.indexOf(':') + 1);
+>>>>>>> 47a4e91 (MOS-5141 Adapt API category regex to new pattern)
                 liItem.appendChild(a);
                 uList.appendChild(liItem);
             });
