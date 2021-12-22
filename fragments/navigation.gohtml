@@ -139,7 +139,9 @@
             uList.classList.add("contentList");
 
             // Collect all APIs belonging to same category and do have a documentation
-            const liList = apiList.filter(i => i.Metadata.ServiceDisplayName.substring(displayName.indexOf(':') + 1).startsWith(category) && i.Metadata.HasDoc);
+            const liList = apiList.filter(i => (i.Metadata.ServiceDisplayName.indexOf('.') >= 0 ?
+                i.Metadata.ServiceDisplayName.substring(i.Metadata.ServiceDisplayName.indexOf(':') + 1) :
+                i.Metadata,ServiceDisplayName.substring(0, i.Metadata.ServiceDisplayName.indexOf(':'))).startsWith(category) && i.Metadata.HasDoc);
 
             // Create for each API a li element with a link to the documentation
             liList.forEach(li => {
