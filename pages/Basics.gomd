@@ -1,7 +1,56 @@
  <h1>Basics</h1>
 
+  <h2>Authentication</h2>
+  <h3>OAuth2 Authentication for hvv switch App Users</h3>
+  https://confluence.hochbahn.de/display/BEAM/hvv+switch+App+Authentifizierung
+
+  <h3>OAuth2 Authentication via Confidential Client</h3>
+  <h4>Prerequisites</h4>
+
+  To authenticate against the MOSAIC platform you need a <b>client_id</b> and a <b>client_secret</b>. Both are provided to you by your MOSAIC contacts. These are your credentials, so please treat and store them securely.
+
+  <h4>Getting a JSON Web Token (JWT)</h4>
+
+  <h5>Request</h5>
+
+  A curl request to get a JWT might look like this:
+
+  <code>curl -X POST 'https://id.{stage}.hochbahn.cloud/realms/mosaic/protocol/openid-connect/token' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -d 'grant_type=client_credentials' \
+  -d 'client_id={client-id}>' \
+  -d 'client_secret= {client-secret}'</code>
+
+  The <b>stage</b> can be <i>dev</i>, <i>qa</i> or be omitted for PROD (id.hochbahn.cloud).
+
+  The <b>client_id</b> and <b>client_secret</b> are your credentials.
+
+  <h5>Response</h5>
+
+  The response is JSON and might look like this:
+
+  <code>{
+      "access_token": "{access-token}",
+      "expires_in": 300,
+      "refresh_expires_in": 0,
+      "token_type": "Bearer",
+      "not-before-policy": 0,
+      "scope": ""
+  }</code>
+
+  The <b>access_token</b> is the JWT you will need for any further API requests.
+
+  The expiration date is specified in <b>expires_in</b> in seconds. This means, your token is valid only for a certain amount of time, before you have to get a new one using this procedure.
+
+  <h5>Calling the MOSAIC API with the JWT</h5>
+
+  Once you've obtained a valid JWT, you have to append it to any subsequent API request. To do so, you need to supply a HTTP Header "Authorization" with the content "Bearer {access_token}", where you need to insert your <b>access_token</b> JWT resource. An example GET request against a fictional /some-example-api REST API might look like this:
+
+  <code>curl -X GET 'https://api.{stage}.hochbahn.cloud/some-example-api \
+  -H 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MzQ2MzUyMjgsImlhdCI6MTYzNDYzNDkyOCwianRpIjoiODc0OTcwNDEtNmI3Yy00OTdlLTliYWUtZWJjZDNmNjk4Y2RlIiwiaXNzIjoiaHR0cHM6Ly9pZC5kZXYuaG9jaGJhaG4uY2xvdWQvcmVhbG1zL21vc2FpYyIsInN1YiI6ImI3ZmE5YzAxLWU3ZmQtNDg0Ny05NzE0LTQ3MjdmNThmZjQ4MiIsInR5cCI6IkJlYXJlciIsImF6cCI6InNvbWUtZXhhbXBsZS1jbGllbnQiLCJhY3IiOiIxIiwic2NvcGUiOiIiLCJjbGllbnRJZCI6InNvbWUtZXhhbXBsZS1jbGllbnQiLCJjbGllbnRIb3N0IjoiMTI3LjAuMC4xIiwiY2xpZW50QWRkcmVzcyI6IjEyNy4wLjAuMSJ9.YosLHy0TtyYMSEx0pVE6VVLqWmpfHd0ZJP6oQv0dr0c'</code>
+
+
   <h2>Roles</h2>
-   <pre>
   <p>
   There are basically 2 different roles important for you, using this API:
 
@@ -22,19 +71,15 @@
 
   Whenever you try to access an API endpoint with a not privileged role, a HttpStatus 403 Error Response is returned
   </p>
-   </pre>
 
 <h1>Error Responses
 </h1>
-  <pre>
   <p>
   If something goes wrong, you will receive a uniform Error Response.
   </p>
-  </pre>
 
   <h2>Error Format
   </h2>
- <pre>
   <p>
   <code>
    {
@@ -63,11 +108,9 @@
   response will contain the Legacy error format. Since we don't recommend using the Legacy error format, we won't document it here.
 
   </p>
-  </pre>
 
 <h2>Error Codes
 </h2>
-  <pre>
   <p>
   General Client errors (HTTP Status 4xx):
   - <code>BAD_REQUEST</code>: The request is malformed or required properties are missing (HTTP Status 400)
@@ -191,11 +234,9 @@
   - <code>ORDER_CUSTOMER_NUMBER_NOT_MATCHING</code>: The requested rental order does not belong to the user. (HTTP Status 500)
 
   </p>
-  </pre>
 
 <h1>Date Format
 </h1>
-  <pre>
   <p>
   Our APIs sometimes expect dates as input in the request body or returns dates in the response body. In this case, we rely on string representation of
   the date according to <a href="https://en.wikipedia.org/wiki/ISO_8601">ISO 8601</a>.
@@ -205,4 +246,3 @@
 
   For better understanding of how the string representation of a date might look like, please take a look
   at <a href="https://docs.oracle.com/javase/8/docs/api/java/time/format/DateTimeFormatter.html#ISO_OFFSET_DATE_TIME">the Java documentation of ISO_OFFSET_DATE_TIME</a>.</p>
-  </pre>
