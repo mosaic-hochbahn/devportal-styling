@@ -80,7 +80,7 @@
     // Collect all APIs that don't have a displayname matching the "mosaic:<category>.xxx.xxx" syntax, but do have a documentation.
     getUncategorizedApis = () => {
         return apiList.filter(item =>
-            (!item.Metadata.hasOwnProperty('ServiceDisplayName') || !(item.Metadata.ServiceDisplayName.match(/mosaic:[a-z0-9_-]+\.[a-z0-9_-]+\.[a-z0-9_-]+/g) || item.Metadata.ServiceDisplayName.match(/.+:.+/g))
+            (!item.Metadata.hasOwnProperty('ServiceDisplayName') || !(item.Metadata.ServiceDisplayName.match(/mosaic:[a-z0-9_-]+\.[a-z0-9_-]+\.[a-z0-9_-]+/g) || item.Metadata.ServiceDisplayName.match(/.+:.+/g)))
             && item.Metadata.HasDoc);
     }
 
