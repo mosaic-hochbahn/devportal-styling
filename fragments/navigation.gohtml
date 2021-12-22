@@ -70,7 +70,7 @@
 
     // Collect all API-categories from all display_names matching "mosaic:<category>.xxx.xxx"
     getApiCategories = () => {
-        return [...new Set(apiList.flatMap(item =>
+        return [...new Set(apiList.filter(item => item.Metadata.HasDoc).flatMap(item =>
             item.Metadata.ServiceDisplayName.match(/mosaic:[a-z0-9_-]+\.[a-z0-9_-]+\.[a-z0-9_-]+/g) ?
                 [item.Metadata.ServiceDisplayName.substring(7, item.Metadata.ServiceDisplayName.indexOf('.'))] :
                 item.Metadata.ServiceDisplayName.match(/.+:.+/g) ? [item.Metadata.ServiceDisplayName.substring(0, item.Metadata.ServiceDisplayName.indexOf(':'))] : []
