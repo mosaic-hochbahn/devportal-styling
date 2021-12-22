@@ -7,8 +7,9 @@
   <h3>OAuth2 Authentication via Confidential Client</h3>
   <h4>Prerequisites</h4>
 
-  To authenticate against the MOSAIC platform you need a client_id and a client_secret. Both are provided to you by your MOSAIC contacts. These are your credentials, so please treat and store them securely.
-  Getting a JSON Web Token (JWT)
+  To authenticate against the MOSAIC platform you need a <b>client_id</b> and a <b>client_secret</b>. Both are provided to you by your MOSAIC contacts. These are your credentials, so please treat and store them securely.
+
+  <h4>Getting a JSON Web Token (JWT)</h4>
 
   <h5>Request</h5>
 
@@ -20,7 +21,7 @@
   -d 'client_id={client-id}>' \
   -d 'client_secret= {client-secret}'</code>
 
-  The <b>stage</b> can be <b>dev</b>, <b>qa</b> or be omitted for PROD (id.hochbahn.cloud).
+  The <b>stage</b> can be <i>dev</i>, <i>qa</i> or be omitted for PROD (id.hochbahn.cloud).
 
   The <b>client_id</b> and <b>client_secret</b> are your credentials.
 
