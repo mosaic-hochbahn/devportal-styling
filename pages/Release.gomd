@@ -1,5 +1,336 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-100.0
+
+<p>
+    Deployment Date <strong>PROD</strong>: tba
+</p>
+<p>
+    Deployment Date <strong>QA</strong>:
+    <time class="date-past">06.01.22</time> - 13:43:42
+</p>
+<p>
+    Versionshinweise - mosaic - Version MOSAIC-100.0
+</p>
+<p>
+    Lösungsversion - siehe: <a href="https://jira.hochbahn.de/projects/MOS/versions/12513">https://jira.hochbahn.de/projects/MOS/versions/12513</a>
+</p>
+<p>
+<table>
+    <caption>Related Issues</caption>
+    <thead>
+    <tr>
+        <th scope="col">Schlüssel</th>
+        <th scope="col">Zusammenfassung</th>
+        <th scope="col">S</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5530">MOS-5530</a></td>
+        <td>MILES Webhooks mit Locking versehen</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5529">MOS-5529</a></td>
+        <td>Mapping Fehler bei der Mehrwertsteuer</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5527">MOS-5527</a></td>
+        <td>Miles-Mock gibt zu früh FINISHED_RENT zurück</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5526">MOS-5526</a></td>
+        <td>Fix DocumentValidation Systemtest</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5525">MOS-5525</a></td>
+        <td>DecimalFormat thread-safe machen</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5523">MOS-5523</a></td>
+        <td>Deployment - random delay auf DEV verkürzen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5519">MOS-5519</a></td>
+        <td>CRM: Als KSM möchte ich fixierte Tabellenüberschriften</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5518">MOS-5518</a></td>
+        <td>ptnova-auth-proxy Memory-Leak</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5514">MOS-5514</a></td>
+        <td>Identity-Service nutzt kein lowercase bei username Query</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5500">MOS-5500</a></td>
+        <td>Kafka Readyness Check failed bei geschlossener Verbindung</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5498">MOS-5498</a></td>
+        <td>Aktualisierung der Order-Service API im billing-order-orchestration</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5496">MOS-5496</a></td>
+        <td>Sensitive Daten in VDV-BO und PTS nicht mehr loggen</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5495">MOS-5495</a></td>
+        <td>MOIA Error Mapping</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5494">MOS-5494</a></td>
+        <td>Dependency Check Log4j-Issues beheben</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5492">MOS-5492</a></td>
+        <td>CRM (QA): Administration Kundenstatus nicht möglich</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5485">MOS-5485</a></td>
+        <td>updateRecoveryJob wirft Fehler</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5484">MOS-5484</a></td>
+        <td>Billing@ARM</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5481">MOS-5481</a></td>
+        <td>Rechnungslayout-Anpassung</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5480">MOS-5480</a></td>
+        <td>Kreditkarte m-crm Texte generieren</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5476">MOS-5476</a></td>
+        <td>messaging-service dependency updates</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5473">MOS-5473</a></td>
+        <td>Ambassador: Keycloak hvv switch filter auf PROD konfigurieren</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5463">MOS-5463</a></td>
+        <td>PTNova-Proxy Systemtests schlagen regelmäßig fehl</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5461">MOS-5461</a></td>
+        <td>Kafka Consume Errors im identity-service</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5460">MOS-5460</a></td>
+        <td>microservice-starter-commons: log4j Version auf 2.16.0 aktualisieren</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5459">MOS-5459</a></td>
+        <td>Eventual Consistency: Account-Service verwirft CustomerUpdateEvents nach fehlerhafter Verarbeitung</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5456">MOS-5456</a></td>
+        <td>firebase-cloudmsg-adapter dependencies updaten</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5455">MOS-5455</a></td>
+        <td>Timeouts führen zu falschen Ergebnissen in Regression-Test</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5454">MOS-5454</a></td>
+        <td>System Test Moia Payment Präfix anpassen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5439">MOS-5439</a></td>
+        <td>MOIA Buchung unmöglich</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5436">MOS-5436</a></td>
+        <td>Account-Service: Anonymisierte User bei werden in ProcessUnconfirmedAccountsJob bearbeitet</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5435">MOS-5435</a></td>
+        <td>Dependabot Merge Requests in Billing Domänen Services</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5434">MOS-5434</a></td>
+        <td>Fehler beim Konsumieren von Kafka Messages in go-microservice-starter-commons</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5426">MOS-5426</a></td>
+        <td>SystemTests anpassen (UserAgent / MockSzenario)</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5409">MOS-5409</a></td>
+        <td>Rolle und Parameter aus Token auslesen</td>
+        <td><img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5403">MOS-5403</a></td>
+        <td>CRM: Bei Vorliegen mehrerer Gründe des Validierungsentzugs wird nur ein Grund ausgewiesen (QA)</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5388">MOS-5388</a></td>
+        <td>Fix nullpointer payment method misssing requirements for PAYPAL</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5386">MOS-5386</a></td>
+        <td>Identity-Service akzeptiert Usernamen, die keine Email-Adressen sind</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5385">MOS-5385</a></td>
+        <td>Systemtests für neues Identity Management</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5384">MOS-5384</a></td>
+        <td>Monolith sieht von Identity-Service angelegte User nicht</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5383">MOS-5383</a></td>
+        <td>messaging-service: Logging prüfen und ggf. reduzieren</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5371">MOS-5371</a></td>
+        <td>Bei wiederholten Miles 401 sollte neuer Token geholt werden</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5370">MOS-5370</a></td>
+        <td>Adressdaten tracken</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5365">MOS-5365</a></td>
+        <td>Registrierungen via Keycloak mittels requestId nachverfolgen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5364">MOS-5364</a></td>
+        <td>Sensible Daten in den Logs vermeiden</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5355">MOS-5355</a></td>
+        <td>Basis: Event-Interfaces-Commons auf 2.14.0 aktualisieren</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5313">MOS-5313</a></td>
+        <td>OCPI Callbacks für Location Pushes unterstützen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5301">MOS-5301</a></td>
+        <td>PMAO hinzufügen einer Kreditkarte</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5278">MOS-5278</a></td>
+        <td>account-service: Mailversand zu Sendgrid-Template ändern</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5249">MOS-5249</a></td>
+        <td>dependency-Updates: account-service</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5141">MOS-5141</a></td>
+        <td>DevPortal - Kategorien in mappings.name kodieren</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    </tbody>
+</table>
+</p>
+
 ## MOSAIC-99.0
 
 <p>
