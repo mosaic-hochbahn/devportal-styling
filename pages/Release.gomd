@@ -1,5 +1,138 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-102.0
+
+<p>
+    Deployment Date <strong>PROD</strong>: tba
+</p>
+<p>
+    Deployment Date <strong>QA</strong>:
+    <time class="date-past">20.01.22</time> - 13:34:10
+</p>
+<p>
+    Versionshinweise - mosaic - Version MOSAIC-102.0
+</p>
+<p>
+    Lösungsversion - siehe: <a href="https://jira.hochbahn.de/projects/MOS/versions/12527">https://jira.hochbahn.de/projects/MOS/versions/12527</a>
+</p>
+<p>
+<table>
+    <caption>Related Issues</caption>
+    <thead>
+    <tr>
+        <th scope="col">Schlüssel</th>
+        <th scope="col">Zusammenfassung</th>
+        <th scope="col">S</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5657">MOS-5657</a></td>
+        <td>PreferredPaymentMethods ohne Kreditkarten-Details bei last ordered oder CiBo</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5653">MOS-5653</a></td>
+        <td>CRM und DEV-Portal im Switch-Ticket-Service reparieren</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5643">MOS-5643</a></td>
+        <td>Reihenfolge der Einbindung der Repos korrigieren</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5634">MOS-5634</a></td>
+        <td>Ride APIs im DEV-Portal veröffentlichen</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5633">MOS-5633</a></td>
+        <td>[crm] setzen featureToggle Erstattungen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5627">MOS-5627</a></td>
+        <td>CRM: Spezifikation Fehlermeldung Statusänderung</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5557">MOS-5557</a></td>
+        <td>Correlation Id in Quartz Jobs pro Auftrag</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5549">MOS-5549</a></td>
+        <td>MOIA-Mock triggert die Events</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5539">MOS-5539</a></td>
+        <td>customer-service tests nachziehen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5501">MOS-5501</a></td>
+        <td>Jenkinsfile: Determine-Version Stage in Services ändern</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5421">MOS-5421</a></td>
+        <td>Kreditkarte für Buchungen verwenden</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5354">MOS-5354</a></td>
+        <td>Als KSM möchte ich im CRM den Buchungsdetails entnehmen können, dass mit dem Zahlungsmittel Kreditkarte bezahlt wurde</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5353">MOS-5353</a></td>
+        <td>Als KSM möchte ich das Zahlungsmittel Kreditkarte im CRM angezeigt bekommen</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5158">MOS-5158</a></td>
+        <td>HA-Proxies durch ptnova-auth-proxy ablösen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-4943">MOS-4943</a></td>
+        <td>miles-auth-proxy readiness check erweitern</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-4855">MOS-4855</a></td>
+        <td>SixtShareAdapter Nutzung ausbauen</td>
+        <td><img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-3818">MOS-3818</a></td>
+        <td>CustomerService implementiert den alten setCustomer Call</td>
+        <td><img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    </tbody>
+</table>
+</p>
+
 ## MOSAIC-101.0
 
 <p>
