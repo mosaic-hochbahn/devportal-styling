@@ -1,5 +1,198 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-103.0
+
+<p>
+    Deployment Date <strong>PROD</strong>: tba
+</p>
+<p>
+    Deployment Date <strong>QA</strong>:
+    <time class="date-past">27.01.22</time> - 13:20:16
+</p>
+<p>
+    Versionshinweise - mosaic - Version MOSAIC-103.0
+</p>
+<p>
+    Lösungsversion - siehe: <a href="https://jira.hochbahn.de/projects/MOS/versions/12626">https://jira.hochbahn.de/projects/MOS/versions/12626</a>
+</p>
+<p>
+<table>
+    <caption>Related Issues</caption>
+    <thead>
+    <tr>
+        <th scope="col">Schlüssel</th>
+        <th scope="col">Zusammenfassung</th>
+        <th scope="col">S</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5713">MOS-5713</a></td>
+        <td>Hinzufügen der fehlenden Property zum Helmchart des Customer-adapters</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5708">MOS-5708</a></td>
+        <td>payment_service_provider_id is not being saved in customer-service</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5690">MOS-5690</a></td>
+        <td>EA Modell generiere für Payment Token</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5679">MOS-5679</a></td>
+        <td>Order -&gt; Customer Durchreichen des x-simulate-mock-scenario headers</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5666">MOS-5666</a></td>
+        <td>CRM: Revalidierung nötig, aber Funktion nicht nutzbar</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5662">MOS-5662</a></td>
+        <td>Invalide TIER Testroller aus den Systemtests entfernen</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5656">MOS-5656</a></td>
+        <td>MDLs dürfen Erstattungen nur bis 180 Tage nach der originären Fahrt einreichen</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5651">MOS-5651</a></td>
+        <td>ocpi-service nutzt keine Middlewares</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5637">MOS-5637</a></td>
+        <td>Filter für Repositories in Billing-Domäne einrichten</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5632">MOS-5632</a></td>
+        <td>Test anpassen Bonvoyo Ergebnis prüfen</td>
+        <td><img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5550">MOS-5550</a></td>
+        <td>Date auf OffsetDateTime umstellen</td>
+        <td><img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5483">MOS-5483</a></td>
+        <td>LogPay Pre-Auth Flag für Shuttle und Scooter</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5477">MOS-5477</a></td>
+        <td>LogPay Verify nach Offline-Fall wiederholen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5471">MOS-5471</a></td>
+        <td>API v2 in MOIA für Reservation</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5437">MOS-5437</a></td>
+        <td>Upstream-Api-Generator im billing-service ablösen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5416">MOS-5416</a></td>
+        <td>MOIA-Systemtest für Order</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5362">MOS-5362</a></td>
+        <td>EA-Modell für WeShare anpassen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5298">MOS-5298</a></td>
+        <td>Bei Aufruf der Proxies den Header mitgeben</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5166">MOS-5166</a></td>
+        <td>Kreditkarte - Kreditkarte als Zahlungsmittel ändern</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5106">MOS-5106</a></td>
+        <td>404 zurückgeben, wenn preferred payment noch nicht gesetzt ist</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5013">MOS-5013</a></td>
+        <td>EA-Modell nachziehen: Customer validationMethod is not nullable</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-4954">MOS-4954</a></td>
+        <td>Kreditkarte - Logpay-Kundenkonto + Kreditkarte prüfen (Get Customer-Abfrage)</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-4855">MOS-4855</a></td>
+        <td>SixtShareAdapter Nutzung ausbauen</td>
+        <td><img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-4799">MOS-4799</a></td>
+        <td>[michi-crm] add generated customer-adapter templates to project</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-4787">MOS-4787</a></td>
+        <td>Wiederholtes Miete starten mit anderer PaymentMethod nach LogPay-Reject</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-3895">MOS-3895</a></td>
+        <td>Customer suche migrieren</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-2647">MOS-2647</a></td>
+        <td>EA-Generator auf OffsetDateTime umstellen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    </tbody>
+</table>
+</p>
+
 ## MOSAIC-102.0
 
 <p>
