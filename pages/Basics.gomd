@@ -82,6 +82,7 @@
   </h2>
   <p>
   <code>
+  <pre>
    {
         "httpStatusCode": 404, //required, contains the HTTP status code
         "server": { //required, contains information about the specific server that sent the response
@@ -101,6 +102,7 @@
             }
         ]
     }
+  </pre>
   </code>
 
   For Legacy reasons, at some API endpoints it is necessary to send a custom <code>Accept</code> Header to receive this error response format. The endpoints in
@@ -113,6 +115,7 @@
 </h2>
   <p>
   General Client errors (HTTP Status 4xx):
+
   - <code>BAD_REQUEST</code>: The request is malformed or required properties are missing (HTTP Status 400)
   - <code>VALIDATION_ERROR</code>: An error occurred validating the request body (HTTP Status 400)
   - <code>UNAUTHORIZED</code>: Authentication information is missing (HTTP Status 401)
@@ -127,12 +130,14 @@
 
 
   Payment-related Client errors (HTTP Status 4xx)
+
   - <code>NOT_VALID</code>: The requested payment provider is invalid (HTTP Status 400)
   - <code>VALIDATION_ERROR</code>: An error occurred validating the billing agreement token (HTTP Status 409)
   - <code>PSP_ERROR_REJECTED</code>: The payment has been rejected by LogPay (HTTP Status 409)
   - <code>PSP_ACCOUNT_ERROR</code>: The customer is blocked at LogPay (HTTP Status 409)
 
   Drivers-licence-related Client errors (HTTP Status 4xx)
+
   - <code>DRIVERS_LICENCE_ALREADY_KNOWN</code> The drivers licence with this licence number is already known (HTTP Status 409)
   Order-related Client errors (HTTP Status 4xx)
   - <code>NOT_VALID</code>: The requested order contained an invalid combination of parameters (HTTP Status 400)
@@ -140,9 +145,12 @@
   - <code>ORDER_FORBIDDEN</code>: The customer is not allowed to order (HTTP Status 403)
 
   Ticket-related Client errors (HTTP Status 4xx)
+
   - <code>TICKET_NOT_AVAILABLE</code>: The ticket is not yet available for download (HTTP Status 403)
   - <code>TICKET_EXPIRED</code>: The ticket is not available for download because the ticket validity is expired (HTTP Status 403)
   - <code>REQUEST_ALREADY_RECEIVED</code>: The same ticket order request has been received more than once (HTTP Status 409)
+  - <code>MSP_TRIP_ACTIVE</code>: A trip is already active for the given customer, e.g. in case of 10-Day Ticket (HTTP Status 400)
+  - <code>MSP_ALREADY_USED</code>: There is no remaining trip to activate left, e.g. in case of 10-Day Ticket (HTTP Status 400)
 
   Shuttle-related Client errors (HTTP Status 4xx)
 
