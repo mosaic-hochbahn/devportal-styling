@@ -1,5 +1,144 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-104.0
+
+<p>
+    Deployment Date <strong>PROD</strong>: tba
+</p>
+<p>
+    Deployment Date <strong>QA</strong>:
+    <time class="date-past">03.02.22</time> - 13:29:20
+</p>
+<p>
+    Versionshinweise - mosaic - Version MOSAIC-104.0
+</p>
+<p>
+    Lösungsversion - siehe: <a href="https://jira.hochbahn.de/projects/MOS/versions/12628">https://jira.hochbahn.de/projects/MOS/versions/12628</a>
+</p>
+<p>
+<table>
+    <caption>Related Issues</caption>
+    <thead>
+    <tr>
+        <th scope="col">Schlüssel</th>
+        <th scope="col">Zusammenfassung</th>
+        <th scope="col">S</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5790">MOS-5790</a></td>
+        <td>10 TK - Beim Kauf auf aktive Karte für mit selben Bereich achten</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5768">MOS-5768</a></td>
+        <td>Paypal-Konto im Rechnungsabbinder temporär löschen</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5752">MOS-5752</a></td>
+        <td>10TK - Billing-Event für Ticketkauf anpassen</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5743">MOS-5743</a></td>
+        <td>Order Mock active until liefern</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5740">MOS-5740</a></td>
+        <td>Sixt Systemtests Billing robuster machen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5730">MOS-5730</a></td>
+        <td>[crm] suche verfeinern</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5726">MOS-5726</a></td>
+        <td>Ride DEV Systemtests reparieren</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5714">MOS-5714</a></td>
+        <td>[crm] specialFeeToggle ausbauen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5682">MOS-5682</a></td>
+        <td>API v2 in Tier für Trips - Starten und Beenden</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5644">MOS-5644</a></td>
+        <td>10 TK - Neue Felder speichern und ausgeben</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5636">MOS-5636</a></td>
+        <td>Client Service Klassen um Response Validierung erweitern</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5631">MOS-5631</a></td>
+        <td>Payment Token ist Optional für Kreditkarte</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5508">MOS-5508</a></td>
+        <td>Resolve OWASP Issues in Customer-Service</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5444">MOS-5444</a></td>
+        <td>WESHARE in den Services eintragen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5428">MOS-5428</a></td>
+        <td>Mobi-Budget: DEV und QA URL des DBC-Systems ändern</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5422">MOS-5422</a></td>
+        <td>Kreditkarte in Systemtest-Buchungen verwenden</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-4343">MOS-4343</a></td>
+        <td>Automatischen Scan von Dependency-Updates mit Dependabot</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-3824">MOS-3824</a></td>
+        <td>Nach jeder Kundendaten-Aktualisierung muss der Datensatz bei LogPay auch aktualisiert werden</td>
+        <td><img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    </tbody>
+</table>
+</p>
+
 ## MOSAIC-103.0
 
 <p>
