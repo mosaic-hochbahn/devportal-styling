@@ -1,5 +1,114 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-105.0
+
+<p>
+    Deployment Date <strong>PROD</strong>: tba
+</p>
+<p>
+    Deployment Date <strong>QA</strong>:
+    <time class="date-past">10.02.22</time> - 14:32:13
+</p>
+<p>
+    Versionshinweise - mosaic - Version MOSAIC-105.0
+</p>
+<p>
+    Lösungsversion - siehe: <a href="https://jira.hochbahn.de/projects/MOS/versions/12532">https://jira.hochbahn.de/projects/MOS/versions/12532</a>
+</p>
+<p>
+<table>
+    <caption>Related Issues</caption>
+    <thead>
+    <tr>
+        <th scope="col">Schlüssel</th>
+        <th scope="col">Zusammenfassung</th>
+        <th scope="col">S</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5813">MOS-5813</a></td>
+        <td>Order und Billing-Service - Bonvoyo VPN Tunnel nicht mehr nutzen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5802">MOS-5802</a></td>
+        <td>Dependabot Mayhem </td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5790">MOS-5790</a></td>
+        <td>10 TK - Beim Kauf auf aktive Karte mit dem selben Bereich achten</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5775">MOS-5775</a></td>
+        <td>Ride: 10er Tageskarte - Erstattung</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5767">MOS-5767</a></td>
+        <td>Paypal-Konto im Rechnungsabbinder maskieren</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5756">MOS-5756</a></td>
+        <td>Als Billing Entwickler möchte ich stabilere System-Tests für Aufträge im BILLABLE Status</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5733">MOS-5733</a></td>
+        <td>CustomerOrderAuthorizationService um WESHARE erweitern und auf 1.3.0 heben</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5645">MOS-5645</a></td>
+        <td>Migration der Altdaten aus dem LogPayAdapter</td>
+        <td><img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5615">MOS-5615</a></td>
+        <td>[customer-service] city too short response</td>
+        <td><img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5606">MOS-5606</a></td>
+        <td>10 TK - Einlösen weiterer Streifen</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-5250">MOS-5250</a></td>
+        <td>Systemtest - Fahrt mit Kreditkarte als Zahlungsmittel</td>
+        <td><img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-4868">MOS-4868</a></td>
+        <td>Kreditkarte - Zahlungsmittel abrechnen</td>
+        <td><img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img></td>
+    </tr>
+    
+    <tr>
+        <td><a href="https://jira.hochbahn.de/browse/MOS-4859">MOS-4859</a></td>
+        <td>Ungenutzte Endpunkte entfernen</td>
+        <td><img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img></td>
+    </tr>
+    
+    </tbody>
+</table>
+</p>
+
 ## MOSAIC-104.0
 
 <p>
