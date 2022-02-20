@@ -1,60 +1,49 @@
 # Domains in MOSAIC
 
-<p>MOSAIC split up in different Domains </p>
+MOSAIC splits up in multiple Domains.
 
-<img src="../assets/png/domains.jpg" style="width:800px;"/>
+<img src="../assets/png/mosaic_domains_v2022.png" style="width:800px;"/>
 
-<p>The different domains are covered by the following teams: </p>
-<table>
-<tr>
-<th>Domain</th><th>Team</th>
-</tr><tr>
-<td>Mobility Info</td><td>Search</td>
-</tr><tr>
-<td>Routing</td><td>Search</td>
-</tr><tr>
-<td>Offer</td><td>Ride</td>
-</tr><tr>
-<td>Order</td><td>Ride</td>
-</tr><tr>
-<td>Access</td><td>Ride</td>
-</tr><tr>
-<td>Customer</td><td>Customer</td>
-</tr><tr>
-<td>Identity Management</td><td>Basis</td>
-</tr><tr>
-<td>Billing</td><td>Billing</td>
-</tr><tr>
-<td>Payment</td><td>Billing</td>
-</tr>
-</table>
+The different domains are covered by the following teams:
 
+Domain | Team
+---- | ----
+Mobility Info | Search
+Routing | Search
+Offer | Ride
+Order | Ride
+Access | Ride
+Customer | Customer
+Identity Management | Basis / Customer
+Billing | Billing
+Payment | Billing
 
 ## Search
-The search Team handles the Domains Mobility Info and Routing which can be summarized as search Domain. The Main
-Business Objects in this Domain are "Orte" (Places) and "Verbindungen" (Routes). Places can be a Bus Station,
-Train Station, Address, a POI (e.g. a Theater or a switch-point), Cords.
+
+The _Search Team_ handles the domains **Mobility Info** and **Routing**, which can be summarized as search domain.<br>
+The main business objects in this domain are _Places_ ("Orte") and _Routes_ ("Verbindungen").
+_Places_ can be e.g. a bus station, train station, address, a POI (e.g. a theater or a switch-point), coordinates.
 
 
 ## Ride
-The Ride Team is responsible for the three Domains Offer, Order and Access. All three domains can be in the context
-of public transport or in additional transportation mode, e.g. Taxi, Car Sharing, Bike Sharing, Ride Pooling. So an
-Offer can be something like an public transport tariff product, or an price calculation for an Taxi or the tariff
-the price / minute for a Car rent. So all kind of different types of offers are possible.
-The order is the contractual part between the customer who accept an offer. And the third domain is to give the customer
-access to the vehicle, that could be a ticket for public transport,  open an car / bike or to pick up the customer with
-a taxi / ride pooling service.
+
+The _Ride Team_ is responsible for the three domains **Offer**, **Order** and **Access**.<br>
+All three domains can be in the context of public transport or in additional transportation mode, e.g. taxi, car sharing, bike sharing, ride pooling.<br>
+So an **Offer** can be something like a public transport tariff product, or a price calculation for a taxi or the tariff (e.g. price / minute) for a car rent.
+So all kinds of different types of offers are possible.<br>
+The **Order** is the contractual part where the customer accepts an offer.
+And the third domain objective is to give the customer **Access** to the vehicle.
+This could be a ticket for public transport, or to open an car or bike, or to pick up the customer with a taxi or ride pooling service.
 
 ## Customer
-The core part is to persist every information about the customer. The other part is to be aware of the identity of
-a customer.
 
+The main purpose of this domain is to persist the relevant information concerning the **Customer**.
+The other part is to be aware of the identity of a customer.
 
 ## Billing
-It is all about the money.
+
+The _Billing_ Teams handles the two domains **Payment** and **Billing**.
 
 ## Basis
-All environment and Architecture stuff.
 
-
-
+The _Basis Team_ cares for infrastructure and also provides tools and _glue_ services, that keeps the other domains together.

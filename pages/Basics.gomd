@@ -1,11 +1,13 @@
 # Basics
 
 ## Authentication
+
 ### OAuth2 Authentication for hvv switch App Users
 
 see https://confluence.hochbahn.de/display/BEAM/hvv+switch+App+Authentifizierung
 
 ### OAuth2 Authentication via Confidential Client
+
 #### Prerequisites
 
 To authenticate against the MOSAIC platform you need a **client_id** and a **client_secret**.<br>
@@ -60,7 +62,6 @@ An example GET request against a fictional `/some-example-api` REST API might lo
 $ curl -H 'Authorization: Bearer eyJhbGc....Hd0ZJP6oQv0dr0c' https://api.{stage}.hochbahn.cloud/some-example-api
 ```
 
-
 ## Roles
 
 There are basically 2 different roles important for you, using this API:
@@ -89,7 +90,6 @@ An admin is able to manage agents, e.g. create a new agent account. This role is
 For almost every API endpoint, some form of authentication is required. Every documented API lists the applicable _Security Schemes_ and _Roles_.
 
 Whenever you try to access an API endpoint with an unprivileged role, a HttpStatus `403` _Error Response_ will be returned.
-
 
 ## Error Responses
 
@@ -124,7 +124,6 @@ The endpoints in question mention the possibility of the custom _`Accept`_ heade
 If the custom _`Accept`_ header is not set and something goes wrong, the response will contain the legacy error format.
 Since we don't recommend using the legacy error format, we won't document it here.
 
-
 ### Error Codes
 
 #### General Client errors (HTTP Status 4xx):
@@ -140,7 +139,6 @@ Since we don't recommend using the legacy error format, we won't document it her
 - `CONFLICT`: Unable to perform the operation because of a conflict (HTTP Status `409`)
 - `MISSING_REQUIREMENTS`: Unable to comply due to missing requirements (HTTP Status `409`)
 - `USER_LOCKED`: The Account of the User has been locked f.e. by a CRM User (HTTP Status `401`)
-
 
 #### Payment-related Client errors (HTTP Status 4xx)
 
