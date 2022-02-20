@@ -4,9 +4,9 @@ Here you find some information about _'how to'_ use MOSAIC.
 
 ## Authentication
 
-At the moment you have two options to authenticate. For most of the services we use the deprecated method called.
-The newer method is the MOSAIC Identity Provider that is already in place for e.g. this MOSAIC API Portal.
-We will change the method during the years 2021.
+At the moment you have two options to authenticate. For most of the services we use the deprecated method called `beam-auth`.
+The newer authentication methods is the MOSAIC Identity Provider that is already in place for e.g. this MOSAIC API Portal.
+We will most probably deprecate the older authentication method during the year 2022.
 
 ### BEAM
 
@@ -29,4 +29,4 @@ Replace the <JWT> with {applicationKey}/{refreshToken}, the applicationKey given
 #### Client Authentication
 
 #### Customer Authentication
-OpenId Connect :-)
+OpenId Connect.
