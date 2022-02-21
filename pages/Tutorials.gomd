@@ -1,0 +1,32 @@
+# Tutorials
+
+Here you find some information about _'how to'_ use MOSAIC.
+
+## Authentication
+
+At the moment you have two options to authenticate. For most of the services we use the deprecated method called `beam-auth`.
+The newer authentication methods is the MOSAIC Identity Provider that is already in place for e.g. this MOSAIC API Portal.
+We will most probably deprecate the older authentication method during the year 2022.
+
+### BEAM
+
+To use the MOSAIC API you are given the login information for a single Anonymous User and a secret Application Key.
+You authenticate to the MOSAIC API with HTTP Basic Authentication using the login information and your secret Application key in the request header.
+
+Never share your secret keys. Keep them guarded and secure.
+
+Initial authentication against the MOSAIC API happens via Basic Authentication, every subsequent request is using Bearer Authentication:
+
+Instead of the standard HTTP Basic Authentication, where the payload consists of username:password it also contains the Application Key: applicationKey/username:password.
+Usage format: Header Authorization, Content Basic <Base64.encode(applicationKey/username:password)>.
+
+You can create a JSON Web Token (JWT) via our JWT resource.
+Usage format: Header Authorization, Content Bearer <JWT>.
+If your token has expired refresh it using /token/refresh with a similar usage format.
+Replace the <JWT> with {applicationKey}/{refreshToken}, the applicationKey given to you in advance, the refreshToken acquired together with the JWT resource.
+
+### MOSAIC Identity Provider
+#### Client Authentication
+
+#### Customer Authentication
+OpenId Connect.

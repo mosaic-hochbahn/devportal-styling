@@ -1,0 +1,49 @@
+# Domains in MOSAIC
+
+MOSAIC splits up in multiple Domains.
+
+<img src="../assets/png/mosaic_domains_v2022.png" style="width:800px;"/>
+
+The different domains are covered by the following teams:
+
+Domain | Team
+---- | ----
+Mobility Info | Search
+Routing | Search
+Offer | Ride
+Order | Ride
+Access | Ride
+Customer | Customer
+Identity Management | Basis / Customer
+Billing | Billing
+Payment | Billing
+
+## Search
+
+The _Search Team_ handles the domains **Mobility Info** and **Routing**, which can be summarized as search domain.<br>
+The main business objects in this domain are _Places_ ("Orte") and _Routes_ ("Verbindungen").
+_Places_ can be e.g. a bus station, train station, address, a POI (e.g. a theater or a switch-point), coordinates.
+
+
+## Ride
+
+The _Ride Team_ is responsible for the three domains **Offer**, **Order** and **Access**.<br>
+All three domains can be in the context of public transport or in additional transportation mode, e.g. taxi, car sharing, bike sharing, ride pooling.<br>
+So an **Offer** can be something like a public transport tariff product, or a price calculation for a taxi or the tariff (e.g. price / minute) for a car rent.
+So all kinds of different types of offers are possible.<br>
+The **Order** is the contractual part where the customer accepts an offer.
+And the third domain objective is to give the customer **Access** to the vehicle.
+This could be a ticket for public transport, or to open an car or bike, or to pick up the customer with a taxi or ride pooling service.
+
+## Customer
+
+The main purpose of this domain is to persist the relevant information concerning the **Customer**.
+The other part is to be aware of the identity of a customer.
+
+## Billing
+
+The _Billing_ Teams handles the two domains **Payment** and **Billing**.
+
+## Basis
+
+The _Basis Team_ cares for infrastructure and also provides tools and _glue_ services, that keeps the other domains together.
