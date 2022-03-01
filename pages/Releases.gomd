@@ -1,5 +1,40 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-107.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 01.03.22 - 11:28:01
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12634](https://jira.hochbahn.de/projects/MOS/versions/12634)
+
+key | summary |  type
+---- | ----|----
+[MOS-5976](https://jira.hochbahn.de/browse/MOS-5976) | LogPay CustomerUpdate Event führt zu einem Fehler | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5972](https://jira.hochbahn.de/browse/MOS-5972) | [QA] Refund-Systemtest ist flaky | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5951](https://jira.hochbahn.de/browse/MOS-5951) | 10 TK - falsches Mapping beim ProductName | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5950](https://jira.hochbahn.de/browse/MOS-5950) | ptnova-auth-proxy muss /hha_insecure/... Endpunkt unterstützen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5947](https://jira.hochbahn.de/browse/MOS-5947) | add system-test for endpoint /customer/switch-pin/reset-pin-validation | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-5946](https://jira.hochbahn.de/browse/MOS-5946) | resetSwitchPin does not work | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5933](https://jira.hochbahn.de/browse/MOS-5933) | Billing-Domäne Dependencies aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5928](https://jira.hochbahn.de/browse/MOS-5928) | Order wird nicht gecanceled wenn Fehler bei Recovery für TIER Rental-Start-Fehler auftritt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5918](https://jira.hochbahn.de/browse/MOS-5918) | Order-System-Tests mocken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5916](https://jira.hochbahn.de/browse/MOS-5916) | stadtrad-authentication-proxy wieder einführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5914](https://jira.hochbahn.de/browse/MOS-5914) | Hackdays Stadtrad | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5877](https://jira.hochbahn.de/browse/MOS-5877) | Kreditkarte / Payment method Sortierung für Anzeige im Frontend | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5854](https://jira.hochbahn.de/browse/MOS-5854) | Ride Systemtests robuster machen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5851](https://jira.hochbahn.de/browse/MOS-5851) |  Customer LogPay Calls mocken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5789](https://jira.hochbahn.de/browse/MOS-5789) | PaymentServiceProviderUserId von Customer zu LogPay durchreichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5782](https://jira.hochbahn.de/browse/MOS-5782) | Schritt 2 CustomerBillData Referenz | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-5779](https://jira.hochbahn.de/browse/MOS-5779) | Systemtest Refund stabiler machen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5776](https://jira.hochbahn.de/browse/MOS-5776) | Anpassungen in customer-service-yamls für minLength city übernehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5772](https://jira.hochbahn.de/browse/MOS-5772) | LogPay-Adapter Logging verbessern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-5769](https://jira.hochbahn.de/browse/MOS-5769) | PaymentMethodPreferred not found (404) ist kein Error | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5751](https://jira.hochbahn.de/browse/MOS-5751) | Ticket-ID zu hvv Any-Fahrt für CRM bereitstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5660](https://jira.hochbahn.de/browse/MOS-5660) | discount-service auf ptnova-auth-proxy umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5511](https://jira.hochbahn.de/browse/MOS-5511) | TicketType required machen in TicketOrderSalesDataDTO | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-766](https://jira.hochbahn.de/browse/MOS-766) | Mock für logpay-Schnittstelle erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-106.0
 
 Deployment on **PROD** at: tba
