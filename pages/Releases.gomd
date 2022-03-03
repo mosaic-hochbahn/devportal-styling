@@ -1,5 +1,56 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-108.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 03.03.22 - 13:19:17
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12636](https://jira.hochbahn.de/projects/MOS/versions/12636)
+
+key | summary |  type
+---- | ----|----
+[MOS-6016](https://jira.hochbahn.de/browse/MOS-6016) | [crm] fix ui for old hvv tickets | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6003](https://jira.hochbahn.de/browse/MOS-6003) | Bezahlen mit Kreditkarte ist nicht möglich am letzten Tag der Gültigkeit | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5994](https://jira.hochbahn.de/browse/MOS-5994) | Feature-Toggle für Mail-Reminder entfernen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-5980](https://jira.hochbahn.de/browse/MOS-5980) | Maskierung des Paypal-Kontos in Richtung CRM aufheben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5979](https://jira.hochbahn.de/browse/MOS-5979) | Umstellen PTNova-Pfad auf hha_insecure | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5977](https://jira.hochbahn.de/browse/MOS-5977) | Alle &#34;paymentServiceProviderUserId&#34; von den Customer- und Logpay-Adaptern in den Customer-service zu migrieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-5975](https://jira.hochbahn.de/browse/MOS-5975) | TIER Base-Url mit tier-auth-proxy falsch konfiguriert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5972](https://jira.hochbahn.de/browse/MOS-5972) | [QA] Refund-Systemtest ist flaky | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5953](https://jira.hochbahn.de/browse/MOS-5953) | discount-service auf neuen Endpunkt im ptnova-auth-proxy umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5942](https://jira.hochbahn.de/browse/MOS-5942) | Ride: Hackweek StadtRad | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5940](https://jira.hochbahn.de/browse/MOS-5940) | Sensor-Data-Series: Client-Fehler nur als warning loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5939](https://jira.hochbahn.de/browse/MOS-5939) | EA: PathPrefix Properties entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5917](https://jira.hochbahn.de/browse/MOS-5917) | Rechnungsdokument Ticketing / Textanpassung Gendern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5896](https://jira.hochbahn.de/browse/MOS-5896) | 10 TK - Dokumentation im DevPortal korrigieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5895](https://jira.hochbahn.de/browse/MOS-5895) | Hostname der Services mit Datenbanken in beam-dev auf mosaic-basis umstelllen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5893](https://jira.hochbahn.de/browse/MOS-5893) | Fehlende System-Tests implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5850](https://jira.hochbahn.de/browse/MOS-5850) | Billing: Ermittlung der nicht getesteten Endpunkte | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5843](https://jira.hochbahn.de/browse/MOS-5843) | Ticketing | &#34;Longtext&#34; Feld aus PTnova für tariff information | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5841](https://jira.hochbahn.de/browse/MOS-5841) | [ITM-Adapter] remove sensible data from log | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5832](https://jira.hochbahn.de/browse/MOS-5832) | Remove temp logPay table | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-5824](https://jira.hochbahn.de/browse/MOS-5824) | Billing Helm Charts prüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5805](https://jira.hochbahn.de/browse/MOS-5805) | Non-binäre Geschlechter einführen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5794](https://jira.hochbahn.de/browse/MOS-5794) | Schritt 3 CustomerBillData Referenz | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-5780](https://jira.hochbahn.de/browse/MOS-5780) | Customer: EA-Generator auf OffsetDateTime umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5742](https://jira.hochbahn.de/browse/MOS-5742) | CustomerBillData hat eine direkte Referenz zu BillableOrder statt über die BillItems | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5717](https://jira.hochbahn.de/browse/MOS-5717) | Kreditkarte - Kunden-E-Mail aussteuern, wenn Kreditkarte in Kürze abläuft/abgelaufen ist | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5703](https://jira.hochbahn.de/browse/MOS-5703) | Als Betreiber möchte ich, dass die Anrede nicht mehr validiert wird und als validiert markiert wird | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5702](https://jira.hochbahn.de/browse/MOS-5702) | Als Betreiber möchte ich, dass die neue Anrede an Drittsysteme weitergegeben wird | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5701](https://jira.hochbahn.de/browse/MOS-5701) | Als Betreiber möchte ich, dass die Anrede bei keinem MDL/Zahlungsmittel mehr ein missingRequirement ist | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5700](https://jira.hochbahn.de/browse/MOS-5700) | Als Benutzer möchte ich bei der Anrede auch &#34;Divers&#34; auswählen können | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5686](https://jira.hochbahn.de/browse/MOS-5686) | Ungenutzte CUSTOMER_PAYMENT_MASKED_CODE aus dem Bill Template entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5673](https://jira.hochbahn.de/browse/MOS-5673) | [logpay-adapter] set moved methods to deprecated | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-5668](https://jira.hochbahn.de/browse/MOS-5668) | [MOVI][EA] Mache MOVI robuster wenn Entitäten nicht existieren  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5658](https://jira.hochbahn.de/browse/MOS-5658) | CRM: Aufnahme zusätzliche Anrede &#34;Divers&#34; | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5607](https://jira.hochbahn.de/browse/MOS-5607) | Als KSM möchte ich erstattete, aktuell aktive Tickets deaktivieren können | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5590](https://jira.hochbahn.de/browse/MOS-5590) | Hostname der Basis-Services im Dev-Repo für aufrufende Services ändern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5369](https://jira.hochbahn.de/browse/MOS-5369) | Istio ausprobieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5360](https://jira.hochbahn.de/browse/MOS-5360) | CRM: Als KSM möchte ich Buchungsdetails zu 5er-Tageskarten Buchungen angezeigt bekommen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-4716](https://jira.hochbahn.de/browse/MOS-4716) | Validierung für FinishOrderEventBody und RejectOrderEventBody | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-2373](https://jira.hochbahn.de/browse/MOS-2373) | Memcache Keys spezifischer machen durch Prefix | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-107.0
 
 Deployment on **PROD** at: tba
