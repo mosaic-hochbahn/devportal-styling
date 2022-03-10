@@ -1,5 +1,42 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-109.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 10.03.22 - 13:26:21
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12638](https://jira.hochbahn.de/projects/MOS/versions/12638)
+
+key | summary |  type
+---- | ----|----
+[MOS-6055](https://jira.hochbahn.de/browse/MOS-6055) | [Activation] WeShare API update | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6049](https://jira.hochbahn.de/browse/MOS-6049) | [Activation] WeShare missing requirements have to be fullfilled | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6041](https://jira.hochbahn.de/browse/MOS-6041) | Basis-Team: WWW-Authenticate Header bei Unauthorized Responses | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6033](https://jira.hochbahn.de/browse/MOS-6033) | [MOVI][EA] Verlinkung bei Relationen geht ins Leere | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6031](https://jira.hochbahn.de/browse/MOS-6031) | Maximale Anzahl oder Dauer für Retries | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6025](https://jira.hochbahn.de/browse/MOS-6025) | systemtests aufräumen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6019](https://jira.hochbahn.de/browse/MOS-6019) | Versuch mit abgelaufener Kreditkarte zu zahlen führt zu Internal Server Error | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6017](https://jira.hochbahn.de/browse/MOS-6017) | [crm] update ng-bootsrap version | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6012](https://jira.hochbahn.de/browse/MOS-6012) | Payment Authorize in OrderService führt zu EntityNotFoundException | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6000](https://jira.hochbahn.de/browse/MOS-6000) |  TLS Handshake-Timouts im paypal-auth-proxy | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5985](https://jira.hochbahn.de/browse/MOS-5985) | CRM: Als KSM möchte ich die PayPal Adresse unmaskiert im hvv switch CRM angezeigt bekommen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5968](https://jira.hochbahn.de/browse/MOS-5968) | Go-Proxies: fehlende mockswitches für Proxies einrichten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5952](https://jira.hochbahn.de/browse/MOS-5952) | LogPay Adapter - PaymentServiceProviderUserId von Customer zu LogPay durchreichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5949](https://jira.hochbahn.de/browse/MOS-5949) | Authorisierungsprüfung für MDL auf Claim umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5944](https://jira.hochbahn.de/browse/MOS-5944) | [StadtRad] EA generate missing columns | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5934](https://jira.hochbahn.de/browse/MOS-5934) | values_env files sauber halten (customer) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5908](https://jira.hochbahn.de/browse/MOS-5908) | Analyse Twilio - 20500 Internal Server Error bewerten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5855](https://jira.hochbahn.de/browse/MOS-5855) | [NullPointer] fix NPE in BonvoyoAuthComponent | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5842](https://jira.hochbahn.de/browse/MOS-5842) | EA remove Sixt Share DB from EA  | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-5839](https://jira.hochbahn.de/browse/MOS-5839) | Refactoring Order Service - MSP Konfiguration | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-5765](https://jira.hochbahn.de/browse/MOS-5765) | [crm] Kreditkarte zum Livegang freischalten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5737](https://jira.hochbahn.de/browse/MOS-5737) | identity-service: 500 bei Versuch bereits existierenden User zu erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5707](https://jira.hochbahn.de/browse/MOS-5707) | [customer-service] fix failing test getPaymentMethodsWhileBonvoyoIsOffline | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5558](https://jira.hochbahn.de/browse/MOS-5558) | [customer-adapter] Fix Sixt Share users with bad phonenumber | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-4081](https://jira.hochbahn.de/browse/MOS-4081) | Hohe Anzahl von Verbuchungsanfragen während Downtime HNP | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-3814](https://jira.hochbahn.de/browse/MOS-3814) | LogPayCustomer Migration in die Customer-Domäne | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-108.0
 
 Deployment on **PROD** at: tba
