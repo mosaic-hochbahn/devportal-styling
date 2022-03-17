@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-110.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 17.03.22 - 13:12:27
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12545](https://jira.hochbahn.de/projects/MOS/versions/12545)
+
+key | summary |  type
+---- | ----|----
+[MOS-6119](https://jira.hochbahn.de/browse/MOS-6119) | Verzögerte Ticketgültigkeit für nächstes Prod-Release aktivieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6109](https://jira.hochbahn.de/browse/MOS-6109) | 5er-TK Gültig-Bis auf der Rechnung korrigieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6086](https://jira.hochbahn.de/browse/MOS-6086) | Als PO CRM möchte ich auf QA bei der Funktion &#34;Erstattungsanfrage an MDL&#34; eine interne Mailadresse hinterlegen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6074](https://jira.hochbahn.de/browse/MOS-6074) | TIER: Phasencheck bei StartRental einführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6062](https://jira.hochbahn.de/browse/MOS-6062) | SIXT share // Gültigkeitsdauer einer Validierung auf 24 Monate anpassen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6040](https://jira.hochbahn.de/browse/MOS-6040) | Ticket-Revoke: Erstattetes, aktuelles Ticket wird in App nicht weggeräumt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6005](https://jira.hochbahn.de/browse/MOS-6005) | Systemtests ergänzen für clarifications | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5966](https://jira.hochbahn.de/browse/MOS-5966) | mosaic -basis: move Jira Tickets  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5955](https://jira.hochbahn.de/browse/MOS-5955) | Ausbauen der Mosaic-Platform-Abhängigkeit aus Billing | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5771](https://jira.hochbahn.de/browse/MOS-5771) | 15.03.2021: Flaky Tests per default aus System-Tests ausschließen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5591](https://jira.hochbahn.de/browse/MOS-5591) | Basis-Services im alten Namespace undeployen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-109.0
 
 Deployment on **PROD** at: tba
