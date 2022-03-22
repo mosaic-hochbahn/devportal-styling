@@ -20,11 +20,11 @@ Both are provided to you by your MOSAIC contacts. **These are your credentials, 
 A curl request to get a JWT might look like this:
 
 ```bash
-$ curl -X POST 'https://id.{stage}.hochbahn.cloud/realms/mosaic/protocol/openid-connect/token' \
+curl -X POST 'https://id.{stage}.hochbahn.cloud/realms/mosaic/protocol/openid-connect/token' \
 -H 'Content-Type: application/x-www-form-urlencoded' \
 -d 'grant_type=client_credentials' \
--d 'client_id={client-id}>' \
--d 'client_secret= {client-secret}'`
+-d 'client_id={client-id}' \
+-d 'client_secret={client-secret}'
 ```
 
 The **stage** can be _"dev"_, _"qa"_ or must be omitted for PROD (id.hochbahn.cloud).
@@ -38,7 +38,7 @@ The response is JSON and might look like this:
 ```json
 {
     "access_token": "{access-token}",
-    "expires_in": 300,
+    "expires_in": 600,
     "refresh_expires_in": 0,
     "token_type": "Bearer",
     "not-before-policy": 0,
@@ -59,7 +59,7 @@ where you need to insert your **access_token** JWT resource.<br>
 An example GET request against a fictional `/some-example-api` REST API might look like this:
 
 ```bash
-$ curl -H 'Authorization: Bearer eyJhbGc....Hd0ZJP6oQv0dr0c' https://api.{stage}.hochbahn.cloud/some-example-api
+curl -H 'Authorization: Bearer eyJhbGc....Hd0ZJP6oQv0dr0c' https://api.{stage}.hochbahn.cloud/some-example-api
 ```
 
 ## Roles
@@ -89,7 +89,7 @@ An admin is able to manage agents, e.g. create a new agent account. This role is
 
 For almost every API endpoint, some form of authentication is required. Every documented API lists the applicable _Security Schemes_ and _Roles_.
 
-Whenever you try to access an API endpoint with an unprivileged role, a HttpStatus `403` _Error Response_ will be returned.
+Whenever you try to access an API endpoint with an unprivileged role, a HTTP status code `403` _Error Response_ will be returned.
 
 ## Error Responses
 
@@ -99,18 +99,18 @@ If something goes wrong, you will receive a uniform _Error Response_.
 
 ```json
 {
-    "httpStatusCode": 404, //required, contains the HTTP status code
-    "server": { //required, contains information about the specific server that sent the response
-        "time": '2019-05-28T14:07:17Z' //required, contains the current server time (UTC)
+    "httpStatusCode": 404, // required, contains the HTTP status code
+    "server": { // required, contains information about the specific server that sent the response
+        "time": '2019-05-28T14:07:17Z' // required, contains the current server time (UTC)
     },
-    "error": { //required, contains a description of the error
-        "code": "NOT_FOUND", //required, specific error code
-        "message": "The requested resource couldn't be found" //required, human readable description, useful for debugging, NOT to be used for display purposes
+    "error": { // required, contains a description of the error
+        "code": "NOT_FOUND", // required, specific error code
+        "message": "The requested resource couldn't be found" // required, human readable description, useful for debugging, NOT to be used for display purposes
     },
-    "fields": [ //optional, a list of field validation errors for POST and PUT requests with a Request Body
+    "fields": [ // optional, a list of field validation errors for POST and PUT requests with a Request Body
         {
-            "name": "firstName", //required, the field name of the Request Body
-            "error": { //required, same as above
+            "name": "firstName", // required, the field name of the Request Body
+            "error": { // required, same as above
                 "code": "MISSING",
                 "message": "field is required, but missing"
             }

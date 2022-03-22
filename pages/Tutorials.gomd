@@ -21,9 +21,9 @@ Instead of the standard HTTP Basic Authentication, where the payload consists of
 Usage format: Header Authorization, Content Basic <Base64.encode(applicationKey/username:password)>.
 
 You can create a JSON Web Token (JWT) via our JWT resource.
-Usage format: Header Authorization, Content Bearer <JWT>.
+Usage format: Header _Authorization_, Content _Bearer JWT_.
 If your token has expired refresh it using /token/refresh with a similar usage format.
-Replace the <JWT> with {applicationKey}/{refreshToken}, the applicationKey given to you in advance, the refreshToken acquired together with the JWT resource.
+Replace the _JWT_ with {applicationKey}/{refreshToken}, the applicationKey given to you in advance, the refreshToken acquired together with the JWT resource.
 
 ### MOSAIC Identity Provider
 #### Client Authentication
