@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-3.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 24.03.22 - 14:00:53
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12644](https://jira.hochbahn.de/projects/MOS/versions/12644)
+
+key | summary |  type
+---- | ----|----
+[MOS-6174](https://jira.hochbahn.de/browse/MOS-6174) | weshare-auth-proxy: 400, weil header fehlt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6150](https://jira.hochbahn.de/browse/MOS-6150) | close jira fix version schlägt seit 01.03.2022 fehl | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6080](https://jira.hochbahn.de/browse/MOS-6080) | Registrierungs-Endpunkt wie beim Monolith über identity-service anbieten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6073](https://jira.hochbahn.de/browse/MOS-6073) | Close Jira-Fix-Version nach PROD deployment für mosaic-basis ns | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6009](https://jira.hochbahn.de/browse/MOS-6009) | Account-Service: optimistic locking failed | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5965](https://jira.hochbahn.de/browse/MOS-5965) | mosaic-basis: eigene Release-Notes | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5600](https://jira.hochbahn.de/browse/MOS-5600) | miles-auth-proxy: Testabdeckung auf &gt; 80% erhöhen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5599](https://jira.hochbahn.de/browse/MOS-5599) | identity-service: Testabdeckung auf &gt; 80% erhöhen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-910](https://jira.hochbahn.de/browse/MOS-910) | Credentials im Backend sollen nicht im Code stehen (Basis) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-110.0
 
 Deployment on **PROD** at: tba
