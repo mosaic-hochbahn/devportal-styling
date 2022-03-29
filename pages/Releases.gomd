@@ -1,5 +1,44 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-111.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 29.03.22 - 15:32:56
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12548](https://jira.hochbahn.de/projects/MOS/versions/12548)
+
+key | summary |  type
+---- | ----|----
+[MOS-6196](https://jira.hochbahn.de/browse/MOS-6196) | OrderService yaml in PMAO updaten  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6176](https://jira.hochbahn.de/browse/MOS-6176) | Kreditkarte: Fallback-Flow wird mit Pre-Auth und Offline Flag gesendet. | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6168](https://jira.hochbahn.de/browse/MOS-6168) | [document-validation] RESPONSE_VALIDATION_ERROR    | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6161](https://jira.hochbahn.de/browse/MOS-6161) | EA-Generator - Generat für RentalService anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6143](https://jira.hochbahn.de/browse/MOS-6143) | Unknown Salutation Type: DIVERSE | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6131](https://jira.hochbahn.de/browse/MOS-6131) | 5er-TK Gültig-Bis in der STS korrigieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6128](https://jira.hochbahn.de/browse/MOS-6128) | SixtShare Mock aufräumen und Nicht-Happy-Path-Code entfernen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6104](https://jira.hochbahn.de/browse/MOS-6104) | OWASP: Issues in der Document-Validation korrigieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6102](https://jira.hochbahn.de/browse/MOS-6102) | CRM: Als KSM möchte ich, dass die Partnerstatus nach Kategorien geordnet sind | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6088](https://jira.hochbahn.de/browse/MOS-6088) | CRM: Als KSM möchte ich, dass die Partnerstatus im Default eingeklappt sind | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6087](https://jira.hochbahn.de/browse/MOS-6087) | Als KSM möchte ich bei der Funktion &#34;Erstattungsanfrage an MDL&#34; zusätzlich eine automatische Notiz erzeugt bekommen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6066](https://jira.hochbahn.de/browse/MOS-6066) | LogPay-Mock um Sixt-Flows erweitern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6051](https://jira.hochbahn.de/browse/MOS-6051) | [Activation] WeShare create account at 3rd Party  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6050](https://jira.hochbahn.de/browse/MOS-6050) | [Activation] WeShare create LogPay account during activation | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6048](https://jira.hochbahn.de/browse/MOS-6048) | SixtShare HAPPY_PATH | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6036](https://jira.hochbahn.de/browse/MOS-6036) | Foto initialisieren / aktualisieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6007](https://jira.hochbahn.de/browse/MOS-6007) | Systemtests ergänzen PMAO | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5961](https://jira.hochbahn.de/browse/MOS-5961) | Event Verarbeitung | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-5960](https://jira.hochbahn.de/browse/MOS-5960) | Request Verarbeitung | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-5959](https://jira.hochbahn.de/browse/MOS-5959) | Create Reservation für WeShare | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5890](https://jira.hochbahn.de/browse/MOS-5890) | Die Nichtverfügbarkeit von Saperion behandeln | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5887](https://jira.hochbahn.de/browse/MOS-5887) | Systemtests ergänzen Customer-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5840](https://jira.hochbahn.de/browse/MOS-5840) | Refactoring Billing Service - MSP Konfiguration | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-5838](https://jira.hochbahn.de/browse/MOS-5838) | Refactoring - MSP Konfiguration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5826](https://jira.hochbahn.de/browse/MOS-5826) | Tier Auftrag A0JKBV manuell abbrechen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5766](https://jira.hochbahn.de/browse/MOS-5766) | [crm] Toggle für Kreditkarte ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5687](https://jira.hochbahn.de/browse/MOS-5687) | Credentials im Backend sollen nicht versioniert werden (Ride) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-4172](https://jira.hochbahn.de/browse/MOS-4172) | CRM Buchungssuche: Als KSM möchte ich, dass die Umsortierung nach einem Kriterium gespeichert wird | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-3.0
 
 Deployment on **PROD** at: tba
