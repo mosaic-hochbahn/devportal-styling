@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-112.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 31.03.22 - 13:18:55
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12645](https://jira.hochbahn.de/projects/MOS/versions/12645)
+
+key | summary |  type
+---- | ----|----
+[MOS-6235](https://jira.hochbahn.de/browse/MOS-6235) | Fix Helm Chart Konfiguration für BCC Mails | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6233](https://jira.hochbahn.de/browse/MOS-6233) | Prüfung, ob ein Kundenbild vorhanden ist | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6232](https://jira.hochbahn.de/browse/MOS-6232) | SensorDataService Indexes im EA und Neugenerierung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6219](https://jira.hochbahn.de/browse/MOS-6219) | Testcontainers in Ride-Services auf Kafka 2.8.1 updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6217](https://jira.hochbahn.de/browse/MOS-6217) | Billing-Domäne Dependencies aktualisieren #2 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6186](https://jira.hochbahn.de/browse/MOS-6186) | Umsortierung ebenfalls in der Buchungshistorie speichern | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6141](https://jira.hochbahn.de/browse/MOS-6141) | Cancel Reservation für WeShare | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6095](https://jira.hochbahn.de/browse/MOS-6095) | Get Journeys API Implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6094](https://jira.hochbahn.de/browse/MOS-6094) | Billable API Implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6093](https://jira.hochbahn.de/browse/MOS-6093) | Billable API Design | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6092](https://jira.hochbahn.de/browse/MOS-6092) | DB-Anpassungen / Migration | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-111.0
 
 Deployment on **PROD** at: tba
