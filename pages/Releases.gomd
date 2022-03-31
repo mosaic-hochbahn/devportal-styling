@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-4.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 31.03.22 - 14:39:45
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12646](https://jira.hochbahn.de/projects/MOS/versions/12646)
+
+key | summary |  type
+---- | ----|----
+[MOS-6198](https://jira.hochbahn.de/browse/MOS-6198) | account service - node mit mehr RAM requesten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5602](https://jira.hochbahn.de/browse/MOS-5602) | apikey-auth-proxy: Testabdeckung auf &gt; 80% erhöhen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5601](https://jira.hochbahn.de/browse/MOS-5601) | gti-proxy: Testabdeckung auf &gt; 80% erhöhen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5598](https://jira.hochbahn.de/browse/MOS-5598) | ocpi-auth-proxy: Testabdeckung auf &gt; 80% erhöhen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-112.0
 
 Deployment on **PROD** at: tba
