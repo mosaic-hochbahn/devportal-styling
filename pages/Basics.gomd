@@ -128,28 +128,31 @@ Since we don't recommend using the legacy error format, we won't document it her
 
 #### General Client errors (HTTP Status 4xx):
 
-- `BAD_REQUEST`: The request is malformed or required properties are missing (HTTP Status `400`)
-- `VALIDATION_ERROR`: An error occurred validating the request body (HTTP Status `400`)
-- `UNAUTHORIZED`: Authentication information is missing (HTTP Status `401`)
-- `TOKEN_EXPIRED`: Authentication token is expired (HTTP Status `401`)
 - `AUTHENTICATION_FAILED`: The given Authentication information is invalid (HTTP Status `401`)
-- `FORBIDDEN`: The user privileges are insufficient (HTTP Status `403`)
-- `TOO_MANY_FAILED_LOGINS`: Login &amp; other password related features are temporarily blocked because of too many failed login attempts (HTTP Status `403`)
-- `NOT_FOUND`: A resource could not be found (HTTP Status 404)
+- `BAD_REQUEST`: The request is malformed or required properties are missing (HTTP Status `400`)
 - `CONFLICT`: Unable to perform the operation because of a conflict (HTTP Status `409`)
-- `MISSING_REQUIREMENTS`: Unable to comply due to missing requirements (HTTP Status `409`)
+- `FORBIDDEN`: The user privileges are insufficient (HTTP Status `403`)
+- `NOT_FOUND`: A resource could not be found (HTTP Status 404)
+- `TOKEN_EXPIRED`: Authentication token is expired (HTTP Status `401`)
+- `TOO_MANY_FAILED_LOGINS`: Login &amp; other password related features are temporarily blocked because of too many failed login attempts (HTTP Status `403`)
+- `UNAUTHORIZED`: Authentication information is missing (HTTP Status `401`)
 - `USER_LOCKED`: The Account of the User has been locked f.e. by a CRM User (HTTP Status `401`)
+- `VALIDATION_ERROR`: An error occurred validating the request body (HTTP Status `400`)
 
 #### Payment-related Client errors (HTTP Status 4xx)
 
+- `AT_LEAST_ONE_PAYMENT_METHOD_REQUIRED`: Last payment method is not deletable because at least one payment method is required (HTTP Status `409`)
+- `EXPIRED_PAYMENT_METHOD`: The provided payment method (.g. credit card) is expired (HTTP Status `403`)
 - `NOT_VALID`: The requested payment provider is invalid (HTTP Status `400`)
-- `VALIDATION_ERROR`: An error occurred validating the billing agreement token (HTTP Status `409`)
 - `PSP_ERROR_REJECTED`: The payment has been rejected by LogPay (HTTP Status `409`)
 - `PSP_ACCOUNT_ERROR`: The customer is blocked at LogPay (HTTP Status `409`)
+- `PAYMENT_METHOD_MISSING_REQUIREMENTS`: Unable to comply due to missing requirements for payment method f.e. creditcard (HTTP Status `409`)
+- `VALIDATION_ERROR`: An error occurred validating the billing agreement token (HTTP Status `409`)
 
 #### Drivers-licence-related Client errors (HTTP Status 4xx)
 
 - `DRIVERS_LICENCE_ALREADY_KNOWN` The drivers licence with this licence number is already known (HTTP Status `409`)
+- `NOT_MODIFIABLE`: Modification is not allowed due to validation status of drivers licence (HTTP Status `409`)
 
 #### Order-related Client errors (HTTP Status 4xx)
 
@@ -208,9 +211,16 @@ Since we don't recommend using the legacy error format, we won't document it her
 
 #### Specific Client errors (HTTP Status 4xx)
 
+- `ALREADY_VALIDATED`: The phone number has already been validated (HTTP Status `409`)
+- `CUSTOMER_USAGE_BLOCKED`: A registration attempt is made with for a blocked customer for this MSP (HTTP Status `403`)
+- `CUSTOMER_NOT_ACTIVATED_AT_MSP`: The external customer number for the provided serviceName could not be found (HTTP Status `404`)
+- `DUPLICATE_PHONE_NUMBER`: An existing account is already linked to this phone number at a msp account (HTTP Status `400`)
+- `MISSING_REQUIREMENTS`: Unable to comply due to missing requirements (HTTP Status `409`)
+- `MSP_ACTIVATION_ERROR`: It is not possible to create an account at a msp (HTTP Status `400`)
+- `MSP_HAS_NO_EXTERNAL_CUSTOMER_NUMBER`: The MPSs HVV and CIBO do not have an external customer number (HTTP Status `404`)
+- `USAGE_BLOCKED`: The user is not allowed to use the msp because his usage is blocked f.e. by a CRM User (HTTP Status `403`)
 - `USER_ALREADY_ACTIVATED`: A new activation email is requested, but the user account has already been activated (HTTP Status `400`)
 - `USER_EXISTS`: A registration attempt is made with an already registered email address (HTTP Status `409`)
-- `CUSTOMER_USAGE_BLOCKED`: A registration attempt is made with for a blocked customer for this MSP (HTTP Status `403`)
 
 #### Field Validation errors (HTTP Status 4xx)
 
