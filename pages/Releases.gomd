@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-5.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 07.04.22 - 13:33:50
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12552](https://jira.hochbahn.de/projects/MOS/versions/12552)
+
+key | summary |  type
+---- | ----|----
+[MOS-6205](https://jira.hochbahn.de/browse/MOS-6205) | EOF ERROR in Paypal-Auth-Proxy | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6200](https://jira.hochbahn.de/browse/MOS-6200) | EOF Error in Zenner-Auth-Proxy (on DEV) | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6120](https://jira.hochbahn.de/browse/MOS-6120) | Token Prüfung im identity-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-113.0
 
 Deployment on **PROD** at: tba
