@@ -1,9 +1,70 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## BASIS-4.0
+## BASIS-5.0
 
 Deployment on **PROD** at
-	<time class="date-past">05.04.22</time> - 14:07:44
+	<time class="date-past">12.04.22</time> - 13:17:20
+
+Deployment on *QA* at: 07.04.22 - 13:33:50
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12552](https://jira.hochbahn.de/projects/MOS/versions/12552)
+
+key | summary |  type
+---- | ----|----
+[MOS-6205](https://jira.hochbahn.de/browse/MOS-6205) | EOF ERROR in Paypal-Auth-Proxy | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6200](https://jira.hochbahn.de/browse/MOS-6200) | EOF Error in Zenner-Auth-Proxy (on DEV) | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6120](https://jira.hochbahn.de/browse/MOS-6120) | Token Prüfung im identity-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## MOSAIC-113.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 07.04.22 - 13:19:12
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12650](https://jira.hochbahn.de/projects/MOS/versions/12650)
+
+key | summary |  type
+---- | ----|----
+[MOS-6270](https://jira.hochbahn.de/browse/MOS-6270) | Dev-Portal Dokumentation für Ride v2/WeShare korrigieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6268](https://jira.hochbahn.de/browse/MOS-6268) | Event-Interfaces Version im Push-Gateway erhöhen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6267](https://jira.hochbahn.de/browse/MOS-6267) | ActivationStatus für frischen User beim Erstellen des Logpay-Kontos fehlt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6264](https://jira.hochbahn.de/browse/MOS-6264) | pspAccountStatusCheck um WeShare erweitern | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6263](https://jira.hochbahn.de/browse/MOS-6263) | Timout Berechnung im Logpay-Adapter korrigieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6261](https://jira.hochbahn.de/browse/MOS-6261) | [crm] Buchungsdetails korrekt anzeigen wegen gemockter Buchungen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6259](https://jira.hochbahn.de/browse/MOS-6259) | Devices-deny-list bei check | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6257](https://jira.hochbahn.de/browse/MOS-6257) | GET /trips abwärts kompatibel machen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6254](https://jira.hochbahn.de/browse/MOS-6254) | catch 404 response from customer-adpater  | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6246](https://jira.hochbahn.de/browse/MOS-6246) | CustomerServices - Spring Boot aktualisieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6241](https://jira.hochbahn.de/browse/MOS-6241) | Advanced Autoscaling einrichten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6236](https://jira.hochbahn.de/browse/MOS-6236) | SixtShare DebtData kann (theoretisch) zu Order anderer MSPs zugeordnet werden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6214](https://jira.hochbahn.de/browse/MOS-6214) | [LogPay] remove fallback to LogPay-Adapter | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6164](https://jira.hochbahn.de/browse/MOS-6164) | [pushNotification] ignore duplication Error | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6158](https://jira.hochbahn.de/browse/MOS-6158) | WeShare | System-Test OrderDebtData | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6157](https://jira.hochbahn.de/browse/MOS-6157) | [DSGVO] update bash helper | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6133](https://jira.hochbahn.de/browse/MOS-6133) | WE SHARE | API Validierung | Einschränken der erlaubten Zeichen für bestimmte Felder | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6132](https://jira.hochbahn.de/browse/MOS-6132) | Order Service: MSP Payment Reference wird nicht gespeichert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6129](https://jira.hochbahn.de/browse/MOS-6129) | clean setup of test users in mock | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6125](https://jira.hochbahn.de/browse/MOS-6125) | Systemtests um SixtCallBack für Rechnungen erweitern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6121](https://jira.hochbahn.de/browse/MOS-6121) | WE SHARE | Zugriff auf Schnittstelle Rechnunungsdownload | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6101](https://jira.hochbahn.de/browse/MOS-6101) | Xer Tageskarte | Anpassung Rechnungslayout Gültigkeit | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6089](https://jira.hochbahn.de/browse/MOS-6089) | Order-Service Schnittstellen-Spezifikationen aufräumen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6067](https://jira.hochbahn.de/browse/MOS-6067) | Systemtests: allFinished(response.orders) wirft PolyglotException | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6039](https://jira.hochbahn.de/browse/MOS-6039) | Billing Bean Konfiguration verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5956](https://jira.hochbahn.de/browse/MOS-5956) | WE SHARE | Miete beenden | Abrechnungsdatensatz von We Share erhalten und prüfen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5925](https://jira.hochbahn.de/browse/MOS-5925) | DevPortal - Domains Abschnitt Customer aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5922](https://jira.hochbahn.de/browse/MOS-5922) | DevPortal - Error Codes check (customer) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5689](https://jira.hochbahn.de/browse/MOS-5689) | Credentials im Backend sollen nicht versioniert werden (Billing) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5449](https://jira.hochbahn.de/browse/MOS-5449) | we-share Client in KeyCloak für alle Umgebungen anlegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5340](https://jira.hochbahn.de/browse/MOS-5340) | CRM: Als KSM möchte ich die alle Ticket-IDs zu hvv Any-Fahrten angezeigt bekommen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5312](https://jira.hochbahn.de/browse/MOS-5312) | Advanced Autoscaling in Billing-Services einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-4748](https://jira.hochbahn.de/browse/MOS-4748) | [Deactivate Customer] LogPay Konto aus LogPay Adapter löschen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-4670](https://jira.hochbahn.de/browse/MOS-4670) | Als Bearbeiter techn. Klärfälle möchte ich, dass zwei Optionen der Bearbeitung mit Sicherheitsabfrage angeboten werden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-1716](https://jira.hochbahn.de/browse/MOS-1716) | Als KSM möchte ich im CRM das Registrierungsdatum des Kunden angezeigt bekommen (FE) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-1715](https://jira.hochbahn.de/browse/MOS-1715) | Als KSM möchte ich im CRM das Registrierungsdatum des Kunden angezeigt bekommen (BE) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
+## BASIS-4.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 31.03.22 - 14:39:45
 
