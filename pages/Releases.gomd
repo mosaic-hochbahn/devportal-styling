@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-114.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 14.04.22 - 13:17:10
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12652](https://jira.hochbahn.de/projects/MOS/versions/12652)
+
+key | summary |  type
+---- | ----|----
+[MOS-6330](https://jira.hochbahn.de/browse/MOS-6330) | CLONE - restliche CustomerServices - Spring Boot aktualisieren-switch-clarification-service | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6326](https://jira.hochbahn.de/browse/MOS-6326) | ItmAdapter Spring Boot aktualisieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6313](https://jira.hochbahn.de/browse/MOS-6313) | UserAgent-Check als Endpunkt für Cibo | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6291](https://jira.hochbahn.de/browse/MOS-6291) | [EA] Add db index for activationStatus, code, usageBlocked | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6284](https://jira.hochbahn.de/browse/MOS-6284) | Update spring-cloud-function-core aufgrund Sicherheitslücke | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6281](https://jira.hochbahn.de/browse/MOS-6281) | [crm] Buchungsstatus CANCELED ohne retrigger bei clarification | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6277](https://jira.hochbahn.de/browse/MOS-6277) | Journey-Service publiziert seine API nicht im DEV-Portal | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6177](https://jira.hochbahn.de/browse/MOS-6177) | CardProvider im Michi-CRM richtig befuellen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6153](https://jira.hochbahn.de/browse/MOS-6153) | Maximale Nutzerzahl für hvv Any einschränken | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6118](https://jira.hochbahn.de/browse/MOS-6118) | Folgeticket: Ausbauen der Mosaic-Platform-Abhängigkeit aus Billing | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6001](https://jira.hochbahn.de/browse/MOS-6001) | Überflüssige, nicht genutzte Mappings entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5340](https://jira.hochbahn.de/browse/MOS-5340) | CRM: Als KSM möchte ich die alle Ticket-IDs zu hvv Any-Fahrten angezeigt bekommen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-6.0
 
 Deployment on **PROD** at: tba
