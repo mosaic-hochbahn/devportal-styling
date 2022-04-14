@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-6.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 14.04.22 - 13:15:12
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12653](https://jira.hochbahn.de/projects/MOS/versions/12653)
+
+key | summary |  type
+---- | ----|----
+[MOS-6282](https://jira.hochbahn.de/browse/MOS-6282) | Statische Web-Ressourcen aus Monolith in account-service überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6256](https://jira.hochbahn.de/browse/MOS-6256) | identity-service/go-microservices-starter-commons: error bei 401 | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6204](https://jira.hochbahn.de/browse/MOS-6204) | Error in miles-auth-proxy: DB lock held by another process | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6197](https://jira.hochbahn.de/browse/MOS-6197) | ptnova-authentication-proxy: Retrying request, context cancelled and panic | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5993](https://jira.hochbahn.de/browse/MOS-5993) | Passwort zurücksetzen und prüfen im Identity-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5992](https://jira.hochbahn.de/browse/MOS-5992) | requestResetPasswordLink per Account-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-5.0
 
 Deployment on **PROD** at: tba
