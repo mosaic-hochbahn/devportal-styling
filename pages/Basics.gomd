@@ -2,7 +2,7 @@
 
 ## Authentication
 
-At the moment you have two options to authenticate. For most of the services we use the deprecated method called `beam-auth`.
+At the moment you have two options to authenticate. For most of the services we us  a method called "beam-auth", wich will most probably be deprecated.
 The newer authentication method is OAuth2  MOSAIC Identity Provider that is already in place for e.g. this MOSAIC API Portal.
 We will most probably deprecate the older authentication method during the year 2022.
 
@@ -12,11 +12,11 @@ see https://confluence.hochbahn.de/display/BEAM/hvv+switch+App+Authentifizierung
 
 ### OAuth2 Authentication via Confidential Client
 
-see **Tutorials**
+see **[Tutorials](Tutorials)**
 
 ### BEAM Authentication
 
-see **Tutorials**
+see **[Tutorials](Tutorials)**
 
 ## Roles
 
