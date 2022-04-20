@@ -46,4 +46,11 @@ The _Billing_ Teams handles the two domains **Payment** and **Billing**.
 
 ## Basis
 
-The _Basis Team_ cares for infrastructure and also provides tools and _glue_ services, that keeps the other domains together.
+The _Basis_ team facilitates stable operation and continued development of the MOSAIC platform by maintaining its infrastructure and providing internal teams and external suppliers with tools and knowledge.
+
+ Responsibilities:
+ - Operation and maintenance of Basis domain services (proxies, account service, identity service, etc.)
+ - Development and evaluation of existing and new MOSAIC platform technologies
+ - Knowledge transfer among all MOSAIC teams
+ - Monitoring and support of MOSAIC tools (Jenkins, GitLab, etc.)
+ - Operation and maintenance of Geofox platform services
