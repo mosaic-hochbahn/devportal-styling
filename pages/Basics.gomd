@@ -2,65 +2,21 @@
 
 ## Authentication
 
+At the moment you have two options to authenticate. For most of the services we us  a method called "beam-auth", wich will most probably be deprecated.
+The newer authentication method is OAuth2  MOSAIC Identity Provider that is already in place for e.g. this MOSAIC API Portal.
+We will most probably deprecate the older authentication method during the year 2022.
+
 ### OAuth2 Authentication for hvv switch App Users
 
 see https://confluence.hochbahn.de/display/BEAM/hvv+switch+App+Authentifizierung
 
 ### OAuth2 Authentication via Confidential Client
 
-#### Prerequisites
+see **[Tutorials](Tutorials)**
 
-To authenticate against the MOSAIC platform you need a **client_id** and a **client_secret**.<br>
-Both are provided to you by your MOSAIC contacts. **These are your credentials, so please treat and store them securely.**
+### BEAM Authentication
 
-#### Getting a JSON Web Token (JWT)
-
-##### Request
-
-A curl request to get a JWT might look like this:
-
-```bash
-$ curl -X POST 'https://id.{stage}.hochbahn.cloud/realms/mosaic/protocol/openid-connect/token' \
--H 'Content-Type: application/x-www-form-urlencoded' \
--d 'grant_type=client_credentials' \
--d 'client_id={client-id}>' \
--d 'client_secret= {client-secret}'`
-```
-
-The **stage** can be _"dev"_, _"qa"_ or must be omitted for PROD (id.hochbahn.cloud).
-
-The **client_id** and **client_secret** are your credentials.
-
-##### Response
-
-The response is JSON and might look like this:
-
-```json
-{
-    "access_token": "{access-token}",
-    "expires_in": 300,
-    "refresh_expires_in": 0,
-    "token_type": "Bearer",
-    "not-before-policy": 0,
-    "scope": ""
-}
-```
-
-The **access_token** is the JWT you will need for any further API requests.
-
-The expiration date is specified in **expires_in** in seconds.<br>
-This means, your token is valid only for a certain amount of time, before you have to get a new one using this procedure.
-
-##### Calling the MOSAIC API with the JWT
-
-Once you've obtained a valid JWT, you have to append it to any subsequent API request.<br>
-To do so, you need to supply a HTTP header _"Authorization"_ with the content *"Bearer {access_token}"*, 
-where you need to insert your **access_token** JWT resource.<br>
-An example GET request against a fictional `/some-example-api` REST API might look like this:
-
-```bash
-$ curl -H 'Authorization: Bearer eyJhbGc....Hd0ZJP6oQv0dr0c' https://api.{stage}.hochbahn.cloud/some-example-api
-```
+see **[Tutorials](Tutorials)**
 
 ## Roles
 
@@ -89,7 +45,7 @@ An admin is able to manage agents, e.g. create a new agent account. This role is
 
 For almost every API endpoint, some form of authentication is required. Every documented API lists the applicable _Security Schemes_ and _Roles_.
 
-Whenever you try to access an API endpoint with an unprivileged role, a HttpStatus `403` _Error Response_ will be returned.
+Whenever you try to access an API endpoint with an unprivileged role, a HTTP status code `403` _Error Response_ will be returned.
 
 ## Error Responses
 
@@ -99,18 +55,18 @@ If something goes wrong, you will receive a uniform _Error Response_.
 
 ```json
 {
-    "httpStatusCode": 404, //required, contains the HTTP status code
-    "server": { //required, contains information about the specific server that sent the response
-        "time": '2019-05-28T14:07:17Z' //required, contains the current server time (UTC)
+    "httpStatusCode": 404, // required, contains the HTTP status code
+    "server": { // required, contains information about the specific server that sent the response
+        "time": '2019-05-28T14:07:17Z' // required, contains the current server time (UTC)
     },
-    "error": { //required, contains a description of the error
-        "code": "NOT_FOUND", //required, specific error code
-        "message": "The requested resource couldn't be found" //required, human readable description, useful for debugging, NOT to be used for display purposes
+    "error": { // required, contains a description of the error
+        "code": "NOT_FOUND", // required, specific error code
+        "message": "The requested resource couldn't be found" // required, human readable description, useful for debugging, NOT to be used for display purposes
     },
-    "fields": [ //optional, a list of field validation errors for POST and PUT requests with a Request Body
+    "fields": [ // optional, a list of field validation errors for POST and PUT requests with a Request Body
         {
-            "name": "firstName", //required, the field name of the Request Body
-            "error": { //required, same as above
+            "name": "firstName", // required, the field name of the Request Body
+            "error": { // required, same as above
                 "code": "MISSING",
                 "message": "field is required, but missing"
             }
