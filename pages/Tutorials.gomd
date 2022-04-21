@@ -26,8 +26,7 @@ curl 'https://api.{stage}.hochbahn.cloud/beamgateway/v2/token' \
 The **{stage}** can be _"dev"_, _"qa"_ or must be omitted for the production environment (api.hochbahn.cloud).
 
 The **{credentials}** are your Base64 encoded credentials in the form _"application-key/username:password"_.
-The username can be _"anonymous"_ for anonymous access. You can use the following Bash command to encode
-your credentials:
+You can use the following Bash command to encode your credentials:
 
 ```bash
 echo -n "{application-key}/{username}:{password}" | base64
