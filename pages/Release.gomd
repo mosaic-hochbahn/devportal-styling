@@ -1,9 +1,52 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## MOSAIC-114.0
+## MOSAIC-115.0
 
 Deployment on **PROD** at
-	<time class="date-past">20.04.22</time> - 14:41:23
+	<time class="date-past">26.04.22</time> - 13:11:56
+
+Deployment on *QA* at: 21.04.22 - 13:24:21
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12660](https://jira.hochbahn.de/projects/MOS/versions/12660)
+
+key | summary |  type
+---- | ----|----
+[MOS-6368](https://jira.hochbahn.de/browse/MOS-6368) | ExternalCustomerId für WeShare | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6358](https://jira.hochbahn.de/browse/MOS-6358) | CRM Systemtest-User anlegen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6335](https://jira.hochbahn.de/browse/MOS-6335) | Timeouts beim testing-proxy erhöhen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6327](https://jira.hochbahn.de/browse/MOS-6327) | Moia-Adapter: Beim Cancel wird kann der Body nicht ausgewertet werden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6314](https://jira.hochbahn.de/browse/MOS-6314) | activeUntil bei SIXT kann ablaufen, obwohl Buchung bei SIXT aktiv ist | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6301](https://jira.hochbahn.de/browse/MOS-6301) | optimistic locking fehler bei Tier analysieren und beheben | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6278](https://jira.hochbahn.de/browse/MOS-6278) | WeShare | System-Test OrderDebtData aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6273](https://jira.hochbahn.de/browse/MOS-6273) | Ambassador Filter für identity-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6127](https://jira.hochbahn.de/browse/MOS-6127) | WeShare | Rechnung verteilen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6069](https://jira.hochbahn.de/browse/MOS-6069) | Systemtest für Service-Aktivierung mit Minimal-User und FS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5981](https://jira.hochbahn.de/browse/MOS-5981) | HVV-Payment-System-Tests hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5833](https://jira.hochbahn.de/browse/MOS-5833) | [bonvoyo] Change response for disabled employer | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5716](https://jira.hochbahn.de/browse/MOS-5716) | WeShare Konfiguration im BillingService prüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5706](https://jira.hochbahn.de/browse/MOS-5706) | Erlaubte WeShare ProductCodes klären und im Billing-Service konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5705](https://jira.hochbahn.de/browse/MOS-5705) | WeShare-Rechnungsdokument/Erstattungsdokument im Billing konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5448](https://jira.hochbahn.de/browse/MOS-5448) | Im Billing-Service die WeShare Konfiguration für PT eintragen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5447](https://jira.hochbahn.de/browse/MOS-5447) | Im LogPay-Adapter WeShare einpflegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-4891](https://jira.hochbahn.de/browse/MOS-4891) | Systemtest HVV-Aktivierung mit minimalem User | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-4784](https://jira.hochbahn.de/browse/MOS-4784) | Cibo-Order-Flow auf Customer-Service.performCustomerAuthorizationChecks | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## BASIS-7.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 21.04.22 - 12:27:44
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12553](https://jira.hochbahn.de/projects/MOS/versions/12553)
+
+key | summary |  type
+---- | ----|----
+[MOS-6293](https://jira.hochbahn.de/browse/MOS-6293) | miles-auth-proxy: context canceled während Token Refresh | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6206](https://jira.hochbahn.de/browse/MOS-6206) | Context Deadline Exceeded Error in Miles-Auth-Proxy | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
+## MOSAIC-114.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 14.04.22 - 13:17:10
 
