@@ -1,5 +1,50 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-116.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 28.04.22 - 13:26:45
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12555](https://jira.hochbahn.de/projects/MOS/versions/12555)
+
+key | summary |  type
+---- | ----|----
+[MOS-6447](https://jira.hochbahn.de/browse/MOS-6447) | Deny List Errorcodes in cibo-ticket-order-orchestration Dokumentation nachziehen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6437](https://jira.hochbahn.de/browse/MOS-6437) | Resolve Dependency Checks Issues CustomerAdapter | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6436](https://jira.hochbahn.de/browse/MOS-6436) | Resolve Dependency Checks Issues ClarificationOrchestration | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6435](https://jira.hochbahn.de/browse/MOS-6435) | Resolve Dependency Checks Issues PaypalAdapter | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6434](https://jira.hochbahn.de/browse/MOS-6434) | Resolve Dependency Checks Issues ItmAdapter | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6433](https://jira.hochbahn.de/browse/MOS-6433) | Resolve Dependency Checks Issues ClarificationService | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6431](https://jira.hochbahn.de/browse/MOS-6431) | Resolve Dependency Checks Issues | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6427](https://jira.hochbahn.de/browse/MOS-6427) | [clarification-os] weird NPE from Maya framework  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6416](https://jira.hochbahn.de/browse/MOS-6416) | Spring Boot aktualisieren CustomerService | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6413](https://jira.hochbahn.de/browse/MOS-6413) | Billing-Domäne Dependencies aktualisieren #3 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6411](https://jira.hochbahn.de/browse/MOS-6411) | Spring Boot aktualisieren NotesService | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6409](https://jira.hochbahn.de/browse/MOS-6409) | Spring Boot aktualisieren CustomerOrchestration | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6399](https://jira.hochbahn.de/browse/MOS-6399) | [crm] Regristrierungszeitpunkt wird nicht korrekt ausgegeben | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6398](https://jira.hochbahn.de/browse/MOS-6398) | Fix weshare-authentication-proxy url for WRO | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6396](https://jira.hochbahn.de/browse/MOS-6396) | dependabot: increase libphonenumber version clarification-service  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6395](https://jira.hochbahn.de/browse/MOS-6395) | Fehler in Ambassador Mappings für rental-ride-orchestration | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6391](https://jira.hochbahn.de/browse/MOS-6391) | Sondergebühren funktionieren nicht im Fallback-Fall - A0OEBE | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6386](https://jira.hochbahn.de/browse/MOS-6386) | Systemtest Aktivierung minimal User Sixt | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6384](https://jira.hochbahn.de/browse/MOS-6384) | Systemtest Aktivierung minimal User CIBO | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6383](https://jira.hochbahn.de/browse/MOS-6383) | Systemtest Aktivierung minimal User Tier | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6381](https://jira.hochbahn.de/browse/MOS-6381) | Systemtest Aktivierung minimal User Moia | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6361](https://jira.hochbahn.de/browse/MOS-6361) | CLONE - restliche CustomerServices - Spring Boot aktualisieren-PMAO | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6344](https://jira.hochbahn.de/browse/MOS-6344) | Synched Flag setzen nur per job | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6332](https://jira.hochbahn.de/browse/MOS-6332) | Miles getTrip liefert ein leeres finished Objekt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6329](https://jira.hochbahn.de/browse/MOS-6329) | Systemtests MSP-Aktivierungen mit minimalen Usern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6315](https://jira.hochbahn.de/browse/MOS-6315) | App-Version-deny-list bei check | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6313](https://jira.hochbahn.de/browse/MOS-6313) | UserAgent-Check als Endpunkt für Cibo | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6302](https://jira.hochbahn.de/browse/MOS-6302) | [pushNotification] remove not functioning ErrorHandling | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6280](https://jira.hochbahn.de/browse/MOS-6280) | restliche CustomerServices - Spring Boot aktualisieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6222](https://jira.hochbahn.de/browse/MOS-6222) | Locations Endpoint - Prefix beam los werden - 1 - Vorbereitung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6187](https://jira.hochbahn.de/browse/MOS-6187) | PMAO update legacy OrderService API | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6060](https://jira.hochbahn.de/browse/MOS-6060) | Vor-Ort-Validierung abschalten / Neuer MessageKey | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5879](https://jira.hochbahn.de/browse/MOS-5879) | Abo-Fahrscheine speichern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5090](https://jira.hochbahn.de/browse/MOS-5090) | [CIBO] liefere das Secure-Element für ein erneutes Check-In, aber auch nur dann | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-115.0
 
 Deployment on **PROD** at: tba
