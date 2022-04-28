@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-8.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 28.04.22 - 13:32:32
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12554](https://jira.hochbahn.de/projects/MOS/versions/12554)
+
+key | summary |  type
+---- | ----|----
+[MOS-6443](https://jira.hochbahn.de/browse/MOS-6443) | /token/refresh Response an Monolith angleichen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6442](https://jira.hochbahn.de/browse/MOS-6442) | applicationID im X-Beam-Refresh-Token Request Header herausfiltern | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6440](https://jira.hochbahn.de/browse/MOS-6440) | /token/refresh bekommt &#34;Bearer &#34; Präfix im X-Beam-Refresh-Token | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6439](https://jira.hochbahn.de/browse/MOS-6439) | X-beam-client-id Header + Casing | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6388](https://jira.hochbahn.de/browse/MOS-6388) | Standard JSON Error Response bei identity-service OpenAPI validations | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6363](https://jira.hochbahn.de/browse/MOS-6363) | account-service requestResendPasswordLink prüft nicht auf anonymous User | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6339](https://jira.hochbahn.de/browse/MOS-6339) | Pfade zu Web-Ressourcen in Fehlerseiten relativ zur Domain im account-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6336](https://jira.hochbahn.de/browse/MOS-6336) | Password Reset überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6333](https://jira.hochbahn.de/browse/MOS-6333) | Endpunkte auf DEV mappen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6239](https://jira.hochbahn.de/browse/MOS-6239) | Cooldown / Brute-Force Prevention im identity-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-116.0
 
 Deployment on **PROD** at: tba
