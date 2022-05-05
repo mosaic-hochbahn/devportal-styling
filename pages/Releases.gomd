@@ -1,5 +1,37 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-117.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 05.05.22 - 13:20:12
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12558](https://jira.hochbahn.de/projects/MOS/versions/12558)
+
+key | summary |  type
+---- | ----|----
+[MOS-6508](https://jira.hochbahn.de/browse/MOS-6508) | Billing // Mobi-Budget //  Prüfung negative Zahlung ohne hvv-Auftragsnummer  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6506](https://jira.hochbahn.de/browse/MOS-6506) | Fix Mobi Purpose Response: Objekt vollständigen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6483](https://jira.hochbahn.de/browse/MOS-6483) | /cibo/service-available OpenApi.yaml Error korrigieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6480](https://jira.hochbahn.de/browse/MOS-6480) | PMAO update OrderService CancelReasonCode ENUM | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6457](https://jira.hochbahn.de/browse/MOS-6457) | Fix Ambassador Mapping for Cibo-Ticket-Order-Orchestration | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6450](https://jira.hochbahn.de/browse/MOS-6450) | [pmao] missing MSP in request | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6445](https://jira.hochbahn.de/browse/MOS-6445) | [customer-adapter] wlt-get-ok responsed with 412 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6441](https://jira.hochbahn.de/browse/MOS-6441) | ItmAdapterContractAgainstSpringBootIT reparieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6430](https://jira.hochbahn.de/browse/MOS-6430) | Create/Cancel Reservation Nacharbeiten | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6422](https://jira.hochbahn.de/browse/MOS-6422) | Quartz-Job für abgelaufene Kreditkarten | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6419](https://jira.hochbahn.de/browse/MOS-6419) | ItmAdapter auf OffsetDateTime umstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6408](https://jira.hochbahn.de/browse/MOS-6408) | [clarifiaction-service] remove old junit 4 dependency | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6390](https://jira.hochbahn.de/browse/MOS-6390) | [pmao] set up TestFixtures module | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6371](https://jira.hochbahn.de/browse/MOS-6371) | Bonvoyo-Mock: Auftrag stornieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6370](https://jira.hochbahn.de/browse/MOS-6370) | Bonvoyo-Mock: Auftrag erstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6369](https://jira.hochbahn.de/browse/MOS-6369) | Bonvoyo-Mock: Hochladen der Rechnung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6306](https://jira.hochbahn.de/browse/MOS-6306) | Advanced Autoscaling in Customer-Services umsetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6297](https://jira.hochbahn.de/browse/MOS-6297) | Billing-Service Discount-Gruppierung auf der Rechnung verallgemeinern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6191](https://jira.hochbahn.de/browse/MOS-6191) | TripInformation auf v2 gehen, wenn S&amp;B deployed hat | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6184](https://jira.hochbahn.de/browse/MOS-6184) | Start Trip für WeShare | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6159](https://jira.hochbahn.de/browse/MOS-6159) | Order LogPay-Parameter verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-8.0
 
 Deployment on **PROD** at: tba
