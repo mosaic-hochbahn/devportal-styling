@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-9.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 05.05.22 - 13:34:07
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12559](https://jira.hochbahn.de/projects/MOS/versions/12559)
+
+key | summary |  type
+---- | ----|----
+[MOS-6489](https://jira.hochbahn.de/browse/MOS-6489) | Falsche Template-ID in identity-service | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6418](https://jira.hochbahn.de/browse/MOS-6418) | bonvoyo-authentication-proxy: Weiterleitung an bonvoyo-mock konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6203](https://jira.hochbahn.de/browse/MOS-6203) | Bewertung - Twilio Error 30008 im Log | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-117.0
 
 Deployment on **PROD** at: tba
