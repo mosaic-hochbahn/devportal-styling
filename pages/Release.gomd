@@ -1,9 +1,33 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## BASIS-9.0
+## MOSAIC-118.0
 
 Deployment on **PROD** at
-	<time class="date-past">10.05.22</time> - 13:17:33
+	<time class="date-past">17.05.22</time> - 13:19:20
+
+Deployment on *QA* at: 12.05.22 - 13:16:34
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12662](https://jira.hochbahn.de/projects/MOS/versions/12662)
+
+key | summary |  type
+---- | ----|----
+[MOS-6556](https://jira.hochbahn.de/browse/MOS-6556) | Prod Cibo-Checkin funktioniert nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6526](https://jira.hochbahn.de/browse/MOS-6526) | bessere Logs für RestSwitchPinStrategy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6515](https://jira.hochbahn.de/browse/MOS-6515) | Als App-Entwickler möchte ich, dass Beispieldaten für die API per REST bereitgestellt werden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6500](https://jira.hochbahn.de/browse/MOS-6500) | WeShare Recovery im OrderService erweitern | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6478](https://jira.hochbahn.de/browse/MOS-6478) | Bonvoyo-Mock: Einbinden im order-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6446](https://jira.hochbahn.de/browse/MOS-6446) | Resolve Dependency Checks Issues DocumentValidation | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6357](https://jira.hochbahn.de/browse/MOS-6357) | Paymentflows für HVV Tickets in den Systemtests abbilden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6307](https://jira.hochbahn.de/browse/MOS-6307) | Advanced Autoscaling - Billing - Reste | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6298](https://jira.hochbahn.de/browse/MOS-6298) | OHO liefert bei CIBO-Order direkt die Journeys mit | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5983](https://jira.hochbahn.de/browse/MOS-5983) | Carsharing-Payment-System-Tests hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5880](https://jira.hochbahn.de/browse/MOS-5880) | Kundendaten eines Fahrscheins aktualisieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5453](https://jira.hochbahn.de/browse/MOS-5453) | WeShare Refund / Special Fee Tests | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5334](https://jira.hochbahn.de/browse/MOS-5334) | Gültigkeit eines Fahrscheins aktualisieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
+## BASIS-9.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 05.05.22 - 13:34:07
 
