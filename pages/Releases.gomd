@@ -1,5 +1,34 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-119.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 19.05.22 - 13:36:43
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12663](https://jira.hochbahn.de/projects/MOS/versions/12663)
+
+key | summary |  type
+---- | ----|----
+[MOS-6595](https://jira.hochbahn.de/browse/MOS-6595) | Verarbeitung von TicketOffice Kundennummern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6569](https://jira.hochbahn.de/browse/MOS-6569) | Systemtests Happy Path WeShare | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6568](https://jira.hochbahn.de/browse/MOS-6568) | Ride: CIBO Prod Livegang - Check | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6565](https://jira.hochbahn.de/browse/MOS-6565) | CIBO settings checken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6554](https://jira.hochbahn.de/browse/MOS-6554) | Ride v2 - fuelCardPin wird nicht ausgegeben | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6550](https://jira.hochbahn.de/browse/MOS-6550) | Prüfer- und Systemtestnutzer-Konto Einrichtung in ABT dokumentieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6537](https://jira.hochbahn.de/browse/MOS-6537) | Als KVP-Entwickler möchte ich die Berechtigungsnummer beim Anlegen von Abo-Merkmalen übergeben können | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6522](https://jira.hochbahn.de/browse/MOS-6522) | Bonvoyo-Mock-Transaction-Id | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6497](https://jira.hochbahn.de/browse/MOS-6497) | missing requirements um abgelaufene CC erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6484](https://jira.hochbahn.de/browse/MOS-6484) | Stop Trip für WeShare | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6429](https://jira.hochbahn.de/browse/MOS-6429) | prevent patchProfile for active creditCard | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6424](https://jira.hochbahn.de/browse/MOS-6424) | Abgelaufene Kreditkarte beim Buchen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6423](https://jira.hochbahn.de/browse/MOS-6423) | PrePay favorisieren beim Kredikarte löschen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6311](https://jira.hochbahn.de/browse/MOS-6311) |  [customer/profile] refine driversLicenseValidationStatus | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6308](https://jira.hochbahn.de/browse/MOS-6308) | Advanced Autoscaling - Ride - Reste | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6183](https://jira.hochbahn.de/browse/MOS-6183) | Abgelaufene Kreditkarte verhindert eine Sixt-Aktivierung | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6147](https://jira.hochbahn.de/browse/MOS-6147) | [activation] do not accept swiss drivers licence | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5377](https://jira.hochbahn.de/browse/MOS-5377) | CustomerUpdateEvent versucht iTM-Auftrag zu löschen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-118.0
 
 Deployment on **PROD** at: tba
