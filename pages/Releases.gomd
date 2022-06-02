@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-12.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 02.06.22 - 13:18:46
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12801](https://jira.hochbahn.de/projects/MOS/versions/12801)
+
+key | summary |  type
+---- | ----|----
+[MOS-6627](https://jira.hochbahn.de/browse/MOS-6627) | oapi-codegen (go-codegen) entfernt Flags und setzt auf Configuration in neuen releases | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6621](https://jira.hochbahn.de/browse/MOS-6621) | logpay-auth-proxy: error wenn logpay offline | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6593](https://jira.hochbahn.de/browse/MOS-6593) | mockswitch für ptnova-auth-proxy einrichten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6587](https://jira.hochbahn.de/browse/MOS-6587) | VOI Auth-Proxy einrichten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6586](https://jira.hochbahn.de/browse/MOS-6586) | Flaky-Test im miles-auth-proxy | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6536](https://jira.hochbahn.de/browse/MOS-6536) | account-service: Logging überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6455](https://jira.hochbahn.de/browse/MOS-6455) | /accounts/requestResetPasswordLink OpenAPI spec ist falsch | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-120.0
 
 Deployment on **PROD** at: tba
