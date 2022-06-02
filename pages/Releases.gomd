@@ -1,5 +1,38 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-120.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 02.06.22 - 13:15:02
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12902](https://jira.hochbahn.de/projects/MOS/versions/12902)
+
+key | summary |  type
+---- | ----|----
+[MOS-6667](https://jira.hochbahn.de/browse/MOS-6667) | Hotfix Offline Handling Logpay | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6654](https://jira.hochbahn.de/browse/MOS-6654) | [OOTW] merge dependabot postgresql-42.3.6 due to security reasons | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6652](https://jira.hochbahn.de/browse/MOS-6652) | Component-Scan - Billing Service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6637](https://jira.hochbahn.de/browse/MOS-6637) | Update liquibase version | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6615](https://jira.hochbahn.de/browse/MOS-6615) | Als Entwickler möchte ich eine aussagefähige Fehlermeldung in der Switch Ticket Order Orchestration haben | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6614](https://jira.hochbahn.de/browse/MOS-6614) | Tier - Logging reduzieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6608](https://jira.hochbahn.de/browse/MOS-6608) | Pending Mobi-Aktivierungen scheitern an Fehlkonfiguration von Comodis | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6607](https://jira.hochbahn.de/browse/MOS-6607) | [itm-adapter] use ITM-Auth-Proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6603](https://jira.hochbahn.de/browse/MOS-6603) | Logs entsprechend den Richtlinien anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6598](https://jira.hochbahn.de/browse/MOS-6598) | [crm] check validated at date at drivers licence details | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6572](https://jira.hochbahn.de/browse/MOS-6572) | [clarification-service] Enum für WeShare nachziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6551](https://jira.hochbahn.de/browse/MOS-6551) | Datenmodell erstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6539](https://jira.hochbahn.de/browse/MOS-6539) | Update java.util.Date | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6534](https://jira.hochbahn.de/browse/MOS-6534) | entferne salutation from body validator | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6517](https://jira.hochbahn.de/browse/MOS-6517) | Offline-Paymentflows für HVV Tickets in den Systemtests abbilden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6425](https://jira.hochbahn.de/browse/MOS-6425) | [authorization-checks] fix reject response handling from LogPay  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6394](https://jira.hochbahn.de/browse/MOS-6394) | Erweiterung der V1 Order History um property &#34;Antriebsart&#34; | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6385](https://jira.hochbahn.de/browse/MOS-6385) | Systemtest Aktivierung minimal User WeShare | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6146](https://jira.hochbahn.de/browse/MOS-6146) | Billing API-Fehlerbehandlung für fehlerhafte Enum-Werte | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6099](https://jira.hochbahn.de/browse/MOS-6099) | Ausbau veralteter Tabellen / Endpunkte | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6098](https://jira.hochbahn.de/browse/MOS-6098) | Alter Billable Endpunkt soll raus und neuer ohne v2 erreichbar sein | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6091](https://jira.hochbahn.de/browse/MOS-6091) | [Activation] add error handling for activation at WeShare | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-119.0
 
 Deployment on **PROD** at: tba
