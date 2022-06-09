@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-13.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 09.06.22 - 13:51:48
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12906](https://jira.hochbahn.de/projects/MOS/versions/12906)
+
+key | summary |  type
+---- | ----|----
+[MOS-6670](https://jira.hochbahn.de/browse/MOS-6670) | Neuen Host für Bonvoyo (DEV/QA) eintragen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6665](https://jira.hochbahn.de/browse/MOS-6665) | Alte PTnova Endpunkte aus ptnova-auth-proxy entfernen für DEV und QA | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6345](https://jira.hochbahn.de/browse/MOS-6345) | miles-auth-proxy: logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-121.0
 
 Deployment on **PROD** at: tba
