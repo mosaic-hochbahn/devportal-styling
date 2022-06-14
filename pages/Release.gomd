@@ -1,9 +1,46 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## BASIS-12.0
+## BASIS-13.0
 
 Deployment on **PROD** at
-	<time class="date-past">07.06.22</time> - 13:28:14
+	<time class="date-past">14.06.22</time> - 13:44:21
+
+Deployment on *QA* at: 09.06.22 - 13:51:48
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12906](https://jira.hochbahn.de/projects/MOS/versions/12906)
+
+key | summary |  type
+---- | ----|----
+[MOS-6670](https://jira.hochbahn.de/browse/MOS-6670) | Neuen Host für Bonvoyo (DEV/QA) eintragen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6665](https://jira.hochbahn.de/browse/MOS-6665) | Alte PTnova Endpunkte aus ptnova-auth-proxy entfernen für DEV und QA | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6345](https://jira.hochbahn.de/browse/MOS-6345) | miles-auth-proxy: logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## MOSAIC-121.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 09.06.22 - 13:33:02
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12905](https://jira.hochbahn.de/projects/MOS/versions/12905)
+
+key | summary |  type
+---- | ----|----
+[MOS-6707](https://jira.hochbahn.de/browse/MOS-6707) | [michi-crm] currency problem | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6702](https://jira.hochbahn.de/browse/MOS-6702) | Weshare Value in MobilityServiceProviderEnum im Clarification-Service hinzufügen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6693](https://jira.hochbahn.de/browse/MOS-6693) | Bonvoyo-Pfad-Urls korrigieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6678](https://jira.hochbahn.de/browse/MOS-6678) | [customer-service] manipulateDriversLicense schould resetValidation  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6676](https://jira.hochbahn.de/browse/MOS-6676) | Cibo Journeys auch vor der Abrechnung ausgeben | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6671](https://jira.hochbahn.de/browse/MOS-6671) | Component-Scan - Billing Order Adapter | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6493](https://jira.hochbahn.de/browse/MOS-6493) | Quartz-Job für abgelaufene Kreditkarten verfeinern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6372](https://jira.hochbahn.de/browse/MOS-6372) | Bonvoyo-Mock: System-Tests anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6250](https://jira.hochbahn.de/browse/MOS-6250) | Als Benutzer möchte ich einen Deeplink per Mail für meine Abo-Kate erhalten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6053](https://jira.hochbahn.de/browse/MOS-6053) | [Update] WeShare customer can update his personal data | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5982](https://jira.hochbahn.de/browse/MOS-5982) | MOIA/TIER-Payment-System-Tests hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5649](https://jira.hochbahn.de/browse/MOS-5649) | Ticketlayoutanforderungen Abo | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## BASIS-12.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 02.06.22 - 13:18:46
 
