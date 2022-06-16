@@ -1,5 +1,36 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-122.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 16.06.22 - 13:20:33
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12802](https://jira.hochbahn.de/projects/MOS/versions/12802)
+
+key | summary |  type
+---- | ----|----
+[MOS-6787](https://jira.hochbahn.de/browse/MOS-6787) | WeShare - Trip bleibt bei einem Fehler in ENDING_RENT hängen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6775](https://jira.hochbahn.de/browse/MOS-6775) | Shuttle Service - Debt Data Event erweitern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6767](https://jira.hochbahn.de/browse/MOS-6767) | Bonvoyo Pfade anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6761](https://jira.hochbahn.de/browse/MOS-6761) | Bonvoyo mit neuen URIs auf PROD | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6735](https://jira.hochbahn.de/browse/MOS-6735) | Klärfall: Info an Dienstleister storniert Buchung | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6734](https://jira.hochbahn.de/browse/MOS-6734) | Tier - Recovery Jobs interferieren mit User Aktionen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6681](https://jira.hochbahn.de/browse/MOS-6681) | LogPayService: TransactionHandling korrigieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6679](https://jira.hochbahn.de/browse/MOS-6679) | Check LogPay is offline verbessern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6623](https://jira.hochbahn.de/browse/MOS-6623) | WeShare Error Handling ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6486](https://jira.hochbahn.de/browse/MOS-6486) | 3 Iteration: Billing-Service Daten in den Payment-Service laden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6485](https://jira.hochbahn.de/browse/MOS-6485) | 2 Iteration: Order-Service Daten in den Payment-Service laden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6290](https://jira.hochbahn.de/browse/MOS-6290) | CRM: Als KSM möchte ich hvv Any-Fahrten analog zur App zusammengefasst angezeigt bekommen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6255](https://jira.hochbahn.de/browse/MOS-6255) | Als Betreiber möchte ich, das sichergestellt ist, dass nach einem Löschen eines Tickets aus der Wallet kein Zugriff mehr darauf möglich ist | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6199](https://jira.hochbahn.de/browse/MOS-6199) | Analyse - billing services - node mit mehr RAM requesten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6194](https://jira.hochbahn.de/browse/MOS-6194) | [mobi] customer not found  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6058](https://jira.hochbahn.de/browse/MOS-6058) | 4 Iteration: LogPayAdapter-API im Payment-Service einbinden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6057](https://jira.hochbahn.de/browse/MOS-6057) | 1 Iteration: Payment-Service Datenbankmodell generieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6029](https://jira.hochbahn.de/browse/MOS-6029) | CRM: Als KSM möchte ich WeShare-Buchungen im CRM angezeigt bekommen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6028](https://jira.hochbahn.de/browse/MOS-6028) | CRM: Als KSM möchte ich für WeShare die Statusfunktionen im CRM angeboten bekommen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-4338](https://jira.hochbahn.de/browse/MOS-4338) | Customer: Unterstützung Keycloak JWT in Microservices | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-13.0
 
 Deployment on **PROD** at: tba
