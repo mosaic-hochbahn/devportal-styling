@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-14.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 16.06.22 - 13:37:25
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12803](https://jira.hochbahn.de/projects/MOS/versions/12803)
+
+key | summary |  type
+---- | ----|----
+[MOS-6758](https://jira.hochbahn.de/browse/MOS-6758) | Token Fehler miles-auth-proxy | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6753](https://jira.hochbahn.de/browse/MOS-6753) | Proxies für Ladeinfrastruktur auf PROD aktivieren  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6741](https://jira.hochbahn.de/browse/MOS-6741) | GKE Upgrade 1.22 - Vorbereitung - Ambassador Mapping Version muss v2 (basis-ns) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6673](https://jira.hochbahn.de/browse/MOS-6673) | Vault Secret Check: Checkout des default branches anstelle des release-Branches | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6348](https://jira.hochbahn.de/browse/MOS-6348) | oidc-auth-proxy: Logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6347](https://jira.hochbahn.de/browse/MOS-6347) | ptnova-auth-proxy: Logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6346](https://jira.hochbahn.de/browse/MOS-6346) | logpay-auth-proxy: Logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-122.0
 
 Deployment on **PROD** at: tba
