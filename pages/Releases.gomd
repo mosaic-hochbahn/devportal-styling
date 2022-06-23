@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-15.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 23.06.22 - 13:18:06
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12805](https://jira.hochbahn.de/projects/MOS/versions/12805)
+
+key | summary |  type
+---- | ----|----
+[MOS-6703](https://jira.hochbahn.de/browse/MOS-6703) | Helm Update für Pod-Disruption-Policy (basis/basis-ns) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-14.0
 
 Deployment on **PROD** at: tba
