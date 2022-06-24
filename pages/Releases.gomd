@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-16.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 24.06.22 - 12:59:27
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12908](https://jira.hochbahn.de/projects/MOS/versions/12908)
+
+key | summary |  type
+---- | ----|----
+[MOS-6819](https://jira.hochbahn.de/browse/MOS-6819) | stromnetz-auth-proxy startet nicht auf PROD | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6812](https://jira.hochbahn.de/browse/MOS-6812) | WeShare-Auth-Proxy auf PROD Authentifizierung aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6809](https://jira.hochbahn.de/browse/MOS-6809) | VOI-Auth-Proxy auf Prod aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-15.0
 
 Deployment on **PROD** at: tba
