@@ -1,5 +1,40 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-123.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 24.06.22 - 14:33:26
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12907](https://jira.hochbahn.de/projects/MOS/versions/12907)
+
+key | summary |  type
+---- | ----|----
+[MOS-6836](https://jira.hochbahn.de/browse/MOS-6836) | WeShare - Bei Start Trip über eine Konfiguration ActiveUntil berechnen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6830](https://jira.hochbahn.de/browse/MOS-6830) | Pausierte Miete fortführen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6814](https://jira.hochbahn.de/browse/MOS-6814) | Miete pausieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6813](https://jira.hochbahn.de/browse/MOS-6813) | Clarification-Orchestration JWT rollback | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6810](https://jira.hochbahn.de/browse/MOS-6810) | Customer Locking Logging Level auf Info setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6808](https://jira.hochbahn.de/browse/MOS-6808) | AIDA: Deeplink kann mehrfach eingelöst werden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6803](https://jira.hochbahn.de/browse/MOS-6803) | CRM: Zeitangaben Fahrtbeginn hvv Any in App und CRM unterschiedlich | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6791](https://jira.hochbahn.de/browse/MOS-6791) | Delete double Jenkinsfile from document-validation-service | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6769](https://jira.hochbahn.de/browse/MOS-6769) | Helm Update für Pod-Disruption-Policy (basis/testing-ns) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6768](https://jira.hochbahn.de/browse/MOS-6768) | Helm Update für Pod-Disruption-Policy (basis/beam-ns) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6748](https://jira.hochbahn.de/browse/MOS-6748) | MOIA 4 Kids API Erweiterung | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6742](https://jira.hochbahn.de/browse/MOS-6742) | GKE Upgrade 1.22 - Vorbereitung - Ambassador Mapping Version muss v2 (testing-ns) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6736](https://jira.hochbahn.de/browse/MOS-6736) | GKE Upgrade 1.22 - Vorbereitung - Ambassador Mapping Version muss v2 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6723](https://jira.hochbahn.de/browse/MOS-6723) | VOI Aktivierung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6704](https://jira.hochbahn.de/browse/MOS-6704) | Helm Update für Pod-Disruption-Policy (customer) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6682](https://jira.hochbahn.de/browse/MOS-6682) | ItmCallback über ItmAuthProxy in Betrieb nehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6656](https://jira.hochbahn.de/browse/MOS-6656) | WeShare Mock für Registrierung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6611](https://jira.hochbahn.de/browse/MOS-6611) | Loglevel anpassen bei user not active at logpay | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6596](https://jira.hochbahn.de/browse/MOS-6596) | Mobilize Trip für WeShare | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6578](https://jira.hochbahn.de/browse/MOS-6578) | Analyse - Recovery im Order Service ohne MSPs im SQL | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6160](https://jira.hochbahn.de/browse/MOS-6160) | Aufträge ohne Klärfall | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6135](https://jira.hochbahn.de/browse/MOS-6135) | [customer-adapter] resolve transactional issue at MspCustomerAdapters | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5995](https://jira.hochbahn.de/browse/MOS-5995) | CIBO-Payment-System-Tests hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5837](https://jira.hochbahn.de/browse/MOS-5837) | Create phone number pin on DEV | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BASIS-16.0
 
 Deployment on **PROD** at: tba
