@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-17.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 30.06.22 - 14:28:35
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12909](https://jira.hochbahn.de/projects/MOS/versions/12909)
+
+key | summary |  type
+---- | ----|----
+[MOS-6349](https://jira.hochbahn.de/browse/MOS-6349) | apikey-auth-proxy: Logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-124.0
 
 Deployment on **PROD** at: tba
