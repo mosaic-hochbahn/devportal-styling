@@ -1,9 +1,55 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## MOSAIC-123.0
+## BASIS-17.0
 
 Deployment on **PROD** at
-	<time class="date-past">28.06.22</time> - 17:47:36
+	<time class="date-past">01.07.22</time> - 14:26:39
+
+Deployment on *QA* at: 30.06.22 - 14:28:35
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12909](https://jira.hochbahn.de/projects/MOS/versions/12909)
+
+key | summary |  type
+---- | ----|----
+[MOS-6349](https://jira.hochbahn.de/browse/MOS-6349) | apikey-auth-proxy: Logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## MOSAIC-124.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 30.06.22 - 14:18:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12807](https://jira.hochbahn.de/projects/MOS/versions/12807)
+
+key | summary |  type
+---- | ----|----
+[MOS-6900](https://jira.hochbahn.de/browse/MOS-6900) | Prod Ambassador Mapping für WeShare einrichten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6899](https://jira.hochbahn.de/browse/MOS-6899) | Bei WeShare haben sich die Feldnamen in Trip geändert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6897](https://jira.hochbahn.de/browse/MOS-6897) | Bei WeShare werde keine Rechnungsdaten erstellt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6891](https://jira.hochbahn.de/browse/MOS-6891) | Buchung soll auch ohne Erwachsenen möglich sein | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6885](https://jira.hochbahn.de/browse/MOS-6885) | Miles antwortet mit Fehler auf Update-Versuche | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6884](https://jira.hochbahn.de/browse/MOS-6884) | Update CustomerAdapter.yaml in aufrufenden Services | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6882](https://jira.hochbahn.de/browse/MOS-6882) | [voi] add logpay merchant  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6876](https://jira.hochbahn.de/browse/MOS-6876) | Bei WeShare das Beenden aus der Mietpause ermöglichen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6871](https://jira.hochbahn.de/browse/MOS-6871) | remove tier from method after bugfix | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6859](https://jira.hochbahn.de/browse/MOS-6859) | Mapping der WeShare Error Codes implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6842](https://jira.hochbahn.de/browse/MOS-6842) | weShare city id for LIVE | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6825](https://jira.hochbahn.de/browse/MOS-6825) | CRM: Als KSM benötige ich bei MOIA Buchungen die Info zur Anzahl der erwachsenen Passagiere und Kinder | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6805](https://jira.hochbahn.de/browse/MOS-6805) | Dependabot mergen und konflikte lösen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6779](https://jira.hochbahn.de/browse/MOS-6779) | Implementierung MOIA4Kids im Buchungsflow | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6778](https://jira.hochbahn.de/browse/MOS-6778) | Implementierung MOIA4Kids in der Order-History | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6777](https://jira.hochbahn.de/browse/MOS-6777) | Billing - Neue Sitzplatzinfo verarbeiten | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6733](https://jira.hochbahn.de/browse/MOS-6733) | [automated tests] activate WeShare  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6701](https://jira.hochbahn.de/browse/MOS-6701) | Refactoring PaymentMethodService | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6680](https://jira.hochbahn.de/browse/MOS-6680) | [cronJob] add correlationId to jobs | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6580](https://jira.hochbahn.de/browse/MOS-6580) | WeShare // Ride // DropOff Fee | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6566](https://jira.hochbahn.de/browse/MOS-6566) | Logpay offline Logausgaben bündeln | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6190](https://jira.hochbahn.de/browse/MOS-6190) | MOIA 4 Kids: Erweiterung Abfrage &amp; Anzeige Fahrtvorschläge/ Buchung/ Buchungsdetails/ Nutzungshistorie | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5095](https://jira.hochbahn.de/browse/MOS-5095) | hvv switch PIN / Sperre nach Änderung der PIN aufheben | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
+## MOSAIC-123.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 24.06.22 - 14:33:26
 
