@@ -1,5 +1,52 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-125.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 07.07.22 - 13:20:51
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12910](https://jira.hochbahn.de/projects/MOS/versions/12910)
+
+key | summary |  type
+---- | ----|----
+[MOS-6975](https://jira.hochbahn.de/browse/MOS-6975) | AIDA-Ride: Versand an leere Empfänger-Email-Adresse aus ABT führt zu Fehler | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6965](https://jira.hochbahn.de/browse/MOS-6965) | AIDA-Ride: Barcode mit weißem Rand | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6963](https://jira.hochbahn.de/browse/MOS-6963) | AIDA-Ride: Farbwechsel-Bild im Ticket-Layout mit ausgeben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6957](https://jira.hochbahn.de/browse/MOS-6957) | AIDA-Ride: Zwei verschiedene Deeplinks in Deeplink Mail  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6950](https://jira.hochbahn.de/browse/MOS-6950) | [clarification-service] add iTest to JENKINSFILE | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6930](https://jira.hochbahn.de/browse/MOS-6930) | Im E-Mailtemplate Ausweisung der Personenanzahl abändern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6923](https://jira.hochbahn.de/browse/MOS-6923) | [refactoring] CrmPath Tests entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6909](https://jira.hochbahn.de/browse/MOS-6909) | gültig von und bis auf Ticket entfernen  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6907](https://jira.hochbahn.de/browse/MOS-6907) | zu große Schrift in Aboticket angezeigt und Foto | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6905](https://jira.hochbahn.de/browse/MOS-6905) | OHO liefert kein lastPausedAt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6903](https://jira.hochbahn.de/browse/MOS-6903) | Component-Scan - Billing-Order-Orchestration | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6901](https://jira.hochbahn.de/browse/MOS-6901) | SONAR fix issues | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6879](https://jira.hochbahn.de/browse/MOS-6879) | 7.1 Payment-Service Migration Release | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6877](https://jira.hochbahn.de/browse/MOS-6877) | LogPay nicht erreichbar mit code PSP_ACCOUNT_ERROR loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6875](https://jira.hochbahn.de/browse/MOS-6875) | Component-Scan - Discount-Service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6873](https://jira.hochbahn.de/browse/MOS-6873) | 4.1 Iteration Berechnung des LogPayOrderWasOffline-Flags richtig setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6862](https://jira.hochbahn.de/browse/MOS-6862) | Lange STARTING_RENT und ENDING_RENT Phasen recovern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6827](https://jira.hochbahn.de/browse/MOS-6827) | [customer-service] fix Transactional annotation, validate Pin | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6820](https://jira.hochbahn.de/browse/MOS-6820) | Im Order-Service wird das alte Finish/Reject-OrderEvent robuster implementiert | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6815](https://jira.hochbahn.de/browse/MOS-6815) | [voi] ea-generat nachziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6807](https://jira.hochbahn.de/browse/MOS-6807) | CRM: Ergänzung Standardmail Erstattungsanfrage Partner | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6776](https://jira.hochbahn.de/browse/MOS-6776) | CIBO-Payment-Rejected in PT ausbuchen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6770](https://jira.hochbahn.de/browse/MOS-6770) | Order-Service konsumiert neues Payment-Ergebnis Event | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6757](https://jira.hochbahn.de/browse/MOS-6757) | Neues Consumer Topic im Billing-Service implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6749](https://jira.hochbahn.de/browse/MOS-6749) | Order-Service konsumiert neues BillGeneratedEvent | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6745](https://jira.hochbahn.de/browse/MOS-6745) | Voi Mock hinzufügen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6743](https://jira.hochbahn.de/browse/MOS-6743) | Event Updaten | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6721](https://jira.hochbahn.de/browse/MOS-6721) | [itm-adapter und document-validation] Letze EA generator version benutzen  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6699](https://jira.hochbahn.de/browse/MOS-6699) | Auth Filter für Statusseiten in Uptime Kuma einrichten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6666](https://jira.hochbahn.de/browse/MOS-6666) | [pmao] evaluate error 503 response correct | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6487](https://jira.hochbahn.de/browse/MOS-6487) | 5 Iteration: Payment-Service wird via REST aufgerufen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6389](https://jira.hochbahn.de/browse/MOS-6389) | [pmao] use customer-adapter-mock in contract tests | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5998](https://jira.hochbahn.de/browse/MOS-5998) | Vor-Ort-Validierung abschalten / Anpassung E-Mail-Templates Ergebnis Führerscheinvalidierung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5734](https://jira.hochbahn.de/browse/MOS-5734) | MOIA 4 Kids | Auf der Rechnung und im E-Mail-Template werden gebuchte Passagiere aufgeschlüsselt | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5065](https://jira.hochbahn.de/browse/MOS-5065) | [customer-service] remove unused missing requirement Enum values | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-4139](https://jira.hochbahn.de/browse/MOS-4139) | &#34;Billing&#34; Event vom Billing zum Order-Service verschicken | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BASIS-17.0
 
 Deployment on **PROD** at: tba
