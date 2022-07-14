@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-19.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 14.07.22 - 13:18:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12811](https://jira.hochbahn.de/projects/MOS/versions/12811)
+
+key | summary |  type
+---- | ----|----
+[MOS-6711](https://jira.hochbahn.de/browse/MOS-6711) | identity-service: Logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6710](https://jira.hochbahn.de/browse/MOS-6710) | gti-proxy: Logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-18.0
 
 Deployment on **PROD** at: tba
