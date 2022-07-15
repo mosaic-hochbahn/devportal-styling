@@ -1,5 +1,48 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-126.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 15.07.22 - 13:23:54
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12810](https://jira.hochbahn.de/projects/MOS/versions/12810)
+
+key | summary |  type
+---- | ----|----
+[MOS-7050](https://jira.hochbahn.de/browse/MOS-7050) | WeShare - Das Runden der ParkingDuration anpassen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7037](https://jira.hochbahn.de/browse/MOS-7037) | Bonvoyo API Update | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7031](https://jira.hochbahn.de/browse/MOS-7031) | Bei WeShare die erlaubten Phasenübergänge prüfen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7029](https://jira.hochbahn.de/browse/MOS-7029) | WeShare Aktivierung schlägt fehl | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7024](https://jira.hochbahn.de/browse/MOS-7024) | OID an LogPay im Falle von MOBI Erstattungen an LogPay verschicken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7012](https://jira.hochbahn.de/browse/MOS-7012) | Allow &amp; Deny List // device: Google Pixel | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7005](https://jira.hochbahn.de/browse/MOS-7005) | WeShare ErrorMapping fixen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7004](https://jira.hochbahn.de/browse/MOS-7004) | Distance-check über featureToggle Header implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6992](https://jira.hochbahn.de/browse/MOS-6992) | Job-Intervalle konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6989](https://jira.hochbahn.de/browse/MOS-6989) | Active Until falsch | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6985](https://jira.hochbahn.de/browse/MOS-6985) | Change Slf4j Miles error logging to warning | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6984](https://jira.hochbahn.de/browse/MOS-6984) | Cibo - Journeys sind für einen Moment nicht verfügbar | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6972](https://jira.hochbahn.de/browse/MOS-6972) | Deep Link Email Text finalisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6941](https://jira.hochbahn.de/browse/MOS-6941) | Ambassador Filter für identity-service fehlt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6911](https://jira.hochbahn.de/browse/MOS-6911) | 7.2 Payment Migration Release | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6860](https://jira.hochbahn.de/browse/MOS-6860) | Recovery Jobs für WeShare implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6847](https://jira.hochbahn.de/browse/MOS-6847) | AIDA: Monatsscheiben über ABT erzeugen lassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6821](https://jira.hochbahn.de/browse/MOS-6821) | Order-Service PaymentServiceResult füllen Iteration 7.2 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6811](https://jira.hochbahn.de/browse/MOS-6811) | Errorhandling Voi | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6804](https://jira.hochbahn.de/browse/MOS-6804) | Hochsetzen deep link Gültigkeit auf 5 Tage | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6772](https://jira.hochbahn.de/browse/MOS-6772) | Payment-Service verschickt neues Payment-Ergebnis Event | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6752](https://jira.hochbahn.de/browse/MOS-6752) | Klärfallerstellung über den Payment-Service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6750](https://jira.hochbahn.de/browse/MOS-6750) | Payment-Flow aus dem Billing-Service in den Payment-Service migrieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6686](https://jira.hochbahn.de/browse/MOS-6686) | Ride - Update Spring Dependencies | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6639](https://jira.hochbahn.de/browse/MOS-6639) | OID an LogPay im Falle von MOBI Erstattungen an LogPay verschicken | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6619](https://jira.hochbahn.de/browse/MOS-6619) | DSGVO Logging document validation und ITM-Adapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6616](https://jira.hochbahn.de/browse/MOS-6616) | [customer-orchestration] use identity-service instead of monolith | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6512](https://jira.hochbahn.de/browse/MOS-6512) | Tests für OrderAuthorizationChecks | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6376](https://jira.hochbahn.de/browse/MOS-6376) | Dependabot-Konfiguration in Services erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6083](https://jira.hochbahn.de/browse/MOS-6083) | flaky Tests korrigieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5040](https://jira.hochbahn.de/browse/MOS-5040) | [PayPal-Adapter] remove sensible data from log | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-4276](https://jira.hochbahn.de/browse/MOS-4276) | Verbessertes Naming der Environment-Variablen der Bonvoyo Credentials | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-19.0
 
 Deployment on **PROD** at: tba
