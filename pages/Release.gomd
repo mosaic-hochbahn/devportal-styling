@@ -1,9 +1,46 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## MOSAIC-126.0
+## MOSAIC-127.0
 
 Deployment on **PROD** at
-	<time class="date-past">21.07.22</time> - 12:15:22
+	<time class="date-past">21.07.22</time> - 13:36:35
+
+Deployment on *QA* at: 21.07.22 - 13:27:12
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12818](https://jira.hochbahn.de/projects/MOS/versions/12818)
+
+key | summary |  type
+---- | ----|----
+[MOS-7111](https://jira.hochbahn.de/browse/MOS-7111) | AIDA Ticket auf PROD mit &#34;MUSTER&#34; | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7108](https://jira.hochbahn.de/browse/MOS-7108) | email Adresse maskieren  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7103](https://jira.hochbahn.de/browse/MOS-7103) | Booking-Service: Viele Error-Messages auf PROD mit &#34;Paging would be needed&#34; | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7097](https://jira.hochbahn.de/browse/MOS-7097) | [customer-orchestration] sollte kein error während pin reset schmeißen  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7085](https://jira.hochbahn.de/browse/MOS-7085) | Tier - Fehlermeldung beim Beenden, wenn nicht abgerechnet wird | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7081](https://jira.hochbahn.de/browse/MOS-7081) | sendgrid customer-service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7074](https://jira.hochbahn.de/browse/MOS-7074) | CLONE - Allow &amp; Deny List // device: Google Pixel | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7072](https://jira.hochbahn.de/browse/MOS-7072) | Dependabot Mayhem  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7070](https://jira.hochbahn.de/browse/MOS-7070) | sendgrid document-validation-service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7068](https://jira.hochbahn.de/browse/MOS-7068) | Systemtests Billing beschleunigen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7063](https://jira.hochbahn.de/browse/MOS-7063) | Cibo - system-tests-dev-master schlagen fehl. | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7061](https://jira.hochbahn.de/browse/MOS-7061) | Billing-Domäne Dependencies aktualisieren #4 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7053](https://jira.hochbahn.de/browse/MOS-7053) | Rechnung WeShare Dauer mit Parkminuten richtig darstellen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7052](https://jira.hochbahn.de/browse/MOS-7052) | VOI API design | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7003](https://jira.hochbahn.de/browse/MOS-7003) | Anpassung Suche-Schnittstelle Billing - CRM | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6998](https://jira.hochbahn.de/browse/MOS-6998) | Stale Threshold konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6990](https://jira.hochbahn.de/browse/MOS-6990) | AIDA-Ride: Status wird bei restrictDelivery in Response nicht gesetzt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6955](https://jira.hochbahn.de/browse/MOS-6955) | AIDA Monatsscheiben werden mehrfach generiert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6848](https://jira.hochbahn.de/browse/MOS-6848) | AIDA: Umstellen &#34;großes Ticket&#34; auf Kundennummer | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6826](https://jira.hochbahn.de/browse/MOS-6826) | CRM: Als KSM möchte ich im CRM die MDL-Zahlungsreferenz statt der UUID (technische Referenz) nutzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6818](https://jira.hochbahn.de/browse/MOS-6818) | Berechtigung zur Bearbeitung der Rabatttabelle an Christoph Buhk erteilen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6712](https://jira.hochbahn.de/browse/MOS-6712) | itm-auth-proxy: Logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6604](https://jira.hochbahn.de/browse/MOS-6604) | Sensor-Data-Export auf PROD bereitstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6185](https://jira.hochbahn.de/browse/MOS-6185) | S&amp;B geht wieder auf billable (ohne v2) | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-5760](https://jira.hochbahn.de/browse/MOS-5760) | check contract test for pament method v2 | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5551](https://jira.hochbahn.de/browse/MOS-5551) | Migrate mail templates to sendgrid mail templates | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
+## MOSAIC-126.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 15.07.22 - 13:23:54
 
