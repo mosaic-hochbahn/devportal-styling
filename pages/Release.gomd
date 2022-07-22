@@ -1,22 +1,9 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## BASIS-20.0
-
-Deployment on **PROD** at: tba
-
-Deployment on *QA* at: 21.07.22 - 13:47:42
-
-Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12911](https://jira.hochbahn.de/projects/MOS/versions/12911)
-
-key | summary |  type
----- | ----|----
-[MOS-7032](https://jira.hochbahn.de/browse/MOS-7032) | Verschiedene Absenderadressen für Mail Messaging ermöglichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
-[MOS-6712](https://jira.hochbahn.de/browse/MOS-6712) | itm-auth-proxy: Logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
-[MOS-6503](https://jira.hochbahn.de/browse/MOS-6503) | Live Feature Toggles für proxies einsetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
-
 ## MOSAIC-127.0
 
-Deployment on **PROD** at: tba
+Deployment on **PROD** at
+	<time class="date-past">21.07.22</time> - 13:36:35
 
 Deployment on *QA* at: 21.07.22 - 13:27:12
 

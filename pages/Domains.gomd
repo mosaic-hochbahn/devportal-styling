@@ -37,8 +37,8 @@ This could be a ticket for public transport, or to open an car or bike, or to pi
 
 ## Customer
 
-The main purpose of this domain is to persist the relevant information concerning the **Customer**.
-The other part is to be aware of the identity of a customer.
+The _Customer Team_ is responsible for all relevant information about a mosaic customer.
+It handles all main data, drivers licence validation and the activation at mobility-service-providers and at payment-service-providers.
 
 ## Billing
 
@@ -46,4 +46,11 @@ The _Billing_ Teams handles the two domains **Payment** and **Billing**.
 
 ## Basis
 
-The _Basis Team_ cares for infrastructure and also provides tools and _glue_ services, that keeps the other domains together.
+The _Basis_ team facilitates stable operation and continued development of the MOSAIC platform by maintaining its infrastructure and providing internal teams and external suppliers with tools and knowledge.
+
+ Responsibilities:<br>
+ - Operation and maintenance of Basis domain services<br>
+ - Development and evaluation of existing and new MOSAIC platform technologies<br>
+ - Knowledge transfer among all MOSAIC teams<br>
+ - Monitoring and support of MOSAIC tools<br>
+ - Operation and maintenance of Geofox platform services<br>

@@ -4,29 +4,122 @@ Here you find some information about _'how to'_ use MOSAIC.
 
 ## Authentication
 
-At the moment you have two options to authenticate. For most of the services we use the deprecated method called `beam-auth`.
-The newer authentication methods is the MOSAIC Identity Provider that is already in place for e.g. this MOSAIC API Portal.
-We will most probably deprecate the older authentication method during the year 2022.
-
 ### BEAM
 
-To use the MOSAIC API you are given the login information for a single Anonymous User and a secret Application Key.
+To use the MOSAIC API you are given the login information for an anonymous user and a secret Application Key.
 You authenticate to the MOSAIC API with HTTP Basic Authentication using the login information and your secret Application key in the request header.
+For requests that are not intended for a specific user (including requests to register a new user), the anonymous user _"anonymous"_ should be used.
+Requests for a specific user should contain the actual user name.
+Initial authentication against the MOSAIC API happens via Basic Authentication, every subsequent request is using Bearer Authentication.
 
-Never share your secret keys. Keep them guarded and secure.
+#### Getting a Authorization Token
 
-Initial authentication against the MOSAIC API happens via Basic Authentication, every subsequent request is using Bearer Authentication:
+##### Request
 
-Instead of the standard HTTP Basic Authentication, where the payload consists of username:password it also contains the Application Key: applicationKey/username:password.
-Usage format: Header Authorization, Content Basic <Base64.encode(applicationKey/username:password)>.
+A curl request to get the BEAM authentication token might look like this:
 
-You can create a JSON Web Token (JWT) via our JWT resource.
-Usage format: Header Authorization, Content Bearer <JWT>.
-If your token has expired refresh it using /token/refresh with a similar usage format.
-Replace the <JWT> with {applicationKey}/{refreshToken}, the applicationKey given to you in advance, the refreshToken acquired together with the JWT resource.
+```bash
+curl 'https://api.{stage}.hochbahn.cloud/beamgateway/v2/token' \
+-H 'Authorization: Basic {credentials}'
+```
+
+The **{stage}** can be _"dev"_, _"qa"_ or must be omitted for the production environment (api.hochbahn.cloud).
+
+The **{credentials}** are your Base64 encoded credentials in the form _"application-key/username:password"_.
+You can use the following Bash command to encode your credentials:
+
+```bash
+echo -n "{application-key}/{username}:{password}" | base64
+```
+
+##### Response
+
+The response headers contains the authorization token and a refresh token. Every subsequent request must contain the
+_"Authorization"_ header from the initial authentication response:
+
+```bash
+curl 'https://api.{stage}.hochbahn.cloud/beam/locations?q=Steinstrasse' \
+-H '{authorization}'
+```
+
+**{authorization}** must be the _"Authorization"_ header from the initial request.
+You can use the following Bash command to get the _"Authorization"_ header from initial request:
+
+```bash
+curl 'https://api.{stage}.hochbahn.cloud/beamgateway/v2/token' \
+-H 'Authorization: Basic {credentials}' -I -s | grep authorization
+```
+
+
+#### Refresh Authorization Token
+
+Additionally to the authorization token, the response of the initial authentication request contains a refresh token in
+the _"x-beam-refresh-token"_ header. If the authorization token expired, the refresh token can be used to get a new
+authentication token:
+
+```bash
+curl 'https://api.{stage}.hochbahn.cloud/beamgateway/v2/token/refresh' \
+-H 'Authorization: Bearer {refresh-credentials}'
+```
+
+The **{refresh-credentials}** should contain your Base64 encoded application-key and the refresh token in the form _"application-key/refresh-token"_.
 
 ### MOSAIC Identity Provider
-#### Client Authentication
 
-#### Customer Authentication
-OpenId Connect.
+MOSAIC Identity Provider is the _new_ OAuth2 based authentication method.
+
+#### OAuth2 Authentication via Confidential Client
+
+##### Request a JSON Web Token (JWT)
+
+A curl request to get a JWT might look like this:
+
+```bash
+curl -X POST 'https://id.{stage}.hochbahn.cloud/realms/mosaic/protocol/openid-connect/token' \
+-H 'Content-Type: application/x-www-form-urlencoded' \
+-d 'grant_type=client_credentials' \
+-d 'client_id={client-id}' \
+-d 'client_secret={client-secret}'
+```
+
+The **stage** can be _"dev"_, _"qa"_ or must be omitted for the production environment (id.hochbahn.cloud).
+
+The **client_id** and **client_secret** are your credentials.
+
+
+##### Response
+
+The response is JSON and might look like this:
+
+```json
+{
+    "access_token": "{access-token}",
+    "expires_in": 600,
+    "refresh_expires_in": 0,
+    "token_type": "Bearer",
+    "not-before-policy": 0,
+    "scope": ""
+}
+```
+
+The **access_token** is the JWT you will need for any further API requests.
+
+The expiration date is specified in **expires_in** in seconds.<br>
+This means, your token is valid only for a certain amount of time, before you have to get a new one using this procedure.
+
+##### Calling the MOSAIC API with the JWT
+
+Once you've obtained a valid JWT, you have to append it to any subsequent API request.<br>
+To do so, you need to supply a HTTP header _"Authorization"_ with the content *"Bearer {access-token}"*,
+where you need to insert your **access_token** JWT resource.<br>
+An example GET request against a fictional `/some-example-api` REST API might look like this:
+
+```bash
+curl -H 'Authorization: Bearer {access-token}' https://api.{stage}.hochbahn.cloud/some-example-api
+```
+
+
+
+
+
+
