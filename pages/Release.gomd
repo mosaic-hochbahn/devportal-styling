@@ -1,9 +1,64 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## BASIS-20.0
+## BASIS-21.0
 
 Deployment on **PROD** at
-	<time class="date-past">26.07.22</time> - 13:13:47
+	<time class="date-past">02.08.22</time> - 13:10:45
+
+Deployment on *QA* at: 28.07.22 - 13:29:10
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12821](https://jira.hochbahn.de/projects/MOS/versions/12821)
+
+key | summary |  type
+---- | ----|----
+[MOS-7113](https://jira.hochbahn.de/browse/MOS-7113) | Moia Proxy funktioniert nicht nach Deployment | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7064](https://jira.hochbahn.de/browse/MOS-7064) | PTnova proxy: Neue Backend-Urls für PROD | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7033](https://jira.hochbahn.de/browse/MOS-7033) | Testing-Kafka-Gateway um HTTP Header erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7026](https://jira.hochbahn.de/browse/MOS-7026) | identity-service: Unauthorized bei /auth/token, wenn Großbuchstaben im Usernamen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6951](https://jira.hochbahn.de/browse/MOS-6951) | identity-service: öffentliche APIs über Dev-Portal freigeben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6922](https://jira.hochbahn.de/browse/MOS-6922) | Alerting und Logging für Twilio verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6713](https://jira.hochbahn.de/browse/MOS-6713) | messaging-service: Logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## MOSAIC-128.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 28.07.22 - 13:23:10
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12912](https://jira.hochbahn.de/projects/MOS/versions/12912)
+
+key | summary |  type
+---- | ----|----
+[MOS-7147](https://jira.hochbahn.de/browse/MOS-7147) | Fix log [Sent mail to  delete credit card] | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7140](https://jira.hochbahn.de/browse/MOS-7140) | doku nachziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7125](https://jira.hochbahn.de/browse/MOS-7125) | bei Wechsel von Zahlmittel soll deaktivieren von Logpay Account beruecksichtigt werden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7120](https://jira.hochbahn.de/browse/MOS-7120) | Sixt - Trips Endpunkt liefert keine Phase | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7115](https://jira.hochbahn.de/browse/MOS-7115) | WeShare map 103 errorCode to TOO_FAR_AWAY | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7114](https://jira.hochbahn.de/browse/MOS-7114) | Fix WeShare Asynchrone Fehler | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7109](https://jira.hochbahn.de/browse/MOS-7109) | Mache den Payment-Flow robuster gegenüber Fehlern in den Einzelschritten | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7107](https://jira.hochbahn.de/browse/MOS-7107) | switch-pin v2 api | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7101](https://jira.hochbahn.de/browse/MOS-7101) | [customer-orchestration] reset pin Fehler Angabe korrigieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7098](https://jira.hochbahn.de/browse/MOS-7098) | Implementierung | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7091](https://jira.hochbahn.de/browse/MOS-7091) | API für EmailOptIn | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7078](https://jira.hochbahn.de/browse/MOS-7078) | Schemaänderung und Migration der Altdaten | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6983](https://jira.hochbahn.de/browse/MOS-6983) | Anlegen eines LogPay-Accounts mit Fehler ruft einen Alert hervor  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6981](https://jira.hochbahn.de/browse/MOS-6981) | Reminder: API Flow / Kafka aktualisieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6974](https://jira.hochbahn.de/browse/MOS-6974) | 7.3 Payment Migration Release | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6917](https://jira.hochbahn.de/browse/MOS-6917) | Billing - Payment Migration um das neue Attribut start_payment_process erweitern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6915](https://jira.hochbahn.de/browse/MOS-6915) | RE_TRIGGER_BILLING im Payment-Service empfangen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6841](https://jira.hochbahn.de/browse/MOS-6841) | Order-Service produziert das CancelSalesDataEvent | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6817](https://jira.hochbahn.de/browse/MOS-6817) | MOIA4Kids-Abwärtskompatibilität zwischen Ride-Services ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6802](https://jira.hochbahn.de/browse/MOS-6802) | [crm] Livegang WeShare im CRM | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6756](https://jira.hochbahn.de/browse/MOS-6756) | Neues Consumer Topic im Payment-Service implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6751](https://jira.hochbahn.de/browse/MOS-6751) | Recovery des Payment-Flows in den Payment-Service migrieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6744](https://jira.hochbahn.de/browse/MOS-6744) | 7 Iteration: Überführung der Billing Logik in den Payment-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6739](https://jira.hochbahn.de/browse/MOS-6739) | Ride: Absendermail für deep link | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6692](https://jira.hochbahn.de/browse/MOS-6692) | AIDA-Ride: Authentifizierung / Nutzerverwaltung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6642](https://jira.hochbahn.de/browse/MOS-6642) | MOIA | Erstattungsevent automatisch verarbeiten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
+## BASIS-20.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 21.07.22 - 13:47:42
 
