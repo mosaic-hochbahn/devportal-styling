@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-22.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 04.08.22 - 13:15:51
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13100](https://jira.hochbahn.de/projects/MOS/versions/13100)
+
+key | summary |  type
+---- | ----|----
+[MOS-7141](https://jira.hochbahn.de/browse/MOS-7141) | Azerbaijan von Blocklist entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7035](https://jira.hochbahn.de/browse/MOS-7035) | nicht mehr existierenden Eintrag sfds.geofox.de löschen/ersetzen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BASIS-21.0
 
 Deployment on **PROD** at: tba
