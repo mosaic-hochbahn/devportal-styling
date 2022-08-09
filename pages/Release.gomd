@@ -1,9 +1,52 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## BASIS-21.0
+## MOSAIC-129.0
 
 Deployment on **PROD** at
-	<time class="date-past">03.08.22</time> - 15:04:47
+	<time class="date-past">09.08.22</time> - 13:14:44
+
+Deployment on *QA* at: 04.08.22 - 13:20:52
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13001](https://jira.hochbahn.de/projects/MOS/versions/13001)
+
+key | summary |  type
+---- | ----|----
+[MOS-7198](https://jira.hochbahn.de/browse/MOS-7198) | Umbenennungen und Änderungen im Wording | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7195](https://jira.hochbahn.de/browse/MOS-7195) | Termination date migration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7187](https://jira.hochbahn.de/browse/MOS-7187) | Systemtests Billing Zahlungsmittelauswahl zieht nicht immer | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7172](https://jira.hochbahn.de/browse/MOS-7172) | Fixe korrupte Mobi-Customer-Payment-Data | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7167](https://jira.hochbahn.de/browse/MOS-7167) | Kündigungsrücknahmefrist prüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7159](https://jira.hochbahn.de/browse/MOS-7159) | Nullpointer termination data | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7152](https://jira.hochbahn.de/browse/MOS-7152) | WeShare map 2206 errorCode to ERROR_LOCKING_VEHICLE | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7150](https://jira.hochbahn.de/browse/MOS-7150) | fix OWASP issues | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7134](https://jira.hochbahn.de/browse/MOS-7134) | WeShare - Recovery Job für Stale Reservations wirft unnötige Warnings | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7124](https://jira.hochbahn.de/browse/MOS-7124) | LogPay liefert EnuStateService OK aber keine favorite PaymentMethod | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7117](https://jira.hochbahn.de/browse/MOS-7117) | Backend Kündigungsdaten speichern und abrufen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7065](https://jira.hochbahn.de/browse/MOS-7065) | Verwendungszweck für Erstattungen auf Multicash erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7062](https://jira.hochbahn.de/browse/MOS-7062) | MOIA - Systemtest für Erstattung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7034](https://jira.hochbahn.de/browse/MOS-7034) | WeShare ErrorResponseCode für A partner user with the given email already exists. | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6988](https://jira.hochbahn.de/browse/MOS-6988) | OrderSalesData.CustomerDTO um paymentMethodId erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6916](https://jira.hochbahn.de/browse/MOS-6916) | Order-Service verschickt das PROCESS_SALES_DATA-Event | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-5868](https://jira.hochbahn.de/browse/MOS-5868) | CRM: Die Validierungsfunktion über das Shopsystem von iTM sollen zurückgebaut werden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-5214](https://jira.hochbahn.de/browse/MOS-5214) | Als KSM möchte ich, dass MOSAIC im Zuge der Kündigungsrücknahme eine automatische Bestätigungsmail an die Account-E-Mail-Adresse versendet | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-1689](https://jira.hochbahn.de/browse/MOS-1689) | Als KSM möchte ich, dass MOSAIC im Zuge der Kündigung eine automatische Bestätigungsmail an die Account-E-Mail-Adresse versendet | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
+## BASIS-22.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 04.08.22 - 13:15:51
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13100](https://jira.hochbahn.de/projects/MOS/versions/13100)
+
+key | summary |  type
+---- | ----|----
+[MOS-7141](https://jira.hochbahn.de/browse/MOS-7141) | Azerbaijan von Blocklist entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7035](https://jira.hochbahn.de/browse/MOS-7035) | nicht mehr existierenden Eintrag sfds.geofox.de löschen/ersetzen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
+## BASIS-21.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 28.07.22 - 13:29:10
 
