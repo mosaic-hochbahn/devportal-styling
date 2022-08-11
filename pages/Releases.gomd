@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-23.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 11.08.22 - 13:31:13
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13103](https://jira.hochbahn.de/projects/MOS/versions/13103)
+
+key | summary |  type
+---- | ----|----
+[MOS-7119](https://jira.hochbahn.de/browse/MOS-7119) | push-notification-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6715](https://jira.hochbahn.de/browse/MOS-6715) | ocpi-auth-proxy: Logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-130.0
 
 Deployment on **PROD** at: tba
