@@ -1,9 +1,49 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## MOSAIC-129.0
+## BASIS-23.0
 
 Deployment on **PROD** at
-	<time class="date-past">10.08.22</time> - 13:54:15
+	<time class="date-past">11.08.22</time> - 13:40:41
+
+Deployment on *QA* at: 11.08.22 - 13:31:13
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13103](https://jira.hochbahn.de/projects/MOS/versions/13103)
+
+key | summary |  type
+---- | ----|----
+[MOS-7119](https://jira.hochbahn.de/browse/MOS-7119) | push-notification-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6715](https://jira.hochbahn.de/browse/MOS-6715) | ocpi-auth-proxy: Logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## MOSAIC-130.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 11.08.22 - 13:20:40
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13005](https://jira.hochbahn.de/projects/MOS/versions/13005)
+
+key | summary |  type
+---- | ----|----
+[MOS-7256](https://jira.hochbahn.de/browse/MOS-7256) | orderService yaml aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7251](https://jira.hochbahn.de/browse/MOS-7251) | Flag für gekündigte Kunden hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7201](https://jira.hochbahn.de/browse/MOS-7201) | api /servicecenter/ mit keycloak-oauth2-switch-crm Filter absichern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7186](https://jira.hochbahn.de/browse/MOS-7186) | VOI - Mock | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7181](https://jira.hochbahn.de/browse/MOS-7181) | VOI - Betragsautorisierung | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7179](https://jira.hochbahn.de/browse/MOS-7179) | Ak quality smoke tests prüfen - customer | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7171](https://jira.hochbahn.de/browse/MOS-7171) | hvv switch Konto per API kündigen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7167](https://jira.hochbahn.de/browse/MOS-7167) | Kündigungsrücknahmefrist prüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7151](https://jira.hochbahn.de/browse/MOS-7151) | Nutze für das Dashboard Betrugsprävention den Payment-Service als Datengrundlage | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7110](https://jira.hochbahn.de/browse/MOS-7110) | Anonymisierung von BillItem und Country | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7092](https://jira.hochbahn.de/browse/MOS-7092) | NotNullConstraint für emailOptIn | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6718](https://jira.hochbahn.de/browse/MOS-6718) | testing-kafka-gateway: Logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6717](https://jira.hochbahn.de/browse/MOS-6717) | testing-proxy: Logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6653](https://jira.hochbahn.de/browse/MOS-6653) | Farbcodes im Ticketlayout | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6613](https://jira.hochbahn.de/browse/MOS-6613) | System-Tests schlagen erst nach einer laaaangen Zeit fehl | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6136](https://jira.hochbahn.de/browse/MOS-6136) | E-Mail OPT IN am User speichern und abfragbar machen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
+## MOSAIC-129.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 04.08.22 - 13:20:52
 
