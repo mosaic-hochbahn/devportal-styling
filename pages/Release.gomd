@@ -1,9 +1,69 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## BASIS-23.0
+## MOSAIC-131.0
 
 Deployment on **PROD** at
-	<time class="date-past">17.08.22</time> - 16:21:19
+	<time class="date-past">23.08.22</time> - 13:20:11
+
+Deployment on *QA* at: 18.08.22 - 13:37:09
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13105](https://jira.hochbahn.de/projects/MOS/versions/13105)
+
+key | summary |  type
+---- | ----|----
+[MOS-7288](https://jira.hochbahn.de/browse/MOS-7288) | Mapping für FAILED_RENT im RS erweitern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7278](https://jira.hochbahn.de/browse/MOS-7278) | Order-History um VOI erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7254](https://jira.hochbahn.de/browse/MOS-7254) | Anpassung Gutschrift | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7242](https://jira.hochbahn.de/browse/MOS-7242) | Event Interfaces -&gt; Alte Java Events FinishOrderEventBody / RejectOrderEventBody löschen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7206](https://jira.hochbahn.de/browse/MOS-7206) | VOI - Abrechnungsdaten abholen und prüfen order-service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7197](https://jira.hochbahn.de/browse/MOS-7197) | Fahrtkosten in die unterste Zeile | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7196](https://jira.hochbahn.de/browse/MOS-7196) | Anpassung Rechnungsdokumente | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7194](https://jira.hochbahn.de/browse/MOS-7194) | VOI - Systemtest | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7193](https://jira.hochbahn.de/browse/MOS-7193) | VOI - Prüfen ob VOI in Tests und dergleichen fehlt | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7192](https://jira.hochbahn.de/browse/MOS-7192) | VOI - Enum im EA Generator anlegen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7185](https://jira.hochbahn.de/browse/MOS-7185) | VOI - Enum im Service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7184](https://jira.hochbahn.de/browse/MOS-7184) | VOI - API Test gegen VOI Endpunkt | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7183](https://jira.hochbahn.de/browse/MOS-7183) | VOI - Recovery | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7182](https://jira.hochbahn.de/browse/MOS-7182) | VOI - Abrechnungsdaten abholen und prüfen BOA | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7180](https://jira.hochbahn.de/browse/MOS-7180) | CRM-Erstattungen für VOI | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6967](https://jira.hochbahn.de/browse/MOS-6967) | Payment-Service createdAt / updatedAt aktualisieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6931](https://jira.hochbahn.de/browse/MOS-6931) | Special Fee und Refund Handling im Payment-Service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6929](https://jira.hochbahn.de/browse/MOS-6929) | Letzte Billing Migration ausführen und Migrations Code entfernen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6925](https://jira.hochbahn.de/browse/MOS-6925) | Payment-Service Datenbank aufräumen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6921](https://jira.hochbahn.de/browse/MOS-6921) | MOBI Cancel Job im Order-Service ausbauen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6920](https://jira.hochbahn.de/browse/MOS-6920) | MOBI Cancel Job vom Order-Service in den Payment-Service überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6919](https://jira.hochbahn.de/browse/MOS-6919) | Make Billing Reporting great again | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6866](https://jira.hochbahn.de/browse/MOS-6866) | Verwende den Namen LogPay-User-Id anstelle von (LogPay) CustomerId | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6851](https://jira.hochbahn.de/browse/MOS-6851) | OrderSalesDataEvent in ProcessSalesDataEvent umbenennen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6850](https://jira.hochbahn.de/browse/MOS-6850) | Altes SalesData / Finish / Reject Events aus dem Order-/ Billing-Service ausbauen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6747](https://jira.hochbahn.de/browse/MOS-6747) | Voi - Yamls hochziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6746](https://jira.hochbahn.de/browse/MOS-6746) | Systemtest Aktivierung minimal User VOI | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6653](https://jira.hochbahn.de/browse/MOS-6653) | Farbcodes im Ticketlayout | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6636](https://jira.hochbahn.de/browse/MOS-6636) | Payment -&gt; Clarification Migration | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6548](https://jira.hochbahn.de/browse/MOS-6548) | VOI | Abrechnungsdatensatz abholen und prüfen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6546](https://jira.hochbahn.de/browse/MOS-6546) | VOI | Verkaufsdatensatz an PT übermitteln und verbuchen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6541](https://jira.hochbahn.de/browse/MOS-6541) | VOI | Rechnungslayout + Texte | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6524](https://jira.hochbahn.de/browse/MOS-6524) | VOI | Miete starten | Prüfung des Zahlungsmittels und Betragsautorisierung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6331](https://jira.hochbahn.de/browse/MOS-6331) | AK-Operations | Mocks beim QA Deployment automatisch deployen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-1688](https://jira.hochbahn.de/browse/MOS-1688) | Als KSM möchte ich eine Kündigung zurücknehmen können | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
+## BASIS-24.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 18.08.22 - 13:28:33
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13008](https://jira.hochbahn.de/projects/MOS/versions/13008)
+
+key | summary |  type
+---- | ----|----
+[MOS-7243](https://jira.hochbahn.de/browse/MOS-7243) | messaging-service: Unhandled service exception (PROD) | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7223](https://jira.hochbahn.de/browse/MOS-7223) | Wie gehen wir mit dem Tokenhandling des OCPI-Services um | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7221](https://jira.hochbahn.de/browse/MOS-7221) | Go: Gemeinsam genutzt Dinge in die Lib verschieben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## BASIS-23.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 11.08.22 - 13:31:13
 
