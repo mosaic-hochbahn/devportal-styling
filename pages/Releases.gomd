@@ -1,5 +1,33 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-132.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 25.08.22 - 15:36:16
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13010](https://jira.hochbahn.de/projects/MOS/versions/13010)
+
+key | summary |  type
+---- | ----|----
+[MOS-7327](https://jira.hochbahn.de/browse/MOS-7327) | Dependabot Mayhem 3.0 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7282](https://jira.hochbahn.de/browse/MOS-7282) | VOI - Systemtest für CRM Refund | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7274](https://jira.hochbahn.de/browse/MOS-7274) | hvv Any // Allow &amp; Deny List für Devices // Xiaomi 2109119DG mit Android 12 &amp; Xiaomi M2102J20SG mit Android 11 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7267](https://jira.hochbahn.de/browse/MOS-7267) | Verwende den Namen LogPay-User-Id Schritt 2 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7235](https://jira.hochbahn.de/browse/MOS-7235) | Tier - Mock für Systemtests überarbeiten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7227](https://jira.hochbahn.de/browse/MOS-7227) | Order-Service verschickt nur noch notwendige Payment-Attribute im OrderSalesDataEvent | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7190](https://jira.hochbahn.de/browse/MOS-7190) | Event zur Deaktivierung bei Kündigung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7122](https://jira.hochbahn.de/browse/MOS-7122) | Optimistic locking failed beim cancel einer MOIA order | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7046](https://jira.hochbahn.de/browse/MOS-7046) | OpenApi Generator paypal-adapter | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7045](https://jira.hochbahn.de/browse/MOS-7045) | OpenApi Generator clarification-orchestration | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7041](https://jira.hochbahn.de/browse/MOS-7041) | OpenApi Generator switch-clarification-service | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6549](https://jira.hochbahn.de/browse/MOS-6549) | VOI | Fahrtbetrag capturen und Forderung an Logpay abtreten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6543](https://jira.hochbahn.de/browse/MOS-6543) | VOI | Rechnungsdokument verteilen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6511](https://jira.hochbahn.de/browse/MOS-6511) | Bei Löschung eines Fahrgastkontos darf der Kunde nicht mehr auf seine Fahrscheine zugreifen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6378](https://jira.hochbahn.de/browse/MOS-6378) | Dependabot-Konfiguration in Services erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5318](https://jira.hochbahn.de/browse/MOS-5318) | [crm] NoteForm in eigene Component auslagern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-418](https://jira.hochbahn.de/browse/MOS-418) | Als KSM möchte ich im hvv switch CRM eine Account-Kündigung anstoßen können | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-25.0
 
 Deployment on **PROD** at: tba
