@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-26.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 01.09.22 - 13:23:48
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13108](https://jira.hochbahn.de/projects/MOS/versions/13108)
+
+key | summary |  type
+---- | ----|----
+[MOS-7405](https://jira.hochbahn.de/browse/MOS-7405) | PTnova proxy: Alte Backend-Urls für PROD löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7339](https://jira.hochbahn.de/browse/MOS-7339) | push-notification-service: unstructured logging + deprecation warning | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7336](https://jira.hochbahn.de/browse/MOS-7336) | Ansteigender Speicherverbrauch im identity-service aufgrund nicht-aggregierter Prometheus Metriken | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7007](https://jira.hochbahn.de/browse/MOS-7007) | Basis-Team Post-Deployment-Tests um Aufrufe von Außen erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-132.0
 
 Deployment on **PROD** at: tba
