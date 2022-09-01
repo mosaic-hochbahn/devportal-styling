@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-133.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 01.09.22 - 13:23:51
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13109](https://jira.hochbahn.de/projects/MOS/versions/13109)
+
+key | summary |  type
+---- | ----|----
+[MOS-7406](https://jira.hochbahn.de/browse/MOS-7406) | Order-Service-Recovery-Job auf 36 Stunden wieder zurücksetzen (Release MOSAIC-133.0) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7386](https://jira.hochbahn.de/browse/MOS-7386) | CRM - Fix bugs Account-Kündigung anstoßen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7333](https://jira.hochbahn.de/browse/MOS-7333) | Verwende den Namen LogPay-User-Id Schritt 3 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7322](https://jira.hochbahn.de/browse/MOS-7322) | WeShare - Im Fehlerfall bei Pausieren wird die falsche Phase übergeben | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7311](https://jira.hochbahn.de/browse/MOS-7311) | VOI - keine UnlockFee bis zu einem bestimmten Datum | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7306](https://jira.hochbahn.de/browse/MOS-7306) | /GET Payments für favorisiertes Bezahlmittel | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7305](https://jira.hochbahn.de/browse/MOS-7305) | Ride Endpunkte im VOI-Mock hinzufügen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7218](https://jira.hochbahn.de/browse/MOS-7218) | Buchung verhindern bei wirksamer Kündigung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7200](https://jira.hochbahn.de/browse/MOS-7200) | VOI - API tests gegen VOI Endpunkt | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7191](https://jira.hochbahn.de/browse/MOS-7191) | Event zur Löschung eines Kunden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7121](https://jira.hochbahn.de/browse/MOS-7121) | Ambassador Filter bereinigen - Vorbereitung für Ambassador Upgrade | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7042](https://jira.hochbahn.de/browse/MOS-7042) | OpenApi Generator customer-orchestration | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6456](https://jira.hochbahn.de/browse/MOS-6456) | [clarification-service] Kafka Benutzung updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-26.0
 
 Deployment on **PROD** at: tba
