@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-134.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 08.09.22 - 13:29:09
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13020](https://jira.hochbahn.de/projects/MOS/versions/13020)
+
+key | summary |  type
+---- | ----|----
+[MOS-7421](https://jira.hochbahn.de/browse/MOS-7421) | Alte bekannte errors nicht mehr als errors loggen  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7417](https://jira.hochbahn.de/browse/MOS-7417) | resolve owasp issue | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7369](https://jira.hochbahn.de/browse/MOS-7369) | LogPay Adapter Code in den Payment Service überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7308](https://jira.hochbahn.de/browse/MOS-7308) | PMAO ruft Get /Payment für den favorisierten Payment Endpunkt auf | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7248](https://jira.hochbahn.de/browse/MOS-7248) | Billing-Systemtests mit spezieller MSP-Referenz kennzeichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7246](https://jira.hochbahn.de/browse/MOS-7246) | Offline-Handling | Intervall zur Einreichung von gepufferten Aufträgen bei LogPay verkürzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6979](https://jira.hochbahn.de/browse/MOS-6979) | Mehrfache Nutzung von PaymentRepository.findByOrderNumber vereinheitlichen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6849](https://jira.hochbahn.de/browse/MOS-6849) | 9 Iteration: Payment - CleanUp Ticket | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-133.0
 
 Deployment on **PROD** at: tba
