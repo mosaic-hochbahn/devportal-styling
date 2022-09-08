@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-27.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 08.09.22 - 15:33:14
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13021](https://jira.hochbahn.de/projects/MOS/versions/13021)
+
+key | summary |  type
+---- | ----|----
+[MOS-7429](https://jira.hochbahn.de/browse/MOS-7429) | Push-Notification-Service in DevPortal - unable to render | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7402](https://jira.hochbahn.de/browse/MOS-7402) | push-notification-service auf prod aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7364](https://jira.hochbahn.de/browse/MOS-7364) | ptnova-auth-proxy: timeout awaiting headers | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7338](https://jira.hochbahn.de/browse/MOS-7338) | stromnetz-hamburg-auth-proxy: connection refused | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7163](https://jira.hochbahn.de/browse/MOS-7163) | Account deaktivieren bei Kündigung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-134.0
 
 Deployment on **PROD** at: tba
