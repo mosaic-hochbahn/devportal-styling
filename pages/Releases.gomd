@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-28.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 15.09.22 - 13:14:12
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13023](https://jira.hochbahn.de/projects/MOS/versions/13023)
+
+key | summary |  type
+---- | ----|----
+[MOS-7474](https://jira.hochbahn.de/browse/MOS-7474) | identity-service: customerUpdateEvent validiert firstname als required | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7469](https://jira.hochbahn.de/browse/MOS-7469) | Geofox AnnouncementSubscriptionApi über Mosaic ambassador freigeben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7431](https://jira.hochbahn.de/browse/MOS-7431) | identity-service: middlewares werden doppelt durchlaufen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7164](https://jira.hochbahn.de/browse/MOS-7164) | Customer komplett aus Basis DBs löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-27.0
 
 Deployment on **PROD** at: tba
