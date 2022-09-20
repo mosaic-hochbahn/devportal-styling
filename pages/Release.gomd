@@ -1,9 +1,54 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## BASIS-27.0
+## MOSAIC-135.0
 
 Deployment on **PROD** at
-	<time class="date-past">13.09.22</time> - 17:17:12
+	<time class="date-past">20.09.22</time> - 13:10:13
+
+Deployment on *QA* at: 15.09.22 - 13:19:51
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13111](https://jira.hochbahn.de/projects/MOS/versions/13111)
+
+key | summary |  type
+---- | ----|----
+[MOS-7502](https://jira.hochbahn.de/browse/MOS-7502) | MOBI: Falsche Parameter Reihenfolge | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7495](https://jira.hochbahn.de/browse/MOS-7495) | dummy ticket for ca bugfix | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7477](https://jira.hochbahn.de/browse/MOS-7477) | [Nullpointer] customer-service | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7473](https://jira.hochbahn.de/browse/MOS-7473) | Validatoren in Customer-Service für CustomerUpdate Supplier bauen  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7472](https://jira.hochbahn.de/browse/MOS-7472) | [clarifiaction-service] update to Java 17 LTS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7464](https://jira.hochbahn.de/browse/MOS-7464) | Abhängigkeit zu Tier-Mock und Voi-Mock aus billing-order-adapter ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7453](https://jira.hochbahn.de/browse/MOS-7453) | [WeShare] missing ErrorResponseCode | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7448](https://jira.hochbahn.de/browse/MOS-7448) | Komfortabler Schalter zwischen verschiedenen Barcodes im Switch-Ticket-Service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7447](https://jira.hochbahn.de/browse/MOS-7447) | VDV-Barcode Erstellung im Switch-Ticket-Service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7422](https://jira.hochbahn.de/browse/MOS-7422) | Ride: VDV-Barcode für hvv Switch App | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7407](https://jira.hochbahn.de/browse/MOS-7407) | remove sensible data from customer adapter logs | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7395](https://jira.hochbahn.de/browse/MOS-7395) | autom. Kündigung - Löschung der Daten in Ticketing | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7394](https://jira.hochbahn.de/browse/MOS-7394) | autom. Kündigung - Im shuttle-service die CustomerNumber vom order-service migrieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7393](https://jira.hochbahn.de/browse/MOS-7393) | autom. Kündigung - Speichern der CustomerNumber im shuttle-service | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7341](https://jira.hochbahn.de/browse/MOS-7341) | VOI - Das tatsächliches Datum vor dem Go Live konfigurieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7340](https://jira.hochbahn.de/browse/MOS-7340) | Retry Logging in allen Billing Services | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7310](https://jira.hochbahn.de/browse/MOS-7310) | VOI - Ended Internally mit fehlerhaften Abrechnungsdaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7219](https://jira.hochbahn.de/browse/MOS-7219) | Event zur Deaktivierung verarbeiten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7175](https://jira.hochbahn.de/browse/MOS-7175) | BE: Die Validierungsfunktion über das Shopsystem von iTM sollen zurückgebaut werden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
+## BASIS-28.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 15.09.22 - 13:14:12
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13023](https://jira.hochbahn.de/projects/MOS/versions/13023)
+
+key | summary |  type
+---- | ----|----
+[MOS-7474](https://jira.hochbahn.de/browse/MOS-7474) | identity-service: customerUpdateEvent validiert firstname als required | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7469](https://jira.hochbahn.de/browse/MOS-7469) | Geofox AnnouncementSubscriptionApi über Mosaic ambassador freigeben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7431](https://jira.hochbahn.de/browse/MOS-7431) | identity-service: middlewares werden doppelt durchlaufen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7164](https://jira.hochbahn.de/browse/MOS-7164) | Customer komplett aus Basis DBs löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## BASIS-27.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 08.09.22 - 15:33:14
 
