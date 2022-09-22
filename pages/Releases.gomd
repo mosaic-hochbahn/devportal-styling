@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-29.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 22.09.22 - 13:17:28
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13024](https://jira.hochbahn.de/projects/MOS/versions/13024)
+
+key | summary |  type
+---- | ----|----
+[MOS-7490](https://jira.hochbahn.de/browse/MOS-7490) | panic im miles-auth-proxy | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7076](https://jira.hochbahn.de/browse/MOS-7076) | Sonarqube-Projekte mit Meta-Informationen erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-135.0
 
 Deployment on **PROD** at: tba
