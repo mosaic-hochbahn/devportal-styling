@@ -1,9 +1,42 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## MOSAIC-135.0
+## MOSAIC-136.0
 
 Deployment on **PROD** at
-	<time class="date-past">20.09.22</time> - 13:14:01
+	<time class="date-past">27.09.22</time> - 13:15:20
+
+Deployment on *QA* at: 22.09.22 - 13:21:29
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13115](https://jira.hochbahn.de/projects/MOS/versions/13115)
+
+key | summary |  type
+---- | ----|----
+[MOS-7556](https://jira.hochbahn.de/browse/MOS-7556) |  The phone number supplied was null nicht mehr loggen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7554](https://jira.hochbahn.de/browse/MOS-7554) | Reset-Switch-Pin erlaubt mehr als 7 Passwort-Falscheingaben | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7547](https://jira.hochbahn.de/browse/MOS-7547) | Stadtrad: Service un-deployen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7479](https://jira.hochbahn.de/browse/MOS-7479) | Refactoring Events auf functional binding | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7465](https://jira.hochbahn.de/browse/MOS-7465) | autom. Kündigung - Neuen Fehlercode von Customer in die Ride API aufnehmen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7397](https://jira.hochbahn.de/browse/MOS-7397) | autom. Kündigung - Löschung der Daten in Rental | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7396](https://jira.hochbahn.de/browse/MOS-7396) | autom. Kündigung - Löschung der Daten in Shuttle | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7349](https://jira.hochbahn.de/browse/MOS-7349) | LogPay-Adapter undeployen &amp; archivieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7076](https://jira.hochbahn.de/browse/MOS-7076) | Sonarqube-Projekte mit Meta-Informationen erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## BASIS-29.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 22.09.22 - 13:17:28
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13024](https://jira.hochbahn.de/projects/MOS/versions/13024)
+
+key | summary |  type
+---- | ----|----
+[MOS-7490](https://jira.hochbahn.de/browse/MOS-7490) | panic im miles-auth-proxy | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7076](https://jira.hochbahn.de/browse/MOS-7076) | Sonarqube-Projekte mit Meta-Informationen erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## MOSAIC-135.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 15.09.22 - 13:19:51
 
