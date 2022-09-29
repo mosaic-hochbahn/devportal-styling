@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-137.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 29.09.22 - 13:20:17
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13116](https://jira.hochbahn.de/projects/MOS/versions/13116)
+
+key | summary |  type
+---- | ----|----
+[MOS-7582](https://jira.hochbahn.de/browse/MOS-7582) | Dependabot not buggy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7577](https://jira.hochbahn.de/browse/MOS-7577) | Tier - Start wird mit ConstraintViolationException abgebrochen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7572](https://jira.hochbahn.de/browse/MOS-7572) | Monatsscheibe berücksichtigt Abo-gültigVon/gültigBis nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7527](https://jira.hochbahn.de/browse/MOS-7527) | testing-kafka-gateway: Testabdeckung erhöhen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7478](https://jira.hochbahn.de/browse/MOS-7478) | Umstellung auf Email-Template mit SendGrid | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7456](https://jira.hochbahn.de/browse/MOS-7456) | Retry Logging für Event Consumer in allen Billing Services | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6706](https://jira.hochbahn.de/browse/MOS-6706) | Helm Update für Pod-Disruption-Policy (ride) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-136.0
 
 Deployment on **PROD** at: tba
