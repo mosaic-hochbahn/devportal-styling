@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-30.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 29.09.22 - 13:40:05
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13025](https://jira.hochbahn.de/projects/MOS/versions/13025)
+
+key | summary |  type
+---- | ----|----
+[MOS-7506](https://jira.hochbahn.de/browse/MOS-7506) | Logging-Middleware | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7501](https://jira.hochbahn.de/browse/MOS-7501) | Service-Center: API Calls sollen mit JWT-Filter behandelt werden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7496](https://jira.hochbahn.de/browse/MOS-7496) | Post-Deployment-Tests: identity-service und account-service um Customer-Deactivation und -Deletion-Tests erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-137.0
 
 Deployment on **PROD** at: tba
