@@ -1,5 +1,33 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-138.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 06.10.22 - 15:28:18
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13118](https://jira.hochbahn.de/projects/MOS/versions/13118)
+
+key | summary |  type
+---- | ----|----
+[MOS-7612](https://jira.hochbahn.de/browse/MOS-7612) | fix problem with termination requested via app | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7607](https://jira.hochbahn.de/browse/MOS-7607) | Payment API Create Non Regular Payment implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7605](https://jira.hochbahn.de/browse/MOS-7605) | Logausgaben bei TripScheduleUpdate Event erweitern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7596](https://jira.hochbahn.de/browse/MOS-7596) | Anonymisieren aller Daten eines Kunden im billing-service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7595](https://jira.hochbahn.de/browse/MOS-7595) | Anonymisieren aller Daten eines Kunden im order-service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7594](https://jira.hochbahn.de/browse/MOS-7594) | Anonymisieren aller Daten eines Kunden im payment-service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7592](https://jira.hochbahn.de/browse/MOS-7592) | Finalisieren der gemockten MOIA-Aktivierung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7568](https://jira.hochbahn.de/browse/MOS-7568) | RejectedFelder setzen und zurückgeben | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7509](https://jira.hochbahn.de/browse/MOS-7509) | [ea-generator] add new table termination | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7484](https://jira.hochbahn.de/browse/MOS-7484) | Payment API Copy Payment im Payment-Service implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7360](https://jira.hochbahn.de/browse/MOS-7360) | Payment API Update PaymentMethod im Payment-Service implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7358](https://jira.hochbahn.de/browse/MOS-7358) | Payment API SaveMspReference Payment im Payment-Service implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7355](https://jira.hochbahn.de/browse/MOS-7355) | Payment API Capture Payment im Payment-Service implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7352](https://jira.hochbahn.de/browse/MOS-7352) | Payment API Cancel Payment im Payment Service implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7343](https://jira.hochbahn.de/browse/MOS-7343) | Payment API Create Payment im Payment-Service implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7269](https://jira.hochbahn.de/browse/MOS-7269) | Als Kunde möchte ich eine Kündigung zurücknehmen können | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7162](https://jira.hochbahn.de/browse/MOS-7162) | Löschen aller Daten eines Kunden im automatisierten Kündigungsprozess | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-30.0
 
 Deployment on **PROD** at: tba
