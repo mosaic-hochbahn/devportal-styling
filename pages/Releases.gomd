@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-31.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 06.10.22 - 15:42:34
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13119](https://jira.hochbahn.de/projects/MOS/versions/13119)
+
+key | summary |  type
+---- | ----|----
+[MOS-7563](https://jira.hochbahn.de/browse/MOS-7563) | Registrierung per App nicht möglich nach Monolith Schwenk | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7559](https://jira.hochbahn.de/browse/MOS-7559) | share-now-auth-proxy erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7543](https://jira.hochbahn.de/browse/MOS-7543) | PTnova Proxy erweitern um PARTNER_SRV Pfad | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-138.0
 
 Deployment on **PROD** at: tba
