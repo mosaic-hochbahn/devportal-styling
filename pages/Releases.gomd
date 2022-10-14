@@ -1,5 +1,35 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-139.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 14.10.22 - 13:49:49
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13027](https://jira.hochbahn.de/projects/MOS/versions/13027)
+
+key | summary |  type
+---- | ----|----
+[MOS-7686](https://jira.hochbahn.de/browse/MOS-7686) | AIDA: Neben SBAHN auch HHA und DB unterstützen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7685](https://jira.hochbahn.de/browse/MOS-7685) | EmailOptIn muss auch mit x-switch-customer-number glücklich werden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7659](https://jira.hochbahn.de/browse/MOS-7659) | Aktualisierung deep link mail | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7640](https://jira.hochbahn.de/browse/MOS-7640) | Dokumentation der Systemunterstützten Kündigung in der Billing-Domäne | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7639](https://jira.hochbahn.de/browse/MOS-7639) | autom. Kündigung - Neuen Fehlercode von Customer in die Billing API aufnehmen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7635](https://jira.hochbahn.de/browse/MOS-7635) | Create SHARENOW activation | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7633](https://jira.hochbahn.de/browse/MOS-7633) | [13.10.2022] Rechnungen/Gutschriften Footer anpassen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7609](https://jira.hochbahn.de/browse/MOS-7609) | [crm] Liveschaltung VOI | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7533](https://jira.hochbahn.de/browse/MOS-7533) | Nutzung von Aktualisierungen auf dem Tarifserver bei der Erzeugung von Monatsscheiben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7350](https://jira.hochbahn.de/browse/MOS-7350) | Payment API im Order-Service anbinden | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7326](https://jira.hochbahn.de/browse/MOS-7326) | Produktbezeichnung und räumliche Gültigkeit für die hvv App und im Ticketlayout bereit stellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7325](https://jira.hochbahn.de/browse/MOS-7325) | Mitnahmeregeln in Ticketlayout der Abos aufnehmen  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7094](https://jira.hochbahn.de/browse/MOS-7094) | AIDA meets ANDI - Langlebige ABO Tickets auf Basis der Fahrgastkontenvorgaben einstellen! | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7056](https://jira.hochbahn.de/browse/MOS-7056) | Kontaktdatensteuerung im Deep Link Text anhand der Kundennummer | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6926](https://jira.hochbahn.de/browse/MOS-6926) | 10 Iteration: Payment Service API implementieren und Abhängigkeiten auflösen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6867](https://jira.hochbahn.de/browse/MOS-6867) | [crm] moia4KidsToggle umlegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6221](https://jira.hochbahn.de/browse/MOS-6221) | Anpassung Text M-CRM | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5903](https://jira.hochbahn.de/browse/MOS-5903) | Kreditkarte LogPay mocken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-1048](https://jira.hochbahn.de/browse/MOS-1048) | Mock-Service PayPal | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-32.0
 
 Deployment on **PROD** at: tba
