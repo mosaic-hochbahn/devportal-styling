@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-32.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 14.10.22 - 13:08:32
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13121](https://jira.hochbahn.de/projects/MOS/versions/13121)
+
+key | summary |  type
+---- | ----|----
+[MOS-7624](https://jira.hochbahn.de/browse/MOS-7624) | [identity-service] missing Name in in email | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7600](https://jira.hochbahn.de/browse/MOS-7600) | bonvoyo-auth-proxy: weitere credentials für /registration-url unterstützen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7567](https://jira.hochbahn.de/browse/MOS-7567) | Correlation-Id fehlt in Error-Logs in PTnova-Auth-Proxy | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7560](https://jira.hochbahn.de/browse/MOS-7560) | basis-post-deployment-tests refactoren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7541](https://jira.hochbahn.de/browse/MOS-7541) | Analyse: Account-Service häufig &#34;Account-Activation failed&#34; | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7331](https://jira.hochbahn.de/browse/MOS-7331) | PDS-Test für testing-deployment | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-31.0
 
 Deployment on **PROD** at: tba
