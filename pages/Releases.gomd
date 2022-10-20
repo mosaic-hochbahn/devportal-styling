@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-33.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 20.10.22 - 13:13:38
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13028](https://jira.hochbahn.de/projects/MOS/versions/13028)
+
+key | summary |  type
+---- | ----|----
+[MOS-7316](https://jira.hochbahn.de/browse/MOS-7316) | PDS-Test für Keycloak | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-139.0
 
 Deployment on **PROD** at: tba
