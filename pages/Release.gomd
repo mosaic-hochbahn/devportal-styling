@@ -1,9 +1,43 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## MOSAIC-139.0
+## MOSAIC-140.0
 
 Deployment on **PROD** at
-	<time class="date-past">18.10.22</time> - 13:28:50
+	<time class="date-past">25.10.22</time> - 13:13:33
+
+Deployment on *QA* at: 20.10.22 - 13:27:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13122](https://jira.hochbahn.de/projects/MOS/versions/13122)
+
+key | summary |  type
+---- | ----|----
+[MOS-7702](https://jira.hochbahn.de/browse/MOS-7702) | [dependencyChecks] - billing-service - kritische Abhängigkeit commons-text-1.9.jar | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7701](https://jira.hochbahn.de/browse/MOS-7701) | [dependencyChecks] - billing-order-orchestration - kritische Abhängigkeit scala-library-2.13.6.jar | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7692](https://jira.hochbahn.de/browse/MOS-7692) | AIDA: FFW kann mit ihrem Keycloak-Client aida-test aktuell keine Abos anlegen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7642](https://jira.hochbahn.de/browse/MOS-7642) | Claudia Güsken wird in Emails genannt, die der Monolith verschickt | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7601](https://jira.hochbahn.de/browse/MOS-7601) | hvv any (CIBO) - Kopieren eines Auftrags im Sonderfall | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7583](https://jira.hochbahn.de/browse/MOS-7583) | hvv any (CIBO)  - Prüfung des Zahlungsmittel und Betragsautorisierung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7550](https://jira.hochbahn.de/browse/MOS-7550) | Payment-Service zuletzt genutztes Zahlungsmittel Abfrage | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7519](https://jira.hochbahn.de/browse/MOS-7519) | Fahrgastkonto und Fahrscheindatenannahme entkoppelt von einander ermöglichen inkl. deep link Versand | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7447](https://jira.hochbahn.de/browse/MOS-7447) | VDV-Barcode Erstellung im Switch-Ticket-Service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7121](https://jira.hochbahn.de/browse/MOS-7121) | Ambassador Filter bereinigen - Vorbereitung für Ambassador Upgrade | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-4648](https://jira.hochbahn.de/browse/MOS-4648) | Als KSM möchte ich, dass MOSAIC im Zuge der Kündigung eine automatische Kündigungsaufforderung an alle aktivierten Partner versendet | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
+## BASIS-33.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 20.10.22 - 13:13:38
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13028](https://jira.hochbahn.de/projects/MOS/versions/13028)
+
+key | summary |  type
+---- | ----|----
+[MOS-7316](https://jira.hochbahn.de/browse/MOS-7316) | PDS-Test für Keycloak | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## MOSAIC-139.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 14.10.22 - 13:49:49
 
