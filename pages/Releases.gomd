@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-34.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 27.10.22 - 13:13:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13030](https://jira.hochbahn.de/projects/MOS/versions/13030)
+
+key | summary |  type
+---- | ----|----
+[MOS-7378](https://jira.hochbahn.de/browse/MOS-7378) | push-notification-service: Endpunkt zum Löschen der Token zu einer Referenz anbieten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-140.0
 
 Deployment on **PROD** at: tba
