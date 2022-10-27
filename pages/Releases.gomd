@@ -1,5 +1,36 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-141.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 27.10.22 - 13:44:27
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13031](https://jira.hochbahn.de/projects/MOS/versions/13031)
+
+key | summary |  type
+---- | ----|----
+[MOS-7768](https://jira.hochbahn.de/browse/MOS-7768) | Als MDL möchte ich, dass die automatische Kündigungsaufforderung die E-Mail-Adresse des Kunden enthält | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7767](https://jira.hochbahn.de/browse/MOS-7767) | Schemaerweiterung logPayDisabled | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7754](https://jira.hochbahn.de/browse/MOS-7754) | resolve test issues with msp notification | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7719](https://jira.hochbahn.de/browse/MOS-7719) | [dependencyChecks] -billing-order-adapter / discount-service - kritische Abhängigkeit scala-library-2.13.6.jar | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7717](https://jira.hochbahn.de/browse/MOS-7717) | In der Konfig des Customer-Service den Logpay-Adapter ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7716](https://jira.hochbahn.de/browse/MOS-7716) | [dependencyChecks] - order-service - kritische Abhängigkeit commons-text-1.9.jar | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7715](https://jira.hochbahn.de/browse/MOS-7715) | [dependencyChecks] - payment-service  - kritische Abhängigkeit commons-text-1.9.jar | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7689](https://jira.hochbahn.de/browse/MOS-7689) | Payment-Service Cancel Payment Clarification läuft nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7678](https://jira.hochbahn.de/browse/MOS-7678) | Namensintegration bei der Erstellung der statischen Berechtigungen für VDV-Barcodes | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7677](https://jira.hochbahn.de/browse/MOS-7677) | Verkürze das Intervall für den Recovery-Job im Billing-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7656](https://jira.hochbahn.de/browse/MOS-7656) | Email Footer anpassen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7649](https://jira.hochbahn.de/browse/MOS-7649) | Freigabe von reserviertem Betrag - hvv any | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7638](https://jira.hochbahn.de/browse/MOS-7638) | Validate customerDeactivation event | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7623](https://jira.hochbahn.de/browse/MOS-7623) | Event zur Löschung eines Kunden erst nach 180 Tagen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7576](https://jira.hochbahn.de/browse/MOS-7576) | WeShare - NPE bei can-finish | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7575](https://jira.hochbahn.de/browse/MOS-7575) | Problem beim Mapping der OrderNumber auf die TripId | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7552](https://jira.hochbahn.de/browse/MOS-7552) | CIBO Workaround für locked until beheben | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7261](https://jira.hochbahn.de/browse/MOS-7261) | Event Klassen um Validierung ergänzen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6869](https://jira.hochbahn.de/browse/MOS-6869) | Obsolete Payment Attribute aus den Payment-Events entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5881](https://jira.hochbahn.de/browse/MOS-5881) | Als KSM möchte ich, dass MOSAIC im Zuge der Kündigung die Information an LogPay übermittelt | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-34.0
 
 Deployment on **PROD** at: tba
