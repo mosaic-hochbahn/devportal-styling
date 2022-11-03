@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-35.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 03.11.22 - 13:13:08
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13200](https://jira.hochbahn.de/projects/MOS/versions/13200)
+
+key | summary |  type
+---- | ----|----
+[MOS-7616](https://jira.hochbahn.de/browse/MOS-7616) | Kafka-Event-Logging verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7604](https://jira.hochbahn.de/browse/MOS-7604) | account-service: logs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6352](https://jira.hochbahn.de/browse/MOS-6352) | go-microservice-starter-commons: Testabdeckung erhöhen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-141.0
 
 Deployment on **PROD** at: tba
