@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-3.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 04.11.22 - 14:33:34
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13120](https://jira.hochbahn.de/projects/MOS/versions/13120)
+
+key | summary |  type
+---- | ----|----
+[MOS-7788](https://jira.hochbahn.de/browse/MOS-7788) | AIDA - Austausch Landingpage-Ressourcen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-142.0
 
 Deployment on **PROD** at: tba
