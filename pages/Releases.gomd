@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-143.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 10.11.22 - 13:52:30
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13301](https://jira.hochbahn.de/projects/MOS/versions/13301)
+
+key | summary |  type
+---- | ----|----
+[MOS-7862](https://jira.hochbahn.de/browse/MOS-7862) | Verzögerte Ticketgültigkeit beim Einlösen der 5er TK beachten | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7847](https://jira.hochbahn.de/browse/MOS-7847) | Billing-System-Tests fallen um | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7732](https://jira.hochbahn.de/browse/MOS-7732) | Informierte PSP Partner nach Kündigung ausfallsicher machen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7684](https://jira.hochbahn.de/browse/MOS-7684) | Verwendung externer Mocks ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7645](https://jira.hochbahn.de/browse/MOS-7645) | Order-Service läuft beim User (mit PayPal) mit vielen Aufträgen bei den System-Tests gegen einen Timeout | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7539](https://jira.hochbahn.de/browse/MOS-7539) | Mobi: Token-Retrieval ruft 500er hervor | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7268](https://jira.hochbahn.de/browse/MOS-7268) | Obsolete Payment DB Attribute entfernen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BASIS-36.0
 
 Deployment on **PROD** at: tba
