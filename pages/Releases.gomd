@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-36.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 10.11.22 - 12:59:35
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13300](https://jira.hochbahn.de/projects/MOS/versions/13300)
+
+key | summary |  type
+---- | ----|----
+[MOS-7851](https://jira.hochbahn.de/browse/MOS-7851) | account-service: 500 beim Versuch einen Passwort-Reset zu bekommen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7809](https://jira.hochbahn.de/browse/MOS-7809) | Analyse und Behebung Fehler aus zweitem Monolith-Schwenk-Test | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7798](https://jira.hochbahn.de/browse/MOS-7798) | bonvoyo-auth-proxy: genutzten OIDC-Token an Aufrufer zurückgeben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-3.0
 
 Deployment on **PROD** at: tba
