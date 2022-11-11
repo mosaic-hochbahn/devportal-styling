@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-4.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 11.11.22 - 13:26:06
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13302](https://jira.hochbahn.de/projects/MOS/versions/13302)
+
+key | summary |  type
+---- | ----|----
+[MOS-7879](https://jira.hochbahn.de/browse/MOS-7879) | AIDA - Korrektur apple-app-site-association File Type | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7872](https://jira.hochbahn.de/browse/MOS-7872) | AIDA - Austausch Link auf Landingpage | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-143.0
 
 Deployment on **PROD** at: tba
