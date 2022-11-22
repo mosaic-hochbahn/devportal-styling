@@ -1,9 +1,32 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## RIDE-4.0
+## MOSAIC-144.0
 
 Deployment on **PROD** at
-	<time class="date-past">15.11.22</time> - 13:14:17
+	<time class="date-past">22.11.22</time> - 13:21:26
+
+Deployment on *QA* at: 17.11.22 - 13:21:26
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13305](https://jira.hochbahn.de/projects/MOS/versions/13305)
+
+key | summary |  type
+---- | ----|----
+[MOS-7893](https://jira.hochbahn.de/browse/MOS-7893) | Klärfall Zeitraum erhöhen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7877](https://jira.hochbahn.de/browse/MOS-7877) | Billing-Domäne Dependencies aktualisieren 11 2022 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7873](https://jira.hochbahn.de/browse/MOS-7873) | BonvoyoMock erweitern für payment-methods available | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7863](https://jira.hochbahn.de/browse/MOS-7863) | remove CustomerMigrationEvent  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7855](https://jira.hochbahn.de/browse/MOS-7855) | [Pipeline] Jenkins pipelines schlagen manchmal fehl wenn zu viele pipelines gleichzeitig laufen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7804](https://jira.hochbahn.de/browse/MOS-7804) | Quartz jobs auf QA beobachten | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7731](https://jira.hochbahn.de/browse/MOS-7731) | Entferne obsolete DB-Columns im Order-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7724](https://jira.hochbahn.de/browse/MOS-7724) | Informierte MDL Partner nach Kündigung ausfallsicher machen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7699](https://jira.hochbahn.de/browse/MOS-7699) | autom. Kündigung - Event wird nicht verarbeitet | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7651](https://jira.hochbahn.de/browse/MOS-7651) | CRM: hvv Any Buchungsdetails: Fahrt mit Nachtbus wird nicht als Busfahrt aufgelöst | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7342](https://jira.hochbahn.de/browse/MOS-7342) | VOI - Implementierung von Unlock Fee Filter ausbauen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6542](https://jira.hochbahn.de/browse/MOS-6542) | VOI | Rechnungsdokument erstellen und GoB-konform ablegen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
+## RIDE-4.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 11.11.22 - 13:26:06
 
