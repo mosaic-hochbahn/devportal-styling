@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-38.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 24.11.22 - 13:14:57
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13306](https://jira.hochbahn.de/projects/MOS/versions/13306)
+
+key | summary |  type
+---- | ----|----
+[MOS-7948](https://jira.hochbahn.de/browse/MOS-7948) | Logging für Mock-Requests in Go-Services verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7835](https://jira.hochbahn.de/browse/MOS-7835) | CVE-2022-31692 in spring-security-crypto-5.7.3 (mosaic) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-144.0
 
 Deployment on **PROD** at: tba
