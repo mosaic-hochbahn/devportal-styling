@@ -1,9 +1,54 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## MOSAIC-144.0
+## MOSAIC-145.0
 
 Deployment on **PROD** at
-	<time class="date-past">22.11.22</time> - 13:21:26
+	<time class="date-past">29.11.22</time> - 13:15:24
+
+Deployment on *QA* at: 24.11.22 - 16:13:25
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13203](https://jira.hochbahn.de/projects/MOS/versions/13203)
+
+key | summary |  type
+---- | ----|----
+[MOS-7975](https://jira.hochbahn.de/browse/MOS-7975) | Durchschnittlichen MwSt-Satz bei Pull-DebtData nicht vor Event gespeichert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7941](https://jira.hochbahn.de/browse/MOS-7941) | TIER Test-Scooter aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7923](https://jira.hochbahn.de/browse/MOS-7923) | [paypal-adapter] deletion event verarbeiten | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7908](https://jira.hochbahn.de/browse/MOS-7908) | [Customer-Service] deletion event | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7899](https://jira.hochbahn.de/browse/MOS-7899) | Zwei Mieten bei Sixt hingen in STARTING_RENT fest | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7858](https://jira.hochbahn.de/browse/MOS-7858) | Durchschnittlichen MwSt-Satz im ProcessSalesDataEvent ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7826](https://jira.hochbahn.de/browse/MOS-7826) | [customerDeactivationEvent] sends events without customerNumber | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7823](https://jira.hochbahn.de/browse/MOS-7823) | Auflösung der Abhängigkeiten zu den alten LogPay Request / Response Objekten | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7822](https://jira.hochbahn.de/browse/MOS-7822) | Berechnung der MwSt im Order-Service unterschiedlich zum Payment-Service | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7817](https://jira.hochbahn.de/browse/MOS-7817) | OpenApiGenerator-Version wird nicht aktualisiert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7755](https://jira.hochbahn.de/browse/MOS-7755) | Billing Share-Now Hackweek | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7744](https://jira.hochbahn.de/browse/MOS-7744) | [DeactivateTerminatedCustomerJob] Ausfallsicher machen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7694](https://jira.hochbahn.de/browse/MOS-7694) | 0% MwSt. soll in Richtung PT übergeben werden können | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7673](https://jira.hochbahn.de/browse/MOS-7673) | Bessere Kommunikation von MOIA Verspätungen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7658](https://jira.hochbahn.de/browse/MOS-7658) | Alte APIs aus dem Payment-Service inkl. Code ausbauen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7447](https://jira.hochbahn.de/browse/MOS-7447) | VDV-Barcode Erstellung im Switch-Ticket-Service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7422](https://jira.hochbahn.de/browse/MOS-7422) | Ride: VDV-Barcode für hvv Switch App | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7285](https://jira.hochbahn.de/browse/MOS-7285) | Unterschiedliche Client-Zertifikate im SAM-Adapter unterstützen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6782](https://jira.hochbahn.de/browse/MOS-6782) | Helm Update für Strukturiertes Logging von CloudSql Proxies (customer) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6722](https://jira.hochbahn.de/browse/MOS-6722) | Umstellung der Integration-Tests auf EmbeddedKafka im Order Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-4991](https://jira.hochbahn.de/browse/MOS-4991) | Ausbau der Monos in den Billing-Services | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
+## BASIS-38.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 24.11.22 - 13:14:57
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13306](https://jira.hochbahn.de/projects/MOS/versions/13306)
+
+key | summary |  type
+---- | ----|----
+[MOS-7948](https://jira.hochbahn.de/browse/MOS-7948) | Logging für Mock-Requests in Go-Services verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7835](https://jira.hochbahn.de/browse/MOS-7835) | CVE-2022-31692 in spring-security-crypto-5.7.3 (mosaic) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## MOSAIC-144.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 17.11.22 - 13:21:26
 
