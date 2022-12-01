@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-39.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 01.12.22 - 13:14:34
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13206](https://jira.hochbahn.de/projects/MOS/versions/13206)
+
+key | summary |  type
+---- | ----|----
+[MOS-7966](https://jira.hochbahn.de/browse/MOS-7966) | PT-Proxy - unexpected StatusCode 502 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7946](https://jira.hochbahn.de/browse/MOS-7946) | Exception Processing ErrorPage in account-service | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-145.0
 
 Deployment on **PROD** at: tba
