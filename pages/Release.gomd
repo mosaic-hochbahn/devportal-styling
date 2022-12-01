@@ -1,9 +1,65 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## MOSAIC-145.0
+## BILLING-7.0
 
 Deployment on **PROD** at
-	<time class="date-past">30.11.22</time> - 08:40:42
+	<time class="date-past">01.12.22</time> - 16:47:03
+
+Deployment on *QA* at: 01.12.22 - 16:35:23
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13208](https://jira.hochbahn.de/projects/MOS/versions/13208)
+
+key | summary |  type
+---- | ----|----
+[MOS-8027](https://jira.hochbahn.de/browse/MOS-8027) | Dummy Namespace Release | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## MOSAIC-146.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 01.12.22 - 13:20:24
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13207](https://jira.hochbahn.de/projects/MOS/versions/13207)
+
+key | summary |  type
+---- | ----|----
+[MOS-8009](https://jira.hochbahn.de/browse/MOS-8009) | Deeplink wird verschickt, Abo kann aber nicht in App geladen werden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8005](https://jira.hochbahn.de/browse/MOS-8005) | Auswechseln einer Kreditkarte durch eine andere misslingt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8004](https://jira.hochbahn.de/browse/MOS-8004) | Kündigungen aus TicketOffice DB/SBahn an Mosaic nicht mehr möglich (Testumgebung) | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7996](https://jira.hochbahn.de/browse/MOS-7996) | Ride - Booking - Error Message Page Handling beheben | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7943](https://jira.hochbahn.de/browse/MOS-7943) | DSGVO Daten auf DEV / QA früher als 10 Jahre löschen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7922](https://jira.hochbahn.de/browse/MOS-7922) | [document-validation-service] deletion event verarbeiten | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7921](https://jira.hochbahn.de/browse/MOS-7921) | [Customer-Adapter] deletion event | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7911](https://jira.hochbahn.de/browse/MOS-7911) | DSGVO Daten nach 10 Jahren löschen im billing-service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7910](https://jira.hochbahn.de/browse/MOS-7910) | DSGVO Daten nach 10 Jahren löschen im order-service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7909](https://jira.hochbahn.de/browse/MOS-7909) | DSGVO Daten nach 10 Jahren löschen im payment-service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7904](https://jira.hochbahn.de/browse/MOS-7904) | CRM - Buchungsdetails Fehler beim Ein-/Ausklappen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7868](https://jira.hochbahn.de/browse/MOS-7868) | Als 360 Cockpit Entwickler möchte ich regelmäßig über hvv-switch Auftrags-Änderungen informiert werden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7859](https://jira.hochbahn.de/browse/MOS-7859) | Durchschnittlichen MwSt-Satz aus ProcessSalesDataEvent lesen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7848](https://jira.hochbahn.de/browse/MOS-7848) | Mwst. Fix Richtung Bonvoyo | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7778](https://jira.hochbahn.de/browse/MOS-7778) | finish implementation of terminated flag at customer | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7654](https://jira.hochbahn.de/browse/MOS-7654) | CIBO Dokumentation anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7574](https://jira.hochbahn.de/browse/MOS-7574) | CancelJobs für Clarification und Recovery im payment-service anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7160](https://jira.hochbahn.de/browse/MOS-7160) | Runtersetzen der Deeplink-Gültigkeit auf 24h in Q und Prod vorm 6.12. | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7158](https://jira.hochbahn.de/browse/MOS-7158) | Verkleinern farbiger Balken in Aboticketlayout | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7095](https://jira.hochbahn.de/browse/MOS-7095) | Rand um VDV Barcode noch zu groß | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## BASIS-39.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 01.12.22 - 13:14:34
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13206](https://jira.hochbahn.de/projects/MOS/versions/13206)
+
+key | summary |  type
+---- | ----|----
+[MOS-7966](https://jira.hochbahn.de/browse/MOS-7966) | PT-Proxy - unexpected StatusCode 502 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7946](https://jira.hochbahn.de/browse/MOS-7946) | Exception Processing ErrorPage in account-service | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
+## MOSAIC-145.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 24.11.22 - 16:13:25
 
