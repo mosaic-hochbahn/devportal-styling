@@ -19,6 +19,11 @@ This API covers topics like:
 
 For a detailed list of all endpoints and resources, see below or the **APIs** sections to the left.
 
+### TLS Settings
+
+* Only version 1.2 or above are allowed. The older version 1.0 and 1.1 are not longer supported.
+* We use the COMPATIBLE SSL Policy to allow the broadest set of clients to use our API. See https://cloud.google.com/load-balancing/docs/ssl-policies-concepts for detailed information.
+
 ## Available API Specs
 
 The following API specs are exposed through MOSAIC:
