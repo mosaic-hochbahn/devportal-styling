@@ -1,5 +1,41 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-147.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 08.12.22 - 13:25:40
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13210](https://jira.hochbahn.de/projects/MOS/versions/13210)
+
+key | summary |  type
+---- | ----|----
+[MOS-8070](https://jira.hochbahn.de/browse/MOS-8070) | correct cron job expression for DeactivateTerminatedCustomerJob | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8069](https://jira.hochbahn.de/browse/MOS-8069) | add new flag at creation of customer termination | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8061](https://jira.hochbahn.de/browse/MOS-8061) | Beitragsautorisierung deaktivieren für hvv Any | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8049](https://jira.hochbahn.de/browse/MOS-8049) | Billing-Service Rückreferenz ausbauen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8030](https://jira.hochbahn.de/browse/MOS-8030) | [document-validation] deletion erwartet pro customer eine document validation | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8028](https://jira.hochbahn.de/browse/MOS-8028) | HVV, PayPal | LogPay Prepaid Offline Retry Flow versucht unnötigerweise zu capturen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8012](https://jira.hochbahn.de/browse/MOS-8012) | add new flag for handling of CustomerTerminationDeleteTerminatedCustomersJob | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7955](https://jira.hochbahn.de/browse/MOS-7955) | Payment Service - Umstellung auf EmbeddedKafka der Integration-Tests | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7954](https://jira.hochbahn.de/browse/MOS-7954) | Billing Service - Umstellung auf EmbeddedKafka der Integration-Tests | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7953](https://jira.hochbahn.de/browse/MOS-7953) | check job CustomerTerminationDeleteTerminatedCustomersJob | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7925](https://jira.hochbahn.de/browse/MOS-7925) | Löschen personebezogener Daten im ItmAdapter | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7920](https://jira.hochbahn.de/browse/MOS-7920) | Bonvoyo Mock sollte eine userId zurückgeben  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7903](https://jira.hochbahn.de/browse/MOS-7903) | remove Agent authentication in customer migration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7902](https://jira.hochbahn.de/browse/MOS-7902) | Schließung der Klärfälle für hvv any mit Status &#34;service provided&#34; | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7898](https://jira.hochbahn.de/browse/MOS-7898) | Durchschnittlichen MwSt-Satz aus ProcessSalesDataEvent lesen Nacharbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7838](https://jira.hochbahn.de/browse/MOS-7838) | Order-Service Rückreferenz ausbauen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7837](https://jira.hochbahn.de/browse/MOS-7837) | Performance DB-Transaktionen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7410](https://jira.hochbahn.de/browse/MOS-7410) | Order-Service verarbeitet Events nicht robust | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7377](https://jira.hochbahn.de/browse/MOS-7377) | Billing-Order-Adapter in den Billing Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7346](https://jira.hochbahn.de/browse/MOS-7346) | 11 Iteration Clean Up: Veraltete DB Attribute entfernen / Docs / Sonar | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7226](https://jira.hochbahn.de/browse/MOS-7226) | Alle Billing Domänen Services im Sonar durchgehen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-6784](https://jira.hochbahn.de/browse/MOS-6784) | Helm Update für Strukturiertes Logging von CloudSql Proxies (billing) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6705](https://jira.hochbahn.de/browse/MOS-6705) | Helm Update für Pod-Disruption-Policy (billing) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6193](https://jira.hochbahn.de/browse/MOS-6193) | [crm] 5er-Tageskarte Toggle ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6175](https://jira.hochbahn.de/browse/MOS-6175) | Billing feature-Branch mock-images werden falsch getaggt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BILLING-7.0
 
 Deployment on **PROD** at: tba
