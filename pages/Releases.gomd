@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-8.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 06.01.23 - 14:35:15
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13309](https://jira.hochbahn.de/projects/MOS/versions/13309)
+
+key | summary |  type
+---- | ----|----
+[MOS-8250](https://jira.hochbahn.de/browse/MOS-8250) | Namespace: Deployment im Billing-Namespace (Iteration 2) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8215](https://jira.hochbahn.de/browse/MOS-8215) | Namespace: OverrideSecret für Billing-Services mit DB einrichten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8169](https://jira.hochbahn.de/browse/MOS-8169) | Payment-Service versucht CancelPayment nicht erneut | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8095](https://jira.hochbahn.de/browse/MOS-8095) | Billing-Order-Adapter Jenkinsfile anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-148.0
 
 Deployment on **PROD** at: tba
