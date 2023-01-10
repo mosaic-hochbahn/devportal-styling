@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-9.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 10.01.23 - 10:12:43
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13217](https://jira.hochbahn.de/projects/MOS/versions/13217)
+
+key | summary |  type
+---- | ----|----
+[MOS-8253](https://jira.hochbahn.de/browse/MOS-8253) | Namespace: Deployment im Billing-Namespace (Iteration 3) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7887](https://jira.hochbahn.de/browse/MOS-7887) | Connection Pool inkompatibel mit Kubernetes | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7681](https://jira.hochbahn.de/browse/MOS-7681) | Anpassung Rechnungsmail &#34;Produkt&#34; für hvv Any | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-8.0
 
 Deployment on **PROD** at: tba
