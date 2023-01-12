@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-11.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 12.01.23 - 11:25:10
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13219](https://jira.hochbahn.de/projects/MOS/versions/13219)
+
+key | summary |  type
+---- | ----|----
+[MOS-8143](https://jira.hochbahn.de/browse/MOS-8143) | Connection Pool Payment-Service | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BILLING-10.0
 
 Deployment on **PROD** at: tba
