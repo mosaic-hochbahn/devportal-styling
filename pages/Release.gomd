@@ -1,9 +1,37 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## BILLING-10.0
+## BASIS-43.0
 
 Deployment on **PROD** at
-	<time class="date-past">11.01.23</time> - 11:33:35
+	<time class="date-past">17.01.23</time> - 13:03:38
+
+Deployment on *QA* at: 12.01.23 - 13:18:37
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13214](https://jira.hochbahn.de/projects/MOS/versions/13214)
+
+key | summary |  type
+---- | ----|----
+[MOS-8259](https://jira.hochbahn.de/browse/MOS-8259) | Monolith-User-Anonymizer | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8198](https://jira.hochbahn.de/browse/MOS-8198) | Messaging-Service: Block-SMS-By-Country Feature kann entfernt werden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8197](https://jira.hochbahn.de/browse/MOS-8197) | Vehicle Mapping Tests seit mind 25.12. kaputt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8093](https://jira.hochbahn.de/browse/MOS-8093) | Mapping Test direkt nach Deployment rot | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7096](https://jira.hochbahn.de/browse/MOS-7096) | Rate Limit für Endpoint, der SMS Versand auslöst | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## BILLING-11.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 12.01.23 - 11:25:10
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13219](https://jira.hochbahn.de/projects/MOS/versions/13219)
+
+key | summary |  type
+---- | ----|----
+[MOS-8143](https://jira.hochbahn.de/browse/MOS-8143) | Connection Pool Payment-Service | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
+## BILLING-10.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 10.01.23 - 17:25:32
 
