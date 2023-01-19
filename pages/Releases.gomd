@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-44.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 19.01.23 - 13:06:52
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13221](https://jira.hochbahn.de/projects/MOS/versions/13221)
+
+key | summary |  type
+---- | ----|----
+[MOS-8260](https://jira.hochbahn.de/browse/MOS-8260) | Mosaic-JWT-Filter | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8241](https://jira.hochbahn.de/browse/MOS-8241) | Preis-Limit für SMS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8216](https://jira.hochbahn.de/browse/MOS-8216) | panic im itm-authentication-proxy | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BASIS-43.0
 
 Deployment on **PROD** at: tba
