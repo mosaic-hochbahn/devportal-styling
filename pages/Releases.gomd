@@ -1,5 +1,34 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-150.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 19.01.23 - 17:01:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13222](https://jira.hochbahn.de/projects/MOS/versions/13222)
+
+key | summary |  type
+---- | ----|----
+[MOS-8389](https://jira.hochbahn.de/browse/MOS-8389) | WeShare Update unterbinden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8387](https://jira.hochbahn.de/browse/MOS-8387) | Besondere Requirements für das DT v02 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8385](https://jira.hochbahn.de/browse/MOS-8385) | analysieren, warum die Kündigung von moia vor dem Kündigungstag durchgeführt wurde | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8381](https://jira.hochbahn.de/browse/MOS-8381) | Hystrix-Thread-Pool limitiert parallele Requests an ptnova-adapter | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8380](https://jira.hochbahn.de/browse/MOS-8380) | Lasttest - Sam Adapter - Mandantenfähigkeit überarbeiten | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8352](https://jira.hochbahn.de/browse/MOS-8352) | Digitales Laden - get chargingsession returned UNKNOWN_MSP_ERROR nach einem cancel | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8347](https://jira.hochbahn.de/browse/MOS-8347) | [crm] refundToggle umlegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8320](https://jira.hochbahn.de/browse/MOS-8320) | Digitales Laden - Dokumentation im DevPortal aktualisieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8314](https://jira.hochbahn.de/browse/MOS-8314) | Cache für subscription offers | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8313](https://jira.hochbahn.de/browse/MOS-8313) | Fehlerhandling analog zu PTNova Adapter | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8310](https://jira.hochbahn.de/browse/MOS-8310) | PayPal Adapter - Customer statt Customer Number in Log Ausgabe | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8292](https://jira.hochbahn.de/browse/MOS-8292) | Besondere Requirements für das DT | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8290](https://jira.hochbahn.de/browse/MOS-8290) | [crm] update to Angular 14 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8281](https://jira.hochbahn.de/browse/MOS-8281) | GET /subscriptions/offers implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8277](https://jira.hochbahn.de/browse/MOS-8277) | Subscription-Entity erstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8256](https://jira.hochbahn.de/browse/MOS-8256) | Namespace: Billing-Services auf Beam undeployen (Iteration 6) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8224](https://jira.hochbahn.de/browse/MOS-8224) | Deutschlandticket-Offer an die App ausspielen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7622](https://jira.hochbahn.de/browse/MOS-7622) | [cronJob] add correlationId to jobs | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-149.0
 
 Deployment on **PROD** at: tba
