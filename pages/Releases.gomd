@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-12.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 19.01.23 - 13:35:19
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13220](https://jira.hochbahn.de/projects/MOS/versions/13220)
+
+key | summary |  type
+---- | ----|----
+[MOS-8355](https://jira.hochbahn.de/browse/MOS-8355) | Billing-Automated-Tests: Jenkins-Jobs für Regression-Tests und Master-Tests | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8346](https://jira.hochbahn.de/browse/MOS-8346) | Deployment Definition Ref muss aktualisiert werden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8343](https://jira.hochbahn.de/browse/MOS-8343) | Billing-Namespace: Slack-Meldungen loggen leeren Branch | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8327](https://jira.hochbahn.de/browse/MOS-8327) | Billing-Namespace: Fehler beim Deployment in Slack melden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8325](https://jira.hochbahn.de/browse/MOS-8325) | [D-Ticket][Neukunden] Unterscheidung zwischen Kunden- und Hochbahn-initiierten Aufträgen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8321](https://jira.hochbahn.de/browse/MOS-8321) | Billing-Automated-Tests: Dependabot in Billing-Automated-Tests einbinden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8319](https://jira.hochbahn.de/browse/MOS-8319) | Namespace: Billing-System-Tests in Billing-Deployments integrieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8309](https://jira.hochbahn.de/browse/MOS-8309) | Namespace: Jira-Releasable-Übersichtsseite für Billing anlegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8226](https://jira.hochbahn.de/browse/MOS-8226) | Namespace: Billing-Namespace in nächtliche Deployments einbinden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8036](https://jira.hochbahn.de/browse/MOS-8036) | Namespace: Billing-System-Tests in eigenes Repository umziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-44.0
 
 Deployment on **PROD** at: tba
