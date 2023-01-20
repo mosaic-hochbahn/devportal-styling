@@ -3,85 +3,19 @@
 MOSAIC operates with specific terms and abbreviations to refer to all the components related to it. <br>
 Here is a guide to understand them:
 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky">Term</th>
-    <th class="tg-0pky">Abbreviation</th>
-    <th class="tg-0pky">Meaning</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0pky">Abo in die App</td>
-    <td class="tg-0pky">AidA</td>
-    <td class="tg-0pky">Subscription in the app</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Bonvoyo</td>
-    <td class="tg-0pky">Baas</td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">VDV-Datendrehscheibe des VBN (Verkehrsverbund Bremen/Niedersachsen)</td>
-    <td class="tg-0pky">VBN</td>
-    <td class="tg-0pky">Bremen/Lower Saxony Transport Association</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Emergency Response Mob™</td>
-    <td class="tg-0pky">ERMO</td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Fahrgastkonto</td>
-    <td class="tg-0pky">FGK</td>
-    <td class="tg-0pky">Passenger account</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Hamburger Berater Team</td>
-    <td class="tg-0pky">HBT</td>
-    <td class="tg-0pky">Hamburg consultant team</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Hamburger Verkehrsverbund GmbH</td>
-    <td class="tg-0pky">HVV</td>
-    <td class="tg-0pky">Hamburger Verkehrsverbund GmbH</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">hvv any</td>
-    <td class="tg-0pky">Check-In-Be-Out (CIBO)</td>
-    <td class="tg-0pky">HVV project for the development of a check-in/be-out procedure</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">hvv switch</td>
-    <td class="tg-0pky">SWITCH</td>
-    <td class="tg-0pky">Mobility app for Hamburg</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">hvv switch Punkte</td>
-    <td class="tg-0pky">hsp</td>
-    <td class="tg-0pky">Parking spaces for hvv switch car-sharing MSPs</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Kundenserviceportal</td>
-    <td class="tg-0pky">CRM / Shop</td>
-    <td class="tg-0pky">Customer service portal</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Mobilitätsbudget</td>
-    <td class="tg-0pky">MOBI / DBconnect / hvv-m</td>
-    <td class="tg-0pky">Means of payment for employees of participating companies<br><br>The payment service provider for this is Bonvoyo</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Mobility and Sales Integration Cluster</td>
-    <td class="tg-0pky">MOSAIC</td>
-    <td class="tg-0pky">The central mobility platform of the HVV.</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">PTnova</td>
-    <td class="tg-0pky">SAP</td>
-    <td class="tg-0pky">The central distribution system of the Hamburger Hochbahn, which was co-developed by Volker Ripp as architect, among others.</td>
-  </tr>
-</tbody>
-</table>
-
+Term | Abbreviation | Meaning
+:---- | :----|:----
+Abo in die App | AidA | Subscription in the app
+Bonvoyo | Baas |  tbd
+VDV-Datendrehscheibe des VBN (Verkehrsverbund Bremen/Niedersachsen) | VBN | Bremen/Lower Saxony Transport Association
+Emergency Response Mob™ | ERMO | tbd
+Fahrgastkonto | FGK | Passenger account
+Hamburger Berater Team | HBT | Hamburg consultant team
+Hamburger Verkehrsverbund GmbH | HVV | Association of Public Transport Companies of Hamburg
+hvv any | Check-In-Be-Out (CIBO) | HVV project for the development of a check-in/be-out procedure
+hvv switch | SWITCH | Mobility app for Hamburg
+hvv switch Punkte | hsp | Parking spaces for hvv switch car-sharing MSPs
+Kundenserviceportal | CRM / Shop | Customer service portal
+Mobilitätsbudget | MOBI / DBconnect / hvv-m | Means of payment for employees of participating companies<br><br>The payment service provider for this is Bonvoyo
+Mobility and Sales Integration Cluster | MOSAIC | The central mobility platform of the HVV.
+PTnova | SAP | The central distribution system of the Hamburger Hochbahn.
