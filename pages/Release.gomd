@@ -1,9 +1,118 @@
 # Release Notes
 [comment]: <> (Insert next here)
-## BASIS-43.0
+## MOSAIC-150.0
 
 Deployment on **PROD** at
-	<time class="date-past">17.01.23</time> - 13:41:57
+	<time class="date-past">24.01.23</time> - 13:13:40
+
+Deployment on *QA* at: 19.01.23 - 17:01:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13222](https://jira.hochbahn.de/projects/MOS/versions/13222)
+
+key | summary |  type
+---- | ----|----
+[MOS-8389](https://jira.hochbahn.de/browse/MOS-8389) | WeShare Update unterbinden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8387](https://jira.hochbahn.de/browse/MOS-8387) | Besondere Requirements für das DT v02 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8385](https://jira.hochbahn.de/browse/MOS-8385) | analysieren, warum die Kündigung von moia vor dem Kündigungstag durchgeführt wurde | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8381](https://jira.hochbahn.de/browse/MOS-8381) | Hystrix-Thread-Pool limitiert parallele Requests an ptnova-adapter | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8380](https://jira.hochbahn.de/browse/MOS-8380) | Lasttest - Sam Adapter - Mandantenfähigkeit überarbeiten | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8352](https://jira.hochbahn.de/browse/MOS-8352) | Digitales Laden - get chargingsession returned UNKNOWN_MSP_ERROR nach einem cancel | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8347](https://jira.hochbahn.de/browse/MOS-8347) | [crm] refundToggle umlegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8320](https://jira.hochbahn.de/browse/MOS-8320) | Digitales Laden - Dokumentation im DevPortal aktualisieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8314](https://jira.hochbahn.de/browse/MOS-8314) | Cache für subscription offers | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8313](https://jira.hochbahn.de/browse/MOS-8313) | Fehlerhandling analog zu PTNova Adapter | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8310](https://jira.hochbahn.de/browse/MOS-8310) | PayPal Adapter - Customer statt Customer Number in Log Ausgabe | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8292](https://jira.hochbahn.de/browse/MOS-8292) | Besondere Requirements für das DT | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8290](https://jira.hochbahn.de/browse/MOS-8290) | [crm] update to Angular 14 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8281](https://jira.hochbahn.de/browse/MOS-8281) | GET /subscriptions/offers implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8277](https://jira.hochbahn.de/browse/MOS-8277) | Subscription-Entity erstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8256](https://jira.hochbahn.de/browse/MOS-8256) | Namespace: Billing-Services auf Beam undeployen (Iteration 6) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8224](https://jira.hochbahn.de/browse/MOS-8224) | Deutschlandticket-Offer an die App ausspielen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7622](https://jira.hochbahn.de/browse/MOS-7622) | [cronJob] add correlationId to jobs | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## MOSAIC-149.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 19.01.23 - 16:42:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13215](https://jira.hochbahn.de/projects/MOS/versions/13215)
+
+key | summary |  type
+---- | ----|----
+[MOS-8350](https://jira.hochbahn.de/browse/MOS-8350) | Im hvv switch CRM (QA) ist die Kundensuche gestört | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8293](https://jira.hochbahn.de/browse/MOS-8293) | [crm] anonymiserte Kunden koennen wieder angezeigt werden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8284](https://jira.hochbahn.de/browse/MOS-8284) | [PayPal-adapter] kafka end to end test Konfiguration fixen  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8278](https://jira.hochbahn.de/browse/MOS-8278) | [crm] Oberfläche vereinheitlichen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8261](https://jira.hochbahn.de/browse/MOS-8261) | CRM: Optimierung Kündigungs-Maske | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8255](https://jira.hochbahn.de/browse/MOS-8255) | Namespace: Alle Services sollen nur noch den Billing-Namespace verwenden (Iteration 5) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8252](https://jira.hochbahn.de/browse/MOS-8252) | Unpublish AIDA Endpoints | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8247](https://jira.hochbahn.de/browse/MOS-8247) | [crm] Fehler bei der Anzeige von Buchungen, die in einen Fehler gelaufen sind | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8242](https://jira.hochbahn.de/browse/MOS-8242) | YAML erstellen für CleverTap-API v2 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8234](https://jira.hochbahn.de/browse/MOS-8234) | Cross-Service-Refs funktionieren nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8232](https://jira.hochbahn.de/browse/MOS-8232) | API-Design für Abo-Orders erstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8229](https://jira.hochbahn.de/browse/MOS-8229) | check customer adapter | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8225](https://jira.hochbahn.de/browse/MOS-8225) | API-Design für Abo-Offers erstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8221](https://jira.hochbahn.de/browse/MOS-8221) | Ride: Kritische Abhängigkeit commons-text-1.9.jar | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8200](https://jira.hochbahn.de/browse/MOS-8200) | resolve customer termination test findings | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8173](https://jira.hochbahn.de/browse/MOS-8173) | Billing-Order-Orchestration in den Billing-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8165](https://jira.hochbahn.de/browse/MOS-8165) | Digitales Laden - Start Session um Station ID Mapping ergänzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8163](https://jira.hochbahn.de/browse/MOS-8163) | Order-Service in den Billing-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8155](https://jira.hochbahn.de/browse/MOS-8155) | Discount-Service in den Billing-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8149](https://jira.hochbahn.de/browse/MOS-8149) | Payment-Service in den Billing-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8131](https://jira.hochbahn.de/browse/MOS-8131) | Digitales Laden - Recovery anhand von Error Codes umsetzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8130](https://jira.hochbahn.de/browse/MOS-8130) | Digitales Laden - Miles Error Code Mapping vervollständigen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8129](https://jira.hochbahn.de/browse/MOS-8129) | Digitales Laden - Cancel Implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8125](https://jira.hochbahn.de/browse/MOS-8125) | YAML erstellen für CleverTap-API v1 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8065](https://jira.hochbahn.de/browse/MOS-8065) | Billing-Service in den Billing-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7992](https://jira.hochbahn.de/browse/MOS-7992) | Missing PspResponse aus dem log verschwinden lassen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-7949](https://jira.hochbahn.de/browse/MOS-7949) | [PayPal-adapter] kafka end to end test Konfiguration fixen  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7664](https://jira.hochbahn.de/browse/MOS-7664) | Logging - Error Message &#34;406 Not Acceptable&#34; im itm-adapter verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7657](https://jira.hochbahn.de/browse/MOS-7657) | CRM: Ausweitung Erstattungsanfrage auf Sonderkosten-Buchungen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7390](https://jira.hochbahn.de/browse/MOS-7390) | CRM: Als KSM möchte ich für VOI anstatt der Payment-Reference die UUID als Referenz-ID nutzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7276](https://jira.hochbahn.de/browse/MOS-7276) | DELETION-Event des Kunden verarbeiten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6924](https://jira.hochbahn.de/browse/MOS-6924) | [m-crm, ea] Verlinkung defekt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6785](https://jira.hochbahn.de/browse/MOS-6785) | Helm Update für Strukturiertes Logging von CloudSql Proxies (ride) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5936](https://jira.hochbahn.de/browse/MOS-5936) | values_env files sauber halten (ride) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## BILLING-12.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 19.01.23 - 13:35:19
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13220](https://jira.hochbahn.de/projects/MOS/versions/13220)
+
+key | summary |  type
+---- | ----|----
+[MOS-8355](https://jira.hochbahn.de/browse/MOS-8355) | Billing-Automated-Tests: Jenkins-Jobs für Regression-Tests und Master-Tests | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8346](https://jira.hochbahn.de/browse/MOS-8346) | Deployment Definition Ref muss aktualisiert werden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8343](https://jira.hochbahn.de/browse/MOS-8343) | Billing-Namespace: Slack-Meldungen loggen leeren Branch | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8327](https://jira.hochbahn.de/browse/MOS-8327) | Billing-Namespace: Fehler beim Deployment in Slack melden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8325](https://jira.hochbahn.de/browse/MOS-8325) | [D-Ticket][Neukunden] Unterscheidung zwischen Kunden- und Hochbahn-initiierten Aufträgen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8321](https://jira.hochbahn.de/browse/MOS-8321) | Billing-Automated-Tests: Dependabot in Billing-Automated-Tests einbinden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8319](https://jira.hochbahn.de/browse/MOS-8319) | Namespace: Billing-System-Tests in Billing-Deployments integrieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8309](https://jira.hochbahn.de/browse/MOS-8309) | Namespace: Jira-Releasable-Übersichtsseite für Billing anlegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8226](https://jira.hochbahn.de/browse/MOS-8226) | Namespace: Billing-Namespace in nächtliche Deployments einbinden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8036](https://jira.hochbahn.de/browse/MOS-8036) | Namespace: Billing-System-Tests in eigenes Repository umziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
+## BASIS-44.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 19.01.23 - 13:06:52
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13221](https://jira.hochbahn.de/projects/MOS/versions/13221)
+
+key | summary |  type
+---- | ----|----
+[MOS-8260](https://jira.hochbahn.de/browse/MOS-8260) | Mosaic-JWT-Filter | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8241](https://jira.hochbahn.de/browse/MOS-8241) | Preis-Limit für SMS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8216](https://jira.hochbahn.de/browse/MOS-8216) | panic im itm-authentication-proxy | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
+## BASIS-43.0
+
+Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 12.01.23 - 13:18:37
 
