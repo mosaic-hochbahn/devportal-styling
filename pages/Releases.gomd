@@ -1,5 +1,32 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-151.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 26.01.23 - 13:23:51
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13319](https://jira.hochbahn.de/projects/MOS/versions/13319)
+
+key | summary |  type
+---- | ----|----
+[MOS-8412](https://jira.hochbahn.de/browse/MOS-8412) | Datenbankfelder für monatliche Ticketerzeugung | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8396](https://jira.hochbahn.de/browse/MOS-8396) | Kündigung: Änderung Bezeichnung im Frontend | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8393](https://jira.hochbahn.de/browse/MOS-8393) | Kündigung: Änderung Fristen auf Qa | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8387](https://jira.hochbahn.de/browse/MOS-8387) | Besondere Requirements für das DT v02 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8384](https://jira.hochbahn.de/browse/MOS-8384) | Digitales Laden - hasChargingSession wird nicht richtig gesetzt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8374](https://jira.hochbahn.de/browse/MOS-8374) | Interne Schnittstelle zum Hinzufügen von Tickets | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8364](https://jira.hochbahn.de/browse/MOS-8364) | 1. [ea-generator] new column in table customer-termination | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8359](https://jira.hochbahn.de/browse/MOS-8359) | resolve dependency check issues | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8348](https://jira.hochbahn.de/browse/MOS-8348) | [crm] refundToggle ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8322](https://jira.hochbahn.de/browse/MOS-8322) | Billing-Automated-Tests: Billing-Tests aus Beam-Automated-Tests entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8307](https://jira.hochbahn.de/browse/MOS-8307) | Subscription persistieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8300](https://jira.hochbahn.de/browse/MOS-8300) | Deutschlandticket - Subscription beenden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8299](https://jira.hochbahn.de/browse/MOS-8299) | Deutschlandticket - Ticket erzeugen (technischer Durchstich) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8298](https://jira.hochbahn.de/browse/MOS-8298) | Deutschlandticket - Subscription Order ausgeben | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7889](https://jira.hochbahn.de/browse/MOS-7889) | [DSGVO] bash Helper um driverslicense Tabelle erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5134](https://jira.hochbahn.de/browse/MOS-5134) | DevPortal - Glossar Seite hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-13.0
 
 Deployment on **PROD** at: tba
