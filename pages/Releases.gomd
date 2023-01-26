@@ -1,5 +1,31 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-45.0
+
+Deployment on **PROD** at: tba
+
+Deployment on *QA* at: 26.01.23 - 13:27:42
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13227](https://jira.hochbahn.de/projects/MOS/versions/13227)
+
+key | summary |  type
+---- | ----|----
+[MOS-8448](https://jira.hochbahn.de/browse/MOS-8448) | ptnova-auth-proxy: Error while performing healthcheck | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8423](https://jira.hochbahn.de/browse/MOS-8423) | clevertap-auth-proxy: Version aus SERVER_URL entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8421](https://jira.hochbahn.de/browse/MOS-8421) | ocpi-service: Vulnerabilites schließen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8414](https://jira.hochbahn.de/browse/MOS-8414) | gti-proxy: Vulnerabilites schließen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8411](https://jira.hochbahn.de/browse/MOS-8411) | itm-auth-proxies: Vulnerabilites schließen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8410](https://jira.hochbahn.de/browse/MOS-8410) | webhook-multiplexer: Vulnerabilities schließen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8398](https://jira.hochbahn.de/browse/MOS-8398) | Account-Service: Defect Dojo Issues fixen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8397](https://jira.hochbahn.de/browse/MOS-8397) | Undeployment des WeShare-Auth-Proxies | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8365](https://jira.hochbahn.de/browse/MOS-8365) | Ambassador-Mapping-Test: Merge anstatt replace von zu testenden Mappings, wenn Stage und defaults sich unterscheiden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8349](https://jira.hochbahn.de/browse/MOS-8349) | Fehler von Unleash-Client sollte Warning sein | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8332](https://jira.hochbahn.de/browse/MOS-8332) | Push-Notification-Service: Enums validieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8323](https://jira.hochbahn.de/browse/MOS-8323) | AsyncAPI Update | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8301](https://jira.hochbahn.de/browse/MOS-8301) | Entfernen von JWT-Filter und Monolith User Anonymisierung aus dem Identity-Service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8178](https://jira.hochbahn.de/browse/MOS-8178) | Identity-Service: Refactoring | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7976](https://jira.hochbahn.de/browse/MOS-7976) | Pen Test Finding - Internal IP Disclosure | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-151.0
 
 Deployment on **PROD** at: tba
