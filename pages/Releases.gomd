@@ -2,7 +2,7 @@
 [comment]: <> (Insert next here)
 ## BASIS-45.0
 
-Deployment on **PROD** at: tba
+Deployment on **PROD** at: tba-BASIS
 
 Deployment on *QA* at: 26.01.23 - 13:27:42
 
@@ -28,7 +28,7 @@ key | summary |  type
 
 ## MOSAIC-151.0
 
-Deployment on **PROD** at: tba
+Deployment on **PROD** at: tba-MOSAIC
 
 Deployment on *QA* at: 26.01.23 - 13:23:51
 
@@ -55,7 +55,7 @@ key | summary |  type
 
 ## BILLING-13.0
 
-Deployment on **PROD** at: tba
+Deployment on **PROD** at: tba-BILLING
 
 Deployment on *QA* at: 26.01.23 - 13:16:48
 
