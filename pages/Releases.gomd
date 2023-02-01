@@ -2,7 +2,7 @@
 [comment]: <> (Insert next here)
 ## BASIS-45.0
 
-Deployment on **PROD** at: tba
+Deployment on **PROD** at: <time class="date-past">31.01.23</time> - 13:13:03
 
 Deployment on *QA* at: 26.01.23 - 13:27:42
 
@@ -28,7 +28,7 @@ key | summary |  type
 
 ## MOSAIC-151.0
 
-Deployment on **PROD** at: tba
+Deployment on **PROD** at: <time class="date-past">31.01.23</time> - 13:15:55
 
 Deployment on *QA* at: 26.01.23 - 13:23:51
 
@@ -55,7 +55,7 @@ key | summary |  type
 
 ## BILLING-13.0
 
-Deployment on **PROD** at: tba
+Deployment on **PROD** at: <time class="date-past">31.01.23</time> - 13:12:53
 
 Deployment on *QA* at: 26.01.23 - 13:16:48
 
@@ -70,8 +70,6 @@ key | summary |  type
 [MOS-8011](https://jira.hochbahn.de/browse/MOS-8011) | Unnötig häufige Error-Logs wenn billing-service Saperion nicht erreicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-150.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 19.01.23 - 17:01:58
 
@@ -99,8 +97,6 @@ key | summary |  type
 [MOS-7622](https://jira.hochbahn.de/browse/MOS-7622) | [cronJob] add correlationId to jobs | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-149.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 19.01.23 - 16:42:41
 
@@ -145,8 +141,6 @@ key | summary |  type
 
 ## BILLING-12.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 19.01.23 - 13:35:19
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13220](https://jira.hochbahn.de/projects/MOS/versions/13220)
@@ -166,8 +160,6 @@ key | summary |  type
 
 ## BASIS-44.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 19.01.23 - 13:06:52
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13221](https://jira.hochbahn.de/projects/MOS/versions/13221)
@@ -179,8 +171,6 @@ key | summary |  type
 [MOS-8216](https://jira.hochbahn.de/browse/MOS-8216) | panic im itm-authentication-proxy | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
 
 ## BASIS-43.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 12.01.23 - 13:18:37
 
@@ -196,8 +186,6 @@ key | summary |  type
 
 ## BILLING-11.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 12.01.23 - 11:25:10
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13219](https://jira.hochbahn.de/projects/MOS/versions/13219)
@@ -208,8 +196,6 @@ key | summary |  type
 
 ## BILLING-10.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 10.01.23 - 17:25:32
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13218](https://jira.hochbahn.de/projects/MOS/versions/13218)
@@ -219,8 +205,6 @@ key | summary |  type
 [MOS-8254](https://jira.hochbahn.de/browse/MOS-8254) | Namespace: Deployment im Billing-Namespace (Iteration 4) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## BILLING-9.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 10.01.23 - 10:12:43
 
@@ -234,8 +218,6 @@ key | summary |  type
 
 ## BILLING-8.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 06.01.23 - 14:35:15
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13309](https://jira.hochbahn.de/projects/MOS/versions/13309)
@@ -248,8 +230,6 @@ key | summary |  type
 [MOS-8095](https://jira.hochbahn.de/browse/MOS-8095) | Billing-Order-Adapter Jenkinsfile anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-148.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 05.01.23 - 15:01:12
 
@@ -310,8 +290,6 @@ key | summary |  type
 
 ## BASIS-42.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 28.12.22 - 14:37:23
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13315](https://jira.hochbahn.de/projects/MOS/versions/13315)
@@ -323,8 +301,6 @@ key | summary |  type
 [MOS-7896](https://jira.hochbahn.de/browse/MOS-7896) | Auth Proxy für DOTA | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## BASIS-41.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 15.12.22 - 13:19:30
 
@@ -339,8 +315,6 @@ key | summary |  type
 
 ## RIDE-5.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 08.12.22 - 15:46:32
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13202](https://jira.hochbahn.de/projects/MOS/versions/13202)
@@ -350,8 +324,6 @@ key | summary |  type
 [MOS-8034](https://jira.hochbahn.de/browse/MOS-8034) | app.hvv.de: 404 nicht mehr als Fehler loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## BASIS-40.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 08.12.22 - 13:34:37
 
@@ -363,8 +335,6 @@ key | summary |  type
 [MOS-7852](https://jira.hochbahn.de/browse/MOS-7852) | PT-Proxy - Anfragenden Client im Log ausgeben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-147.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 08.12.22 - 13:25:40
 
@@ -400,8 +370,6 @@ key | summary |  type
 
 ## BILLING-7.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 01.12.22 - 16:35:23
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13208](https://jira.hochbahn.de/projects/MOS/versions/13208)
@@ -411,8 +379,6 @@ key | summary |  type
 [MOS-8027](https://jira.hochbahn.de/browse/MOS-8027) | Dummy Namespace Release | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-146.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 01.12.22 - 13:20:24
 
@@ -443,8 +409,6 @@ key | summary |  type
 
 ## BASIS-39.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 01.12.22 - 13:14:34
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13206](https://jira.hochbahn.de/projects/MOS/versions/13206)
@@ -455,8 +419,6 @@ key | summary |  type
 [MOS-7946](https://jira.hochbahn.de/browse/MOS-7946) | Exception Processing ErrorPage in account-service | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-145.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 24.11.22 - 16:13:25
 
@@ -488,8 +450,6 @@ key | summary |  type
 
 ## BASIS-38.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 24.11.22 - 13:14:57
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13306](https://jira.hochbahn.de/projects/MOS/versions/13306)
@@ -500,8 +460,6 @@ key | summary |  type
 [MOS-7835](https://jira.hochbahn.de/browse/MOS-7835) | CVE-2022-31692 in spring-security-crypto-5.7.3 (mosaic) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-144.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 17.11.22 - 13:21:26
 
@@ -524,8 +482,6 @@ key | summary |  type
 
 ## RIDE-4.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 11.11.22 - 13:26:06
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13302](https://jira.hochbahn.de/projects/MOS/versions/13302)
@@ -536,8 +492,6 @@ key | summary |  type
 [MOS-7872](https://jira.hochbahn.de/browse/MOS-7872) | AIDA - Austausch Link auf Landingpage | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-143.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 10.11.22 - 13:52:30
 
@@ -555,8 +509,6 @@ key | summary |  type
 
 ## BASIS-36.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 10.11.22 - 12:59:35
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13300](https://jira.hochbahn.de/projects/MOS/versions/13300)
@@ -569,8 +521,6 @@ key | summary |  type
 
 ## RIDE-3.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 04.11.22 - 14:33:34
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13120](https://jira.hochbahn.de/projects/MOS/versions/13120)
@@ -580,8 +530,6 @@ key | summary |  type
 [MOS-7788](https://jira.hochbahn.de/browse/MOS-7788) | AIDA - Austausch Landingpage-Ressourcen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-142.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 03.11.22 - 13:19:08
 
@@ -601,8 +549,6 @@ key | summary |  type
 
 ## BASIS-35.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 03.11.22 - 13:13:08
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13200](https://jira.hochbahn.de/projects/MOS/versions/13200)
@@ -614,8 +560,6 @@ key | summary |  type
 [MOS-6352](https://jira.hochbahn.de/browse/MOS-6352) | go-microservice-starter-commons: Testabdeckung erhöhen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-141.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 27.10.22 - 13:44:27
 
@@ -646,8 +590,6 @@ key | summary |  type
 
 ## BASIS-34.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 27.10.22 - 13:13:58
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13030](https://jira.hochbahn.de/projects/MOS/versions/13030)
@@ -657,8 +599,6 @@ key | summary |  type
 [MOS-7378](https://jira.hochbahn.de/browse/MOS-7378) | push-notification-service: Endpunkt zum Löschen der Token zu einer Referenz anbieten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-140.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 20.10.22 - 13:27:41
 
@@ -680,8 +620,6 @@ key | summary |  type
 
 ## BASIS-33.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 20.10.22 - 13:13:38
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13028](https://jira.hochbahn.de/projects/MOS/versions/13028)
@@ -691,8 +629,6 @@ key | summary |  type
 [MOS-7316](https://jira.hochbahn.de/browse/MOS-7316) | PDS-Test für Keycloak | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-139.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 14.10.22 - 13:49:49
 
@@ -722,8 +658,6 @@ key | summary |  type
 
 ## BASIS-32.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 14.10.22 - 13:08:32
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13121](https://jira.hochbahn.de/projects/MOS/versions/13121)
@@ -739,8 +673,6 @@ key | summary |  type
 
 ## BASIS-31.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 06.10.22 - 15:42:34
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13119](https://jira.hochbahn.de/projects/MOS/versions/13119)
@@ -752,8 +684,6 @@ key | summary |  type
 [MOS-7543](https://jira.hochbahn.de/browse/MOS-7543) | PTnova Proxy erweitern um PARTNER_SRV Pfad | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-138.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 06.10.22 - 15:28:18
 
@@ -781,8 +711,6 @@ key | summary |  type
 
 ## BASIS-30.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 29.09.22 - 13:40:05
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13025](https://jira.hochbahn.de/projects/MOS/versions/13025)
@@ -794,8 +722,6 @@ key | summary |  type
 [MOS-7496](https://jira.hochbahn.de/browse/MOS-7496) | Post-Deployment-Tests: identity-service und account-service um Customer-Deactivation und -Deletion-Tests erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-137.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 29.09.22 - 13:20:17
 
@@ -812,8 +738,6 @@ key | summary |  type
 [MOS-6706](https://jira.hochbahn.de/browse/MOS-6706) | Helm Update für Pod-Disruption-Policy (ride) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-136.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 22.09.22 - 13:21:29
 
@@ -833,8 +757,6 @@ key | summary |  type
 
 ## BASIS-29.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 22.09.22 - 13:17:28
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13024](https://jira.hochbahn.de/projects/MOS/versions/13024)
@@ -845,8 +767,6 @@ key | summary |  type
 [MOS-7076](https://jira.hochbahn.de/browse/MOS-7076) | Sonarqube-Projekte mit Meta-Informationen erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-135.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 15.09.22 - 13:19:51
 
@@ -876,8 +796,6 @@ key | summary |  type
 
 ## BASIS-28.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 15.09.22 - 13:14:12
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13023](https://jira.hochbahn.de/projects/MOS/versions/13023)
@@ -890,8 +808,6 @@ key | summary |  type
 [MOS-7164](https://jira.hochbahn.de/browse/MOS-7164) | Customer komplett aus Basis DBs löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## BASIS-27.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 08.09.22 - 15:33:14
 
@@ -906,8 +822,6 @@ key | summary |  type
 [MOS-7163](https://jira.hochbahn.de/browse/MOS-7163) | Account deaktivieren bei Kündigung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-134.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 08.09.22 - 13:29:09
 
@@ -2021,8 +1935,6 @@ key | summary |  type
 
 ## MOSAIC-110.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 17.03.22 - 13:12:27
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12545](https://jira.hochbahn.de/projects/MOS/versions/12545)
@@ -2042,8 +1954,6 @@ key | summary |  type
 [MOS-5591](https://jira.hochbahn.de/browse/MOS-5591) | Basis-Services im alten Namespace undeployen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-109.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 10.03.22 - 13:26:21
 
@@ -2079,8 +1989,6 @@ key | summary |  type
 [MOS-3814](https://jira.hochbahn.de/browse/MOS-3814) | LogPayCustomer Migration in die Customer-Domäne | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
 
 ## MOSAIC-108.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 03.03.22 - 13:19:17
 
@@ -2131,8 +2039,6 @@ key | summary |  type
 
 ## MOSAIC-107.0
 
-Deployment on **PROD** at: tba
-
 Deployment on *QA* at: 24.02.22 - 13:20:20
 
 Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/12634](https://jira.hochbahn.de/projects/MOS/versions/12634)
@@ -2161,8 +2067,6 @@ key | summary |  type
 [MOS-766](https://jira.hochbahn.de/browse/MOS-766) | Mock für logpay-Schnittstelle erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
 
 ## MOSAIC-106.0
-
-Deployment on **PROD** at: tba
 
 Deployment on *QA* at: 24.02.22 - 11:48:38
 
