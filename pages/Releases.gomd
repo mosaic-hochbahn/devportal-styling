@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-14.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 02.02.23 - 13:18:00
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13322](https://jira.hochbahn.de/projects/MOS/versions/13322)
+
+key | summary |  type
+---- | ----|----
+[MOS-8342](https://jira.hochbahn.de/browse/MOS-8342) | Sondergebühren sollen vom CRM aus als &#34;erstattet&#34; gekennzeichnet werden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8304](https://jira.hochbahn.de/browse/MOS-8304) | Anonymisierung: gelöschtes Bill-PDF wird von der Recovery neu erstellt. | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BASIS-45.0
 
 Deployment on **PROD** at: <time class="date-past">31.01.23</time> - 13:13:03
