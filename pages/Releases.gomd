@@ -1,5 +1,30 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-153.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 09.02.23 - 13:18:52
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13500](https://jira.hochbahn.de/projects/MOS/versions/13500)
+
+key | summary |  type
+---- | ----|----
+[MOS-8569](https://jira.hochbahn.de/browse/MOS-8569) | system-tests-dev-master-fixen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8535](https://jira.hochbahn.de/browse/MOS-8535) | Cibo - Historie wirft 500er | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8517](https://jira.hochbahn.de/browse/MOS-8517) | Logging bei der monatlichen Ticketerzeugung erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8513](https://jira.hochbahn.de/browse/MOS-8513) | Notizen werden in falscher Reihenfolge geliefert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8508](https://jira.hochbahn.de/browse/MOS-8508) | remove common dependencies from notes service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8386](https://jira.hochbahn.de/browse/MOS-8386) | [improvment] gradle download and update | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8377](https://jira.hochbahn.de/browse/MOS-8377) | User bei Tracking Opt-out als eMail Unscubscribed in CleverTap updaten V1 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8361](https://jira.hochbahn.de/browse/MOS-8361) | Subscription Order Request Cache einbauen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8329](https://jira.hochbahn.de/browse/MOS-8329) | CleverTap Api response ErrorHandling V1 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8189](https://jira.hochbahn.de/browse/MOS-8189) | Falscher Wert im Feld DriversLicence | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-6966](https://jira.hochbahn.de/browse/MOS-6966) | isExternalCustomerNumberAvailable call erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6956](https://jira.hochbahn.de/browse/MOS-6956) | [sixt] new error code INVALID_DRIVING_LICENSE | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6829](https://jira.hochbahn.de/browse/MOS-6829) | CRM: Darstellung hvv Any-Buchungen, aus denen Informationen gelöscht wurden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6694](https://jira.hochbahn.de/browse/MOS-6694) | [pmao] remove bonvoyo config from HELM charts / application.yaml / Vault | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-47.0
 
 Deployment on **PROD** at: tba-BASIS
