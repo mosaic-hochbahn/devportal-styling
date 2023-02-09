@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-15.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 09.02.23 - 11:51:28
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13400](https://jira.hochbahn.de/projects/MOS/versions/13400)
+
+key | summary |  type
+---- | ----|----
+[MOS-8564](https://jira.hochbahn.de/browse/MOS-8564) | hvv Any Aufträge werden nicht korrekt bei Bonvoyo verbucht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8547](https://jira.hochbahn.de/browse/MOS-8547) | Payment-Service bucht doppelt (QA-Lasttests) | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8505](https://jira.hochbahn.de/browse/MOS-8505) | Billing-Schnittstellen-Doku reparieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8504](https://jira.hochbahn.de/browse/MOS-8504) | Billing-Grafana-Monitoring reparieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8379](https://jira.hochbahn.de/browse/MOS-8379) | [D-Ticket] [Neukunden] Experimenteller Einbau neuer LogPay-Flow | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8287](https://jira.hochbahn.de/browse/MOS-8287) | PaymentToken wird nicht weich gelöscht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8207](https://jira.hochbahn.de/browse/MOS-8207) | OrderUpdate Event auf 10.000 Datensätze setzen  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8160](https://jira.hochbahn.de/browse/MOS-8160) | OrderUpdate-Event verschickt nur aktualisierte Aufträge | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8159](https://jira.hochbahn.de/browse/MOS-8159) | OrderUpdate Event um die x-correlation-id im Header erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-46.0
 
 Deployment on **PROD** at
