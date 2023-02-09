@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-8.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 09.02.23 - 13:32:43
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13223](https://jira.hochbahn.de/projects/MOS/versions/13223)
+
+key | summary |  type
+---- | ----|----
+[MOS-8542](https://jira.hochbahn.de/browse/MOS-8542) | print-ticket-service in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8541](https://jira.hochbahn.de/browse/MOS-8541) | vdv-barcode-orchestration in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8540](https://jira.hochbahn.de/browse/MOS-8540) | switch-ticket-order-orchestration in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8539](https://jira.hochbahn.de/browse/MOS-8539) | aida-ride-orchestration in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8536](https://jira.hochbahn.de/browse/MOS-8536) | shuttle-order-orchestration in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8534](https://jira.hochbahn.de/browse/MOS-8534) | rental-ride-orchestration in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8522](https://jira.hochbahn.de/browse/MOS-8522) | miles-ride-orchestration in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8520](https://jira.hochbahn.de/browse/MOS-8520) | sixt-ride-orchestration in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8506](https://jira.hochbahn.de/browse/MOS-8506) | tier-ride-orchestration in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-153.0
 
 Deployment on **PROD** at: tba-MOSAIC
