@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-47.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 09.02.23 - 13:04:52
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13401](https://jira.hochbahn.de/projects/MOS/versions/13401)
+
+key | summary |  type
+---- | ----|----
+[MOS-8449](https://jira.hochbahn.de/browse/MOS-8449) | identity-service: Kafka event processing error | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8408](https://jira.hochbahn.de/browse/MOS-8408) | ptnova-auth-proxy: rate limit mit redis verbinden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-15.0
 
 Deployment on **PROD** at: tba-BILLING
