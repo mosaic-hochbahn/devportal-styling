@@ -1,5 +1,37 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-154.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 16.02.23 - 15:09:49
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13504](https://jira.hochbahn.de/projects/MOS/versions/13504)
+
+key | summary |  type
+---- | ----|----
+[MOS-8615](https://jira.hochbahn.de/browse/MOS-8615) | Gültigkeitsdatum wird falsch angezeigt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8612](https://jira.hochbahn.de/browse/MOS-8612) | fix resend activation link karate test | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8591](https://jira.hochbahn.de/browse/MOS-8591) | Ride-Namespace - sixt-rental-orchestration aufräumen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8587](https://jira.hochbahn.de/browse/MOS-8587) | Malformed TIER Query Parameters | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8580](https://jira.hochbahn.de/browse/MOS-8580) | Keine persönlichen Daten loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8575](https://jira.hochbahn.de/browse/MOS-8575) | [ootw] aktualisiere veraltete APIs | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8573](https://jira.hochbahn.de/browse/MOS-8573) | [crm] verhindere Logeinträge | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8570](https://jira.hochbahn.de/browse/MOS-8570) | Swagger Dependencies entfernen  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8567](https://jira.hochbahn.de/browse/MOS-8567) | Farbcodeliste mit mehreren Einträgen pro Kalenderwoche | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8565](https://jira.hochbahn.de/browse/MOS-8565) | Deutschlandticket Vorausbuchung auf 2 Zeitmonate beschränken | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8558](https://jira.hochbahn.de/browse/MOS-8558) | Add new Errors to API  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8548](https://jira.hochbahn.de/browse/MOS-8548) | [M-CRM] update translation in opt in table | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8538](https://jira.hochbahn.de/browse/MOS-8538) | Serviceanfrage - letzte Buchungen sind nicht auf der Startseite des Kunden sichtbar | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8529](https://jira.hochbahn.de/browse/MOS-8529) | [customer-service] SMS error als 429 loggen  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8525](https://jira.hochbahn.de/browse/MOS-8525) | 5. Bash-Helper anpassen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8515](https://jira.hochbahn.de/browse/MOS-8515) | Unsubscribe-Prozess für CleverTap E-Mail V1 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8494](https://jira.hochbahn.de/browse/MOS-8494) | [refactoring] Api2CleverTapMapper V1 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8461](https://jira.hochbahn.de/browse/MOS-8461) | [customer-adapter] Fehler im Modell msp_customer | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8344](https://jira.hochbahn.de/browse/MOS-8344) | CRM: Als KSM möchte ich in der Auftragsübersicht das Produkt Deutschlandticket ausgewiesen bekommen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8272](https://jira.hochbahn.de/browse/MOS-8272) | CRM: Als KSM möchte ich Deutschlandticket-Buchungen in Auftragsübersicht und Auftragsdetails aufrufen können | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7942](https://jira.hochbahn.de/browse/MOS-7942) | E-Mail Unsubscribe-Prozess für Newsletter V1 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-48.0
 
 Deployment on **PROD** at: tba-BASIS
