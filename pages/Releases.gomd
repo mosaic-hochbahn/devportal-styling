@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-17.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 16.02.23 - 13:16:52
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13410](https://jira.hochbahn.de/projects/MOS/versions/13410)
+
+key | summary |  type
+---- | ----|----
+[MOS-8566](https://jira.hochbahn.de/browse/MOS-8566) | Systemtests hvv Any um MOBI ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8434](https://jira.hochbahn.de/browse/MOS-8434) | Dependabot - Fehlende dependency nach Update | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-8.0
 
 Deployment on **PROD** at
