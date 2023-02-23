@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-18.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 23.02.23 - 16:27:47
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13600](https://jira.hochbahn.de/projects/MOS/versions/13600)
+
+key | summary |  type
+---- | ----|----
+[MOS-8656](https://jira.hochbahn.de/browse/MOS-8656) | Aktivierung OrderUpdate Events auf Prod | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8647](https://jira.hochbahn.de/browse/MOS-8647) | Billing-Domäne Dependencies aktualisieren 02 2023 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8639](https://jira.hochbahn.de/browse/MOS-8639) | Payment-Service DB-Fehler bei doppelten Stammdaten | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8586](https://jira.hochbahn.de/browse/MOS-8586) | CIBO - MOBI - Aufträge in Zustand Billable | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8528](https://jira.hochbahn.de/browse/MOS-8528) | Payment-Service zuletzt genutztes Zahlungsmittel Abfrage | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8500](https://jira.hochbahn.de/browse/MOS-8500) | [D-Ticket][Neukunden] Kreditkarte Prepaid ohne Offline-Annahme - Fachliches Aufräumen im Offline-Fall | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8415](https://jira.hochbahn.de/browse/MOS-8415) | Billing-Automated-Tests: Generische Klassen überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8366](https://jira.hochbahn.de/browse/MOS-8366) | Billing-Automated-Tests: Fehlende Billing-Tests implementieren oder ins Billing verschieben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8158](https://jira.hochbahn.de/browse/MOS-8158) | Namespace: Finales CleanUp (Iteration 7) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7398](https://jira.hochbahn.de/browse/MOS-7398) | 28.02.2023 - 5er Tageskarte MaFo-Link und Text in E.Mailtemplate ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6835](https://jira.hochbahn.de/browse/MOS-6835) | Billing-Event-Lib erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6110](https://jira.hochbahn.de/browse/MOS-6110) | RETRIGGER_BILLING wird wegen Exception immer wieder angestoßen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-5926](https://jira.hochbahn.de/browse/MOS-5926) | DevPortal - Domains Abschnitt Billing aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-155.0
 
 Deployment on **PROD** at: tba-MOSAIC
