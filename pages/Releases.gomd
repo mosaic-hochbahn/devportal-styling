@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-10.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 23.02.23 - 13:22:27
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13601](https://jira.hochbahn.de/projects/MOS/versions/13601)
+
+key | summary |  type
+---- | ----|----
+[MOS-8706](https://jira.hochbahn.de/browse/MOS-8706) | Misc Services ohne DB auf Ride-Namespace schwenken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8705](https://jira.hochbahn.de/browse/MOS-8705) | Rental Services ohne DB auf Ride-Namespace schwenken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8704](https://jira.hochbahn.de/browse/MOS-8704) | Shuttle Services ohne DB auf Ride-Namespace schwenken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8703](https://jira.hochbahn.de/browse/MOS-8703) | Ticketing Services ohne DB auf Ride-Namespace schwenken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8677](https://jira.hochbahn.de/browse/MOS-8677) | switch-ticket-service + scheduler in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8676](https://jira.hochbahn.de/browse/MOS-8676) | ride-ticket-service in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8673](https://jira.hochbahn.de/browse/MOS-8673) | sensor-data-service in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8668](https://jira.hochbahn.de/browse/MOS-8668) | journey-service in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8650](https://jira.hochbahn.de/browse/MOS-8650) | shuttle-service in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8648](https://jira.hochbahn.de/browse/MOS-8648) | rental-service in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8634](https://jira.hochbahn.de/browse/MOS-8634) | DT Systemtests | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-49.0
 
 Deployment on **PROD** at: tba-BASIS
