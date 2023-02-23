@@ -42,7 +42,9 @@ It handles all main data, drivers licence validation and the activation at mobil
 
 ## Billing
 
-The _Billing_ Teams handles the two domains **Payment** and **Billing**.
+The _Billing Team_ is responsible for the two domains **Payment** and **Billing**.<br>
+The domain **Payment** covers all processes needed to handle sales-data received from mobility-service-providers and to submit payment data to payment-service-providers.<br>
+The domain **Billing** covers all processes needed to create bills, to post bill data to the SAP booking system and to send bills to the customer.
 
 ## Basis
 
