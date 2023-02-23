@@ -1,5 +1,30 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-155.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 23.02.23 - 14:00:14
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13701](https://jira.hochbahn.de/projects/MOS/versions/13701)
+
+key | summary |  type
+---- | ----|----
+[MOS-8706](https://jira.hochbahn.de/browse/MOS-8706) | Misc Services ohne DB auf Ride-Namespace schwenken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8705](https://jira.hochbahn.de/browse/MOS-8705) | Rental Services ohne DB auf Ride-Namespace schwenken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8704](https://jira.hochbahn.de/browse/MOS-8704) | Shuttle Services ohne DB auf Ride-Namespace schwenken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8703](https://jira.hochbahn.de/browse/MOS-8703) | Ticketing Services ohne DB auf Ride-Namespace schwenken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8696](https://jira.hochbahn.de/browse/MOS-8696) | Deployment Jobs auf Stateless-Node-Pool wechseln - Switch + Testing Deployment | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8672](https://jira.hochbahn.de/browse/MOS-8672) | [CleverTap] unsubscribe urls to HELM | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8669](https://jira.hochbahn.de/browse/MOS-8669) | Valid_From Inkonsistenz bei Deutschlandticket | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8645](https://jira.hochbahn.de/browse/MOS-8645) | remove liquibase script | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8633](https://jira.hochbahn.de/browse/MOS-8633) | Offers Cache wirft Fehler beim Versuch zu schreiben | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8603](https://jira.hochbahn.de/browse/MOS-8603) | Mosaic-Ambassador: externen Filter Service entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8590](https://jira.hochbahn.de/browse/MOS-8590) | /customer/profile für Mehrwertprogramm DT freigeben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8585](https://jira.hochbahn.de/browse/MOS-8585) | Ausfallsicherheit cleverTap | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8371](https://jira.hochbahn.de/browse/MOS-8371) | 7. remove old customer columns | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7620](https://jira.hochbahn.de/browse/MOS-7620) | Refactoring customer db  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-10.0
 
 Deployment on **PROD** at: tba-RIDE
