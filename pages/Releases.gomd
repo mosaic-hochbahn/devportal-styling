@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-11.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 27.02.23 - 16:27:02
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13604](https://jira.hochbahn.de/projects/MOS/versions/13604)
+
+key | summary |  type
+---- | ----|----
+[MOS-7854](https://jira.hochbahn.de/browse/MOS-7854) | vSAM-Version richtig setzen vor einer Signierung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-18.0
 
 Deployment on **PROD** at: tba-BILLING
