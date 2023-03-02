@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-156.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 02.03.23 - 13:29:02
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13606](https://jira.hochbahn.de/projects/MOS/versions/13606)
+
+key | summary |  type
+---- | ----|----
+[MOS-8741](https://jira.hochbahn.de/browse/MOS-8741) | monatliche Ticketausstellung schlägt auf QA fehl | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8734](https://jira.hochbahn.de/browse/MOS-8734) | Miles / &#34;fuelCardPin&#34; ignorieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8694](https://jira.hochbahn.de/browse/MOS-8694) | 360°-Cockpit: Realm im Keycloak mit SAML Config versehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8683](https://jira.hochbahn.de/browse/MOS-8683) | DT Vorrausbuchungzeitraum aus PT auslesen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-5671](https://jira.hochbahn.de/browse/MOS-5671) | User-Agent wird konkateniert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BASIS-50.0
 
 Deployment on **PROD** at: tba-BASIS
