@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-19.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 02.03.23 - 13:45:02
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13702](https://jira.hochbahn.de/projects/MOS/versions/13702)
+
+key | summary |  type
+---- | ----|----
+[MOS-8717](https://jira.hochbahn.de/browse/MOS-8717) | [D-Ticket][Neukunden][Nacharbeiten] Auswahl verkleinern für Unterscheidung Kunden- und Hochbahn-initiierten Aufträgen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8700](https://jira.hochbahn.de/browse/MOS-8700) | Deployment Jobs auf Stateless-Node-Pool wechseln - Billing Deployment | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8651](https://jira.hochbahn.de/browse/MOS-8651) | [D-Ticket][Neukunden] Kreditkarte Prepaid mit Offline-Annahme | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7714](https://jira.hochbahn.de/browse/MOS-7714) | Konfigurationen der Billing-Services in den HelmCharts nicht mehr mit gleichen Werten überschreiben | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7099](https://jira.hochbahn.de/browse/MOS-7099) | Alte Job-Konfiguration im billing-service entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6651](https://jira.hochbahn.de/browse/MOS-6651) | Feature Toggle zum Herunterladen der Rechnung entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-12.0
 
 Deployment on **PROD** at: tba-RIDE
