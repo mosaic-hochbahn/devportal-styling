@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-50.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 02.03.23 - 13:25:49
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13605](https://jira.hochbahn.de/projects/MOS/versions/13605)
+
+key | summary |  type
+---- | ----|----
+[MOS-8652](https://jira.hochbahn.de/browse/MOS-8652) | mosaic-jwt-filter Deployment löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8597](https://jira.hochbahn.de/browse/MOS-8597) | logpay-auth-proxy: 408 Fehler | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8487](https://jira.hochbahn.de/browse/MOS-8487) | Mosaic - Alerting der Basis Microservices beherrschbar machen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8108](https://jira.hochbahn.de/browse/MOS-8108) | Speedometer Chart for Tariff Server QA in Grafana | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-11.0
 
 Deployment on **PROD** at
