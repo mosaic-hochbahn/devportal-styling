@@ -1,0 +1,21 @@
+# Glossary
+
+MOSAIC operates with specific terms and abbreviations to refer to all the components related to it. <br>
+Here is a guide to understand them:
+
+Term | Abbreviation | Meaning
+:---- | :----|:----
+Abo in die App | AidA | Subscription in the app
+Bonvoyo | Baas |  tbd
+VDV-Datendrehscheibe des VBN (Verkehrsverbund Bremen/Niedersachsen) | VBN | Bremen/Lower Saxony Transport Association
+Emergency Response Mob™ | ERMO | tbd
+Fahrgastkonto | FGK | Passenger account
+Hamburger Berater Team | HBT | Hamburg consultant team
+Hamburger Verkehrsverbund GmbH | HVV | Association of Public Transport Companies of Hamburg
+hvv any | Check-In-Be-Out (CIBO) | HVV project for the development of a check-in/be-out procedure
+hvv switch | SWITCH | Mobility app for Hamburg
+hvv switch Punkte | hsp | Parking spaces for hvv switch car-sharing MSPs
+Kundenserviceportal | CRM / Shop | Customer service portal
+Mobilitätsbudget | MOBI / DBconnect / hvv-m | Means of payment for employees of participating companies<br><br>The payment service provider for this is Bonvoyo
+Mobility and Sales Integration Cluster | MOSAIC | The central mobility platform of the HVV.
+PTnova | SAP | The central distribution system of the Hamburger Hochbahn.

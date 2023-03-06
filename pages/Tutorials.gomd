@@ -3,67 +3,6 @@
 Here you find some information about _'how to'_ use MOSAIC.
 
 ## Authentication
-
-### BEAM
-
-To use the MOSAIC API you are given the login information for an anonymous user and a secret Application Key.
-You authenticate to the MOSAIC API with HTTP Basic Authentication using the login information and your secret Application key in the request header.
-For requests that are not intended for a specific user (including requests to register a new user), the anonymous user _"anonymous"_ should be used.
-Requests for a specific user should contain the actual user name.
-Initial authentication against the MOSAIC API happens via Basic Authentication, every subsequent request is using Bearer Authentication.
-
-#### Getting a Authorization Token
-
-##### Request
-
-A curl request to get the BEAM authentication token might look like this:
-
-```bash
-curl 'https://api.{stage}.hochbahn.cloud/beamgateway/v2/token' \
--H 'Authorization: Basic {credentials}'
-```
-
-The **{stage}** can be _"dev"_, _"qa"_ or must be omitted for the production environment (api.hochbahn.cloud).
-
-The **{credentials}** are your Base64 encoded credentials in the form _"application-key/username:password"_.
-You can use the following Bash command to encode your credentials:
-
-```bash
-echo -n "{application-key}/{username}:{password}" | base64
-```
-
-##### Response
-
-The response headers contains the authorization token and a refresh token. Every subsequent request must contain the
-_"Authorization"_ header from the initial authentication response:
-
-```bash
-curl 'https://api.{stage}.hochbahn.cloud/beam/locations?q=Steinstrasse' \
--H '{authorization}'
-```
-
-**{authorization}** must be the _"Authorization"_ header from the initial request.
-You can use the following Bash command to get the _"Authorization"_ header from initial request:
-
-```bash
-curl 'https://api.{stage}.hochbahn.cloud/beamgateway/v2/token' \
--H 'Authorization: Basic {credentials}' -I -s | grep authorization
-```
-
-
-#### Refresh Authorization Token
-
-Additionally to the authorization token, the response of the initial authentication request contains a refresh token in
-the _"x-beam-refresh-token"_ header. If the authorization token expired, the refresh token can be used to get a new
-authentication token:
-
-```bash
-curl 'https://api.{stage}.hochbahn.cloud/beamgateway/v2/token/refresh' \
--H 'Authorization: Bearer {refresh-credentials}'
-```
-
-The **{refresh-credentials}** should contain your Base64 encoded application-key and the refresh token in the form _"application-key/refresh-token"_.
-
 ### MOSAIC Identity Provider
 
 MOSAIC Identity Provider is the _new_ OAuth2 based authentication method.
@@ -118,8 +57,63 @@ An example GET request against a fictional `/some-example-api` REST API might lo
 curl -H 'Authorization: Bearer {access-token}' https://api.{stage}.hochbahn.cloud/some-example-api
 ```
 
+### Legacy App Authentication
+
+To use the MOSAIC API you are given the login information for an anonymous user and a secret Application Key.
+You authenticate to the MOSAIC API with HTTP Basic Authentication using the login information and your secret Application key in the request header.
+For requests that are not intended for a specific user (including requests to register a new user), the anonymous user _"anonymous"_ should be used.
+Requests for a specific user should contain the actual user name.
+Initial authentication against the MOSAIC API happens via Basic Authentication, every subsequent request is using Bearer Authentication.
+
+#### Getting a Authorization Token
+
+##### Request
+
+A curl request to get the BEAM authentication token might look like this:
+
+```bash
+curl 'https://api.{stage}.hochbahn.cloud/auth/token' \
+-H 'Authorization: Basic {credentials}'
+```
+
+The **{stage}** can be _"dev"_, _"qa"_ or must be omitted for the production environment (api.hochbahn.cloud).
+
+The **{credentials}** are your Base64 encoded credentials in the form _"application-key/username:password"_.
+You can use the following Bash command to encode your credentials:
+
+```bash
+echo -n "{application-key}/{username}:{password}" | base64
+```
+
+##### Response
+
+The response headers contains the authorization token and a refresh token. Every subsequent request must contain the
+_"Authorization"_ header from the initial authentication response:
+
+```bash
+curl 'https://api.{stage}.hochbahn.cloud/beam/locations?q=Steinstrasse' \
+-H '{authorization}'
+```
+
+**{authorization}** must be the _"Authorization"_ header from the initial request.
+You can use the following Bash command to get the _"Authorization"_ header from initial request:
+
+```bash
+curl 'https://api.{stage}.hochbahn.cloud/auth/token' \
+-H 'Authorization: Basic {credentials}' -I -s | grep authorization
+```
 
 
+#### Refresh Authorization Token
 
+Additionally to the authorization token, the response of the initial authentication request contains a refresh token in
+the _"x-beam-refresh-token"_ header. If the authorization token expired, the refresh token can be used to get a new
+authentication token:
 
+```bash
+curl 'https://api.{stage}.hochbahn.cloud/auth/token/refresh' \
+-H 'Authorization: Bearer {refresh-credentials}'
+```
+
+The **{refresh-credentials}** should contain your Base64 encoded application-key and the refresh token in the form _"application-key/refresh-token"_.
 
