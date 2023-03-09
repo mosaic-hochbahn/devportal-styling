@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-157.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 09.03.23 - 13:22:30
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13609](https://jira.hochbahn.de/projects/MOS/versions/13609)
+
+key | summary |  type
+---- | ----|----
+[MOS-8793](https://jira.hochbahn.de/browse/MOS-8793) | [payPal-adapter] update to Java 17 LTS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8792](https://jira.hochbahn.de/browse/MOS-8792) | [pmao] update to Java 17 LTS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8791](https://jira.hochbahn.de/browse/MOS-8791) | [itm-adapter] update to Java 17 LTS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8790](https://jira.hochbahn.de/browse/MOS-8790) | [document-validation-service] update to Java 17 LTS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8789](https://jira.hochbahn.de/browse/MOS-8789) | [customer-os] update to Java 17 LTS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8788](https://jira.hochbahn.de/browse/MOS-8788) | [clarification-os] update to Java 17 LTS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8748](https://jira.hochbahn.de/browse/MOS-8748) | hvv Any: Access-Validierung soll auch JWT unterstützen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8701](https://jira.hochbahn.de/browse/MOS-8701) | Deployment Jobs auf Stateless-Node-Pool wechseln - Ride + SAM Deployment | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8685](https://jira.hochbahn.de/browse/MOS-8685) | Reduzierten Preis vor dem Kauf für die App bereitstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BILLING-20.0
 
 Deployment on **PROD** at: tba-BILLING
