@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-13.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 09.03.23 - 13:38:07
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13704](https://jira.hochbahn.de/projects/MOS/versions/13704)
+
+key | summary |  type
+---- | ----|----
+[MOS-8800](https://jira.hochbahn.de/browse/MOS-8800) | Istio Sidecar aus Ride-Deployment entfernen  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8748](https://jira.hochbahn.de/browse/MOS-8748) | hvv Any: Access-Validierung soll auch JWT unterstützen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8701](https://jira.hochbahn.de/browse/MOS-8701) | Deployment Jobs auf Stateless-Node-Pool wechseln - Ride + SAM Deployment | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-157.0
 
 Deployment on **PROD** at: tba-MOSAIC
