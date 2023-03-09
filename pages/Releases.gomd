@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-20.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 09.03.23 - 13:16:39
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13610](https://jira.hochbahn.de/projects/MOS/versions/13610)
+
+key | summary |  type
+---- | ----|----
+[MOS-8804](https://jira.hochbahn.de/browse/MOS-8804) | Zahlungsflow PayPal mit CarSharing verhält sich falsch | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8751](https://jira.hochbahn.de/browse/MOS-8751) | Java 17 Upgrade für alle Billing-Services | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8718](https://jira.hochbahn.de/browse/MOS-8718) | Payment Service - Get Payment Endpunkt Löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8692](https://jira.hochbahn.de/browse/MOS-8692) | Ab 01.03.2023 - 5er Tageskarte MaFo-Link und Text ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8469](https://jira.hochbahn.de/browse/MOS-8469) | [LogPay] Timeouts zu LogPay feingranular konfigurierbar machen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8465](https://jira.hochbahn.de/browse/MOS-8465) | README.md der Billing Services verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8345](https://jira.hochbahn.de/browse/MOS-8345) | [D-Ticket][Neukunden][Nacharbeiten] Unterscheidung Kunden- und Hochbahn-initiierten Aufträgen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8171](https://jira.hochbahn.de/browse/MOS-8171) | Systemtests Billing CarSharing erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7682](https://jira.hochbahn.de/browse/MOS-7682) | Pro MDL alle Zahlungsmittel per Systemtest | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-19.0
 
 Deployment on **PROD** at
