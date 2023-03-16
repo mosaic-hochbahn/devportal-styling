@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-158.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 16.03.23 - 13:22:44
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13611](https://jira.hochbahn.de/projects/MOS/versions/13611)
+
+key | summary |  type
+---- | ----|----
+[MOS-8885](https://jira.hochbahn.de/browse/MOS-8885) | fix leistungserbringer in der Kundenbuchungs übersicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8854](https://jira.hochbahn.de/browse/MOS-8854) | Undeployment des Weshare-Mocks | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8853](https://jira.hochbahn.de/browse/MOS-8853) | Systemtests Ticket-Order kauft keine Kurzstrecke mehr | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8851](https://jira.hochbahn.de/browse/MOS-8851) | Ride Services mit DB aus beam-dev entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8843](https://jira.hochbahn.de/browse/MOS-8843) | [voi-mock] update 2 Java 17 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8824](https://jira.hochbahn.de/browse/MOS-8824) | [miles-mock] update 2 Java 17 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8822](https://jira.hochbahn.de/browse/MOS-8822) | [payPal-mock] update to Java 17 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8794](https://jira.hochbahn.de/browse/MOS-8794) | [notes-service] update to Java 17 LTS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8674](https://jira.hochbahn.de/browse/MOS-8674) | [Monolith Abbau] Refactor token fetching in SystemTest  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8360](https://jira.hochbahn.de/browse/MOS-8360) | Oberflächliche Änderungen am CRM | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8273](https://jira.hochbahn.de/browse/MOS-8273) | CRM: Als KSM möchte ich Deutschlandticket-Vertragsinformationen am Account angezeigt bekommen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7043](https://jira.hochbahn.de/browse/MOS-7043) | OpenApi  Generator customer-adapter | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-51.0
 
 Deployment on **PROD** at: tba-BASIS
