@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-21.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 17.03.23 - 14:44:39
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13612](https://jira.hochbahn.de/projects/MOS/versions/13612)
+
+key | summary |  type
+---- | ----|----
+[MOS-8844](https://jira.hochbahn.de/browse/MOS-8844) | [D-Ticket][Neukunden] Rabatt für D-Ticket für MDL HVV konfigurieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8834](https://jira.hochbahn.de/browse/MOS-8834) | Billing Test User auf Keycloak umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8815](https://jira.hochbahn.de/browse/MOS-8815) | orderService.updateOrderDontInvoice speichert falschen Zustand | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8799](https://jira.hochbahn.de/browse/MOS-8799) | Istio Sidecar aus Billing-Deployment entfernen  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-14.0
 
 Deployment on **PROD** at: tba-RIDE
