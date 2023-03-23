@@ -1,5 +1,31 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-159.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 23.03.23 - 13:31:50
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13707](https://jira.hochbahn.de/projects/MOS/versions/13707)
+
+key | summary |  type
+---- | ----|----
+[MOS-8982](https://jira.hochbahn.de/browse/MOS-8982) | Api Specs werden nicht mehr im DevPortal angezeigt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8911](https://jira.hochbahn.de/browse/MOS-8911) | fix Entity2CleverTapMapper | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8907](https://jira.hochbahn.de/browse/MOS-8907) | TokenEvent Consumer Refactoring | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8895](https://jira.hochbahn.de/browse/MOS-8895) | Deutschlandticket kaufbar ab 16 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8883](https://jira.hochbahn.de/browse/MOS-8883) | Widerruf einer Kündigung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8881](https://jira.hochbahn.de/browse/MOS-8881) | Timeouts konfigurieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8868](https://jira.hochbahn.de/browse/MOS-8868) | Delete unused code from HELMCHARTS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8833](https://jira.hochbahn.de/browse/MOS-8833) | change runtime of DeactivateMspJob to avoid broken mails | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8737](https://jira.hochbahn.de/browse/MOS-8737) | Text und Image austauschen für Unsubscribe Pages (CleverTap und Newsletter) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8695](https://jira.hochbahn.de/browse/MOS-8695) | function definition that does not exist: customerUpdate | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8690](https://jira.hochbahn.de/browse/MOS-8690) | Berücksichtigung des nächstmöglichen Beendigungszeitpunktes bei einer Kündigung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8689](https://jira.hochbahn.de/browse/MOS-8689) | Ausgabe des nächstmöglichen Beendigungszeitpunktes an die App | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8678](https://jira.hochbahn.de/browse/MOS-8678) | Bei Kündigung werden Mails nicht prozessgemäß an MDLs versendet | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8273](https://jira.hochbahn.de/browse/MOS-8273) | CRM: Als KSM möchte ich Deutschlandticket-Vertragsinformationen am Account angezeigt bekommen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7044](https://jira.hochbahn.de/browse/MOS-7044) | OpenApi Generator customer-service | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-21.0
 
 Deployment on **PROD** at
