@@ -1,5 +1,37 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-15.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 23.03.23 - 13:57:12
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13708](https://jira.hochbahn.de/projects/MOS/versions/13708)
+
+key | summary |  type
+---- | ----|----
+[MOS-8992](https://jira.hochbahn.de/browse/MOS-8992) | VDV-Barcode-Orchestration Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8990](https://jira.hochbahn.de/browse/MOS-8990) | Booking-Service Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8989](https://jira.hochbahn.de/browse/MOS-8989) | Shuttle-Service Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8979](https://jira.hochbahn.de/browse/MOS-8979) | Rental-Service Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8972](https://jira.hochbahn.de/browse/MOS-8972) | Klärung Ablaufdatum SAM-Adapter Zertifikat für 6359 (Prod) | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8951](https://jira.hochbahn.de/browse/MOS-8951) | order-history-orchestration Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8950](https://jira.hochbahn.de/browse/MOS-8950) | cibo-ticket-order-orchestration Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8949](https://jira.hochbahn.de/browse/MOS-8949) | switch-ticket-order-orchestration Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8948](https://jira.hochbahn.de/browse/MOS-8948) | shuttle-order-orchestration Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8947](https://jira.hochbahn.de/browse/MOS-8947) | Rental-ride-orchestration Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8946](https://jira.hochbahn.de/browse/MOS-8946) | Miles-ride-orchestration Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8945](https://jira.hochbahn.de/browse/MOS-8945) | Sixt-ride-orchestration Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8944](https://jira.hochbahn.de/browse/MOS-8944) | Tier-ride-orchestration Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8943](https://jira.hochbahn.de/browse/MOS-8943) | Eventstruktur in Event-Lib definieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8928](https://jira.hochbahn.de/browse/MOS-8928) | Voi-Ride-Orchestration Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8886](https://jira.hochbahn.de/browse/MOS-8886) | Rabatt nur an einer Stelle berechnen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8883](https://jira.hochbahn.de/browse/MOS-8883) | Widerruf einer Kündigung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8849](https://jira.hochbahn.de/browse/MOS-8849) | Beenden einer Subscription sicherer machen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8690](https://jira.hochbahn.de/browse/MOS-8690) | Berücksichtigung des nächstmöglichen Beendigungszeitpunktes bei einer Kündigung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8689](https://jira.hochbahn.de/browse/MOS-8689) | Ausgabe des nächstmöglichen Beendigungszeitpunktes an die App | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7424](https://jira.hochbahn.de/browse/MOS-7424) | Umzug der SAM-Server | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-159.0
 
 Deployment on **PROD** at: tba-MOSAIC
