@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-22.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 24.03.23 - 13:13:05
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13614](https://jira.hochbahn.de/projects/MOS/versions/13614)
+
+key | summary |  type
+---- | ----|----
+[MOS-9002](https://jira.hochbahn.de/browse/MOS-9002) | SEPA über LogPayBillingStrategy (legacy) implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8994](https://jira.hochbahn.de/browse/MOS-8994) | Sixt-Debt-Adapter - Pre Deployment Checks fixen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8965](https://jira.hochbahn.de/browse/MOS-8965) | Contract-Test für MCRM erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8879](https://jira.hochbahn.de/browse/MOS-8879) | [D-Ticket][Neukunden] Rabatt für D-Ticket Mail Text ist null | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-4719](https://jira.hochbahn.de/browse/MOS-4719) | BillItemMapper auf Design-Pattern umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-15.0
 
 Deployment on **PROD** at
