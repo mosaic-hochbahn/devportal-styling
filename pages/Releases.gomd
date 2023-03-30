@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-23.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 30.03.23 - 12:26:11
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13617](https://jira.hochbahn.de/projects/MOS/versions/13617)
+
+key | summary |  type
+---- | ----|----
+[MOS-9003](https://jira.hochbahn.de/browse/MOS-9003) | [D-Ticket][Neukunden] Teilerstattung für D-Ticket ohne ServiceNumber | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8971](https://jira.hochbahn.de/browse/MOS-8971) | Analyse Probleme MCRM mit io.github.jpenren:thymeleaf-spring-data-dialect:3.6.0 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8835](https://jira.hochbahn.de/browse/MOS-8835) | Gradle - mavenLocal in allen Billing Services ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8832](https://jira.hochbahn.de/browse/MOS-8832) | LogLevel DEBUG für liquibase prüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8782](https://jira.hochbahn.de/browse/MOS-8782) | Graceful Shutdown mit Jobs und Events | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8776](https://jira.hochbahn.de/browse/MOS-8776) | Keine Klärfälle mehr bei hvv Any in SERVICE_PROVIDED | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8649](https://jira.hochbahn.de/browse/MOS-8649) | precedence-Config aus Ambassador-Mappings entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-22.0
 
 Deployment on **PROD** at
