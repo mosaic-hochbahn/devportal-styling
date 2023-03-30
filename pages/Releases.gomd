@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-160.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 30.03.23 - 13:27:34
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13710](https://jira.hochbahn.de/projects/MOS/versions/13710)
+
+key | summary |  type
+---- | ----|----
+[MOS-9033](https://jira.hochbahn.de/browse/MOS-9033) | [crm] Zeitberechnung nach der zeitumstellung fixen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9017](https://jira.hochbahn.de/browse/MOS-9017) | [crm] undefined entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9008](https://jira.hochbahn.de/browse/MOS-9008) | S&amp;B auf neuen Namespace umstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8963](https://jira.hochbahn.de/browse/MOS-8963) | CRM prüfen auf gravierende Fehler | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8861](https://jira.hochbahn.de/browse/MOS-8861) | Business validation with new PatchProfileCustomValidator | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8675](https://jira.hochbahn.de/browse/MOS-8675) | [Monolith Abbau] check usage of Monolith requests | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8055](https://jira.hochbahn.de/browse/MOS-8055) | Neues Event MspActivationUpdate erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7735](https://jira.hochbahn.de/browse/MOS-7735) | CleverTap Tracking: Löschen der Daten bei Kündigung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-23.0
 
 Deployment on **PROD** at: tba-BILLING
