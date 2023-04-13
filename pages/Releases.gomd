@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-18.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 13.04.23 - 14:22:53
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13800](https://jira.hochbahn.de/projects/MOS/versions/13800)
+
+key | summary |  type
+---- | ----|----
+[MOS-9213](https://jira.hochbahn.de/browse/MOS-9213) | Scheduled Queries wieder in Gang setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9210](https://jira.hochbahn.de/browse/MOS-9210) | Zahlmethode für Subscription wechseln: Implementierung | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9209](https://jira.hochbahn.de/browse/MOS-9209) | Zahlmethode für Subscription wechseln: API-Design | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9202](https://jira.hochbahn.de/browse/MOS-9202) | Neue Zeitkarte &#34;Wochenkarte&#34; kann nicht gebucht werden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9157](https://jira.hochbahn.de/browse/MOS-9157) | Ride: Auskommentiertes minReplicas aus HELM-Charts entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9101](https://jira.hochbahn.de/browse/MOS-9101) | Zahlmethode wechseln implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9095](https://jira.hochbahn.de/browse/MOS-9095) | Ride: Subscriptions können ohne PaymentMethod angelegt werden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9039](https://jira.hochbahn.de/browse/MOS-9039) | Subscription Update Event um terminatedTo erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-53.0
 
 Deployment on **PROD** at: tba-BASIS
