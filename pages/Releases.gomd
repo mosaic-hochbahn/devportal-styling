@@ -1,5 +1,36 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-16.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 13.04.23 - 15:06:05
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13616](https://jira.hochbahn.de/projects/MOS/versions/13616)
+
+key | summary |  type
+---- | ----|----
+[MOS-9161](https://jira.hochbahn.de/browse/MOS-9161) | Ride: DT Übersicht der Komponenten und Kommunikation Abläufe erstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9160](https://jira.hochbahn.de/browse/MOS-9160) | Ride: DT Informationsübersicht sammeln | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9141](https://jira.hochbahn.de/browse/MOS-9141) | Subscription Update Events können nicht mehr versendet werden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9115](https://jira.hochbahn.de/browse/MOS-9115) | Ride Systemtests: Startstation bei Zusatzkarten darf nicht gesetzt sein | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9103](https://jira.hochbahn.de/browse/MOS-9103) | End-to-End-Test Kündigung vor / nach dem 10. | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9072](https://jira.hochbahn.de/browse/MOS-9072) | switch-ticket-service Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9042](https://jira.hochbahn.de/browse/MOS-9042) | Kündigungsdaten an der Subscription-CRM-Schnittstelle erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9040](https://jira.hochbahn.de/browse/MOS-9040) | Keine Prüfung auf berechtigten Kunden bei GET und RevokeTermination | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9032](https://jira.hochbahn.de/browse/MOS-9032) | Passende Testkunden für Kündigung auf QA suchen / erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9024](https://jira.hochbahn.de/browse/MOS-9024) | sensor-data-service Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9023](https://jira.hochbahn.de/browse/MOS-9023) | sam-adapter Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9021](https://jira.hochbahn.de/browse/MOS-9021) | Journey-Service Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9018](https://jira.hochbahn.de/browse/MOS-9018) | Print-Ticket-Service Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9007](https://jira.hochbahn.de/browse/MOS-9007) | Klärung Org-ID fürs DT (in statischer Berechtigung und zum Signieren) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8970](https://jira.hochbahn.de/browse/MOS-8970) | Event bei Update einer Subscription versenden | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8969](https://jira.hochbahn.de/browse/MOS-8969) | Event bei Erstellung einer Subscription versenden | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8942](https://jira.hochbahn.de/browse/MOS-8942) | Ride: Prod-Konfiguration Services überprüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8902](https://jira.hochbahn.de/browse/MOS-8902) | Anpassung der Berechnung des Rabatts | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8891](https://jira.hochbahn.de/browse/MOS-8891) | Erstes Ride-&#34;Strategie&#34;-Dashboard | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8710](https://jira.hochbahn.de/browse/MOS-8710) | Event bei Subscription-Erstellung und -Aktualisierung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-18.0
 
 Deployment on **PROD** at: tba-RIDE
