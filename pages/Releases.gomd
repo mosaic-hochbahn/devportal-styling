@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-162.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 13.04.23 - 12:53:02
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13900](https://jira.hochbahn.de/projects/MOS/versions/13900)
+
+key | summary |  type
+---- | ----|----
+[MOS-9214](https://jira.hochbahn.de/browse/MOS-9214) | SEPA: add sepa to get payment methods | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9164](https://jira.hochbahn.de/browse/MOS-9164) | [ea-generator] add new payment method ENUM SEPA | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9043](https://jira.hochbahn.de/browse/MOS-9043) | CRM: Kündigungsdaten ebenfalls anzeigen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8354](https://jira.hochbahn.de/browse/MOS-8354) | Ändern der Authentifizierung vom 360° von auf Realm 360°-Cockpit | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7216](https://jira.hochbahn.de/browse/MOS-7216) | [crm] Toggle für Systemunterstützen Kündigungsprozess umlegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-52.0
 
 Deployment on **PROD** at
