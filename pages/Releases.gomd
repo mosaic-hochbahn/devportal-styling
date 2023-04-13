@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-53.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 13.04.23 - 13:45:22
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13713](https://jira.hochbahn.de/projects/MOS/versions/13713)
+
+key | summary |  type
+---- | ----|----
+[MOS-9194](https://jira.hochbahn.de/browse/MOS-9194) | ShareNow Auth Proxy für Dev/QA anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8798](https://jira.hochbahn.de/browse/MOS-8798) | Keycloak-User-Federation: Profile-Daten bei Registrierung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8749](https://jira.hochbahn.de/browse/MOS-8749) | Prod-Tests nach Deployment | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7885](https://jira.hochbahn.de/browse/MOS-7885) | Dokumentation Account-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7411](https://jira.hochbahn.de/browse/MOS-7411) | Aktualisieren der PT APIs im DevPortal | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-162.0
 
 Deployment on **PROD** at: tba-MOSAIC
