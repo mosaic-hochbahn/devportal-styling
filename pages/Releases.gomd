@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-163.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 20.04.23 - 13:27:01
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13802](https://jira.hochbahn.de/projects/MOS/versions/13802)
+
+key | summary |  type
+---- | ----|----
+[MOS-9280](https://jira.hochbahn.de/browse/MOS-9280) | push-gateway aus beam-dev entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9229](https://jira.hochbahn.de/browse/MOS-9229) | Tracken von Änderungen des FS-Validierungsstatus | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9147](https://jira.hochbahn.de/browse/MOS-9147) | Customer - Logging Vorgaben einhalten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8980](https://jira.hochbahn.de/browse/MOS-8980) | [crm] customer-detail aufteilen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8126](https://jira.hochbahn.de/browse/MOS-8126) | CleverTap-Mock + SystemTests | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7215](https://jira.hochbahn.de/browse/MOS-7215) | [crm] Toggle für Systemunterstützen Kündigungsprozess ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-4761](https://jira.hochbahn.de/browse/MOS-4761) | explizite yaml für CRM-Endpunkte im customerService | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-54.0
 
 Deployment on **PROD** at: tba-BASIS
