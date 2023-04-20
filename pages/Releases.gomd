@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-54.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 20.04.23 - 13:25:01
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13904](https://jira.hochbahn.de/projects/MOS/versions/13904)
+
+key | summary |  type
+---- | ----|----
+[MOS-9234](https://jira.hochbahn.de/browse/MOS-9234) | Passwort wird bei User Registrierung nicht gesetzt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9217](https://jira.hochbahn.de/browse/MOS-9217) | create-release-notes-after-qa-deployment schlägt fehl | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9206](https://jira.hochbahn.de/browse/MOS-9206) | System-Test Reports zurückbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9195](https://jira.hochbahn.de/browse/MOS-9195) | logpay-auth-proxy: 408 Fehler | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8209](https://jira.hochbahn.de/browse/MOS-8209) | messaging-service: API aus Code generieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-26.0
 
 Deployment on **PROD** at: tba-BILLING
