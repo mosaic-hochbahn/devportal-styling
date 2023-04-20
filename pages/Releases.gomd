@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-19.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 20.04.23 - 13:49:48
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13901](https://jira.hochbahn.de/projects/MOS/versions/13901)
+
+key | summary |  type
+---- | ----|----
+[MOS-9287](https://jira.hochbahn.de/browse/MOS-9287) | Push-gateway Repository überführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9272](https://jira.hochbahn.de/browse/MOS-9272) | Automatische Ticketerzeugung nur bis 1 Tag vor Deadline | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9265](https://jira.hochbahn.de/browse/MOS-9265) | CustomerOrderAuthorizationService YAML aktualisieren in der CTOO | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9185](https://jira.hochbahn.de/browse/MOS-9185) | Starthaltestelle bei Mitnahme-Ticket nicht mit ausgeben | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9183](https://jira.hochbahn.de/browse/MOS-9183) | Parallele Ausführung und Neugestaltung des Verlängerungslauf-Algorithmus umsetzen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9180](https://jira.hochbahn.de/browse/MOS-9180) | LogPay-Anforderung: Sperrzeiten für Job-Läufe am 25. festlegen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9179](https://jira.hochbahn.de/browse/MOS-9179) | LogPay-Anforderung: nextJobRun auf 25. eines Monats setzen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9097](https://jira.hochbahn.de/browse/MOS-9097) | Ride: Analyse Lasttest-Ergebnisse | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9048](https://jira.hochbahn.de/browse/MOS-9048) | Schnittstelle in der OHO zum Start des Deutschlandtickets | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8544](https://jira.hochbahn.de/browse/MOS-8544) | push-gateway in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7133](https://jira.hochbahn.de/browse/MOS-7133) | TIER &amp; VOI | Ride | End Ride Photo | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-163.0
 
 Deployment on **PROD** at: tba-MOSAIC
