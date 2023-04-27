@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-20.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 27.04.23 - 13:38:25
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13805](https://jira.hochbahn.de/projects/MOS/versions/13805)
+
+key | summary |  type
+---- | ----|----
+[MOS-9364](https://jira.hochbahn.de/browse/MOS-9364) | Fehlendes discountedGrossAmount bei Subscription Abfrage | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9277](https://jira.hochbahn.de/browse/MOS-9277) | Switch-Ticket-Service nicht erreichbar bei Aufruf von /available | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8953](https://jira.hochbahn.de/browse/MOS-8953) | Vault konsolidieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-7697](https://jira.hochbahn.de/browse/MOS-7697) | 5er Tageskarte: Produkt aus Offers für Apps herausfiltern (ab 01.05.) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-164.0
 
 Deployment on **PROD** at: tba-MOSAIC
