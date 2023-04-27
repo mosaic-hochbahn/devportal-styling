@@ -1,5 +1,31 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-164.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 27.04.23 - 13:20:08
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13804](https://jira.hochbahn.de/projects/MOS/versions/13804)
+
+key | summary |  type
+---- | ----|----
+[MOS-9386](https://jira.hochbahn.de/browse/MOS-9386) | CustomerUpdateEvent crashed, wenn kein Führerschein hinterlegt ist | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9379](https://jira.hochbahn.de/browse/MOS-9379) | logpay user id in den OrderAuthChecks für SEPA zur Verfügung stellen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9367](https://jira.hochbahn.de/browse/MOS-9367) | CRM: Kündigungsgrund Deutschlandticket-Vertrag soll auch im letzten Eintrag angezeigt werden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9321](https://jira.hochbahn.de/browse/MOS-9321) | Schnittstellendesign App für Datenübernahme aus PT-Nova | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9317](https://jira.hochbahn.de/browse/MOS-9317) | order-allowed als Schalter ins Switch CRM bringen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9306](https://jira.hochbahn.de/browse/MOS-9306) | CorrelationId aus CustomerOrchestration wird nicht übernommen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9293](https://jira.hochbahn.de/browse/MOS-9293) | Sequenzdiagramm Bestandskundenübernahme | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9273](https://jira.hochbahn.de/browse/MOS-9273) | [ea-generator] terminatedTo hinzufügen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9271](https://jira.hochbahn.de/browse/MOS-9271) | Kündigungsdatum terminatedTo von Ride übernehmen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9168](https://jira.hochbahn.de/browse/MOS-9168) | Statische Berechtigung: Namenslänge darf 40 Zeichen nicht überschreiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9088](https://jira.hochbahn.de/browse/MOS-9088) | SEPA-Mandat hinterlegen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9006](https://jira.hochbahn.de/browse/MOS-9006) | CRM: SEPA als Zahlungsmittel am Kundenaccount anzeigen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8953](https://jira.hochbahn.de/browse/MOS-8953) | Vault konsolidieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-8888](https://jira.hochbahn.de/browse/MOS-8888) | CRM: Als KSM möchte ich Zuschlagsticket-Buchungen und neue Zeittickets in Auftragsübersicht und Auftragsdetails aufrufen können | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6940](https://jira.hochbahn.de/browse/MOS-6940) | [customer-service] evaluate 404 from Bonvoyo as a 404 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-27.0
 
 Deployment on **PROD** at: tba-BILLING
