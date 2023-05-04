@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-28.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 04.05.23 - 13:16:13
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13906](https://jira.hochbahn.de/projects/MOS/versions/13906)
+
+key | summary |  type
+---- | ----|----
+[MOS-9320](https://jira.hochbahn.de/browse/MOS-9320) | Neue Miles-Rechnungspositionen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9020](https://jira.hochbahn.de/browse/MOS-9020) | Recovery im Order-Service reagiert auf Status Billable | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-165.0
 
 Deployment on **PROD** at: tba-MOSAIC
