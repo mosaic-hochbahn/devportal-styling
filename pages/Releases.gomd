@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-165.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 04.05.23 - 13:15:25
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13907](https://jira.hochbahn.de/projects/MOS/versions/13907)
+
+key | summary |  type
+---- | ----|----
+[MOS-9393](https://jira.hochbahn.de/browse/MOS-9393) | Anpassung yaml für App | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9221](https://jira.hochbahn.de/browse/MOS-9221) | Spread new PaymentEnum value SEPA  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9198](https://jira.hochbahn.de/browse/MOS-9198) | SEPA: Zahlart erzetzen bzw. loeschen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9168](https://jira.hochbahn.de/browse/MOS-9168) | Statische Berechtigung: Namenslänge darf 40 Zeichen nicht überschreiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-55.0
 
 Deployment on **PROD** at
