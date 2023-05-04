@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-21.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 04.05.23 - 13:25:08
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13808](https://jira.hochbahn.de/projects/MOS/versions/13808)
+
+key | summary |  type
+---- | ----|----
+[MOS-9269](https://jira.hochbahn.de/browse/MOS-9269) | Angepasster Mailtext bei Kündigung bei Vorbestellungen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9223](https://jira.hochbahn.de/browse/MOS-9223) | ptnova-adapter in Ride-Namespace überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-28.0
 
 Deployment on **PROD** at: tba-BILLING
