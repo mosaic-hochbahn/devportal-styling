@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-22.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 11.05.23 - 12:10:50
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13913](https://jira.hochbahn.de/projects/MOS/versions/13913)
+
+key | summary |  type
+---- | ----|----
+[MOS-9487](https://jira.hochbahn.de/browse/MOS-9487) | Moia-Adapter + scheduler in Ride-Namespace deployen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9410](https://jira.hochbahn.de/browse/MOS-9410) | Logging-Format - lesbar machen - tier-rental-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9378](https://jira.hochbahn.de/browse/MOS-9378) | Logging im DT Verlängerungslauf verbessern | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## RIDE-21.0
 
 Deployment on **PROD** at
