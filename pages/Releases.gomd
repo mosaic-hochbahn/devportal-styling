@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-166.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 11.05.23 - 13:25:51
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13809](https://jira.hochbahn.de/projects/MOS/versions/13809)
+
+key | summary |  type
+---- | ----|----
+[MOS-9537](https://jira.hochbahn.de/browse/MOS-9537) | PTNova-adapter aus beam-dev entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9526](https://jira.hochbahn.de/browse/MOS-9526) | [cleverTap] exception during CleverTapSyncJob | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9516](https://jira.hochbahn.de/browse/MOS-9516) | [ea-generator] pt_nova migration Flag hinzufügen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9507](https://jira.hochbahn.de/browse/MOS-9507) | Zahlmethode wechseln | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9498](https://jira.hochbahn.de/browse/MOS-9498) | fix yaml for ride | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9497](https://jira.hochbahn.de/browse/MOS-9497) | Schnittstelle für PT-Auftrag kündigen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9487](https://jira.hochbahn.de/browse/MOS-9487) | Moia-Adapter + scheduler in Ride-Namespace deployen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9485](https://jira.hochbahn.de/browse/MOS-9485) | [customer-service] long-lived connections konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9479](https://jira.hochbahn.de/browse/MOS-9479) | Nutzer abfragen, ob Subscription aktiv ist | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9464](https://jira.hochbahn.de/browse/MOS-9464) | Startseite aufrufen ohne vorheriges Suchergebnis | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9382](https://jira.hochbahn.de/browse/MOS-9382) | SEPA missing requirements funktionieren nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9322](https://jira.hochbahn.de/browse/MOS-9322) | Anbindung PT-Nova holen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8726](https://jira.hochbahn.de/browse/MOS-8726) | /beam-prefixed Endpoints entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-22.0
 
 Deployment on **PROD** at: tba-RIDE
