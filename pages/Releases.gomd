@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-57.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 11.05.23 - 14:05:43
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13811](https://jira.hochbahn.de/projects/MOS/versions/13811)
+
+key | summary |  type
+---- | ----|----
+[MOS-9473](https://jira.hochbahn.de/browse/MOS-9473) | Firstname aus CUSTOMER_REGISTRATION im account-service | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9470](https://jira.hochbahn.de/browse/MOS-9470) | HNQ durch HAQ ersetzen in ptnova-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9445](https://jira.hochbahn.de/browse/MOS-9445) | Account-Service: Cannot Render [/account/crm/account] | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9416](https://jira.hochbahn.de/browse/MOS-9416) | Registration failed - invalid memory address | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9402](https://jira.hochbahn.de/browse/MOS-9402) | Zugriff auf Keycloak nicht über öffentlichen Host | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9152](https://jira.hochbahn.de/browse/MOS-9152) | OIDC Proxy (Paypal): Implementieren der getBody-Funktion für automatischen retry | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8726](https://jira.hochbahn.de/browse/MOS-8726) | /beam-prefixed Endpoints entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-29.0
 
 Deployment on **PROD** at: tba-BILLING
