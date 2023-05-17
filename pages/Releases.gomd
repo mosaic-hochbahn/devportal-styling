@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-30.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 17.05.23 - 13:13:09
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13920](https://jira.hochbahn.de/projects/MOS/versions/13920)
+
+key | summary |  type
+---- | ----|----
+[MOS-9527](https://jira.hochbahn.de/browse/MOS-9527) | Systemtest: Karate-Report fehlerhaft | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9091](https://jira.hochbahn.de/browse/MOS-9091) | hvv any - Betragsautorisierung und Freigabe | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-58.0
 
 Deployment on **PROD** at: tba-BASIS
