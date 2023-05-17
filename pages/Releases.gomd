@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-58.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 17.05.23 - 13:05:49
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13921](https://jira.hochbahn.de/projects/MOS/versions/13921)
+
+key | summary |  type
+---- | ----|----
+[MOS-9512](https://jira.hochbahn.de/browse/MOS-9512) | identity-service: Emails ohne Punkt hinter dem @ werden nur durch einen von zwei Validatoren akzeptiert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9455](https://jira.hochbahn.de/browse/MOS-9455) | Passwortlänge wird bei /customer/passwordReset nicht geprüft | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## RIDE-23.0
 
 Deployment on **PROD** at: tba-RIDE
