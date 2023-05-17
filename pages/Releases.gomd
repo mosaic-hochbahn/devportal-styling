@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-167.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 17.05.23 - 11:51:33
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13816](https://jira.hochbahn.de/projects/MOS/versions/13816)
+
+key | summary |  type
+---- | ----|----
+[MOS-9589](https://jira.hochbahn.de/browse/MOS-9589) | [ootw] aktualisiere veraltete APIs | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9579](https://jira.hochbahn.de/browse/MOS-9579) | [logPay] disable customer dont need to be confirmed | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9552](https://jira.hochbahn.de/browse/MOS-9552) | Security Bestandskundenübernahme | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9499](https://jira.hochbahn.de/browse/MOS-9499) | ErrorCodes nachziehen in API | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9489](https://jira.hochbahn.de/browse/MOS-9489) | add custom clean Task to build.gradle | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9358](https://jira.hochbahn.de/browse/MOS-9358) | PT-Nova Auftrag kündigen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8873](https://jira.hochbahn.de/browse/MOS-8873) | Deklarationen in YAML korrigieren  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8726](https://jira.hochbahn.de/browse/MOS-8726) | /beam-prefixed Endpoints entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8724](https://jira.hochbahn.de/browse/MOS-8724) | beam-external Filter entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-57.0
 
 Deployment on **PROD** at
