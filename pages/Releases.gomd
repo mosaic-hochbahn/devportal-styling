@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-23.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 17.05.23 - 12:09:43
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13919](https://jira.hochbahn.de/projects/MOS/versions/13919)
+
+key | summary |  type
+---- | ----|----
+[MOS-9588](https://jira.hochbahn.de/browse/MOS-9588) | Indexes für Subscriptions und Tickets nachziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9439](https://jira.hochbahn.de/browse/MOS-9439) | Kostenlose Deutschlandtickets für migrierte Kunden erzeugen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9432](https://jira.hochbahn.de/browse/MOS-9432) | Frist für die automatische Kündigung auf 2 Tage | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9397](https://jira.hochbahn.de/browse/MOS-9397) | Offer-Anfrage an MOIA um Rollstuhl-Option erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-167.0
 
 Deployment on **PROD** at: tba-MOSAIC
