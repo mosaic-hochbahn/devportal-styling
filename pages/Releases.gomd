@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-168.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 25.05.23 - 13:24:10
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13924](https://jira.hochbahn.de/projects/MOS/versions/13924)
+
+key | summary |  type
+---- | ----|----
+[MOS-9645](https://jira.hochbahn.de/browse/MOS-9645) | non null constraint ptTerminated entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9571](https://jira.hochbahn.de/browse/MOS-9571) | Null-Constraint hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9467](https://jira.hochbahn.de/browse/MOS-9467) | Monolith Deployment entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-31.0
 
 Deployment on **PROD** at: tba-BILLING
