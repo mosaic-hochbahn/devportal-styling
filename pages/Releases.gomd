@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-31.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 25.05.23 - 13:14:00
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13926](https://jira.hochbahn.de/projects/MOS/versions/13926)
+
+key | summary |  type
+---- | ----|----
+[MOS-9597](https://jira.hochbahn.de/browse/MOS-9597) | Sixt neuer Product-Type Unlock-Fee | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9560](https://jira.hochbahn.de/browse/MOS-9560) | Logic für Abbrechen von Aufträge in CancelOrderStrategy auslagern  | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9549](https://jira.hochbahn.de/browse/MOS-9549) | Fehlerhafte Ableitung der PTnova Belegart bei CRM-Erstattungen von DTs | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9242](https://jira.hochbahn.de/browse/MOS-9242) | Spring Boot 3 | Common Libs auf Spring Boot 3 updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9082](https://jira.hochbahn.de/browse/MOS-9082) | MOBI CIBO-PaymentStrategy vervollständigen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9081](https://jira.hochbahn.de/browse/MOS-9081) | MOBI Shuttle/Scooter PaymentStrategy erstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9080](https://jira.hochbahn.de/browse/MOS-9080) | MOBI Car-Sharing PaymentStrategy erstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9077](https://jira.hochbahn.de/browse/MOS-9077) | Payment-Strategies für MOBI erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-30.0
 
 Deployment on **PROD** at
