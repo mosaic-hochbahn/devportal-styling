@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-24.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 25.05.23 - 17:08:32
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13925](https://jira.hochbahn.de/projects/MOS/versions/13925)
+
+key | summary |  type
+---- | ----|----
+[MOS-9649](https://jira.hochbahn.de/browse/MOS-9649) | CRM Update Ticket Schnittstelle kann mehrmals für das gleiche Ticket ausgeführt wurde | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9623](https://jira.hochbahn.de/browse/MOS-9623) | Subscription-Kündigung bei Kündigung des Accounts ermöglichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9570](https://jira.hochbahn.de/browse/MOS-9570) | Error Handling für DT Erstellungsfehler | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9398](https://jira.hochbahn.de/browse/MOS-9398) | Offer-Response von MOIA um Rollstuhl-Option erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9397](https://jira.hochbahn.de/browse/MOS-9397) | Offer-Anfrage an MOIA um Rollstuhl-Option erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-59.0
 
 Deployment on **PROD** at: tba-BASIS
