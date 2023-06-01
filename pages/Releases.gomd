@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-60.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 01.06.23 - 13:23:19
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13931](https://jira.hochbahn.de/projects/MOS/versions/13931)
+
+key | summary |  type
+---- | ----|----
+[MOS-9267](https://jira.hochbahn.de/browse/MOS-9267) | Ressource Requests der Basis-Services anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-169.0
 
 Deployment on **PROD** at: tba-MOSAIC
