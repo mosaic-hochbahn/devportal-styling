@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-169.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 01.06.23 - 13:21:43
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13930](https://jira.hochbahn.de/projects/MOS/versions/13930)
+
+key | summary |  type
+---- | ----|----
+[MOS-9679](https://jira.hochbahn.de/browse/MOS-9679) | SEPA als 1. Zahlungsmittel | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9665](https://jira.hochbahn.de/browse/MOS-9665) | Fehler bei Verarbeitung einer MosaicClientException | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9483](https://jira.hochbahn.de/browse/MOS-9483) | Fehlerbehandlung PT-Anbindung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7999](https://jira.hochbahn.de/browse/MOS-7999) | Kündigung per App stößt automatischen Kündigungsprozess an | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-32.0
 
 Deployment on **PROD** at: tba-BILLING
