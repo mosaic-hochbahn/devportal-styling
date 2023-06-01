@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-32.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 01.06.23 - 13:13:23
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13929](https://jira.hochbahn.de/projects/MOS/versions/13929)
+
+key | summary |  type
+---- | ----|----
+[MOS-9690](https://jira.hochbahn.de/browse/MOS-9690) | Integrationstests unter Windows beheben | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9688](https://jira.hochbahn.de/browse/MOS-9688) | OpenApiGenerator: Component-Generierung aktivieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9636](https://jira.hochbahn.de/browse/MOS-9636) | Erstattungen und Sonderkosten sollen auch bei anonymisierter Mailadresse noch für 180 Tage möglich sein | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9595](https://jira.hochbahn.de/browse/MOS-9595) | DT-Bestandskunden Übergangsauftrag erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9244](https://jira.hochbahn.de/browse/MOS-9244) | Spring Boot 3 | order-service auf Spring Boot 3 umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-24.0
 
 Deployment on **PROD** at
