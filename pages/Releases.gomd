@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-25.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 02.06.23 - 09:53:57
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13819](https://jira.hochbahn.de/projects/MOS/versions/13819)
+
+key | summary |  type
+---- | ----|----
+[MOS-9675](https://jira.hochbahn.de/browse/MOS-9675) | Fehlschlagender Verlängerungslauf nach verpasster Kündigungsfrist | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9673](https://jira.hochbahn.de/browse/MOS-9673) | Attribut zur Rechnungsunterdrückung an Billing schicken | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9586](https://jira.hochbahn.de/browse/MOS-9586) | Spezielle Emails abhängig vom Wechselzeitpunkt | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-60.0
 
 Deployment on **PROD** at: tba-BASIS
