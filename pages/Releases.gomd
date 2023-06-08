@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-61.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 08.06.23 - 13:20:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13828](https://jira.hochbahn.de/projects/MOS/versions/13828)
+
+key | summary |  type
+---- | ----|----
+[MOS-9748](https://jira.hochbahn.de/browse/MOS-9748) | Logpay URL-Umstellung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9746](https://jira.hochbahn.de/browse/MOS-9746) | Neuen Service /hha/termination_srv im PT-Proxy aufnehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9607](https://jira.hochbahn.de/browse/MOS-9607) | Sendgrid: User automatisch aus Bounce Listen entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9421](https://jira.hochbahn.de/browse/MOS-9421) | Logging-Format - lesbar machen - account-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9419](https://jira.hochbahn.de/browse/MOS-9419) | Logging-Format - lesbar machen - push-notification-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9418](https://jira.hochbahn.de/browse/MOS-9418) | Logging-Format - lesbar machen - messaging-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-33.0
 
 Deployment on **PROD** at: tba-BILLING
