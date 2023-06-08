@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-26.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 08.06.23 - 13:53:28
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13933](https://jira.hochbahn.de/projects/MOS/versions/13933)
+
+key | summary |  type
+---- | ----|----
+[MOS-9729](https://jira.hochbahn.de/browse/MOS-9729) | Ergänzung Customer Order Data um Kundeninfos | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8731](https://jira.hochbahn.de/browse/MOS-8731) | Event bei hvvAny Journey Order | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8730](https://jira.hochbahn.de/browse/MOS-8730) | Event bei ShuttleOrder-Update | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8711](https://jira.hochbahn.de/browse/MOS-8711) | Event bei TicketOrder-Update | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-61.0
 
 Deployment on **PROD** at: tba-BASIS
