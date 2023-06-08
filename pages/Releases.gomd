@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-33.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 08.06.23 - 13:16:05
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13827](https://jira.hochbahn.de/projects/MOS/versions/13827)
+
+key | summary |  type
+---- | ----|----
+[MOS-9710](https://jira.hochbahn.de/browse/MOS-9710) | Zahlungsflow PayPal mit Cibo verhält sich falsch | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9674](https://jira.hochbahn.de/browse/MOS-9674) | A1JZWG - Erstattung läuft in einen Fehler | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9663](https://jira.hochbahn.de/browse/MOS-9663) | Gültigkeitszeitraum in Rechnungsmail | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9622](https://jira.hochbahn.de/browse/MOS-9622) | Anleitung für Spring Boot 3.1-Upgrade | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9617](https://jira.hochbahn.de/browse/MOS-9617) | PayPal Shuttle/Scooter PaymentStrategy erstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9584](https://jira.hochbahn.de/browse/MOS-9584) | Logic für Erstellen von Aufträge in CreateOrderStrategy auslagern  | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9298](https://jira.hochbahn.de/browse/MOS-9298) | LogPayPurposeMapper unabhängig vom PaymentFlowContext machen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-25.0
 
 Deployment on **PROD** at
