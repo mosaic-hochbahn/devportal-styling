@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-62.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 15.06.23 - 13:21:27
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13934](https://jira.hochbahn.de/projects/MOS/versions/13934)
+
+key | summary |  type
+---- | ----|----
+[MOS-9768](https://jira.hochbahn.de/browse/MOS-9768) | E-Mail-Bestätigung // Falsches Favicon im BrowserTap | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8974](https://jira.hochbahn.de/browse/MOS-8974) | Validierung Mailadresse bei Registrierung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-34.0
 
 Deployment on **PROD** at: tba-BILLING
