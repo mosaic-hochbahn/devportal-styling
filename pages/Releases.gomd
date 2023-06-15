@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-27.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 15.06.23 - 13:38:30
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13935](https://jira.hochbahn.de/projects/MOS/versions/13935)
+
+key | summary |  type
+---- | ----|----
+[MOS-9829](https://jira.hochbahn.de/browse/MOS-9829) | Voi - Error Code Mapping ist nicht vollständig | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9824](https://jira.hochbahn.de/browse/MOS-9824) | Emails bei Bestandskundemigration werden nicht verschickt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9788](https://jira.hochbahn.de/browse/MOS-9788) | Toggle für Digitales Tanken anlegen und vorbereiten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9709](https://jira.hochbahn.de/browse/MOS-9709) | Mindestalter Führerschein - Sixt | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9676](https://jira.hochbahn.de/browse/MOS-9676) | Falsches Kündigungsdatum bei Verlängerungslauf Fehler | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9437](https://jira.hochbahn.de/browse/MOS-9437) | API-Design für Erweiterung der Schnittstellen um Rollstuhl-Option | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9400](https://jira.hochbahn.de/browse/MOS-9400) | Rollstuhl-Option bei einer MOIA-Buchung mit ausgeben | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9142](https://jira.hochbahn.de/browse/MOS-9142) | CRM: Bei Sperre des Nutzungsstatus soll keine Vorbestellung D-Ticket möglich sein | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-171.0
 
 Deployment on **PROD** at: tba-MOSAIC
