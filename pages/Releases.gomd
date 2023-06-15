@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-34.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 15.06.23 - 12:50:29
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13832](https://jira.hochbahn.de/projects/MOS/versions/13832)
+
+key | summary |  type
+---- | ----|----
+[MOS-9761](https://jira.hochbahn.de/browse/MOS-9761) | Rechnungs Layout - Ungünstiger Zeilenumbruch | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9747](https://jira.hochbahn.de/browse/MOS-9747) | [Miles] Validierung der Forderungsdaten ist Fehlerhaft | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9616](https://jira.hochbahn.de/browse/MOS-9616) | PayPal Car-Sharing PaymentStrategy erstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## RIDE-26.0
 
 Deployment on **PROD** at
