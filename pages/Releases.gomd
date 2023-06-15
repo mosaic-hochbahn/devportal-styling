@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-171.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 15.06.23 - 13:22:43
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13833](https://jira.hochbahn.de/projects/MOS/versions/13833)
+
+key | summary |  type
+---- | ----|----
+[MOS-9837](https://jira.hochbahn.de/browse/MOS-9837) | change-pt-contract-termination-threshold-back-to-requirement | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9827](https://jira.hochbahn.de/browse/MOS-9827) | HTTP 403 nicht als Error loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9815](https://jira.hochbahn.de/browse/MOS-9815) | Ambassador Filter für GoSpace fehlt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9803](https://jira.hochbahn.de/browse/MOS-9803) | EA flag Spalten für bereits versendete Früherschein E-Mails hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9799](https://jira.hochbahn.de/browse/MOS-9799) | [crm] clean up customerForm | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9774](https://jira.hochbahn.de/browse/MOS-9774) | FS Mindestbesitzzeitraum für SIXT auf 0 Monate aktualisieren  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9764](https://jira.hochbahn.de/browse/MOS-9764) | [crm] Update to Angular 15 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9750](https://jira.hochbahn.de/browse/MOS-9750) | PspDeactivationJob nicht auf  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9428](https://jira.hochbahn.de/browse/MOS-9428) | Logging-Format - lesbar machen - document-validation-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9427](https://jira.hochbahn.de/browse/MOS-9427) | Logging-Format - lesbar machen - itm-adapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9167](https://jira.hochbahn.de/browse/MOS-9167) | Kommunikation fehlerhaft | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8613](https://jira.hochbahn.de/browse/MOS-8613) | [improvment] gradle download and update | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8605](https://jira.hochbahn.de/browse/MOS-8605) | [technical-dept] deprecated configuration property | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-62.0
 
 Deployment on **PROD** at: tba-BASIS
