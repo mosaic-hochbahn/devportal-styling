@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-172.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 22.06.23 - 13:17:04
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13859](https://jira.hochbahn.de/projects/MOS/versions/13859)
+
+key | summary |  type
+---- | ----|----
+[MOS-9925](https://jira.hochbahn.de/browse/MOS-9925) | Index auf ActivationStatus in PaymentMethod | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9897](https://jira.hochbahn.de/browse/MOS-9897) | CRM: Umbenennung des Hintergrunds für Deutschlandticket-Vertragskündigung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9883](https://jira.hochbahn.de/browse/MOS-9883) | PT Error Prefix hinzufügen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9881](https://jira.hochbahn.de/browse/MOS-9881) | CRM: Produkte zum Preis von 0 Euro sollen explizit ausgewiesen werden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9863](https://jira.hochbahn.de/browse/MOS-9863) | [error-log] fix bad error message | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9856](https://jira.hochbahn.de/browse/MOS-9856) | [CRM] ShareNow wird im Kundenprofil angezeigt | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9841](https://jira.hochbahn.de/browse/MOS-9841) | gesperrte Nutzer ausschließen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9822](https://jira.hochbahn.de/browse/MOS-9822) | [Liquibase] increase 2 Loglevel debug | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9725](https://jira.hochbahn.de/browse/MOS-9725) | FSRV // E-Mail-Versand 15 Tage vor Führerschein Ablauf | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9544](https://jira.hochbahn.de/browse/MOS-9544) | [Voucherify] Get Voucher List implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9426](https://jira.hochbahn.de/browse/MOS-9426) | Logging-Format - lesbar machen - paypal-adapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9344](https://jira.hochbahn.de/browse/MOS-9344) | Use CustomerServiceCommonComponents.yaml in all yamls | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8872](https://jira.hochbahn.de/browse/MOS-8872) | Systemtests reparieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-27.0
 
 Deployment on **PROD** at
