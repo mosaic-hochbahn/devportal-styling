@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-28.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 22.06.23 - 13:38:02
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13861](https://jira.hochbahn.de/projects/MOS/versions/13861)
+
+key | summary |  type
+---- | ----|----
+[MOS-9916](https://jira.hochbahn.de/browse/MOS-9916) | Korrektur TerminationDate bei Ticket-Gültigkeit in der Zukunft | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9914](https://jira.hochbahn.de/browse/MOS-9914) | Logik, ob es noch verfügbare Tickets gibt, überarbeiten | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9913](https://jira.hochbahn.de/browse/MOS-9913) | CTO: &#34;LogPay has rejected the request&#34; als WARN loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9905](https://jira.hochbahn.de/browse/MOS-9905) | Ride - Automatischer Merge der Dependabot-Branches - VOI | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9838](https://jira.hochbahn.de/browse/MOS-9838) | Serviceanfrage - Bitte Juli-Abbuchung Kd 0420695313 verhindern | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9797](https://jira.hochbahn.de/browse/MOS-9797) | Bereinigung Datenbank: Account-Kündigung in Kombi mit laufender Subscription | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9777](https://jira.hochbahn.de/browse/MOS-9777) | RS Push Notification für Fueling Session implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9776](https://jira.hochbahn.de/browse/MOS-9776) | API Push Notification um neuen Typ Fueling Session Changed erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9775](https://jira.hochbahn.de/browse/MOS-9775) | API Design &#34;Trips Fueling Session&#34; | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9656](https://jira.hochbahn.de/browse/MOS-9656) | Analyse: Viele Failed Push Notifications | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9434](https://jira.hochbahn.de/browse/MOS-9434) | Recovery für CIBO | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-35.0
 
 Deployment on **PROD** at: tba-BILLING
