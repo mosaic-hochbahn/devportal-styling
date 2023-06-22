@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-63.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 22.06.23 - 13:42:08
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13860](https://jira.hochbahn.de/projects/MOS/versions/13860)
+
+key | summary |  type
+---- | ----|----
+[MOS-9810](https://jira.hochbahn.de/browse/MOS-9810) | identity-service: Impersonation ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9594](https://jira.hochbahn.de/browse/MOS-9594) | Account-Service: Passwort-Reset-Endpoint in Identity-Service auslagern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-28.0
 
 Deployment on **PROD** at: tba-RIDE
