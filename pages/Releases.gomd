@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-173.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 29.06.23 - 13:35:40
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13866](https://jira.hochbahn.de/projects/MOS/versions/13866)
+
+key | summary |  type
+---- | ----|----
+[MOS-9948](https://jira.hochbahn.de/browse/MOS-9948) | Notification an LogPay, wenn zu disablender User bei LogPay geblocked ist  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9939](https://jira.hochbahn.de/browse/MOS-9939) | [crm] sharenow mail bei Erstattung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9861](https://jira.hochbahn.de/browse/MOS-9861) | [voucherify] GetVoucher filter for bad categories | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9854](https://jira.hochbahn.de/browse/MOS-9854) | CustomerUpdate gegen ShareNow | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9852](https://jira.hochbahn.de/browse/MOS-9852) | Anbindung ShareNow | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9813](https://jira.hochbahn.de/browse/MOS-9813) | [voucherify] Rückbau aus customer-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9726](https://jira.hochbahn.de/browse/MOS-9726) | FSRV // E-Mail-Versand Am ersten Tag des abgelaufenen Führerscheins | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9429](https://jira.hochbahn.de/browse/MOS-9429) | Logging-Format - lesbar machen - customer-adapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9074](https://jira.hochbahn.de/browse/MOS-9074) | Deaktivierte Tests aktivieren oder löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8956](https://jira.hochbahn.de/browse/MOS-8956) | Verbleibende Contract-Tests wieder reaktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-64.0
 
 Deployment on **PROD** at: tba-BASIS
