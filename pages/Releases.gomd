@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-64.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 29.06.23 - 13:17:32
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13869](https://jira.hochbahn.de/projects/MOS/versions/13869)
+
+key | summary |  type
+---- | ----|----
+[MOS-10019](https://jira.hochbahn.de/browse/MOS-10019) | dota-auth-proxy: fehlerhaftes logging Format | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9978](https://jira.hochbahn.de/browse/MOS-9978) | Functional Test für voucherify | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9812](https://jira.hochbahn.de/browse/MOS-9812) | Account-Service: Passwort-Reset-Endpoint entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9811](https://jira.hochbahn.de/browse/MOS-9811) | Refactoring: Optimierung Push-Notification-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-36.0
 
 Deployment on **PROD** at: tba-BILLING
