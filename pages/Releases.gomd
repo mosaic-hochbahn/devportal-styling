@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-36.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 29.06.23 - 13:12:24
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13867](https://jira.hochbahn.de/projects/MOS/versions/13867)
+
+key | summary |  type
+---- | ----|----
+[MOS-9842](https://jira.hochbahn.de/browse/MOS-9842) | 01.07. Rechnungen/Gutschriften Footer anpassen - Vorstandsänderung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9830](https://jira.hochbahn.de/browse/MOS-9830) | Payment-Flows aufräumen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9828](https://jira.hochbahn.de/browse/MOS-9828) | Logik für Kopieren von Aufträge in CopyOrderStrategy auslagern  | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BASIS-63.0
 
 Deployment on **PROD** at
