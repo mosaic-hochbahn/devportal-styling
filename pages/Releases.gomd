@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-29.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 29.06.23 - 14:37:34
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13868](https://jira.hochbahn.de/projects/MOS/versions/13868)
+
+key | summary |  type
+---- | ----|----
+[MOS-10014](https://jira.hochbahn.de/browse/MOS-10014) | MOIA-Adapter loggt sensible Daten | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9909](https://jira.hochbahn.de/browse/MOS-9909) | Fehlerhandling verbessern für &#34;Unknown error&#34; bei KA-Produkt an Startstation nicht verfügbar | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9890](https://jira.hochbahn.de/browse/MOS-9890) | Reservierung - API v2 Definition erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9889](https://jira.hochbahn.de/browse/MOS-9889) | Infrastruktur - Monitoring und Alerting einrichten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9888](https://jira.hochbahn.de/browse/MOS-9888) | Infrastruktur - sharenow-rental-orchestration auf DEV deployen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9887](https://jira.hochbahn.de/browse/MOS-9887) | Infrastruktur - Jenkins Job für sharenow-rental-orchestration einrichten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9886](https://jira.hochbahn.de/browse/MOS-9886) | Infrastruktur - MSP Enum in Services aktualisieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9865](https://jira.hochbahn.de/browse/MOS-9865) | ERMO 54 - Ride - Tests für Job-Lauf mit Rabatt verbessern | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9780](https://jira.hochbahn.de/browse/MOS-9780) | MRO GET /{msp}/trips/{tripId}/fuelingsession implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9779](https://jira.hochbahn.de/browse/MOS-9779) | MRO GET /{msp}/trips/{tripId}/fuelingsession/portnumbers?stationId= implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9778](https://jira.hochbahn.de/browse/MOS-9778) | MRO RentalService Boundary für Fueling Session erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9612](https://jira.hochbahn.de/browse/MOS-9612) | History Orchestration kann CIBO Journeys über 360° Endpunkt nicht ausgeben | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-173.0
 
 Deployment on **PROD** at: tba-MOSAIC
