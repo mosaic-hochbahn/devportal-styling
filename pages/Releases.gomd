@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-65.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 06.07.23 - 13:11:21
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13872](https://jira.hochbahn.de/projects/MOS/versions/13872)
+
+key | summary |  type
+---- | ----|----
+[MOS-9963](https://jira.hochbahn.de/browse/MOS-9963) | Identity Service: Keine Metriken mehr in Grafana Micro Service Dashboard  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9610](https://jira.hochbahn.de/browse/MOS-9610) | Reset von Rate-Limit Buckets im Redis Cache (Bucket4J) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-29.0
 
 Deployment on **PROD** at
