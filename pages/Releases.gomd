@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-37.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 06.07.23 - 13:26:49
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13871](https://jira.hochbahn.de/projects/MOS/versions/13871)
+
+key | summary |  type
+---- | ----|----
+[MOS-9848](https://jira.hochbahn.de/browse/MOS-9848) | Logic für Complete von Aufträge in CompleteStartOrderStrategy auslagern  | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BASIS-65.0
 
 Deployment on **PROD** at: tba-BASIS
