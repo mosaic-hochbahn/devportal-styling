@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-30.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 06.07.23 - 13:46:51
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13962](https://jira.hochbahn.de/projects/MOS/versions/13962)
+
+key | summary |  type
+---- | ----|----
+[MOS-9983](https://jira.hochbahn.de/browse/MOS-9983) | MRO check für ongoing fueling session bei ending/pausing trip | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9782](https://jira.hochbahn.de/browse/MOS-9782) | MRO PUT /{msp}/trips/{tripId}/fuelingsession/end implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-37.0
 
 Deployment on **PROD** at: tba-BILLING
