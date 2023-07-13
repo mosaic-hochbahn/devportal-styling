@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-175.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 13.07.23 - 13:30:54
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13875](https://jira.hochbahn.de/projects/MOS/versions/13875)
+
+key | summary |  type
+---- | ----|----
+[MOS-10166](https://jira.hochbahn.de/browse/MOS-10166) | Set default values for email flags for customer without date | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10153](https://jira.hochbahn.de/browse/MOS-10153) | fix null-mock image  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10116](https://jira.hochbahn.de/browse/MOS-10116) | postgres 15.2 compatibility Test | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10108](https://jira.hochbahn.de/browse/MOS-10108) | Abgelaufene Führerschein Validierung NullPointer | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10089](https://jira.hochbahn.de/browse/MOS-10089) | Defaults und Constraints auf der DB setzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10044](https://jira.hochbahn.de/browse/MOS-10044) | TestDate.createPaymentMethod fehlerhaft für Mobi Aktivierungsstatus | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10017](https://jira.hochbahn.de/browse/MOS-10017) | [voucherify] call voucher publication twice | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9568](https://jira.hochbahn.de/browse/MOS-9568) | [PuschNotifications] delete error stabilization | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9328](https://jira.hochbahn.de/browse/MOS-9328) | Customer | Legacy Monolith Request Header entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-66.0
 
 Deployment on **PROD** at: tba-BASIS
