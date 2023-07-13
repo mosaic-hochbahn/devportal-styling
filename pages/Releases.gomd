@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-31.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 13.07.23 - 13:59:01
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13967](https://jira.hochbahn.de/projects/MOS/versions/13967)
+
+key | summary |  type
+---- | ----|----
+[MOS-10113](https://jira.hochbahn.de/browse/MOS-10113) | Ride-Api-Orchestration Trips Fueling Session im Dev Portal aufnehmen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10069](https://jira.hochbahn.de/browse/MOS-10069) | Indexes im RentalService fürs Recovery nachziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9893](https://jira.hochbahn.de/browse/MOS-9893) | Reservierung - Endpunkt fürs Abbrechen implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9832](https://jira.hochbahn.de/browse/MOS-9832) | Doppelten Deutschlandticketkauf verhindern / erkennen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9791](https://jira.hochbahn.de/browse/MOS-9791) | Miles Digitales Tanken Doku erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9785](https://jira.hochbahn.de/browse/MOS-9785) | MRO Error-Code Mapping implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9781](https://jira.hochbahn.de/browse/MOS-9781) | MRO PUT /{msp}/trips/{tripId}/fuelingsession/start implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9472](https://jira.hochbahn.de/browse/MOS-9472) | Option zur Kündigung der Subscription durch den Kundenservice im CRM (BE) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-175.0
 
 Deployment on **PROD** at: tba-MOSAIC
