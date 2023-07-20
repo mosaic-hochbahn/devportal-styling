@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-176.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 20.07.23 - 13:34:51
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13878](https://jira.hochbahn.de/projects/MOS/versions/13878)
+
+key | summary |  type
+---- | ----|----
+[MOS-10172](https://jira.hochbahn.de/browse/MOS-10172) | Voucherify API im Mosaic DEV Portal anzeigen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10163](https://jira.hochbahn.de/browse/MOS-10163) | E-Mail Flag Constraints auf der DB setzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10126](https://jira.hochbahn.de/browse/MOS-10126) | Customer-Pipelines: Jenkins-VM-Runner aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10079](https://jira.hochbahn.de/browse/MOS-10079) | Update an CleverTap bei abgelaufenem Führerschein | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10072](https://jira.hochbahn.de/browse/MOS-10072) | PT Nova offline abfangen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10065](https://jira.hochbahn.de/browse/MOS-10065) | CRM (BE): Gutscheininformationen am Account | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10044](https://jira.hochbahn.de/browse/MOS-10044) | TestDate.createPaymentMethod fehlerhaft für Mobi Aktivierungsstatus | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BILLING-38.0
 
 Deployment on **PROD** at: tba-BILLING
