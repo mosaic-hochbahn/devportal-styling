@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-38.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 20.07.23 - 13:24:05
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13966](https://jira.hochbahn.de/projects/MOS/versions/13966)
+
+key | summary |  type
+---- | ----|----
+[MOS-10062](https://jira.hochbahn.de/browse/MOS-10062) | Billing-Service skaliert nicht bei hoher Last | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10057](https://jira.hochbahn.de/browse/MOS-10057) | [Bestandskunden] Validierung des Kundenprofils passiert zu spät | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9990](https://jira.hochbahn.de/browse/MOS-9990) | Response von Miles im Billing-Order-Adapter loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9988](https://jira.hochbahn.de/browse/MOS-9988) | Formatter in allen Billing-Projekten ausführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9937](https://jira.hochbahn.de/browse/MOS-9937) | LogPayBillingStrategy aus CreditCardPrepaidWithOfflineHandlingPaymentStrategy entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8151](https://jira.hochbahn.de/browse/MOS-8151) | Order Service - Refactoring von Api2EntityMapper und OrderService | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-31.0
 
 Deployment on **PROD** at
