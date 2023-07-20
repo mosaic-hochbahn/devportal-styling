@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-67.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 20.07.23 - 13:38:20
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13877](https://jira.hochbahn.de/projects/MOS/versions/13877)
+
+key | summary |  type
+---- | ----|----
+[MOS-9590](https://jira.hochbahn.de/browse/MOS-9590) | identity-service: Echo-Kontext nutzen, um Kontext-Informationen durch den Service zu schleifen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-176.0
 
 Deployment on **PROD** at: tba-MOSAIC
