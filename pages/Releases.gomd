@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-32.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 21.07.23 - 14:17:25
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13879](https://jira.hochbahn.de/projects/MOS/versions/13879)
+
+key | summary |  type
+---- | ----|----
+[MOS-10233](https://jira.hochbahn.de/browse/MOS-10233) | Authorization Header in allen Ride Services durchreichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10199](https://jira.hochbahn.de/browse/MOS-10199) | Voi Testroller Restriction ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10165](https://jira.hochbahn.de/browse/MOS-10165) | Moia Bestellung ist fehlgeschlagen - optimistic locking failed | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10164](https://jira.hochbahn.de/browse/MOS-10164) | RS - consumer test for end fuelingsession | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10154](https://jira.hochbahn.de/browse/MOS-10154) | Reservierung - ShareNow Mock um Reservierungsschnittstellen erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10112](https://jira.hochbahn.de/browse/MOS-10112) | MRO/RS nozzleLocksAt for Start fuelingsession | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10030](https://jira.hochbahn.de/browse/MOS-10030) | Aktualisierung der Kündigungsinfos bei fehlschlagender DT-Verlängerung | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9895](https://jira.hochbahn.de/browse/MOS-9895) | Trip - Endpunkt fürs Starten und Abrufen implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9783](https://jira.hochbahn.de/browse/MOS-9783) | MRO Recovery-Job implementieren (Happy Case) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9733](https://jira.hochbahn.de/browse/MOS-9733) | API Dokumentation um Gutscheine erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-67.0
 
 Deployment on **PROD** at: tba-BASIS
