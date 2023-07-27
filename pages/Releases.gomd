@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-177.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 27.07.23 - 13:19:06
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13881](https://jira.hochbahn.de/projects/MOS/versions/13881)
+
+key | summary |  type
+---- | ----|----
+[MOS-10266](https://jira.hochbahn.de/browse/MOS-10266) | CRM: Korrektur Schreibfehler Deutschlandticket-Vertragsinfos | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10254](https://jira.hochbahn.de/browse/MOS-10254) | Ausbau Pager hvv switch CRM | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10229](https://jira.hochbahn.de/browse/MOS-10229) | BQ - Fehler durch falschen customerNumber Eintrag im Log | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10226](https://jira.hochbahn.de/browse/MOS-10226) | vm-runner Umstellung CRM Pipeline Konfiguration fixen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10098](https://jira.hochbahn.de/browse/MOS-10098) | Transform Controller-Test to Karate-Tests | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10091](https://jira.hochbahn.de/browse/MOS-10091) | E-Mail Benachrichtungen aus dem CustomerService rausziehen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9939](https://jira.hochbahn.de/browse/MOS-9939) | [crm] sharenow mail bei Erstattung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9606](https://jira.hochbahn.de/browse/MOS-9606) | Funktion zur Kündigung der Subscription durch den Kundenservice (FE) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9016](https://jira.hochbahn.de/browse/MOS-9016) | [crm] any entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8991](https://jira.hochbahn.de/browse/MOS-8991) | [crm] typed forms prüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-32.0
 
 Deployment on **PROD** at
