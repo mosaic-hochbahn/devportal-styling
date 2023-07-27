@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-33.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 27.07.23 - 13:57:20
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13882](https://jira.hochbahn.de/projects/MOS/versions/13882)
+
+key | summary |  type
+---- | ----|----
+[MOS-10141](https://jira.hochbahn.de/browse/MOS-10141) | Ride - Update Postgres-Version in Services | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-39.0
 
 Deployment on **PROD** at: tba-BILLING
