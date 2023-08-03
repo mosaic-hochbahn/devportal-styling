@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-40.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 03.08.23 - 13:55:06
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13972](https://jira.hochbahn.de/projects/MOS/versions/13972)
+
+key | summary |  type
+---- | ----|----
+[MOS-10111](https://jira.hochbahn.de/browse/MOS-10111) | Gleichzeitige Moia-Events produzieren Fehler | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## RIDE-34.0
 
 Deployment on **PROD** at: tba-RIDE
