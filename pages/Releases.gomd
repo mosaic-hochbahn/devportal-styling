@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-34.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 03.08.23 - 13:45:34
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13973](https://jira.hochbahn.de/projects/MOS/versions/13973)
+
+key | summary |  type
+---- | ----|----
+[MOS-9758](https://jira.hochbahn.de/browse/MOS-9758) | Durchreichen des Gutscheins zu Billing | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-178.0
 
 Deployment on **PROD** at: tba-MOSAIC
