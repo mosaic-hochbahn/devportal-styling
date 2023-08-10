@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-179.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 10.08.23 - 13:39:22
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13883](https://jira.hochbahn.de/projects/MOS/versions/13883)
+
+key | summary |  type
+---- | ----|----
+[MOS-10363](https://jira.hochbahn.de/browse/MOS-10363) | Java 17 Karate zurücksetzen auf Java 11 | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10325](https://jira.hochbahn.de/browse/MOS-10325) | fix bestandskunden Endpunkt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10280](https://jira.hochbahn.de/browse/MOS-10280) | Fehlerhafte Methode nach API-Umstellung | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9992](https://jira.hochbahn.de/browse/MOS-9992) | yaml austauschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8796](https://jira.hochbahn.de/browse/MOS-8796) | [customer-adapter] update to Java 17 LTS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8795](https://jira.hochbahn.de/browse/MOS-8795) | [customer-service] update to Java 17 LTS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7782](https://jira.hochbahn.de/browse/MOS-7782) | CRM: Gutscheininformationen am Account | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-69.0
 
 Deployment on **PROD** at: tba-BASIS
