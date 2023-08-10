@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-41.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 10.08.23 - 13:18:23
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13884](https://jira.hochbahn.de/projects/MOS/versions/13884)
+
+key | summary |  type
+---- | ----|----
+[MOS-10177](https://jira.hochbahn.de/browse/MOS-10177) | SHARENOW | Vorhandene Recovery im Billing-Service aufteilen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10158](https://jira.hochbahn.de/browse/MOS-10158) | SHARENOW | Webhook Debt-Data Zugriff zulassen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10100](https://jira.hochbahn.de/browse/MOS-10100) | ShareNow Order Recovery fehlt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10099](https://jira.hochbahn.de/browse/MOS-10099) | ShareNow Proxy konfigurieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9862](https://jira.hochbahn.de/browse/MOS-9862) | Der Verwendungszweck für CIBO und HVV Tickets hat sich geändert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8869](https://jira.hochbahn.de/browse/MOS-8869) | SHARE NOW | Billing-Konfiguration anlegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8860](https://jira.hochbahn.de/browse/MOS-8860) | SHARENOW | Link zur Rechnung senden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7979](https://jira.hochbahn.de/browse/MOS-7979) | SHARE NOW | Produkt-ID, Zahlmittel (MeansPaymt) und GVCs in PT anlegen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-68.0
 
 Deployment on **PROD** at
