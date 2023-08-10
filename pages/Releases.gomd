@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-69.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 10.08.23 - 13:34:45
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13885](https://jira.hochbahn.de/projects/MOS/versions/13885)
+
+key | summary |  type
+---- | ----|----
+[MOS-10320](https://jira.hochbahn.de/browse/MOS-10320) | Global Password Reset Rate Limit Alert bei Pod Start | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10319](https://jira.hochbahn.de/browse/MOS-10319) | Undeployment stromnetz-hamburg-auth-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-35.0
 
 Deployment on **PROD** at: tba-RIDE
