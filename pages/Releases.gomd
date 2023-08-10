@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-35.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 10.08.23 - 13:33:36
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13975](https://jira.hochbahn.de/projects/MOS/versions/13975)
+
+key | summary |  type
+---- | ----|----
+[MOS-10352](https://jira.hochbahn.de/browse/MOS-10352) | Benutzte Voucher in der History ausgeben | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10345](https://jira.hochbahn.de/browse/MOS-10345) | DB Config anpassen für Scheduler Services | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10295](https://jira.hochbahn.de/browse/MOS-10295) | Ride - Kritische Abhängigkeit auflösen - commons-text-1.9.jar | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10260](https://jira.hochbahn.de/browse/MOS-10260) | Trip - Restarbeiten für den Start-Endpunkt | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10144](https://jira.hochbahn.de/browse/MOS-10144) | Aufrufe zu Billing bei Ticketing um ticketProduct erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9896](https://jira.hochbahn.de/browse/MOS-9896) | Trip - Endpunkt fürs Beenden implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-41.0
 
 Deployment on **PROD** at: tba-BILLING
