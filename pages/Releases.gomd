@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-180.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 17.08.23 - 13:37:39
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13887](https://jira.hochbahn.de/projects/MOS/versions/13887)
+
+key | summary |  type
+---- | ----|----
+[MOS-10436](https://jira.hochbahn.de/browse/MOS-10436) | CRM: Toggle Gutscheininformationen am Account | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10372](https://jira.hochbahn.de/browse/MOS-10372) | [Voucherify] add new ErrorCode | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-70.0
 
 Deployment on **PROD** at: tba-BASIS
