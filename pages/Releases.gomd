@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-36.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 17.08.23 - 15:34:44
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13886](https://jira.hochbahn.de/projects/MOS/versions/13886)
+
+key | summary |  type
+---- | ----|----
+[MOS-10418](https://jira.hochbahn.de/browse/MOS-10418) | Toggle &amp; legacy Code ausbauen - Customer Check bei getTripV2 aus RentalService in Orchestrations umziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10393](https://jira.hochbahn.de/browse/MOS-10393) | Customer Check bei getTripV2 aus RentalService in Orchestrations umziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10285](https://jira.hochbahn.de/browse/MOS-10285) | Pro bearbeiteter Subscription im Verlängerungslauf eine neue Request-ID setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10237](https://jira.hochbahn.de/browse/MOS-10237) | Bei terminationReason &#34;customer_service&#34; wird eine spezifische Mail versendet | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10148](https://jira.hochbahn.de/browse/MOS-10148) | ValidFrom wird beim Erzeugen eines Ersatztickets ignoriert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9900](https://jira.hochbahn.de/browse/MOS-9900) | Trip - Endpunkt fürs Pause-Beenden implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9899](https://jira.hochbahn.de/browse/MOS-9899) | Trip - Endpunkt fürs Pausieren implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8924](https://jira.hochbahn.de/browse/MOS-8924) | Ticketing Cache - Nach Prod Deployment hat memcache Probleme | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-42.0
 
 Deployment on **PROD** at: tba-BILLING
