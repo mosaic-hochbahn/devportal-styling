@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-42.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 17.08.23 - 13:54:48
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/13976](https://jira.hochbahn.de/projects/MOS/versions/13976)
+
+key | summary |  type
+---- | ----|----
+[MOS-10431](https://jira.hochbahn.de/browse/MOS-10431) | Quartz Scheduler | Neue Jobs laufen nicht auf PROD | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10150](https://jira.hochbahn.de/browse/MOS-10150) | Rollback des Gutscheins, wenn Logpay rejected | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10074](https://jira.hochbahn.de/browse/MOS-10074) | Recovery - Rollback Gutschein im Offline Fall | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10048](https://jira.hochbahn.de/browse/MOS-10048) | Tests implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10025](https://jira.hochbahn.de/browse/MOS-10025) | completeCreateStart implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10024](https://jira.hochbahn.de/browse/MOS-10024) | Rollback implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9952](https://jira.hochbahn.de/browse/MOS-9952) | Payment-Service auf Spring Boot 3.1 umstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9717](https://jira.hochbahn.de/browse/MOS-9717) | CreateOrder implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9716](https://jira.hochbahn.de/browse/MOS-9716) | Datenmodel um Gutscheinrelevante Daten erweitern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9715](https://jira.hochbahn.de/browse/MOS-9715) | Schnittstellen mit Customer und Ride klären | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9714](https://jira.hochbahn.de/browse/MOS-9714) | Voucherify-API erforschen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9713](https://jira.hochbahn.de/browse/MOS-9713) | Gutscheine einlösen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9661](https://jira.hochbahn.de/browse/MOS-9661) | Fehler-Logs beim Graceful-Shutdown im (QA-)Deployment | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-180.0
 
 Deployment on **PROD** at: tba-MOSAIC
