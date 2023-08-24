@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-37.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 24.08.23 - 13:31:31
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14002](https://jira.hochbahn.de/projects/MOS/versions/14002)
+
+key | summary |  type
+---- | ----|----
+[MOS-10520](https://jira.hochbahn.de/browse/MOS-10520) | Tier - neue Testscooter übernehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10513](https://jira.hochbahn.de/browse/MOS-10513) | Restarbeit - Trip - CanFinish | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10476](https://jira.hochbahn.de/browse/MOS-10476) | Digitales Tanken - NozzleLocksAt im Progress nur bei PENDING_TAKE_NOZZLE vorhalten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10468](https://jira.hochbahn.de/browse/MOS-10468) | Digitales Tanken - Job-Ausführungsintervall erhöhen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10460](https://jira.hochbahn.de/browse/MOS-10460) | Probleme mit ShareNow-Recovery Jobs auf PROD | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10432](https://jira.hochbahn.de/browse/MOS-10432) | Reservation - ShareNow-Kommunikation auf asynchron umstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10393](https://jira.hochbahn.de/browse/MOS-10393) | Customer Check bei getTripV2 aus RentalService in Orchestrations umziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10296](https://jira.hochbahn.de/browse/MOS-10296) | Verlängerungslauf für Deutschlandtickets robuster machen bei herunterfahrenden Pods | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10115](https://jira.hochbahn.de/browse/MOS-10115) | Digitales Tanken Flow durchspielen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9901](https://jira.hochbahn.de/browse/MOS-9901) | Trip - Endpunkt für die Motorsperre implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-181.0
 
 Deployment on **PROD** at: tba-MOSAIC
