@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-181.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 24.08.23 - 13:23:20
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14001](https://jira.hochbahn.de/projects/MOS/versions/14001)
+
+key | summary |  type
+---- | ----|----
+[MOS-10515](https://jira.hochbahn.de/browse/MOS-10515) | Doku anpassen iban Übernahme | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10495](https://jira.hochbahn.de/browse/MOS-10495) | fix errorhandling bonvoyo not found | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10485](https://jira.hochbahn.de/browse/MOS-10485) | deployment nur bei Änderungen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10456](https://jira.hochbahn.de/browse/MOS-10456) | Logging - CustomerNumber ist kein String | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10417](https://jira.hochbahn.de/browse/MOS-10417) | IBAN Übernahme ohne Klartext Übermittlung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10408](https://jira.hochbahn.de/browse/MOS-10408) | CRM: Bitte MILES und LOGPAY im Frontend an sämtlichen Stellen versal schreiben | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10395](https://jira.hochbahn.de/browse/MOS-10395) | CRM (BE): Kundenservice Kampagne nur aus CRM triggern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10385](https://jira.hochbahn.de/browse/MOS-10385) | Unnötige geblockte Monos entfernen PaypalAdapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10355](https://jira.hochbahn.de/browse/MOS-10355) | Einführung Geburtsort | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9424](https://jira.hochbahn.de/browse/MOS-9424) | Logging-Format - lesbar machen - customer-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-36.0
 
 Deployment on **PROD** at
