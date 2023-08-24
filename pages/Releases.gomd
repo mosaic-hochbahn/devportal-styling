@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-43.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 24.08.23 - 13:42:36
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14100](https://jira.hochbahn.de/projects/MOS/versions/14100)
+
+key | summary |  type
+---- | ----|----
+[MOS-10397](https://jira.hochbahn.de/browse/MOS-10397) | Gutscheine Prüfung Deutschlandticket | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10224](https://jira.hochbahn.de/browse/MOS-10224) | Gutschein Abrechnung - Gutschein an Payment Service und Billing Service übermitteln | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-37.0
 
 Deployment on **PROD** at: tba-RIDE
