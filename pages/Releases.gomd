@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-44.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 31.08.23 - 13:27:57
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14103](https://jira.hochbahn.de/projects/MOS/versions/14103)
+
+key | summary |  type
+---- | ----|----
+[MOS-10533](https://jira.hochbahn.de/browse/MOS-10533) | Miles Erstattung in den Rechnungsdaten filtern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10454](https://jira.hochbahn.de/browse/MOS-10454) | 429 Too Many Requests als Offline-Fall behandeln | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10406](https://jira.hochbahn.de/browse/MOS-10406) | Neuen Redeem-Endpunkt verwenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10013](https://jira.hochbahn.de/browse/MOS-10013) | Mock für Voucherify erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-43.0
 
 Deployment on **PROD** at
