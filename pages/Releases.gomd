@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-38.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 31.08.23 - 13:33:28
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14006](https://jira.hochbahn.de/projects/MOS/versions/14006)
+
+key | summary |  type
+---- | ----|----
+[MOS-10584](https://jira.hochbahn.de/browse/MOS-10584) | ShareNow URL ist nicht korrekt konfiguriert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10561](https://jira.hochbahn.de/browse/MOS-10561) | ShareNow - Reservation wirft auf QA WEIRD_STRING_VALUE | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10412](https://jira.hochbahn.de/browse/MOS-10412) | Konzeption Code-Qualität-Metrik &#34;Bearbeitungszeit Bug-Tickets&#34; | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9903](https://jira.hochbahn.de/browse/MOS-9903) | Errorhandling - Errorcode-Mapping für ShareNow implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9882](https://jira.hochbahn.de/browse/MOS-9882) | Bei Löschung von Daten aus hvv Any Orders erhält das 360°-Cockpit ein Update Event | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-44.0
 
 Deployment on **PROD** at: tba-BILLING
