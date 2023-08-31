@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-72.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 31.08.23 - 14:25:01
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14005](https://jira.hochbahn.de/projects/MOS/versions/14005)
+
+key | summary |  type
+---- | ----|----
+[MOS-10576](https://jira.hochbahn.de/browse/MOS-10576) | Security: Firebase-CloudMsg-Adapter | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10448](https://jira.hochbahn.de/browse/MOS-10448) | echo service / bonvoyo / dota auth proxy - rebase-open-mrs job failed always | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10209](https://jira.hochbahn.de/browse/MOS-10209) | Registierung mit ungültiger Emailadresse möglich | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-182.0
 
 Deployment on **PROD** at: tba-MOSAIC
