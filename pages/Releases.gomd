@@ -1,5 +1,31 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-182.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 31.08.23 - 14:11:00
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14102](https://jira.hochbahn.de/projects/MOS/versions/14102)
+
+key | summary |  type
+---- | ----|----
+[MOS-10605](https://jira.hochbahn.de/browse/MOS-10605) | [Voucherify-Orchestration] Update Base Image and solve security findings | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10525](https://jira.hochbahn.de/browse/MOS-10525) | [Voucherify] Sortierung der Gutscheine | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10501](https://jira.hochbahn.de/browse/MOS-10501) | add / remove missing error code | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10438](https://jira.hochbahn.de/browse/MOS-10438) | [Voucherify] Mock mit customer Daten befüllen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10396](https://jira.hochbahn.de/browse/MOS-10396) | [automated System Test] update to Java 17 LTS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10383](https://jira.hochbahn.de/browse/MOS-10383) | [crm] orderForm entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10364](https://jira.hochbahn.de/browse/MOS-10364) | new ErrorCode for too young birthdate | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10360](https://jira.hochbahn.de/browse/MOS-10360) | Unnötige geblockte Monos entfernen, customer-adapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10212](https://jira.hochbahn.de/browse/MOS-10212) | CRM: Funktion zur Erstellung eines Gutscheins am Account | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9770](https://jira.hochbahn.de/browse/MOS-9770) | CustomerService TestConfiguration Klasse entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9490](https://jira.hochbahn.de/browse/MOS-9490) | [refactoring] TestData Class aufsplitten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9480](https://jira.hochbahn.de/browse/MOS-9480) | Ambassador erkennt OpenApi Spezifikationen nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9285](https://jira.hochbahn.de/browse/MOS-9285) | common-dependencies aus CleverTap-Mock entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8867](https://jira.hochbahn.de/browse/MOS-8867) | fix ambiguous regristration request | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8610](https://jira.hochbahn.de/browse/MOS-8610) | dependabot integration for legacy-rest-error-support | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-38.0
 
 Deployment on **PROD** at: tba-RIDE
