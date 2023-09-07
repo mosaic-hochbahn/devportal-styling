@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-183.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 07.09.23 - 13:33:48
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14008](https://jira.hochbahn.de/projects/MOS/versions/14008)
+
+key | summary |  type
+---- | ----|----
+[MOS-10678](https://jira.hochbahn.de/browse/MOS-10678) | add config for consume deletion in helmcharts | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10669](https://jira.hochbahn.de/browse/MOS-10669) | dev deployments auch bei anpassungen an den helm charts durchführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10667](https://jira.hochbahn.de/browse/MOS-10667) | fix document validation by setting back changes | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10620](https://jira.hochbahn.de/browse/MOS-10620) | update base image an resolve security issues | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10599](https://jira.hochbahn.de/browse/MOS-10599) | Index für die Subscription  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10598](https://jira.hochbahn.de/browse/MOS-10598) | [Voucherify] cache control for get vouchers | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10593](https://jira.hochbahn.de/browse/MOS-10593) | remove toggle | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10563](https://jira.hochbahn.de/browse/MOS-10563) | Fehler im ErrorHandling bei OrderAuthChecks | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10547](https://jira.hochbahn.de/browse/MOS-10547) | system test: add test for voucherify | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10531](https://jira.hochbahn.de/browse/MOS-10531) | [Voucherify] &#34;VOUCHER_ALREADY_ACTIVATED auch bei Eingabe von Kampagnenname | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7783](https://jira.hochbahn.de/browse/MOS-7783) | CRM: Gutscheininformationen an Buchungen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-45.0
 
 Deployment on **PROD** at: tba-BILLING
