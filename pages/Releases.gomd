@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-45.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 07.09.23 - 13:21:14
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14007](https://jira.hochbahn.de/projects/MOS/versions/14007)
+
+key | summary |  type
+---- | ----|----
+[MOS-10654](https://jira.hochbahn.de/browse/MOS-10654) | CheckIn (hvv Any) mit Gutschein nicht möglich | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10595](https://jira.hochbahn.de/browse/MOS-10595) | Gutscheinanteil für HVV-Produkte nicht gegen B2B-Konto bei Logpay abrechnen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10370](https://jira.hochbahn.de/browse/MOS-10370) | Gutscheine abrechnen im Payment-Service | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9602](https://jira.hochbahn.de/browse/MOS-9602) |  Gutscheine Erstattungen im Payment-Service | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-72.0
 
 Deployment on **PROD** at: tba-BASIS
