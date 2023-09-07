@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-73.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 07.09.23 - 14:22:08
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14106](https://jira.hochbahn.de/projects/MOS/versions/14106)
+
+key | summary |  type
+---- | ----|----
+[MOS-10591](https://jira.hochbahn.de/browse/MOS-10591) | Miles-Auth-Proxy: Error seems not to be type of *TokenManageError | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10544](https://jira.hochbahn.de/browse/MOS-10544) | Identity-Service: Falsche Environment-Variablen führen zu nicht nutzbaren Toggles | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## RIDE-39.0
 
 Deployment on **PROD** at: tba-RIDE
