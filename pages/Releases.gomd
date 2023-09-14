@@ -1,5 +1,31 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-184.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 14.09.23 - 14:01:48
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14011](https://jira.hochbahn.de/projects/MOS/versions/14011)
+
+key | summary |  type
+---- | ----|----
+[MOS-10725](https://jira.hochbahn.de/browse/MOS-10725) | remove unused config | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10723](https://jira.hochbahn.de/browse/MOS-10723) | [Voucherify] cache control config greift nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10661](https://jira.hochbahn.de/browse/MOS-10661) | Anzeigen von MRef und Kundennummer in der Email für Bestandskunden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10643](https://jira.hochbahn.de/browse/MOS-10643) | Jenkins-VM-Runner Aktivierung Nachziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10632](https://jira.hochbahn.de/browse/MOS-10632) | CRM: Individueller Toggle für Gutschein erstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10616](https://jira.hochbahn.de/browse/MOS-10616) | Bei hvv Any wird ein spezifischer Text ausgewiesen, wenn noch keine Fahrtinformationen vorliegen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10458](https://jira.hochbahn.de/browse/MOS-10458) | [Logging] push notification exception | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10349](https://jira.hochbahn.de/browse/MOS-10349) | CloudSql Proxy verwenden - Customer services | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10023](https://jira.hochbahn.de/browse/MOS-10023) | Tokenbehandlung im Customer-Adapter kann verworfen werden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9979](https://jira.hochbahn.de/browse/MOS-9979) | Email statt MSP in Lognachrichtenfeld | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9638](https://jira.hochbahn.de/browse/MOS-9638) | [openapi generator] remove test folder  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8909](https://jira.hochbahn.de/browse/MOS-8909) | fix client timeout config | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-8858](https://jira.hochbahn.de/browse/MOS-8858) | Systemtests aufräumen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8636](https://jira.hochbahn.de/browse/MOS-8636) | [technical-dept] PhoneNumberCleanupScheduler | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-4473](https://jira.hochbahn.de/browse/MOS-4473) | [clean-up] Veraltete Customer(-Service)-APIs ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-73.0
 
 Deployment on **PROD** at: tba-BASIS
