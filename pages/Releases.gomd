@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-46.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 15.09.23 - 10:43:57
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14108](https://jira.hochbahn.de/projects/MOS/versions/14108)
+
+key | summary |  type
+---- | ----|----
+[MOS-10830](https://jira.hochbahn.de/browse/MOS-10830) | Bug Fix von Kafka Dependencies in sext-debt-adapter | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10827](https://jira.hochbahn.de/browse/MOS-10827) | ShareNow Usage-Type aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10823](https://jira.hochbahn.de/browse/MOS-10823) | DefectDojo Findings (payment-service) | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10722](https://jira.hochbahn.de/browse/MOS-10722) | ShareNow Proxy Konfiguration | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10659](https://jira.hochbahn.de/browse/MOS-10659) | Update Dependencies | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10637](https://jira.hochbahn.de/browse/MOS-10637) | Umstellung sixt-debt-adapter auf Spring Boot 3 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10628](https://jira.hochbahn.de/browse/MOS-10628) | billing-order-adapter Umstelung auf Spring Boot 3 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10606](https://jira.hochbahn.de/browse/MOS-10606) | TestData aufräumen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10428](https://jira.hochbahn.de/browse/MOS-10428) | Gutscheinprodukte erstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10225](https://jira.hochbahn.de/browse/MOS-10225) | Gutscheine Abrechnung + Erstattung Billing Service | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10178](https://jira.hochbahn.de/browse/MOS-10178) | SHARENOW | Recovery zum Senden der Rechnung an den MDL | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10147](https://jira.hochbahn.de/browse/MOS-10147) | Deprecated Felder aus CreateOrderRequestBody entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-40.0
 
 Deployment on **PROD** at: tba-RIDE
