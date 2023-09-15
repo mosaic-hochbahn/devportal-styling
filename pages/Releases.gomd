@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-74.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 15.09.23 - 13:24:40
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14012](https://jira.hochbahn.de/projects/MOS/versions/14012)
+
+key | summary |  type
+---- | ----|----
+[MOS-9880](https://jira.hochbahn.de/browse/MOS-9880) | identity-service - customer-number zu Logs hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9329](https://jira.hochbahn.de/browse/MOS-9329) | Basis | Legacy Monolith Request Header entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-46.0
 
 Deployment on **PROD** at: tba-BILLING
