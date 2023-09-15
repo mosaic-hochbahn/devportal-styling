@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-40.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 15.09.23 - 10:08:37
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14109](https://jira.hochbahn.de/projects/MOS/versions/14109)
+
+key | summary |  type
+---- | ----|----
+[MOS-10831](https://jira.hochbahn.de/browse/MOS-10831) | /beam/locations Aufrufe aus Ride-Systemtests entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10684](https://jira.hochbahn.de/browse/MOS-10684) | RedeemedVoucher aus Ticket-Orchestration-Order-Responses entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10676](https://jira.hochbahn.de/browse/MOS-10676) | ShareNow Recovery Jobs für Reservation erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10601](https://jira.hochbahn.de/browse/MOS-10601) | Neue Kündigungsfrist für Startkarten des Deutschlandtickets in hvv switch | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10459](https://jira.hochbahn.de/browse/MOS-10459) | Customer hat kein Geburtsdatum (Sixt-Miete schlägt fehl) | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-184.0
 
 Deployment on **PROD** at: tba-MOSAIC
