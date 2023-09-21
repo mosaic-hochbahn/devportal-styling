@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-47.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 21.09.23 - 13:20:53
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14015](https://jira.hochbahn.de/projects/MOS/versions/14015)
+
+key | summary |  type
+---- | ----|----
+[MOS-10853](https://jira.hochbahn.de/browse/MOS-10853) | Gutscheine Zahlung MwSt | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10836](https://jira.hochbahn.de/browse/MOS-10836) | Gutscheine Abrechnung Verbuchung anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10821](https://jira.hochbahn.de/browse/MOS-10821) | Gutscheine Abrechnung Nacharbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10702](https://jira.hochbahn.de/browse/MOS-10702) | Defectdojo Findings Abarbeitung (order-service) | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10648](https://jira.hochbahn.de/browse/MOS-10648) | logpay-mock Umstellung auf Spring Boot 3 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10558](https://jira.hochbahn.de/browse/MOS-10558) | Discount-Service auf Spring Boot 3 umstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10550](https://jira.hochbahn.de/browse/MOS-10550) | Automated-Tests für Voucherify erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7981](https://jira.hochbahn.de/browse/MOS-7981) |  SHARE NOW| SHARE NOW als merchant bei LogPay anlegen lassen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-185.0
 
 Deployment on **PROD** at: tba-MOSAIC
