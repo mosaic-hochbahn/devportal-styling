@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-186.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 28.09.23 - 13:18:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14017](https://jira.hochbahn.de/projects/MOS/versions/14017)
+
+key | summary |  type
+---- | ----|----
+[MOS-10946](https://jira.hochbahn.de/browse/MOS-10946) | OOTW: voucherify-orchestration: grade style: Verschiebe CVE Kommentare in because block | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10945](https://jira.hochbahn.de/browse/MOS-10945) | OOTW: OWASP dependency checks benötigen runner mit Docker | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10897](https://jira.hochbahn.de/browse/MOS-10897) | PMAO Leerzeichen in Log Nachricht entfernen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10859](https://jira.hochbahn.de/browse/MOS-10859) | Anlegen einer Validierungsorder ohne Adresse | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10856](https://jira.hochbahn.de/browse/MOS-10856) | Invalid salutation mapping error  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10656](https://jira.hochbahn.de/browse/MOS-10656) | [Voucherify] clean up v-os service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10467](https://jira.hochbahn.de/browse/MOS-10467) | Fehlermeldung verkürzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8707](https://jira.hochbahn.de/browse/MOS-8707) | Testabdeckung verbessern (Customer-Adapter) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7055](https://jira.hochbahn.de/browse/MOS-7055) | Bonvoyo API Update | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-48.0
 
 Deployment on **PROD** at: tba-BILLING
