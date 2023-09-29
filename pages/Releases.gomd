@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-42.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 29.09.23 - 14:26:19
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14018](https://jira.hochbahn.de/projects/MOS/versions/14018)
+
+key | summary |  type
+---- | ----|----
+[MOS-10727](https://jira.hochbahn.de/browse/MOS-10727) | Deutschlandticket-Migration erzeugt kurz vor Monatsende ein kostenloses Ticket zu viel | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-186.0
 
 Deployment on **PROD** at: tba-MOSAIC
