@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-43.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 05.10.23 - 13:39:43
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14021](https://jira.hochbahn.de/projects/MOS/versions/14021)
+
+key | summary |  type
+---- | ----|----
+[MOS-10982](https://jira.hochbahn.de/browse/MOS-10982) | Tier 502/504 nicht auf error loggen bei Jobs | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10970](https://jira.hochbahn.de/browse/MOS-10970) | ShareNow-Fehlercodes werden nicht case-insensitiv gemappt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10712](https://jira.hochbahn.de/browse/MOS-10712) | ShareNow-Mock-Flow hat Konzeptionsfehler | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10675](https://jira.hochbahn.de/browse/MOS-10675) | ShareNow Recovery Matrix im Confluence befüllen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10590](https://jira.hochbahn.de/browse/MOS-10590) | Polling löst ShareNow DDOS-Schutz aus | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9902](https://jira.hochbahn.de/browse/MOS-9902) | Trip - System Tests für ShareNow anlegen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-49.0
 
 Deployment on **PROD** at: tba-BILLING
