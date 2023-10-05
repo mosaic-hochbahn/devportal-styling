@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-187.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 05.10.23 - 14:55:40
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14020](https://jira.hochbahn.de/projects/MOS/versions/14020)
+
+key | summary |  type
+---- | ----|----
+[MOS-10993](https://jira.hochbahn.de/browse/MOS-10993) | Customer Continuous Projects: dependabots: id now dependabots aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10992](https://jira.hochbahn.de/browse/MOS-10992) | Schemaerweiterung documentvalidation | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10965](https://jira.hochbahn.de/browse/MOS-10965) | remove Mono customer-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10964](https://jira.hochbahn.de/browse/MOS-10964) | remove monos clarification-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10847](https://jira.hochbahn.de/browse/MOS-10847) | addPaymentMethodV2 CREDIT CARD rausziehen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10640](https://jira.hochbahn.de/browse/MOS-10640) | Zahlmethoden ersetzen erzeugt kein PaymentMethodReplacementEvent | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10301](https://jira.hochbahn.de/browse/MOS-10301) | Berücksichtigung des Geburtsortes als Pflichtfeld bei Aktivierung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-43.0
 
 Deployment on **PROD** at: tba-RIDE
