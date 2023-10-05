@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-49.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 05.10.23 - 13:39:08
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14019](https://jira.hochbahn.de/projects/MOS/versions/14019)
+
+key | summary |  type
+---- | ----|----
+[MOS-10973](https://jira.hochbahn.de/browse/MOS-10973) | ShareNow Validierung Abrechnungsdaten schlägt fehl | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10956](https://jira.hochbahn.de/browse/MOS-10956) | Rechnungsbetrag im email-Template und Gutschein-Text auf der Rechnung ändern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10554](https://jira.hochbahn.de/browse/MOS-10554) | Keine Docker-Images von Dependabot-Branches bauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10551](https://jira.hochbahn.de/browse/MOS-10551) | 3rd-Party-Tests für Voucherify erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10489](https://jira.hochbahn.de/browse/MOS-10489) | Config Diffs zwischen QA und PROD abbauen (Billing) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10441](https://jira.hochbahn.de/browse/MOS-10441) | Java-basierte Integrationstests - Einheitliches Namesschema  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9207](https://jira.hochbahn.de/browse/MOS-9207) | Abgebrochene Aufträge sollen automatisch gecancelt werden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7857](https://jira.hochbahn.de/browse/MOS-7857) | Paymen Service - Package- und Klassen-Struktur umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-42.0
 
 Deployment on **PROD** at
