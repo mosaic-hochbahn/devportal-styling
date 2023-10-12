@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-44.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 12.10.23 - 13:34:40
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14022](https://jira.hochbahn.de/projects/MOS/versions/14022)
+
+key | summary |  type
+---- | ----|----
+[MOS-10940](https://jira.hochbahn.de/browse/MOS-10940) | Spring Boot 3 - voi-mock | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10939](https://jira.hochbahn.de/browse/MOS-10939) | Spring Boot 3 - tier-mock | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10938](https://jira.hochbahn.de/browse/MOS-10938) | Spring Boot 3 - miles-mock | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10800](https://jira.hochbahn.de/browse/MOS-10800) | Rental-Events auf DEV kamen in der falschen Reihenfolge bei Billing an | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10433](https://jira.hochbahn.de/browse/MOS-10433) | ShareNow - CDC Tests vervollständigen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10344](https://jira.hochbahn.de/browse/MOS-10344) | E-Mail-Versand über Kafka loggt Kunden-Informationen (DT-Kündigung) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-50.0
 
 Deployment on **PROD** at: tba-BILLING
