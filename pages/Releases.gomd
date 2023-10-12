@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-50.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 12.10.23 - 13:23:34
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14122](https://jira.hochbahn.de/projects/MOS/versions/14122)
+
+key | summary |  type
+---- | ----|----
+[MOS-10555](https://jira.hochbahn.de/browse/MOS-10555) | TestData im order-service refactoren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-187.0
 
 Deployment on **PROD** at
