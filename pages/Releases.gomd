@@ -1,5 +1,36 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-188.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 12.10.23 - 14:03:10
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14123](https://jira.hochbahn.de/projects/MOS/versions/14123)
+
+key | summary |  type
+---- | ----|----
+[MOS-11082](https://jira.hochbahn.de/browse/MOS-11082) | voucherify-orchestration: Versionunabhängiger fix der snakeyaml | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11080](https://jira.hochbahn.de/browse/MOS-11080) | claraification orchestration: fix snakeyaml version also in testFixturesImplementation | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11075](https://jira.hochbahn.de/browse/MOS-11075) | weShare aus den Helm Charts entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11070](https://jira.hochbahn.de/browse/MOS-11070) | SwitchPinHasher Problem | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11060](https://jira.hochbahn.de/browse/MOS-11060) | fix snakeyaml + apispec publishing  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11054](https://jira.hochbahn.de/browse/MOS-11054) | Erstellung des Events | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11049](https://jira.hochbahn.de/browse/MOS-11049) | OrderAuthChecks scheitern an PIN-Validation | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11042](https://jira.hochbahn.de/browse/MOS-11042) | [OOTW] Schnittstellen aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11017](https://jira.hochbahn.de/browse/MOS-11017) | dependabot auto merge für idnow-document-validation-orchestration setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11015](https://jira.hochbahn.de/browse/MOS-11015) | Konfiguration für Opentracing mit Spring 3.x nachziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11008](https://jira.hochbahn.de/browse/MOS-11008) | Cleanup nach Hotfix | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10893](https://jira.hochbahn.de/browse/MOS-10893) | Umgang mit Geburtsort bei Führerscheinvalidierungen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10883](https://jira.hochbahn.de/browse/MOS-10883) | Testabdeckung verbessern (Customer-Service) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10814](https://jira.hochbahn.de/browse/MOS-10814) | clean up - remove unused WeShare code | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10810](https://jira.hochbahn.de/browse/MOS-10810) | [clarification-os] bump to spring boot 3.x | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10803](https://jira.hochbahn.de/browse/MOS-10803) | [customer-os] bump to spring boot 3.x | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10694](https://jira.hochbahn.de/browse/MOS-10694) | Bestandsaufnahme machen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10377](https://jira.hochbahn.de/browse/MOS-10377) | Unnötige geblockte Monos entfernen CustomerService | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10071](https://jira.hochbahn.de/browse/MOS-10071) | Sharenow MerchantID | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10033](https://jira.hochbahn.de/browse/MOS-10033) | [voucherify] bump to spring boot 3 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-44.0
 
 Deployment on **PROD** at: tba-RIDE
