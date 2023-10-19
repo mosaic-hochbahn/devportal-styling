@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-78.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 19.10.23 - 13:46:57
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14029](https://jira.hochbahn.de/projects/MOS/versions/14029)
+
+key | summary |  type
+---- | ----|----
+[MOS-11009](https://jira.hochbahn.de/browse/MOS-11009) | Identity-Service: Kein Reset des FailedLoginAttempts-Counters bei Passwort-Reset | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10440](https://jira.hochbahn.de/browse/MOS-10440) | Dota / GoSpace Live-Traffic shadowing für DEV und QA | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-189.0
 
 Deployment on **PROD** at: tba-MOSAIC
