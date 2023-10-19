@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-51.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 19.10.23 - 11:52:37
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14124](https://jira.hochbahn.de/projects/MOS/versions/14124)
+
+key | summary |  type
+---- | ----|----
+[MOS-11012](https://jira.hochbahn.de/browse/MOS-11012) | [26.10.2023 auf QA] Änderung  Endpunkt bei Vollerstattungen Mobi | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11001](https://jira.hochbahn.de/browse/MOS-11001) | billing-service - Package- und Klassen-Struktur umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10981](https://jira.hochbahn.de/browse/MOS-10981) | Payment - ArchUnit-Tests implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10968](https://jira.hochbahn.de/browse/MOS-10968) | Cancel Payment Use Case | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9212](https://jira.hochbahn.de/browse/MOS-9212) | Share Now - Systemtest für Regular und Non-Regular anlegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-188.0
 
 Deployment on **PROD** at
