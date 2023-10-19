@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-189.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 19.10.23 - 13:18:28
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14125](https://jira.hochbahn.de/projects/MOS/versions/14125)
+
+key | summary |  type
+---- | ----|----
+[MOS-11107](https://jira.hochbahn.de/browse/MOS-11107) | fix jenkins deploy script | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11061](https://jira.hochbahn.de/browse/MOS-11061) | Endpunkt erstellen und zur Verfügung stellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11056](https://jira.hochbahn.de/browse/MOS-11056) | Test Ergänzen checkCustomerForOrder | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11055](https://jira.hochbahn.de/browse/MOS-11055) | CustomerPaymentMethodUpdateEvent auslösen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11051](https://jira.hochbahn.de/browse/MOS-11051) | Driver Licence notification Dashboard hat null values | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11041](https://jira.hochbahn.de/browse/MOS-11041) | Cleanup nach Hotfix - nun die nice-to-haves | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11018](https://jira.hochbahn.de/browse/MOS-11018) | Sharenow Mock um delete endpunkt erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10693](https://jira.hochbahn.de/browse/MOS-10693) | DEV System deploy branch per Jenkinsjob auf master branch Stand setzten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10608](https://jira.hochbahn.de/browse/MOS-10608) | Bei Deaktivierung Sharenow - Schnittstelle verwenden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10347](https://jira.hochbahn.de/browse/MOS-10347) | Anbindung des &#34;delete a customer&#34; Endpunkts | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9248](https://jira.hochbahn.de/browse/MOS-9248) | Ausbau Adressvalidierung Mosaic und CRM | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-8496](https://jira.hochbahn.de/browse/MOS-8496) | CustomerUpdate Event ohne Zahlmittel der Version v2 | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BILLING-51.0
 
 Deployment on **PROD** at: tba-BILLING
