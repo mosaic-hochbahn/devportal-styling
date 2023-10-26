@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-46.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 26.10.23 - 14:30:21
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14033](https://jira.hochbahn.de/projects/MOS/versions/14033)
+
+key | summary |  type
+---- | ----|----
+[MOS-11168](https://jira.hochbahn.de/browse/MOS-11168) | nach Openapi Generator-Update schlagen CIBO-Systemtests fehl | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10961](https://jira.hochbahn.de/browse/MOS-10961) | Cleanup: ShareNow - Rückwärtskompatibilität in Rental Service ausbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10907](https://jira.hochbahn.de/browse/MOS-10907) | Spring Boot 3 - cibo-ticket-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-190.0
 
 Deployment on **PROD** at: tba-MOSAIC
