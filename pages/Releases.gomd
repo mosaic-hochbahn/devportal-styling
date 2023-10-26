@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-52.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 26.10.23 - 14:30:56
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14126](https://jira.hochbahn.de/projects/MOS/versions/14126)
+
+key | summary |  type
+---- | ----|----
+[MOS-11125](https://jira.hochbahn.de/browse/MOS-11125) | Dependency Updates | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11002](https://jira.hochbahn.de/browse/MOS-11002) | Clean Up Payment Recovery Use Case | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10443](https://jira.hochbahn.de/browse/MOS-10443) | Formatter in allen Billing-Projekten ausführen (Zweiter Versuch) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9257](https://jira.hochbahn.de/browse/MOS-9257) | SHARE NOW | ProductCodes und SpecialFee-Category implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-46.0
 
 Deployment on **PROD** at: tba-RIDE
