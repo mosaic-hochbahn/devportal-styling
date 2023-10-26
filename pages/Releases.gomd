@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-190.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 26.10.23 - 13:46:12
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14127](https://jira.hochbahn.de/projects/MOS/versions/14127)
+
+key | summary |  type
+---- | ----|----
+[MOS-11148](https://jira.hochbahn.de/browse/MOS-11148) | ValidationTracker entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10829](https://jira.hochbahn.de/browse/MOS-10829) | add documentation for pt contract termination process | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10809](https://jira.hochbahn.de/browse/MOS-10809) | [notes-service] bump to spring boot 3.x | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10802](https://jira.hochbahn.de/browse/MOS-10802) | [pmao] bump to spring boot 3.x | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8646](https://jira.hochbahn.de/browse/MOS-8646) | remove columns | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-45.0
 
 Deployment on **PROD** at
