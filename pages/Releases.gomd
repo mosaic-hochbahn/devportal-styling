@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-191.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 02.11.23 - 13:37:05
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14034](https://jira.hochbahn.de/projects/MOS/versions/14034)
+
+key | summary |  type
+---- | ----|----
+[MOS-11261](https://jira.hochbahn.de/browse/MOS-11261) | toggle vouchers | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11219](https://jira.hochbahn.de/browse/MOS-11219) | dev portal, missing category for PT-Adopt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11205](https://jira.hochbahn.de/browse/MOS-11205) | Doku in PMAO | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11006](https://jira.hochbahn.de/browse/MOS-11006) | Customer Adapter: LogPayService#checkoutCustomer Fehlerhandling für nicht entprellte Anfragen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10811](https://jira.hochbahn.de/browse/MOS-10811) | [clarification-service] bump to spring boot 3.x | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-52.0
 
 Deployment on **PROD** at
