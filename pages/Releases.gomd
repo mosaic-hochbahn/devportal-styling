@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-79.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 02.11.23 - 14:53:19
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14032](https://jira.hochbahn.de/projects/MOS/versions/14032)
+
+key | summary |  type
+---- | ----|----
+[MOS-11278](https://jira.hochbahn.de/browse/MOS-11278) | VOI: Neuer Token für QA | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11214](https://jira.hochbahn.de/browse/MOS-11214) | Dota-Webhook-Multiplexer: concurrent map iteration and map write | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11192](https://jira.hochbahn.de/browse/MOS-11192) | Firebase-CloudMsg-Adapter: Prometheus-Endpunkt fehlt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11007](https://jira.hochbahn.de/browse/MOS-11007) | Umstellung API DBC | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-191.0
 
 Deployment on **PROD** at: tba-MOSAIC
