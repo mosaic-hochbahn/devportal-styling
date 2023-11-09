@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-53.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 09.11.23 - 15:16:14
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14130](https://jira.hochbahn.de/projects/MOS/versions/14130)
+
+key | summary |  type
+---- | ----|----
+[MOS-11270](https://jira.hochbahn.de/browse/MOS-11270) | SaveMspOrderReference UseCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11269](https://jira.hochbahn.de/browse/MOS-11269) | ReTriggerBillingService UseCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11268](https://jira.hochbahn.de/browse/MOS-11268) | ProcessSalesData Event UseCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11255](https://jira.hochbahn.de/browse/MOS-11255) | PrepaidCapture Payment Use case | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11242](https://jira.hochbahn.de/browse/MOS-11242) | Last selected payment method use case | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11241](https://jira.hochbahn.de/browse/MOS-11241) | Dependency Updates | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11181](https://jira.hochbahn.de/browse/MOS-11181) | CleanUpPaymentClarificationJob in eine Use Case kapseln | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11162](https://jira.hochbahn.de/browse/MOS-11162) | Hard &amp; Soft Delete Use case | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10983](https://jira.hochbahn.de/browse/MOS-10983) | Cancel Payment Clarification Use Case | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10652](https://jira.hochbahn.de/browse/MOS-10652) | Deployment optimieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10075](https://jira.hochbahn.de/browse/MOS-10075) | Dashboard - Einlösen Gutscheine | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8887](https://jira.hochbahn.de/browse/MOS-8887) | API Test gegen ShareNow Endpunkt | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-47.0
 
 Deployment on **PROD** at: tba-RIDE
