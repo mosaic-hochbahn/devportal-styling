@@ -1,5 +1,38 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-192.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 09.11.23 - 13:17:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14037](https://jira.hochbahn.de/projects/MOS/versions/14037)
+
+key | summary |  type
+---- | ----|----
+[MOS-11362](https://jira.hochbahn.de/browse/MOS-11362) | toggle sharenow im CRM | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11329](https://jira.hochbahn.de/browse/MOS-11329) | dependabot auf Sonntag umstellen: idnow-document-validation-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11328](https://jira.hochbahn.de/browse/MOS-11328) | Dependabot nutzung ausweiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11327](https://jira.hochbahn.de/browse/MOS-11327) | clarification-service: enable tracing in HELM | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11317](https://jira.hochbahn.de/browse/MOS-11317) | Kündigungslauf Logpay Fehler behandeln | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11315](https://jira.hochbahn.de/browse/MOS-11315) | Entferne Mappings für deprecated Endpunkte | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11299](https://jira.hochbahn.de/browse/MOS-11299) | [mobi] Wrong error code | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11298](https://jira.hochbahn.de/browse/MOS-11298) | Übersetzung fehlt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11297](https://jira.hochbahn.de/browse/MOS-11297) | Entferne überbleibsel | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11294](https://jira.hochbahn.de/browse/MOS-11294) | add logging for payment deletion | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11291](https://jira.hochbahn.de/browse/MOS-11291) | doku MDL Aktivierung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11290](https://jira.hochbahn.de/browse/MOS-11290) | doku document validation | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11234](https://jira.hochbahn.de/browse/MOS-11234) | CRM: Telefonnummer aus Suche ausbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11175](https://jira.hochbahn.de/browse/MOS-11175) | hvv switch CRM: neue Status Mobi zur Sperrung/ Kündigung des Budgets | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11156](https://jira.hochbahn.de/browse/MOS-11156) | Standalone Component Migration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11111](https://jira.hochbahn.de/browse/MOS-11111) | [paypal-mock] bump to spring boot 3.x | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11104](https://jira.hochbahn.de/browse/MOS-11104) | PaymentMethodActivationController braucht einen Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11081](https://jira.hochbahn.de/browse/MOS-11081) | Fehlerhandling bei Fahrtbuchung mit eigentlich gesperrtem/deregistriertem Mobi | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11016](https://jira.hochbahn.de/browse/MOS-11016) | Analyse: Something unexpected happened during communication with Sixt | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10804](https://jira.hochbahn.de/browse/MOS-10804) | [customer-service] bump to spring boot 3.x | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10795](https://jira.hochbahn.de/browse/MOS-10795) | Sperrung: speichern der Sperrung von Mobi Budgetkunden- nicht nutzbares Zahlungsmittel | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10793](https://jira.hochbahn.de/browse/MOS-10793) | Deregistrierung Mobi- Speicherung der Info von DBC als nicht nutzbares Zahlungsmittel | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-79.0
 
 Deployment on **PROD** at
