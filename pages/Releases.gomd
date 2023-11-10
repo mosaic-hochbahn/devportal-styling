@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-80.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 10.11.23 - 16:23:36
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14132](https://jira.hochbahn.de/projects/MOS/versions/14132)
+
+key | summary |  type
+---- | ----|----
+[MOS-11043](https://jira.hochbahn.de/browse/MOS-11043) | Identity-Service: Error invalidating user Sessions | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10886](https://jira.hochbahn.de/browse/MOS-10886) | Differenzierung der SAP-Gateway Aufrufe im Proxy auf Basis des Service-Pfades | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10574](https://jira.hochbahn.de/browse/MOS-10574) | Spring-Boot 3: Account-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-53.0
 
 Deployment on **PROD** at: tba-BILLING
