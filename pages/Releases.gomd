@@ -1,5 +1,33 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-193.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 16.11.23 - 13:27:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14133](https://jira.hochbahn.de/projects/MOS/versions/14133)
+
+key | summary |  type
+---- | ----|----
+[MOS-11420](https://jira.hochbahn.de/browse/MOS-11420) | Fix kafka handler bug | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11408](https://jira.hochbahn.de/browse/MOS-11408) | Dockerfile Optimierung im customer-orchestration | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11400](https://jira.hochbahn.de/browse/MOS-11400) | dockerfile-optimierung customer-adapter | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11394](https://jira.hochbahn.de/browse/MOS-11394) | Dockerfile Optimierung im customer-service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11385](https://jira.hochbahn.de/browse/MOS-11385) | Erro log in misc services: &#34;Failed to export spans.&#34; | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11374](https://jira.hochbahn.de/browse/MOS-11374) | Warn statt error | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11373](https://jira.hochbahn.de/browse/MOS-11373) | Fehler beim Update bei leerem Ablaufdatum | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11371](https://jira.hochbahn.de/browse/MOS-11371) | dev Repository: template veraltet | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11370](https://jira.hochbahn.de/browse/MOS-11370) | fix dependabot image variable | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11363](https://jira.hochbahn.de/browse/MOS-11363) | Toggles entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11330](https://jira.hochbahn.de/browse/MOS-11330) | Updating customer in MSP system failed - weil Customer deleted | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11284](https://jira.hochbahn.de/browse/MOS-11284) | CRM: Ergänzung Erstattungsgründe um &#34;Kulanz&#34; | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11167](https://jira.hochbahn.de/browse/MOS-11167) | Absicherung ABT Sandbox über zusätzliche Route | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10807](https://jira.hochbahn.de/browse/MOS-10807) | [itm-adapter] bump to spring boot 3.x | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10805](https://jira.hochbahn.de/browse/MOS-10805) | [customer-adapter] bump to spring boot 3.x | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6582](https://jira.hochbahn.de/browse/MOS-6582) | Status-Code bei Paypal-Aktivierung anders, als von Paypal | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-1644](https://jira.hochbahn.de/browse/MOS-1644) | Als Hochbahn möchte ich, dass nur Geburtsdaten akzeptiert werden, die ab dem 1.1.1900 sind | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-80.0
 
 Deployment on **PROD** at
