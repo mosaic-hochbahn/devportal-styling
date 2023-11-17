@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-48.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 17.11.23 - 11:42:31
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14134](https://jira.hochbahn.de/projects/MOS/versions/14134)
+
+key | summary |  type
+---- | ----|----
+[MOS-11435](https://jira.hochbahn.de/browse/MOS-11435) | Client für S-Bahn Kassensysteme zur Erzeugung von VDV-Barcodes anlegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11417](https://jira.hochbahn.de/browse/MOS-11417) | Miles: Digitales Tanken FuelType beim Starting setzen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11414](https://jira.hochbahn.de/browse/MOS-11414) | Miles: Digitales Tanken Statusübergang von STARTING direkt nach NO_SESSION | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11220](https://jira.hochbahn.de/browse/MOS-11220) | Tracing richtig konfigurieren bei SpringBoot3-Update (Helm-Charts, Libs, Config) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11021](https://jira.hochbahn.de/browse/MOS-11021) | &#34;...Old&#34;-Klasen aus SAM-Adapter entfernen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10925](https://jira.hochbahn.de/browse/MOS-10925) | Spring Boot 3 - microservice-starter-openapi-generator | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10915](https://jira.hochbahn.de/browse/MOS-10915) | Spring Boot 3 - history-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10900](https://jira.hochbahn.de/browse/MOS-10900) | Spring Boot 3 - tier-rental-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10896](https://jira.hochbahn.de/browse/MOS-10896) | Spring Boot 3 - sam-adapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-54.0
 
 Deployment on **PROD** at: tba-BILLING
