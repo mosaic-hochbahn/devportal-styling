@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-54.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 17.11.23 - 10:54:31
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14042](https://jira.hochbahn.de/projects/MOS/versions/14042)
+
+key | summary |  type
+---- | ----|----
+[MOS-11324](https://jira.hochbahn.de/browse/MOS-11324) | Datenbankfeld shouldSentToMobiSystem anlegen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11314](https://jira.hochbahn.de/browse/MOS-11314) | LogPay Zahlungs-Flows anpassen Mobi+Gutscheine | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11275](https://jira.hochbahn.de/browse/MOS-11275) | UncommittedVoucherRefunds UseCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11274](https://jira.hochbahn.de/browse/MOS-11274) | UncommittedVoucherPayments UseCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11271](https://jira.hochbahn.de/browse/MOS-11271) | StartNonRegularPayment UseCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11154](https://jira.hochbahn.de/browse/MOS-11154) | Payment-Service: CopyUseCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11065](https://jira.hochbahn.de/browse/MOS-11065) | Migration aller Billing-Services auf PostgreSQL 15 fertigstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-193.0
 
 Deployment on **PROD** at: tba-MOSAIC
