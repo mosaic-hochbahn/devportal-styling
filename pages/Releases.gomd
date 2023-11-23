@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-194.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 23.11.23 - 13:27:55
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14047](https://jira.hochbahn.de/projects/MOS/versions/14047)
+
+key | summary |  type
+---- | ----|----
+[MOS-11535](https://jira.hochbahn.de/browse/MOS-11535) | Bonvoyo API Update V2 in der Produktion | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11478](https://jira.hochbahn.de/browse/MOS-11478) | [voucherify-orchestration] normalise gradle | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11444](https://jira.hochbahn.de/browse/MOS-11444) | refactor getPaymentMethods | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11433](https://jira.hochbahn.de/browse/MOS-11433) | refactor adoptPaymentMethod | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11427](https://jira.hochbahn.de/browse/MOS-11427) | Dockerfile Optimierung clarification-service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11424](https://jira.hochbahn.de/browse/MOS-11424) | refactor isDeletable | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11423](https://jira.hochbahn.de/browse/MOS-11423) | Docker Optimierung idnow | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11416](https://jira.hochbahn.de/browse/MOS-11416) | Refactor creditCardJob Code | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11391](https://jira.hochbahn.de/browse/MOS-11391) | refactor deletePaymentMethod | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10948](https://jira.hochbahn.de/browse/MOS-10948) | Bonvoyo API Update V2 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9995](https://jira.hochbahn.de/browse/MOS-9995) | Aspect IntegrationTest reaktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9565](https://jira.hochbahn.de/browse/MOS-9565) | correlationID weitergabe an LogPay Proxy wiederherstellen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9357](https://jira.hochbahn.de/browse/MOS-9357) | refactor PaymentMethodService | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-48.0
 
 Deployment on **PROD** at
