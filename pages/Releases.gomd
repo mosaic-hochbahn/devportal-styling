@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-55.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 23.11.23 - 13:32:02
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14135](https://jira.hochbahn.de/projects/MOS/versions/14135)
+
+key | summary |  type
+---- | ----|----
+[MOS-11367](https://jira.hochbahn.de/browse/MOS-11367) | LogPayService aus dem CancelPaymentService ausbauen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11326](https://jira.hochbahn.de/browse/MOS-11326) | Anpassung für das Senden der Rechnung an Bonvoyo | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11316](https://jira.hochbahn.de/browse/MOS-11316) | Mobi mit Gutschein: Bug bei 0€-Kundenanteil | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11300](https://jira.hochbahn.de/browse/MOS-11300) | Pfade umstellen für V2 Mobi (billing) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10251](https://jira.hochbahn.de/browse/MOS-10251) | Alten LogPayService und LogPayMapper ersetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7036](https://jira.hochbahn.de/browse/MOS-7036) | Application.java aufräumen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-194.0
 
 Deployment on **PROD** at: tba-MOSAIC
