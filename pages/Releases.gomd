@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-50.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 01.12.23 - 13:28:07
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14051](https://jira.hochbahn.de/projects/MOS/versions/14051)
+
+key | summary |  type
+---- | ----|----
+[MOS-11498](https://jira.hochbahn.de/browse/MOS-11498) | Geburtsdatum Integration in VDV-Barcodes und Print-Tickets | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10920](https://jira.hochbahn.de/browse/MOS-10920) | Spring Boot 3 - automated-ride-tests | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10911](https://jira.hochbahn.de/browse/MOS-10911) | Spring Boot 3 - shuttle-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10905](https://jira.hochbahn.de/browse/MOS-10905) | Spring Boot 3 - voi-rental-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10904](https://jira.hochbahn.de/browse/MOS-10904) | Spring Boot 3 - miles-rental-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10902](https://jira.hochbahn.de/browse/MOS-10902) | Spring Boot 3 - rental-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10899](https://jira.hochbahn.de/browse/MOS-10899) | Spring Boot 3 - ride-ticket-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-56.0
 
 Deployment on **PROD** at: tba-BILLING
