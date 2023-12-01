@@ -1,5 +1,32 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-195.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 01.12.23 - 14:31:27
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14050](https://jira.hochbahn.de/projects/MOS/versions/14050)
+
+key | summary |  type
+---- | ----|----
+[MOS-11606](https://jira.hochbahn.de/browse/MOS-11606) | Bei getLogPayCustomerStatus sind die Parameter falsch | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11601](https://jira.hochbahn.de/browse/MOS-11601) | Klärfälle löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11597](https://jira.hochbahn.de/browse/MOS-11597) | replace plus sign in emails too | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11572](https://jira.hochbahn.de/browse/MOS-11572) | [clarification-os] normalise gradle | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11561](https://jira.hochbahn.de/browse/MOS-11561) | [paypal-adapter] fix helm chart version | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11547](https://jira.hochbahn.de/browse/MOS-11547) | deprecated Endpunkte entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11475](https://jira.hochbahn.de/browse/MOS-11475) | [pmao] normalise gradle | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11422](https://jira.hochbahn.de/browse/MOS-11422) | fix sharenow registration and update | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11413](https://jira.hochbahn.de/browse/MOS-11413) | [notes-service] normalise gradle | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11250](https://jira.hochbahn.de/browse/MOS-11250) | Profilendpunkt für 360-Cockpit | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11236](https://jira.hochbahn.de/browse/MOS-11236) | CRM: Ergänzung Erstattungsgründe um &#34;Kulanz&#34; und Pflichtnotiz bei Ticketing | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10808](https://jira.hochbahn.de/browse/MOS-10808) | [PayPal-adatper] bump to spring boot 3.x | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10807](https://jira.hochbahn.de/browse/MOS-10807) | [itm-adapter] bump to spring boot 3.x | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10806](https://jira.hochbahn.de/browse/MOS-10806) | [document-validation] bump to spring boot 3.x | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-7100](https://jira.hochbahn.de/browse/MOS-7100) | CRM: Klärfälle &#34;Erstattungen&#34; ausbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-6973](https://jira.hochbahn.de/browse/MOS-6973) | CRM: Unzuordenbare Klärfälle ausbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-50.0
 
 Deployment on **PROD** at: tba-RIDE
