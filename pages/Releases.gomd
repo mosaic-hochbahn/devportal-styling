@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-56.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 01.12.23 - 13:23:08
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14139](https://jira.hochbahn.de/projects/MOS/versions/14139)
+
+key | summary |  type
+---- | ----|----
+[MOS-11605](https://jira.hochbahn.de/browse/MOS-11605) | Security Findings libcrypto3 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11552](https://jira.hochbahn.de/browse/MOS-11552) | Änderung der Schreibweise für clientId nach Keycloak-Update | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11548](https://jira.hochbahn.de/browse/MOS-11548) | [hvvAny] hvvAny-Ausbuchungsprozess wird auch bei Erstattungen ausgeführt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11426](https://jira.hochbahn.de/browse/MOS-11426) | microservice-starter-openapi-generator auf 3.0.0 updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11323](https://jira.hochbahn.de/browse/MOS-11323) | ObjectOptimisticLockException bei SetRefundedAt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11279](https://jira.hochbahn.de/browse/MOS-11279) | Payment-Service loggt sensible Daten | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11272](https://jira.hochbahn.de/browse/MOS-11272) | StartRegularPayment UseCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11126](https://jira.hochbahn.de/browse/MOS-11126) | Payment-Service: CompleteStartUseCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## RIDE-49.0
 
 Deployment on **PROD** at
