@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-57.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 07.12.23 - 13:25:26
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14055](https://jira.hochbahn.de/projects/MOS/versions/14055)
+
+key | summary |  type
+---- | ----|----
+[MOS-11576](https://jira.hochbahn.de/browse/MOS-11576) | Umsetzung Email-Versand für Klärfälle Part 1 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11308](https://jira.hochbahn.de/browse/MOS-11308) | MOIA Rechnungen // Aufnahme der Zahlungsreferenz | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11169](https://jira.hochbahn.de/browse/MOS-11169) | Order-Service Out of Memory | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9351](https://jira.hochbahn.de/browse/MOS-9351) | Spring aus billing-event-interfaces auslagern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-83.0
 
 Deployment on **PROD** at
