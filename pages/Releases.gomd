@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-51.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 07.12.23 - 14:38:02
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14056](https://jira.hochbahn.de/projects/MOS/versions/14056)
+
+key | summary |  type
+---- | ----|----
+[MOS-11584](https://jira.hochbahn.de/browse/MOS-11584) | Client für AKN Kassensysteme zur Erzeugung von VDV-Barcodes und Print-Tickets anlegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11498](https://jira.hochbahn.de/browse/MOS-11498) | Geburtsdatum Integration in VDV-Barcodes und Print-Tickets | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11218](https://jira.hochbahn.de/browse/MOS-11218) | Neue Preisberechnung für Deutschlandtickets ab 01.01.2024 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10912](https://jira.hochbahn.de/browse/MOS-10912) | Spring Boot 3 - sixt-rental-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10906](https://jira.hochbahn.de/browse/MOS-10906) | Spring Boot 3 - push-gateway | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-84.0
 
 Deployment on **PROD** at: tba-BASIS
