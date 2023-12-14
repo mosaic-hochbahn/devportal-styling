@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-52.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 14.12.23 - 17:39:05
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14144](https://jira.hochbahn.de/projects/MOS/versions/14144)
+
+key | summary |  type
+---- | ----|----
+[MOS-11582](https://jira.hochbahn.de/browse/MOS-11582) | MOIA Fehlerverhalten leere Offer Response | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11368](https://jira.hochbahn.de/browse/MOS-11368) | Ride: OpenAPI Dev-Portal Dokumentation nach SpringBoot3 Umstellung nicht verfügbar | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10916](https://jira.hochbahn.de/browse/MOS-10916) | Spring Boot 3 - moia-shuttle-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10914](https://jira.hochbahn.de/browse/MOS-10914) | Spring Boot 3 - ride-api-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10908](https://jira.hochbahn.de/browse/MOS-10908) | Spring Boot 3 - moia-adapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-197.0
 
 Deployment on **PROD** at: tba-MOSAIC
