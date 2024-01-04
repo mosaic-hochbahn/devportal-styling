@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-58.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 04.01.24 - 13:29:07
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14059](https://jira.hochbahn.de/projects/MOS/versions/14059)
+
+key | summary |  type
+---- | ----|----
+[MOS-11702](https://jira.hochbahn.de/browse/MOS-11702) | Order-Service DB-Fehler beim Lasttest | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11666](https://jira.hochbahn.de/browse/MOS-11666) | Miles Darstellung Tarif auf der Rechnung | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11648](https://jira.hochbahn.de/browse/MOS-11648) | 01.01.24 Rechnungen/Gutschriften Footer anpassen - Vorstandsänderung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11644](https://jira.hochbahn.de/browse/MOS-11644) | ProductName aus Schnittstellen entfernen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11630](https://jira.hochbahn.de/browse/MOS-11630) | Saperion Klärfallerstellung anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11628](https://jira.hochbahn.de/browse/MOS-11628) | Generierung von Test-Reports beim lokalen Bauen/Testen deaktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11603](https://jira.hochbahn.de/browse/MOS-11603) | Billing-3rd-Party-Tests in eigenes Repo verschieben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11602](https://jira.hochbahn.de/browse/MOS-11602) | Versionen von Schnittstellen-Yamls automatisch inkrementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11516](https://jira.hochbahn.de/browse/MOS-11516) | Billing Systemtests gegen LogPay konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11507](https://jira.hochbahn.de/browse/MOS-11507) | MCRM aus order-service entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9938](https://jira.hochbahn.de/browse/MOS-9938) | Ungültige Antworten von Logpay fangen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-6530](https://jira.hochbahn.de/browse/MOS-6530) | Security | Logs der PTnova Kommunikation anonymisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-198.0
 
 Deployment on **PROD** at: tba-MOSAIC
