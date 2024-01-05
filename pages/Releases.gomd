@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-53.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 05.01.24 - 10:01:16
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14146](https://jira.hochbahn.de/projects/MOS/versions/14146)
+
+key | summary |  type
+---- | ----|----
+[MOS-11799](https://jira.hochbahn.de/browse/MOS-11799) | Spring Boot 3 - jwt-auth - Mocks | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11709](https://jira.hochbahn.de/browse/MOS-11709) | System Tests schlagen wegen fehlender vehicle location fehl | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11618](https://jira.hochbahn.de/browse/MOS-11618) | SHARE NOW // Erweiterung um &#34;selectedOffer&#34; | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11582](https://jira.hochbahn.de/browse/MOS-11582) | MOIA Fehlerverhalten leere Offer Response | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11469](https://jira.hochbahn.de/browse/MOS-11469) | Wallet iOS - pkpass-File erzeugen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11465](https://jira.hochbahn.de/browse/MOS-11465) | Wallet iOS - Neuen Wallet-Service aufsetzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10921](https://jira.hochbahn.de/browse/MOS-10921) | Spring Boot 3 - common-dependencies	 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10916](https://jira.hochbahn.de/browse/MOS-10916) | Spring Boot 3 - moia-shuttle-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10869](https://jira.hochbahn.de/browse/MOS-10869) | Eine Kündigung der Subscription aufgrund einer Account-Kündigung erhält eine spezifische Cancel-Reason | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-58.0
 
 Deployment on **PROD** at: tba-BILLING
