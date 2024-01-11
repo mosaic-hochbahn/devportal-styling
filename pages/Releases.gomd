@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-54.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 11.01.24 - 13:55:37
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14065](https://jira.hochbahn.de/projects/MOS/versions/14065)
+
+key | summary |  type
+---- | ----|----
+[MOS-11980](https://jira.hochbahn.de/browse/MOS-11980) | Explizites Error-Log bei fehlschlagender Subscription-Terminierung einschränken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11950](https://jira.hochbahn.de/browse/MOS-11950) | Clients für Kassensysteme benötigen Rollen für Tarifserver-Aufruf | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11798](https://jira.hochbahn.de/browse/MOS-11798) | Spring Boot 3 - jwt-auth - Services - Batch 3 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11401](https://jira.hochbahn.de/browse/MOS-11401) | clean systemtest für cibo - 404 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-53.0
 
 Deployment on **PROD** at
