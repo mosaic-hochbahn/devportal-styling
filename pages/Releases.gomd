@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-59.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 12.01.24 - 11:48:07
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14151](https://jira.hochbahn.de/projects/MOS/versions/14151)
+
+key | summary |  type
+---- | ----|----
+[MOS-11951](https://jira.hochbahn.de/browse/MOS-11951) | Textanpassungen Rechnungsmail Deutschlanticket | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11905](https://jira.hochbahn.de/browse/MOS-11905) | pdfbox auf neueste Version updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11851](https://jira.hochbahn.de/browse/MOS-11851) | AbstractEntityBase verschieben (order- und payment-service) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11722](https://jira.hochbahn.de/browse/MOS-11722) | Weitere unnötige Attribute für 360° aus order-service (OrderUpdateEvent) entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11687](https://jira.hochbahn.de/browse/MOS-11687) | Security-Findings und Dependency-Updates | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11649](https://jira.hochbahn.de/browse/MOS-11649) | CLONE - DT // Email-Text zur Rechnung anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11625](https://jira.hochbahn.de/browse/MOS-11625) | Jobs zum Erstellen und Senden aktivieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11530](https://jira.hochbahn.de/browse/MOS-11530) | Job zum erstellen und versenden der Clarification Message | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11510](https://jira.hochbahn.de/browse/MOS-11510) | MCRM aus payment-service entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11509](https://jira.hochbahn.de/browse/MOS-11509) | MCRM aus billing-service entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-199.0
 
 Deployment on **PROD** at: tba-MOSAIC
