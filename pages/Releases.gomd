@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-199.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 12.01.24 - 11:13:54
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14064](https://jira.hochbahn.de/projects/MOS/versions/14064)
+
+key | summary |  type
+---- | ----|----
+[MOS-11975](https://jira.hochbahn.de/browse/MOS-11975) | mock-pipeline erstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11954](https://jira.hochbahn.de/browse/MOS-11954) | resolve security findings | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11927](https://jira.hochbahn.de/browse/MOS-11927) | dependabots KW1 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11897](https://jira.hochbahn.de/browse/MOS-11897) | dependabot + zentrale pipeline nutzen für notes-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11895](https://jira.hochbahn.de/browse/MOS-11895) | Zentrale Pipeline nutzen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11894](https://jira.hochbahn.de/browse/MOS-11894) | ClarificationService umstellen auf die Customer-Jenkins-Pipeline | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11529](https://jira.hochbahn.de/browse/MOS-11529) | logpay_disabled aus DB entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-54.0
 
 Deployment on **PROD** at: tba-RIDE
