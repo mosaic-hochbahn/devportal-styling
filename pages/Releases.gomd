@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-87.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 15.01.24 - 09:45:57
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14152](https://jira.hochbahn.de/projects/MOS/versions/14152)
+
+key | summary |  type
+---- | ----|----
+[MOS-11503](https://jira.hochbahn.de/browse/MOS-11503) | MCRM aus Account-Service entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11285](https://jira.hochbahn.de/browse/MOS-11285) | Push-Notification-Service: Beim Token registrieren Löschen beim Customer-Serivce beauftragen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-59.0
 
 Deployment on **PROD** at: tba-BILLING
