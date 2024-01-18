@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-88.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 18.01.24 - 13:29:18
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14070](https://jira.hochbahn.de/projects/MOS/versions/14070)
+
+key | summary |  type
+---- | ----|----
+[MOS-11941](https://jira.hochbahn.de/browse/MOS-11941) | Identity Service: Email is invalid Warning entschärften | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11940](https://jira.hochbahn.de/browse/MOS-11940) | Identity-Service: Warning Monolith Refresh Token | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11705](https://jira.hochbahn.de/browse/MOS-11705) | Push-Notification-Service: Customer-Deactivation konsumieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11287](https://jira.hochbahn.de/browse/MOS-11287) | Push-Notification-Service: Mapping für PUT /customer/push-notifications/register-token | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11223](https://jira.hochbahn.de/browse/MOS-11223) | identity-service: Requestfluten Richtung Keycloak verhindern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-87.0
 
 Deployment on **PROD** at
