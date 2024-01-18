@@ -1,5 +1,30 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-200.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 18.01.24 - 13:40:22
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14069](https://jira.hochbahn.de/projects/MOS/versions/14069)
+
+key | summary |  type
+---- | ----|----
+[MOS-11985](https://jira.hochbahn.de/browse/MOS-11985) | use central mock pipeline [voucherify-mock] | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11984](https://jira.hochbahn.de/browse/MOS-11984) | use central mock pipeline [clevertap-mock] | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11979](https://jira.hochbahn.de/browse/MOS-11979) | use central mock pipeline [paypal-mock] | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11976](https://jira.hochbahn.de/browse/MOS-11976) | system-tests dependabot auto merge aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11962](https://jira.hochbahn.de/browse/MOS-11962) | [ShareNow] street number is missing | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11544](https://jira.hochbahn.de/browse/MOS-11544) | Telefonnummer: Validiere Telefonnummer | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11543](https://jira.hochbahn.de/browse/MOS-11543) | Telefonnummer: Telefonnummer-Validierungspin anfragen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11541](https://jira.hochbahn.de/browse/MOS-11541) | Telefonnummer: Lösche Telefonnummer | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11540](https://jira.hochbahn.de/browse/MOS-11540) | Telefonnummer: Hinterlege neue Telefonnummer | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11539](https://jira.hochbahn.de/browse/MOS-11539) | Telefonnummer: Hole Telefonnummer für Kunde | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11515](https://jira.hochbahn.de/browse/MOS-11515) | DT - Log-basierte Metriken - Customer | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11479](https://jira.hochbahn.de/browse/MOS-11479) | [idnow-document-validation-orchestration] normalise gradle | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11372](https://jira.hochbahn.de/browse/MOS-11372) | Jenkinsfiles in zentrale job definition mit variablen per service überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11228](https://jira.hochbahn.de/browse/MOS-11228) | CRM: fachliche Klärfälle ausbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-88.0
 
 Deployment on **PROD** at: tba-BASIS
