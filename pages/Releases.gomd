@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-56.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 25.01.24 - 15:11:04
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14160](https://jira.hochbahn.de/projects/MOS/versions/14160)
+
+key | summary |  type
+---- | ----|----
+[MOS-12035](https://jira.hochbahn.de/browse/MOS-12035) | Customer Number an /360/subscriptions/{subscriptionId} Schnittstelle hinzufügen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11969](https://jira.hochbahn.de/browse/MOS-11969) | Ride v2 Shuttle - OpenAPI Entwurf mit FFW abstimmen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11468](https://jira.hochbahn.de/browse/MOS-11468) | Wallet iOS - Ticket-Details-Abfrage Wallet-Service-&gt;Switch-Ticket-Service | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11207](https://jira.hochbahn.de/browse/MOS-11207) | Ausbau von Toggle &#34;Digital Fueling&#34; - ab 07.11.2023 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-201.0
 
 Deployment on **PROD** at: tba-MOSAIC
