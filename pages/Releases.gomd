@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-201.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 25.01.24 - 13:39:53
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14071](https://jira.hochbahn.de/projects/MOS/versions/14071)
+
+key | summary |  type
+---- | ----|----
+[MOS-12074](https://jira.hochbahn.de/browse/MOS-12074) | PspCustomer wird nicht inactive | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-12007](https://jira.hochbahn.de/browse/MOS-12007) | Solutiondesign Ergebnisverarbeitung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-89.0
 
 Deployment on **PROD** at: tba-BASIS
