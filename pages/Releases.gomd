@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-89.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 25.01.24 - 13:37:04
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14159](https://jira.hochbahn.de/projects/MOS/versions/14159)
+
+key | summary |  type
+---- | ----|----
+[MOS-11942](https://jira.hochbahn.de/browse/MOS-11942) | Messaging Service: Fehler mit der Verbindung zu Twilio nur im Wiederholungsfall bretrachten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11916](https://jira.hochbahn.de/browse/MOS-11916) | messaging Service: Handling von IO-Exceptions beim Aufruf von Sendgrind | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11793](https://jira.hochbahn.de/browse/MOS-11793) | Bereitstellen des Tarif-Server-Proxys | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-61.0
 
 Deployment on **PROD** at: tba-BILLING
