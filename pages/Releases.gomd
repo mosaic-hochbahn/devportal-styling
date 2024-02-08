@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-63.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 08.02.24 - 13:18:59
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14303](https://jira.hochbahn.de/projects/MOS/versions/14303)
+
+key | summary |  type
+---- | ----|----
+[MOS-12253](https://jira.hochbahn.de/browse/MOS-12253) | Reservierungsbetrag von VOI auf 25€ erhöhen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12233](https://jira.hochbahn.de/browse/MOS-12233) | Google-Fonts aus Template für Rechnungsmail entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12002](https://jira.hochbahn.de/browse/MOS-12002) | Lasttests zum Rechnungsdownload | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-62.0
 
 Deployment on **PROD** at
