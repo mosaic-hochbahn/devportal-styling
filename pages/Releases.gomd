@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-57.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 08.02.24 - 13:26:21
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14301](https://jira.hochbahn.de/projects/MOS/versions/14301)
+
+key | summary |  type
+---- | ----|----
+[MOS-12266](https://jira.hochbahn.de/browse/MOS-12266) | PROD - Feature-Toggle aktivieren: mos-11892-disable_ptnova_adapter_for_ticket_offers | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12265](https://jira.hochbahn.de/browse/MOS-12265) | QA - Feature-Toggle aktivieren: mos-11892-disable_ptnova_adapter_for_ticket_offers | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12097](https://jira.hochbahn.de/browse/MOS-12097) | Ride v2 Shuttle - Offers Endpunkt anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12090](https://jira.hochbahn.de/browse/MOS-12090) | Ride v2 Shuttle - Get Reservations implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12066](https://jira.hochbahn.de/browse/MOS-12066) | Überprüfen was wir für den Fall Miles Paused -&gt; Tanken starten für einen Fehler werfen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11972](https://jira.hochbahn.de/browse/MOS-11972) | Ride v2 Shuttle - Konzept im Confluence dokumentieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11892](https://jira.hochbahn.de/browse/MOS-11892) | Ptnova-Adapter auflösen: Ticket Offers direkt vom Tarifserver holen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11651](https://jira.hochbahn.de/browse/MOS-11651) | ERMO#65: Analyse Authorization Header in allen Ride Services durchreichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-203.0
 
 Deployment on **PROD** at: tba-MOSAIC
