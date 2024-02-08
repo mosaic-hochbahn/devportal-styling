@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-203.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 08.02.24 - 13:24:03
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14302](https://jira.hochbahn.de/projects/MOS/versions/14302)
+
+key | summary |  type
+---- | ----|----
+[MOS-12262](https://jira.hochbahn.de/browse/MOS-12262) | Log Level auf Warn anpassen für &#34;Subscription already terminated at Ride. Nothing to do here. subscriptionId&#34; | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12089](https://jira.hochbahn.de/browse/MOS-12089) | Analyse Security Scan ID-Now-Document-Validation | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12048](https://jira.hochbahn.de/browse/MOS-12048) | [/getIdent] Api implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11806](https://jira.hochbahn.de/browse/MOS-11806) | [paypal-adapter] MCRM entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11724](https://jira.hochbahn.de/browse/MOS-11724) | Nutzungsstatus: Status Informationen Kunde | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11721](https://jira.hochbahn.de/browse/MOS-11721) | Switch Pin: Reset Switch Pin | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11720](https://jira.hochbahn.de/browse/MOS-11720) | Switch Pin: Switch Pin Hinzufügen / Updaten | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11719](https://jira.hochbahn.de/browse/MOS-11719) | Switch Pin: Switch Pin Failure / Failure Notification | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11718](https://jira.hochbahn.de/browse/MOS-11718) | Switch Pin: Switch Pin Validierung | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9975](https://jira.hochbahn.de/browse/MOS-9975) | Kuma-Checks überarbeiten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-63.0
 
 Deployment on **PROD** at: tba-BILLING
