@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-91.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 08.02.24 - 13:32:01
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14205](https://jira.hochbahn.de/projects/MOS/versions/14205)
+
+key | summary |  type
+---- | ----|----
+[MOS-9135](https://jira.hochbahn.de/browse/MOS-9135) | Dokumentation Oidc-Auth-Proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9133](https://jira.hochbahn.de/browse/MOS-9133) | Dokumentation Moia-Proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9132](https://jira.hochbahn.de/browse/MOS-9132) | Dokumentation Miles-Auth-Proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9125](https://jira.hochbahn.de/browse/MOS-9125) | Dokumentation OCPI-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9119](https://jira.hochbahn.de/browse/MOS-9119) |  Dokumentation Messaging-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9118](https://jira.hochbahn.de/browse/MOS-9118) | Dokumentation Firebase-CloudMsg-Adapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-57.0
 
 Deployment on **PROD** at: tba-RIDE
