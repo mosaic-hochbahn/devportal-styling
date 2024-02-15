@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-92.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 15.02.24 - 13:18:06
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14211](https://jira.hochbahn.de/projects/MOS/versions/14211)
+
+key | summary |  type
+---- | ----|----
+[MOS-12291](https://jira.hochbahn.de/browse/MOS-12291) | Dokumentation Idnow-Auth-Proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12281](https://jira.hochbahn.de/browse/MOS-12281) | Neue Helmchars im Namespace mosaic-basis nutzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12114](https://jira.hochbahn.de/browse/MOS-12114) | Unterbinden Registrierung per email mit Umlauten/ nicht konformen Zeichen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11668](https://jira.hochbahn.de/browse/MOS-11668) | Realm-Admin Login in Mosaic Realm nicht möglich | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-9131](https://jira.hochbahn.de/browse/MOS-9131) | Dokumentation Logpay-Auth-Proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9130](https://jira.hochbahn.de/browse/MOS-9130) | Dokumentation Itm-Auth-Proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9129](https://jira.hochbahn.de/browse/MOS-9129) | Dokumentation Gti-Proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9124](https://jira.hochbahn.de/browse/MOS-9124) | Dokumentation Mosaic-Hamburg | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-91.0
 
 Deployment on **PROD** at: tba-BASIS
