@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-58.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 15.02.24 - 13:38:50
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14210](https://jira.hochbahn.de/projects/MOS/versions/14210)
+
+key | summary |  type
+---- | ----|----
+[MOS-12331](https://jira.hochbahn.de/browse/MOS-12331) | Wallet iOS - Device Deregistration Endpunkt einbauen und DB Eintrag entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12267](https://jira.hochbahn.de/browse/MOS-12267) | CiBo liefert VDV anstatt UIC Barcodes aus | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12204](https://jira.hochbahn.de/browse/MOS-12204) | Wallet iOS - Ticket_Order Tabelle um &#34;CURRENT_VALIDITY&#34; (Typ Enum) erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12203](https://jira.hochbahn.de/browse/MOS-12203) | Wallet iOS - Job zur Feststellung von Ticketgültigkeitswechsel | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12183](https://jira.hochbahn.de/browse/MOS-12183) | Subscription - TerminationReason RENEWAL_FAILED_CUSTOMER_ACCOUNT_TERMINATED entfernen da nicht verwendet | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12094](https://jira.hochbahn.de/browse/MOS-12094) | Ride v2 Shuttle - Get Trips implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12093](https://jira.hochbahn.de/browse/MOS-12093) | Ride v2 Shuttle - Put Reservation Cancel implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12092](https://jira.hochbahn.de/browse/MOS-12092) | Ride v2 Shuttle - Post Reservation implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12029](https://jira.hochbahn.de/browse/MOS-12029) | Wallet iOS - Speichern der DeviceRegistration im Wallet-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12028](https://jira.hochbahn.de/browse/MOS-12028) | Wallet iOS - Apple &#34;AuthToken&#34; und Stage spezifische url in pkpass eintragen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10928](https://jira.hochbahn.de/browse/MOS-10928) | UIC Barcode aus MOSAIC ausbauen - ab 26.09.2023 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-92.0
 
 Deployment on **PROD** at: tba-BASIS
