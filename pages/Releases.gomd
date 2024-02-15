@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-64.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 15.02.24 - 15:16:32
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14208](https://jira.hochbahn.de/projects/MOS/versions/14208)
+
+key | summary |  type
+---- | ----|----
+[MOS-12309](https://jira.hochbahn.de/browse/MOS-12309) | dependabot-branches mergen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12234](https://jira.hochbahn.de/browse/MOS-12234) | Neue Endpunkte designen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11966](https://jira.hochbahn.de/browse/MOS-11966) | Timeout für LogPay mit PayPal verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11910](https://jira.hochbahn.de/browse/MOS-11910) | Billing-Services auf SpringBoot 3.2 aktualisieren und Migrationsanleitung erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-58.0
 
 Deployment on **PROD** at: tba-RIDE
