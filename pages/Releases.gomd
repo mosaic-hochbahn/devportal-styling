@@ -1,5 +1,35 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-206.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 22.02.24 - 13:18:39
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14212](https://jira.hochbahn.de/projects/MOS/versions/14212)
+
+key | summary |  type
+---- | ----|----
+[MOS-12450](https://jira.hochbahn.de/browse/MOS-12450) | fix defect DojoFindings | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12449](https://jira.hochbahn.de/browse/MOS-12449) | resolve security finding CVE-2023-52425 in our services | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12425](https://jira.hochbahn.de/browse/MOS-12425) | [clarification-orchestration] MCRM entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12424](https://jira.hochbahn.de/browse/MOS-12424) | [vouncherify-orchestration] MCRM entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12374](https://jira.hochbahn.de/browse/MOS-12374) | Google Fonts aus Template fuer Paypal-Berechtigungs-Mail entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12348](https://jira.hochbahn.de/browse/MOS-12348) | Geloggten Exception Type anpassen bei nicht gültiger Führerscheinklasse | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12333](https://jira.hochbahn.de/browse/MOS-12333) | API yaml&#39;s in den customer services aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12271](https://jira.hochbahn.de/browse/MOS-12271) | Alert für &#34;subscription already terminated at Ride&#34; | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12241](https://jira.hochbahn.de/browse/MOS-12241) | /getProfile um Validierungsstatus erweitern API | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12108](https://jira.hochbahn.de/browse/MOS-12108) | [webhook] store incoming call / orderNumber in Kafka | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11811](https://jira.hochbahn.de/browse/MOS-11811) | [customer-os] MCRM entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11810](https://jira.hochbahn.de/browse/MOS-11810) | [customer-adapter] MCRM entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11804](https://jira.hochbahn.de/browse/MOS-11804) | [notes-service] MCRM entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11764](https://jira.hochbahn.de/browse/MOS-11764) | Clever-Tap: unsubscribe wird ausgeführt | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11763](https://jira.hochbahn.de/browse/MOS-11763) | Clever-Tap: Zeige Clever-Tap Unsubscribe-Seite an | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11762](https://jira.hochbahn.de/browse/MOS-11762) | Clever-Tap: Opt-Ins holen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11761](https://jira.hochbahn.de/browse/MOS-11761) | Clever-Tap: Opt-Ins hinzufügen / ändern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11759](https://jira.hochbahn.de/browse/MOS-11759) | 360Cockpit: Hole Zahlmethoden | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11629](https://jira.hochbahn.de/browse/MOS-11629) | Formatierung Fehlermeldung an Logging-Format anpassen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BILLING-65.0
 
 Deployment on **PROD** at: tba-BILLING
