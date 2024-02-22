@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-93.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 22.02.24 - 10:10:08
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14308](https://jira.hochbahn.de/projects/MOS/versions/14308)
+
+key | summary |  type
+---- | ----|----
+[MOS-12273](https://jira.hochbahn.de/browse/MOS-12273) | Update firebase SDK auf aktuelle Version | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-64.0
 
 Deployment on **PROD** at
