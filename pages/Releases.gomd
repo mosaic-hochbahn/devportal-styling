@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-59.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 22.02.24 - 16:26:09
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14309](https://jira.hochbahn.de/projects/MOS/versions/14309)
+
+key | summary |  type
+---- | ----|----
+[MOS-12442](https://jira.hochbahn.de/browse/MOS-12442) | Wallet iOS - Ticket Revoke Logik einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12441](https://jira.hochbahn.de/browse/MOS-12441) | Wallet iOS - TicketRevoke Topic anlegen und Logik einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12440](https://jira.hochbahn.de/browse/MOS-12440) | Wallet iOS - Bei der deviceRegistration checken, ob Ticket abgelaufen/storniert | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12439](https://jira.hochbahn.de/browse/MOS-12439) | Wallet iOS - GetInitialPkPass mit SubscriptionID Endpunkt im wallet-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12431](https://jira.hochbahn.de/browse/MOS-12431) | Wallet iOS - TicketPublicUUID in Ticket Order Response mitliefern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12429](https://jira.hochbahn.de/browse/MOS-12429) | Wallet iOS - Jedes Ticket im WalletService registrieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12361](https://jira.hochbahn.de/browse/MOS-12361) | Wallet iOS -Constraint in der apple_device_registration hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12332](https://jira.hochbahn.de/browse/MOS-12332) | Wallet iOS - Einzelkarten + Wochen/Monatskarten implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12313](https://jira.hochbahn.de/browse/MOS-12313) | Wallet-Service Package-Struktur aufräumen, Refactoring, Unit-Tests und Error-Handling verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12303](https://jira.hochbahn.de/browse/MOS-12303) | undeployment des switch-ticket-service-scheduler | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11209](https://jira.hochbahn.de/browse/MOS-11209) | Ausbau von Toggle &#34;MOIA Wheelchairs&#34; - ab 25.10.2023 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8918](https://jira.hochbahn.de/browse/MOS-8918) | Analyse: Alerts für Toggle einbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-206.0
 
 Deployment on **PROD** at: tba-MOSAIC
