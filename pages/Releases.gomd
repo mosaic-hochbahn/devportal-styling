@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-66.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 29.02.24 - 13:36:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14215](https://jira.hochbahn.de/projects/MOS/versions/14215)
+
+key | summary |  type
+---- | ----|----
+[MOS-12385](https://jira.hochbahn.de/browse/MOS-12385) | Purpose am Payment einführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12284](https://jira.hochbahn.de/browse/MOS-12284) | Verbesserungen vom Ticketing-Flow im Order-Service umsetzen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12263](https://jira.hochbahn.de/browse/MOS-12263) | LogPay ABORT wie REJECT als WARNING loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-59.0
 
 Deployment on **PROD** at
