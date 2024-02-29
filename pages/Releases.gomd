@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-207.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 29.02.24 - 13:45:17
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14310](https://jira.hochbahn.de/projects/MOS/versions/14310)
+
+key | summary |  type
+---- | ----|----
+[MOS-12493](https://jira.hochbahn.de/browse/MOS-12493) | Vorbereitung für den Validierungsstatus | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12474](https://jira.hochbahn.de/browse/MOS-12474) | [customer-adapter] ConstructorBinding entfernen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-12462](https://jira.hochbahn.de/browse/MOS-12462) | Security Findings im Customer Adapter beheben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12422](https://jira.hochbahn.de/browse/MOS-12422) | Alert für nicht mapbare Führerscheinklassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12391](https://jira.hochbahn.de/browse/MOS-12391) | kafka event zum verschicken der validierungs daten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12389](https://jira.hochbahn.de/browse/MOS-12389) | Use Case für getIdent-Calls implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-66.0
 
 Deployment on **PROD** at: tba-BILLING
