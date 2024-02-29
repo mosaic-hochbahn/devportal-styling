@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-94.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 29.02.24 - 14:46:20
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14214](https://jira.hochbahn.de/projects/MOS/versions/14214)
+
+key | summary |  type
+---- | ----|----
+[MOS-12277](https://jira.hochbahn.de/browse/MOS-12277) | Push-notification-service: umstellen auf internen go-channel | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9128](https://jira.hochbahn.de/browse/MOS-9128) | Dokumentation Dota-Auth-Proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-207.0
 
 Deployment on **PROD** at: tba-MOSAIC
