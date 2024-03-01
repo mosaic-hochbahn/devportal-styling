@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-60.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 01.03.24 - 19:02:42
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14313](https://jira.hochbahn.de/projects/MOS/versions/14313)
+
+key | summary |  type
+---- | ----|----
+[MOS-12486](https://jira.hochbahn.de/browse/MOS-12486) | TERMINATION_DATE_NOTIFICATION Topic umbenennen und PartitionCount auf 1 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12483](https://jira.hochbahn.de/browse/MOS-12483) | Ticket-Offers werden ohne erweiterte Fahrbereich-Beschreibungstexten (Scope-Info) ausgegeben | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-12470](https://jira.hochbahn.de/browse/MOS-12470) | REST Request und Response Logging in unseren Services auf allen Stages aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12434](https://jira.hochbahn.de/browse/MOS-12434) | Ticketing-Team in Farblisten-Email-Verteiler aufnehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12416](https://jira.hochbahn.de/browse/MOS-12416) | Wallet iOS - Apple Log Endpunkt erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12386](https://jira.hochbahn.de/browse/MOS-12386) | Ride v2 Shuttle - Vorbereitungen fürs Refactoring | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12377](https://jira.hochbahn.de/browse/MOS-12377) | Ride v2 Shuttle - Get Single Offer Refactoring | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12376](https://jira.hochbahn.de/browse/MOS-12376) | Ride v2 Shuttle - Get Offers Refactoring | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12359](https://jira.hochbahn.de/browse/MOS-12359) | Wallet iOS - AuthToken vorgehen festlegen+ implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12257](https://jira.hochbahn.de/browse/MOS-12257) | UIC Zertifikat ist aus Vault entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12096](https://jira.hochbahn.de/browse/MOS-12096) | Ride v2 Shuttle - Get Bookings implementieren - Booking Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12095](https://jira.hochbahn.de/browse/MOS-12095) | Ride v2 Shuttle - Get Bookings implementieren - Shuttle Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8918](https://jira.hochbahn.de/browse/MOS-8918) | Analyse: Alerts für Toggle einbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-94.0
 
 Deployment on **PROD** at: tba-BASIS
