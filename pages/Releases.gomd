@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-95.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 07.03.24 - 16:17:16
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14218](https://jira.hochbahn.de/projects/MOS/versions/14218)
+
+key | summary |  type
+---- | ----|----
+[MOS-12608](https://jira.hochbahn.de/browse/MOS-12608) | PTNova: Mandant 300 aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12570](https://jira.hochbahn.de/browse/MOS-12570) | Push-Notification-Service: Logger-Middleware reparieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12181](https://jira.hochbahn.de/browse/MOS-12181) | B+R | Auth Proxy für DEV/QA einrichten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-61.0
 
 Deployment on **PROD** at: tba-RIDE
