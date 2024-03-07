@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-208.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 07.03.24 - 13:34:16
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14317](https://jira.hochbahn.de/projects/MOS/versions/14317)
+
+key | summary |  type
+---- | ----|----
+[MOS-12585](https://jira.hochbahn.de/browse/MOS-12585) | findByTransactionNumber-Methode in DocumentValidationRepository anpasssen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12583](https://jira.hochbahn.de/browse/MOS-12583) | Übernahme von Adressdaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12531](https://jira.hochbahn.de/browse/MOS-12531) | Clean-Up IdnowDocumentDataValidated | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12511](https://jira.hochbahn.de/browse/MOS-12511) | read drivers licence from response | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12475](https://jira.hochbahn.de/browse/MOS-12475) | transactionNumber unique machen und neue Spalte validation_failure_reason | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12383](https://jira.hochbahn.de/browse/MOS-12383) | Daten Richtung Clevertap synchronisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11731](https://jira.hochbahn.de/browse/MOS-11731) | Termination: Hole alle Kunden deren Kündigungsdatum erreicht ist | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11730](https://jira.hochbahn.de/browse/MOS-11730) | Termination: Kunde kündigt | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11729](https://jira.hochbahn.de/browse/MOS-11729) | Termination: Kündigung widerrufen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11728](https://jira.hochbahn.de/browse/MOS-11728) | Termination: Nicht terminierte Subscriptions holen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11713](https://jira.hochbahn.de/browse/MOS-11713) | Kundenprofil: Kundenprofil holen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BILLING-67.0
 
 Deployment on **PROD** at: tba-BILLING
