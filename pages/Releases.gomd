@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-67.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 07.03.24 - 13:20:47
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14217](https://jira.hochbahn.de/projects/MOS/versions/14217)
+
+key | summary |  type
+---- | ----|----
+[MOS-12471](https://jira.hochbahn.de/browse/MOS-12471) | Plugin für DefectDojo-Analyse verwenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12278](https://jira.hochbahn.de/browse/MOS-12278) | Billing Mail Verteilerliste in den Services / Tests eintragen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-60.0
 
 Deployment on **PROD** at
