@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-61.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 07.03.24 - 14:20:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14318](https://jira.hochbahn.de/projects/MOS/versions/14318)
+
+key | summary |  type
+---- | ----|----
+[MOS-12595](https://jira.hochbahn.de/browse/MOS-12595) | Wallet Android - Datenbanktabelle für Google addToWallet anlegen  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12589](https://jira.hochbahn.de/browse/MOS-12589) | Wallet Android - Endpunkt bereitstellen der für eine SubscriptionID ein JWT zurückliefert | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12567](https://jira.hochbahn.de/browse/MOS-12567) | Wallet Error-Logging anpassen für AppleNotifications | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12554](https://jira.hochbahn.de/browse/MOS-12554) | Ambassador-Mappings für iOS-Wallet finalisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12503](https://jira.hochbahn.de/browse/MOS-12503) | Sixt Motorsperre - OpenAPI yamls aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12500](https://jira.hochbahn.de/browse/MOS-12500) | Wallet Android - Endpunkt bereitstellen der für eine TicketPublicUUID ein JWT zurückliefert | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12495](https://jira.hochbahn.de/browse/MOS-12495) | Latitude / Longitude vertauscht bei ShareNow-Mietende | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-12378](https://jira.hochbahn.de/browse/MOS-12378) | Ride v2 Shuttle - POST order Refactoring | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12103](https://jira.hochbahn.de/browse/MOS-12103) | Filter im Booking-Service verbessern | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10418](https://jira.hochbahn.de/browse/MOS-10418) | Toggle &amp; legacy Code ausbauen - Customer Check bei getTripV2 aus RentalService in Orchestrations umziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-208.0
 
 Deployment on **PROD** at: tba-MOSAIC
