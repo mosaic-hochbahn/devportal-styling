@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-62.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 14.03.24 - 12:08:39
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14319](https://jira.hochbahn.de/projects/MOS/versions/14319)
+
+key | summary |  type
+---- | ----|----
+[MOS-12663](https://jira.hochbahn.de/browse/MOS-12663) | Miles | Customer Locking for Fuelling und Charging Action | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12657](https://jira.hochbahn.de/browse/MOS-12657) | GetUpdatedPass für Non-Subscription funktioniert nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-12643](https://jira.hochbahn.de/browse/MOS-12643) | AuthToken Erstellung liefert ClassNotFound | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-12615](https://jira.hochbahn.de/browse/MOS-12615) | PKPass-Subscription Download liefert nur 404 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12614](https://jira.hochbahn.de/browse/MOS-12614) | TicketRevokeEvent bei Non-Subscription-Tickets nicht immer senden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12559](https://jira.hochbahn.de/browse/MOS-12559) | manuelle Testbarkeit für einen Verlängerungslauf in der Wallet herstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12524](https://jira.hochbahn.de/browse/MOS-12524) | Sixt Motorsperre - mobilize CDC Test | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12506](https://jira.hochbahn.de/browse/MOS-12506) | Sixt Motorsperre - mobilize Endpunkt implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12459](https://jira.hochbahn.de/browse/MOS-12459) | Trigger, um QA DT von außen zu verlängern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12294](https://jira.hochbahn.de/browse/MOS-12294) | DT - Job-Anzahl von 3 erhöhen um erhöhte Subscription-Menge im Verlängerungslauf an einem Tag zu bewältigen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12103](https://jira.hochbahn.de/browse/MOS-12103) | Filter im Booking-Service verbessern | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11208](https://jira.hochbahn.de/browse/MOS-11208) | Ausbau von Toggle &#34;Start Station for a Ticket&#34; - ab 25.10.2023 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10488](https://jira.hochbahn.de/browse/MOS-10488) | Config Diffs zwischen QA und PROD abbauen (Ride) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-95.0
 
 Deployment on **PROD** at
