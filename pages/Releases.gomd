@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-96.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 14.03.24 - 14:59:20
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14320](https://jira.hochbahn.de/projects/MOS/versions/14320)
+
+key | summary |  type
+---- | ----|----
+[MOS-12623](https://jira.hochbahn.de/browse/MOS-12623) | Auth-Proxy - Logpay Proxy integrieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12621](https://jira.hochbahn.de/browse/MOS-12621) | Auth-Proxy - MOIA Proxy integrieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9136](https://jira.hochbahn.de/browse/MOS-9136) | Dokumentation Ptnova-Auth-Proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-209.0
 
 Deployment on **PROD** at: tba-MOSAIC
