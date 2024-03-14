@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-68.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 14.03.24 - 15:07:44
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14221](https://jira.hochbahn.de/projects/MOS/versions/14221)
+
+key | summary |  type
+---- | ----|----
+[MOS-12396](https://jira.hochbahn.de/browse/MOS-12396) | Step 1 - Neue Struktur des Payments im Payment-Service umsetzen: PaymentMethod | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12325](https://jira.hochbahn.de/browse/MOS-12325) | Zahlungsflows designen (Customer+System Pay) | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BASIS-96.0
 
 Deployment on **PROD** at: tba-BASIS
