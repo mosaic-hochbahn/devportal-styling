@@ -77,7 +77,7 @@ The response is JSON and might look like this:
   "access_token": "{access-token}",
   "expires_in": 300,
   "refresh_expires_in": 900,
-  "refresh_token": "{access-token}",
+  "refresh_token": "{refresh-token}",
   "token_type": "Bearer",
   "not-before-policy": 0,
   "session_state": "",
