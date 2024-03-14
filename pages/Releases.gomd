@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-209.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 14.03.24 - 13:19:33
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14222](https://jira.hochbahn.de/projects/MOS/versions/14222)
+
+key | summary |  type
+---- | ----|----
+[MOS-12645](https://jira.hochbahn.de/browse/MOS-12645) | Neuer WebHook State START | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12629](https://jira.hochbahn.de/browse/MOS-12629) | Update für gekündigten Kunden 0421065004 unterbinden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12609](https://jira.hochbahn.de/browse/MOS-12609) | Reason-Code in DB speichern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12584](https://jira.hochbahn.de/browse/MOS-12584) | ValidationFailureReason-Enum um restliche Fehler-Codes erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12533](https://jira.hochbahn.de/browse/MOS-12533) | GET Endpunkt für die Validierungsorders von IDnow | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12460](https://jira.hochbahn.de/browse/MOS-12460) | Verbesserung des Loggings bei Patch Customer Profile - Fokus Kundennummer | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12388](https://jira.hochbahn.de/browse/MOS-12388) | nur 5 stellige PLZ bei Land Deutschland zulassen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-62.0
 
 Deployment on **PROD** at: tba-RIDE
