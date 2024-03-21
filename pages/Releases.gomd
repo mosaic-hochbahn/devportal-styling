@@ -1,5 +1,38 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-210.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 21.03.24 - 13:23:40
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14225](https://jira.hochbahn.de/projects/MOS/versions/14225)
+
+key | summary |  type
+---- | ----|----
+[MOS-12732](https://jira.hochbahn.de/browse/MOS-12732) | Adress-Mapping IDnow Hausnummer Update | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12716](https://jira.hochbahn.de/browse/MOS-12716) | Alle TestData-&#34;TOKEN&#34; durch random UUID erstetzen  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12713](https://jira.hochbahn.de/browse/MOS-12713) | PAYMENT_METHOD_TOKEN durch UUID ersetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12669](https://jira.hochbahn.de/browse/MOS-12669) | Idnow status im crm übernehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12650](https://jira.hochbahn.de/browse/MOS-12650) | resolve security findings | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12603](https://jira.hochbahn.de/browse/MOS-12603) | Implementieren eines Consumers für das CustomerDeleteEvent | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12586](https://jira.hochbahn.de/browse/MOS-12586) | Versenden von Emails bei Erhalt des Validierungsergebnisses | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12535](https://jira.hochbahn.de/browse/MOS-12535) | Anzeige Ältere IDnow Aufträge | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12534](https://jira.hochbahn.de/browse/MOS-12534) | Anzeige LETZTER IDNOW AUFTRAG ZUM VALIDIERUNGSVORGANG | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12413](https://jira.hochbahn.de/browse/MOS-12413) | NPE fixen bei CIBO Authorization Checks | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12050](https://jira.hochbahn.de/browse/MOS-12050) | [/getIdent] DB Tabelle erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11812](https://jira.hochbahn.de/browse/MOS-11812) | [customer-service] MCRM entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11809](https://jira.hochbahn.de/browse/MOS-11809) | [document-validation] MCRM entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11757](https://jira.hochbahn.de/browse/MOS-11757) | CRM Nutzungsstatus: Hole Aktivierungsstatus und Nutzungsstatus für Kunden | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11756](https://jira.hochbahn.de/browse/MOS-11756) | CRM Nutzungsstatus: Ändere Nutzungsstatus | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11754](https://jira.hochbahn.de/browse/MOS-11754) | CRM Kündigung: Nehme Kündigung zurück | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11753](https://jira.hochbahn.de/browse/MOS-11753) | CRM  Kündigung: Kündige Kunden | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11752](https://jira.hochbahn.de/browse/MOS-11752) | CRM Kündigung: Hole Kündigungsdaten | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11751](https://jira.hochbahn.de/browse/MOS-11751) | CRM Nutzungsstatus: Hole Kundenstatus | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11749](https://jira.hochbahn.de/browse/MOS-11749) | CRM Kunde: Kundensuche | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11748](https://jira.hochbahn.de/browse/MOS-11748) | CRM Nutzungsstatus: Ersetze Deutschlandticket Nutzungsstatus | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10768](https://jira.hochbahn.de/browse/MOS-10768) | Errorhandling zur Kommunikation mit IDnow | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-68.0
 
 Deployment on **PROD** at
