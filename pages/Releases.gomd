@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-63.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 21.03.24 - 13:59:06
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14224](https://jira.hochbahn.de/projects/MOS/versions/14224)
+
+key | summary |  type
+---- | ----|----
+[MOS-12699](https://jira.hochbahn.de/browse/MOS-12699) | passTypeIdentifier für PROD konfigurieren und in Properties auslagern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12687](https://jira.hochbahn.de/browse/MOS-12687) | iOS Wallet - TicketPublicUUID über get /orders in history-orchestration zurückgeben | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-12673](https://jira.hochbahn.de/browse/MOS-12673) | Bike+Ride - Repo für Kienzler-Mock erstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12672](https://jira.hochbahn.de/browse/MOS-12672) | Bike+Ride - Gitlab Repo für neuen Service anlegen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12664](https://jira.hochbahn.de/browse/MOS-12664) | Vorbestelltes D-Ticket hat falsches Anfangs &amp; Enddatum | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-12605](https://jira.hochbahn.de/browse/MOS-12605) | Toggle zu MOS-10393 aus Toggle-Liste entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12525](https://jira.hochbahn.de/browse/MOS-12525) | Sixt Motorsperre - mobilized-Status CDC Test | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12507](https://jira.hochbahn.de/browse/MOS-12507) | Sixt Motorsperre - mobilized-Status im Recovery Jobs prüfen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12088](https://jira.hochbahn.de/browse/MOS-12088) | DT - Log-basierte Metriken - Verlängerungslauf von Migrations-Orders - Ride | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-210.0
 
 Deployment on **PROD** at: tba-MOSAIC
