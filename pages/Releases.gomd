@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-69.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 22.03.24 - 13:42:04
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14227](https://jira.hochbahn.de/projects/MOS/versions/14227)
+
+key | summary |  type
+---- | ----|----
+[MOS-12730](https://jira.hochbahn.de/browse/MOS-12730) | Dependency Updates | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12711](https://jira.hochbahn.de/browse/MOS-12711) | Step 1.5 - Neue Struktur des Payments im Payment-Service umsetzen: Migrations Job | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BASIS-97.0
 
 Deployment on **PROD** at: tba-BASIS
