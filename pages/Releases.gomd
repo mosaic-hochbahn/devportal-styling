@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-64.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 28.03.24 - 13:20:57
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14229](https://jira.hochbahn.de/projects/MOS/versions/14229)
+
+key | summary |  type
+---- | ----|----
+[MOS-12836](https://jira.hochbahn.de/browse/MOS-12836) | VDV-Barcode-Report: Implementierung im Service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12803](https://jira.hochbahn.de/browse/MOS-12803) | iOS Wallet-Objekt darf nicht teilbar sein | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12757](https://jira.hochbahn.de/browse/MOS-12757) | Kein Warning loggen wenn der Anonymous User auf die HTO zugreift | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12733](https://jira.hochbahn.de/browse/MOS-12733) | Aktuelle Findings unserer Services in DefectDojo prüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12675](https://jira.hochbahn.de/browse/MOS-12675) | Bike+Ride - CI/CD für BikeAndRideService anlegen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12674](https://jira.hochbahn.de/browse/MOS-12674) | Bike+Ride - CI/CD für Kienzler-Mock erstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12618](https://jira.hochbahn.de/browse/MOS-12618) | Sixt Motorsperre - Restarbeit | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12593](https://jira.hochbahn.de/browse/MOS-12593) | Wallet Android - JWT Erzeugen und signieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12592](https://jira.hochbahn.de/browse/MOS-12592) | Wallet Android - GenericObjects implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12591](https://jira.hochbahn.de/browse/MOS-12591) | Wallet Android - GenericClasses anlegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-69.0
 
 Deployment on **PROD** at
