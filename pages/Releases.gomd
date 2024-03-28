@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-211.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 28.03.24 - 13:48:55
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14228](https://jira.hochbahn.de/projects/MOS/versions/14228)
+
+key | summary |  type
+---- | ----|----
+[MOS-12839](https://jira.hochbahn.de/browse/MOS-12839) | mising kafka config in HELM for customer-service | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-12834](https://jira.hochbahn.de/browse/MOS-12834) | Korrekturen im CRM AutoID | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12827](https://jira.hochbahn.de/browse/MOS-12827) | Authorization-Header in Customer-Profile.yaml wieder hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12818](https://jira.hochbahn.de/browse/MOS-12818) | [crm] add idnow USER_CANCELLATION | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12817](https://jira.hochbahn.de/browse/MOS-12817) | Bug-Fix für Customer-Deletion-Event | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12753](https://jira.hochbahn.de/browse/MOS-12753) | Log-Korrektur bei Logpay update | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12740](https://jira.hochbahn.de/browse/MOS-12740) | MDL-Aktivierung: Eigenen Controller implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12715](https://jira.hochbahn.de/browse/MOS-12715) | Löschen der PDFs implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12683](https://jira.hochbahn.de/browse/MOS-12683) | QuartzJobs für aborten von Validierungen welche in Pending/Started festhängen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12639](https://jira.hochbahn.de/browse/MOS-12639) | Update service yaml&#39;s | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11670](https://jira.hochbahn.de/browse/MOS-11670) | Switch to CustomerService - Zahlmittel hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-64.0
 
 Deployment on **PROD** at: tba-RIDE
