@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-98.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 04.04.24 - 13:39:25
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14230](https://jira.hochbahn.de/projects/MOS/versions/14230)
+
+key | summary |  type
+---- | ----|----
+[MOS-12816](https://jira.hochbahn.de/browse/MOS-12816) | Anfragen an Bike-And-Ride-Proxy bei vorhandenem Mock-Header an Kienzler-Mock weiterleiten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-212.0
 
 Deployment on **PROD** at: tba-MOSAIC
