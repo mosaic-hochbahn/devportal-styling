@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-65.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 04.04.24 - 15:55:13
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14233](https://jira.hochbahn.de/projects/MOS/versions/14233)
+
+key | summary |  type
+---- | ----|----
+[MOS-12872](https://jira.hochbahn.de/browse/MOS-12872) | Feature toggle für google wallet | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12861](https://jira.hochbahn.de/browse/MOS-12861) | Ticketing - Begleitendes Spring-Update für CVE-2024-22259 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12770](https://jira.hochbahn.de/browse/MOS-12770) | TIER - neue Testscooter übernehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12671](https://jira.hochbahn.de/browse/MOS-12671) | Version Catalog ausprobieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12656](https://jira.hochbahn.de/browse/MOS-12656) | MOIA - Umstellung von price auf discountedPrice | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-98.0
 
 Deployment on **PROD** at
