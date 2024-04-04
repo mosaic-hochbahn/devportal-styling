@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-212.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 04.04.24 - 13:24:02
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14321](https://jira.hochbahn.de/projects/MOS/versions/14321)
+
+key | summary |  type
+---- | ----|----
+[MOS-12860](https://jira.hochbahn.de/browse/MOS-12860) | Neuen MSP hinzufügen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12856](https://jira.hochbahn.de/browse/MOS-12856) | Kafka binder brockers dynamisch setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12404](https://jira.hochbahn.de/browse/MOS-12404) | Verkürzung Vor- und/oder Nachnamensübergabe an Logpay auf 32 Zeichen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11608](https://jira.hochbahn.de/browse/MOS-11608) | Encoding Probleme bei Miles direkter erkennen koennen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-211.0
 
 Deployment on **PROD** at
