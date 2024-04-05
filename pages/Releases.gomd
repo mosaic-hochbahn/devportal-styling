@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-70.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 05.04.24 - 10:14:25
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14231](https://jira.hochbahn.de/projects/MOS/versions/14231)
+
+key | summary |  type
+---- | ----|----
+[MOS-12604](https://jira.hochbahn.de/browse/MOS-12604) | ProcessSalesDataUseCase für neue Flows vereinfachen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12485](https://jira.hochbahn.de/browse/MOS-12485) | SHARENOW Klärfall nach 36h für Auftrag A2VGIF trotz FINISHED nach 2 Tagen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-12455](https://jira.hochbahn.de/browse/MOS-12455) | Step 2 - Neue Struktur des Payments im Payment-Service umsetzen: PaymentMethod Migration | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12243](https://jira.hochbahn.de/browse/MOS-12243) | Zahlungsflow Customer-Pay implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12236](https://jira.hochbahn.de/browse/MOS-12236) | Neue Endpunkte im Payment-Service implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12235](https://jira.hochbahn.de/browse/MOS-12235) | Neue Endpunkte im Order-Service anbinden | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12161](https://jira.hochbahn.de/browse/MOS-12161) | Neue Endpunkte für Ticketing/DT und Verlängerungslauf anbieten  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-65.0
 
 Deployment on **PROD** at: tba-RIDE
