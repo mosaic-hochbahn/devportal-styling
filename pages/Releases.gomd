@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-99.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 11.04.24 - 13:34:11
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14323](https://jira.hochbahn.de/projects/MOS/versions/14323)
+
+key | summary |  type
+---- | ----|----
+[MOS-11217](https://jira.hochbahn.de/browse/MOS-11217) | DOTA auth proxy - prod toggle default auf true setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-71.0
 
 Deployment on **PROD** at: tba-BILLING
