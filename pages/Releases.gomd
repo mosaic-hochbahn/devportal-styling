@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-66.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 11.04.24 - 13:19:40
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14324](https://jira.hochbahn.de/projects/MOS/versions/14324)
+
+key | summary |  type
+---- | ----|----
+[MOS-12896](https://jira.hochbahn.de/browse/MOS-12896) | Kein Warning loggen bei &#34;The requested journeys for the provided orderNumber couldn&#39;t be found&#34; | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12889](https://jira.hochbahn.de/browse/MOS-12889) | Wallet Android - Systemtests für GoogleWallet schreiben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12887](https://jira.hochbahn.de/browse/MOS-12887) | Wallet Android - Ratelimiting an den 3 Endpunkten für Google Wallet einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12731](https://jira.hochbahn.de/browse/MOS-12731) | Wallet Android - Logo und HeroImage in GenericObjects laden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12682](https://jira.hochbahn.de/browse/MOS-12682) | Bike+Ride - Design Buchungsschnittstelle | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12598](https://jira.hochbahn.de/browse/MOS-12598) | Wallet Android - GoogleWallet UPDATE schicken bei neuem Ticket für Subscription | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12597](https://jira.hochbahn.de/browse/MOS-12597) | Wallet Android - GoogleAddToWallet Logik implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-70.0
 
 Deployment on **PROD** at
