@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-71.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 11.04.24 - 13:25:36
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14234](https://jira.hochbahn.de/projects/MOS/versions/14234)
+
+key | summary |  type
+---- | ----|----
+[MOS-12925](https://jira.hochbahn.de/browse/MOS-12925) | Customer Pay Flow Cancel-Recovery fehlerhaft | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-12917](https://jira.hochbahn.de/browse/MOS-12917) | Liquibase - Info Log beim deployment schreiben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12358](https://jira.hochbahn.de/browse/MOS-12358) | Billing-Services auf SpringBoot 3.2 aktualisieren (Teil 2) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11434](https://jira.hochbahn.de/browse/MOS-11434) | Anpassung Rechnungen (textlicher Inhalt + Uhrzeit des Kaufes) - Ticketing und Deutschlandticket | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-213.0
 
 Deployment on **PROD** at: tba-MOSAIC
