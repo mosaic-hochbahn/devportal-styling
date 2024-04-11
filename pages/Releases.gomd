@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-213.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 11.04.24 - 13:23:57
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14322](https://jira.hochbahn.de/projects/MOS/versions/14322)
+
+key | summary |  type
+---- | ----|----
+[MOS-12935](https://jira.hochbahn.de/browse/MOS-12935) | resolve security findings | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12886](https://jira.hochbahn.de/browse/MOS-12886) | [cronJob]: dev / qa config soll kürzer sein zum abräumen des Startet status | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12874](https://jira.hochbahn.de/browse/MOS-12874) | [9] IdnowDomainTest verkleinern: Mapper Test auslagern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12859](https://jira.hochbahn.de/browse/MOS-12859) | Konfiguration Timeout in seconds  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12840](https://jira.hochbahn.de/browse/MOS-12840) | Email-Texte anpassen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12779](https://jira.hochbahn.de/browse/MOS-12779) | CRM: Bike and Ride wird im Kundenprofil angezeigt | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12752](https://jira.hochbahn.de/browse/MOS-12752) | Groß-Kleinschreibung der User-Daten verbessern  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12590](https://jira.hochbahn.de/browse/MOS-12590) | Dokumentation aktuell? | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11737](https://jira.hochbahn.de/browse/MOS-11737) | MDL-Aktivierung: Externe Kundennummer für einen MDL  | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11736](https://jira.hochbahn.de/browse/MOS-11736) | MDL-Aktivierung: Hole Nutzungserlaubnis für ein MDL | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11734](https://jira.hochbahn.de/browse/MOS-11734) | MDL-Aktivierung: Hole Aktivierungsstatus für MDL | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11733](https://jira.hochbahn.de/browse/MOS-11733) | MDL-Aktivierung: Sind maximale Service-Aktivierungen für CIBO erreicht? | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-9801](https://jira.hochbahn.de/browse/MOS-9801) | [crm] Kündigung einer Subscription aufgrund von Account-Kündigung erhält eine spezifische Cancel-reason | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-66.0
 
 Deployment on **PROD** at: tba-RIDE
