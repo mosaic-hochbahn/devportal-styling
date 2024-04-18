@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-67.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 18.04.24 - 13:16:36
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14236](https://jira.hochbahn.de/projects/MOS/versions/14236)
+
+key | summary |  type
+---- | ----|----
+[MOS-12995](https://jira.hochbahn.de/browse/MOS-12995) | iOS // add to Wallet // Text im Header anpassen  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-12993](https://jira.hochbahn.de/browse/MOS-12993) | Gültigkeitszeitraum Android Wallet | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12992](https://jira.hochbahn.de/browse/MOS-12992) | Gültigkeitszeitraum iOS Wallet | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12959](https://jira.hochbahn.de/browse/MOS-12959) | DT-Verlängerungslauf: Einzel-Job-Ausführung setzt requestId nicht | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12898](https://jira.hochbahn.de/browse/MOS-12898) | nächtliches OptimisticLocking im wallet-service, keine requestId | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-12888](https://jira.hochbahn.de/browse/MOS-12888) | Wallet Android - Admin Funktionalität für Google Wallet Tickets implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12770](https://jira.hochbahn.de/browse/MOS-12770) | TIER - neue Testscooter übernehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12656](https://jira.hochbahn.de/browse/MOS-12656) | MOIA - Umstellung von price auf discountedPrice | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-99.0
 
 Deployment on **PROD** at
