@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-72.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 18.04.24 - 13:32:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14237](https://jira.hochbahn.de/projects/MOS/versions/14237)
+
+key | summary |  type
+---- | ----|----
+[MOS-12875](https://jira.hochbahn.de/browse/MOS-12875) | Housekeeping Error für MDLs als Warning loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12544](https://jira.hochbahn.de/browse/MOS-12544) | Textanpassung Rechnungsmail vom Deutschlandticket | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-12244](https://jira.hochbahn.de/browse/MOS-12244) | Zahlungsflow Merchant-Pay und implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12139](https://jira.hochbahn.de/browse/MOS-12139) | Error Flut bei Bonvoyo Fehler reduzieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8836](https://jira.hochbahn.de/browse/MOS-8836) | PTNova Error als Warning loggen und bei Häufung alarmieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-214.0
 
 Deployment on **PROD** at: tba-MOSAIC
