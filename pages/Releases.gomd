@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-214.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 18.04.24 - 13:26:05
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14235](https://jira.hochbahn.de/projects/MOS/versions/14235)
+
+key | summary |  type
+---- | ----|----
+[MOS-13013](https://jira.hochbahn.de/browse/MOS-13013) | Neuer ValidationStatus REVIEW_PENDING erforderlich | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12932](https://jira.hochbahn.de/browse/MOS-12932) | [15] Mapper für das CustomerProfile  | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12820](https://jira.hochbahn.de/browse/MOS-12820) | Events: customerRegistrationConsumer | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11735](https://jira.hochbahn.de/browse/MOS-11735) | MDL-Aktivierung: Setze Aktivierungsstatus für MDL | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## RIDE-67.0
 
 Deployment on **PROD** at: tba-RIDE
