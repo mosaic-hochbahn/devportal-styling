@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-215.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 25.04.24 - 13:26:19
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14330](https://jira.hochbahn.de/projects/MOS/versions/14330)
+
+key | summary |  type
+---- | ----|----
+[MOS-13055](https://jira.hochbahn.de/browse/MOS-13055) | Add customer pipelines with runner as parameter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13034](https://jira.hochbahn.de/browse/MOS-13034) | Datensenke meldet Fehler | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13012](https://jira.hochbahn.de/browse/MOS-13012) | Helm Chart v3 update | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12973](https://jira.hochbahn.de/browse/MOS-12973) | jenkins pipeline: runner (und damit java version) version per parameter setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12810](https://jira.hochbahn.de/browse/MOS-12810) | [9] Advanced errorHandling | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11776](https://jira.hochbahn.de/browse/MOS-11776) | Events: Kundenstatus ändern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11398](https://jira.hochbahn.de/browse/MOS-11398) | Lognachricht &#34;DB unreachable&#34; an Loggingrichtline anpassen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## RIDE-68.0
 
 Deployment on **PROD** at: tba-RIDE
