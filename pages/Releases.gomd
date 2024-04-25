@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-68.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 25.04.24 - 13:23:08
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14239](https://jira.hochbahn.de/projects/MOS/versions/14239)
+
+key | summary |  type
+---- | ----|----
+[MOS-13077](https://jira.hochbahn.de/browse/MOS-13077) | Wallet Android - Revoke Logik anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13062](https://jira.hochbahn.de/browse/MOS-13062) | Wallet-Service auf Java 21 umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12996](https://jira.hochbahn.de/browse/MOS-12996) | iOS // Ticketing // Watch Wallet // Optimierung Darstellungd es Tickets | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-12700](https://jira.hochbahn.de/browse/MOS-12700) | lastBilling vom DT für 360° Cockpit | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12682](https://jira.hochbahn.de/browse/MOS-12682) | Bike+Ride - Design Buchungsschnittstelle | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11978](https://jira.hochbahn.de/browse/MOS-11978) | Rental-Service | Spring Boot Update ab 3.1.5 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9946](https://jira.hochbahn.de/browse/MOS-9946) | Ticketing-Recovery CIBO: Recovery der Billing-Order bei fehlgeschlagenem Bestellprozess | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-72.0
 
 Deployment on **PROD** at
