@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-73.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 25.04.24 - 13:59:59
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14331](https://jira.hochbahn.de/projects/MOS/versions/14331)
+
+key | summary |  type
+---- | ----|----
+[MOS-13028](https://jira.hochbahn.de/browse/MOS-13028) | Hinweis auf eine Umfrage in der Rechnungsmail | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13014](https://jira.hochbahn.de/browse/MOS-13014) | Helm Charts aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12966](https://jira.hochbahn.de/browse/MOS-12966) | Dependabot-/Defectdojo-Issues | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12934](https://jira.hochbahn.de/browse/MOS-12934) | Legacy-Java-Konfiguration in Gradle verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12808](https://jira.hochbahn.de/browse/MOS-12808) | MobiBudget: Teilerstattung/Vollerstattung API | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-215.0
 
 Deployment on **PROD** at: tba-MOSAIC
