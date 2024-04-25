@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-101.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 25.04.24 - 14:46:36
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14240](https://jira.hochbahn.de/projects/MOS/versions/14240)
+
+key | summary |  type
+---- | ----|----
+[MOS-12990](https://jira.hochbahn.de/browse/MOS-12990) | Autoscaling auf DEV deaktivieren - CO2 einsparen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12640](https://jira.hochbahn.de/browse/MOS-12640) | Auth-Proxy - revive Empfehlungen umsetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9137](https://jira.hochbahn.de/browse/MOS-9137) | Übernahme Testing-Kafka-Gateway | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-73.0
 
 Deployment on **PROD** at: tba-BILLING
