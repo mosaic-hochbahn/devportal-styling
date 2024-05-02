@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-216.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 02.05.24 - 13:29:29
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14401](https://jira.hochbahn.de/projects/MOS/versions/14401)
+
+key | summary |  type
+---- | ----|----
+[MOS-13144](https://jira.hochbahn.de/browse/MOS-13144) | IdMock auf neue build Pipeline umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13125](https://jira.hochbahn.de/browse/MOS-13125) | idnow log statement to big | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13061](https://jira.hochbahn.de/browse/MOS-13061) | Kundenprofile: Kundenprofil holen - Neuen DriversLicenceValidationStatusService verwenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13045](https://jira.hochbahn.de/browse/MOS-13045) | Autoscaling im Testing-Namespace deaktivieren - CO2 einsparen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12945](https://jira.hochbahn.de/browse/MOS-12945) | Clean-Up: SetActivationStatusUseCase - Eigenen Validator implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12847](https://jira.hochbahn.de/browse/MOS-12847) | yamls aktualisieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12510](https://jira.hochbahn.de/browse/MOS-12510) | Kundenprofile: Kundenprofil holen - Neuer Service für das Ermitteln der Validierungsstatus für die einzelnen MSP&#39;s | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12290](https://jira.hochbahn.de/browse/MOS-12290) | [system test] alive check | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-101.0
 
 Deployment on **PROD** at
