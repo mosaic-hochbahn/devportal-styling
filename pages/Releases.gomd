@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-70.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 07.05.24 - 13:30:43
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14504](https://jira.hochbahn.de/projects/MOS/versions/14504)
+
+key | summary |  type
+---- | ----|----
+[MOS-13171](https://jira.hochbahn.de/browse/MOS-13171) | AuthToken von Apple maskieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13123](https://jira.hochbahn.de/browse/MOS-13123) | Bike+Ride - Abgestimmte API integrieren und veröffentlichen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12977](https://jira.hochbahn.de/browse/MOS-12977) | Wegfall der Startmonatslogik | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12928](https://jira.hochbahn.de/browse/MOS-12928) | Neue Package Struktur in Rental-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12918](https://jira.hochbahn.de/browse/MOS-12918) | Neue Package Struktur in Booking-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12806](https://jira.hochbahn.de/browse/MOS-12806) | Bike+Ride - Datenmodell erstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12528](https://jira.hochbahn.de/browse/MOS-12528) | Starthaltestelle auf Rechnungen, nur wenn relevant | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-9415](https://jira.hochbahn.de/browse/MOS-9415) | Logging-Format - lesbar machen - in shuttle services | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-69.0
 
 Deployment on **PROD** at
