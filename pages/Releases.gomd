@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-217.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 10.05.24 - 12:20:49
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14405](https://jira.hochbahn.de/projects/MOS/versions/14405)
+
+key | summary |  type
+---- | ----|----
+[MOS-13194](https://jira.hochbahn.de/browse/MOS-13194) | Doppeltes Logging mit identischem Text entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13126](https://jira.hochbahn.de/browse/MOS-13126) | Customer-Deployment - Autoscaling auf DEV deaktivieren + CO2 einsparen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12967](https://jira.hochbahn.de/browse/MOS-12967) | [10] Package Strucktur verbessern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12696](https://jira.hochbahn.de/browse/MOS-12696) | ShareNow Nutzer zu Jung ist kein Error | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12502](https://jira.hochbahn.de/browse/MOS-12502) | misc IDnow ToDos | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12448](https://jira.hochbahn.de/browse/MOS-12448) | [payment-methods/available] Endpunkt gegen Ausfälle stabilisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12433](https://jira.hochbahn.de/browse/MOS-12433) | CustomerNumber als Label in den Logs hinzufügen (in Sharenow-Rental-Orchestration) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-74.0
 
 Deployment on **PROD** at: tba-BILLING
