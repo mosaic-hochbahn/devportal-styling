@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-75.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 16.05.24 - 13:06:52
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14415](https://jira.hochbahn.de/projects/MOS/versions/14415)
+
+key | summary |  type
+---- | ----|----
+[MOS-13202](https://jira.hochbahn.de/browse/MOS-13202) | Umbenennung MobilityServiceProviderCode in MobilityServiceProvider | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13128](https://jira.hochbahn.de/browse/MOS-13128) | billing-Deployment - Autoscaling auf DEV deaktivieren + CO2 einsparen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12954](https://jira.hochbahn.de/browse/MOS-12954) | Default Zahlungsflow implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12951](https://jira.hochbahn.de/browse/MOS-12951) | Zahlungsflow für MSP mit nachgelagerter Zahlung (PayPal-Sonderflow) implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BASIS-103.0
 
 Deployment on **PROD** at
