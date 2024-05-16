@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-104.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 16.05.24 - 14:25:13
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14417](https://jira.hochbahn.de/projects/MOS/versions/14417)
+
+key | summary |  type
+---- | ----|----
+[MOS-13249](https://jira.hochbahn.de/browse/MOS-13249) | Cleanup: FeatureFlag async-push-notification-handling  entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12941](https://jira.hochbahn.de/browse/MOS-12941) | Push-notification-Service Batch Schnittstelle refactoren. | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-71.0
 
 Deployment on **PROD** at: tba-RIDE
