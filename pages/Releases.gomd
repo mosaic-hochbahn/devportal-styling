@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-218.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 16.05.24 - 13:13:42
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14416](https://jira.hochbahn.de/projects/MOS/versions/14416)
+
+key | summary |  type
+---- | ----|----
+[MOS-13283](https://jira.hochbahn.de/browse/MOS-13283) | [PayPal-mock] add missing tests bug fix | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13215](https://jira.hochbahn.de/browse/MOS-13215) | [CRM] New Failure Reason MOSAIC_DRIVERS_LICENCE_ISSUE_DATE_MISSING | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13201](https://jira.hochbahn.de/browse/MOS-13201) | &#39;UNKNOWN&#39; not found in message.properties | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13174](https://jira.hochbahn.de/browse/MOS-13174) | Kundenprofile - Enum-Tests für den getProfile Endpunkt hinzufügen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13167](https://jira.hochbahn.de/browse/MOS-13167) | idnow Führerschein Validierungsdaten für Auswertungen zur Verfügung stellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13101](https://jira.hochbahn.de/browse/MOS-13101) | [NPE] idnow-os | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13048](https://jira.hochbahn.de/browse/MOS-13048) | [Dev Portal] fehlende Endpunkte bereitstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12946](https://jira.hochbahn.de/browse/MOS-12946) | Clean-Up: LogPayService - LogPayService - CreateLogPayAccount() in CustomerAdapterDomain schieben | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12939](https://jira.hochbahn.de/browse/MOS-12939) | Aufräumen von isPspAccountStatusCheckRequired | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11750](https://jira.hochbahn.de/browse/MOS-11750) | CRM Kunde: Hole Kundenprofil | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11305](https://jira.hochbahn.de/browse/MOS-11305) | [PayPal-mock] add missing tests | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-75.0
 
 Deployment on **PROD** at: tba-BILLING
