@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-71.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 16.05.24 - 13:23:05
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14406](https://jira.hochbahn.de/projects/MOS/versions/14406)
+
+key | summary |  type
+---- | ----|----
+[MOS-13258](https://jira.hochbahn.de/browse/MOS-13258) | STS: Verbesserung Log-Nachricht &#34;Sending ticket notification event&#34; | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13217](https://jira.hochbahn.de/browse/MOS-13217) | API-Doku für Wallet: Beschreibungen der Endpunkte fehlt noch | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13136](https://jira.hochbahn.de/browse/MOS-13136) | Feature Toggle von MOS-12656 im Code entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12937](https://jira.hochbahn.de/browse/MOS-12937) | Bike+Ride - Contract Tests für POST /box-rentals | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12809](https://jira.hochbahn.de/browse/MOS-12809) | Bike+Ride - Datenmodell implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12433](https://jira.hochbahn.de/browse/MOS-12433) | CustomerNumber als Label in den Logs hinzufügen (in Sharenow-Rental-Orchestration) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12201](https://jira.hochbahn.de/browse/MOS-12201) | Memcached durch Redis ersetzen in Miles-Orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11335](https://jira.hochbahn.de/browse/MOS-11335) | ShareNow Intervalle überprüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-218.0
 
 Deployment on **PROD** at: tba-MOSAIC
