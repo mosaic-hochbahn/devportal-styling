@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-105.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 23.05.24 - 13:17:16
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14419](https://jira.hochbahn.de/projects/MOS/versions/14419)
+
+key | summary |  type
+---- | ----|----
+[MOS-13260](https://jira.hochbahn.de/browse/MOS-13260) | Identity-Service: Identity Status aktualisieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13254](https://jira.hochbahn.de/browse/MOS-13254) | Identity-Service: Identity Löschen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-219.0
 
 Deployment on **PROD** at: tba-MOSAIC
