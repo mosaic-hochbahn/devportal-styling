@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-76.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 23.05.24 - 13:10:09
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14418](https://jira.hochbahn.de/projects/MOS/versions/14418)
+
+key | summary |  type
+---- | ----|----
+[MOS-13288](https://jira.hochbahn.de/browse/MOS-13288) | Event-Logik für PostPay-Zahlungsflow mit Gutschein anpassen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13284](https://jira.hochbahn.de/browse/MOS-13284) | dependabot-branches mergen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13192](https://jira.hochbahn.de/browse/MOS-13192) | Billing Systemtests beschleunigen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13090](https://jira.hochbahn.de/browse/MOS-13090) | Billing-Service: SendBillsToMspJob | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12952](https://jira.hochbahn.de/browse/MOS-12952) | Order Service anpassen und neue Endpunkte von Payment Service nutzen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12950](https://jira.hochbahn.de/browse/MOS-12950) | Zahlungsflow für MDLs implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12573](https://jira.hochbahn.de/browse/MOS-12573) | Berechtigung von 360°-Cockpit-Usern für den Zugriff auf hvv switch Kunden-Rechnungen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12504](https://jira.hochbahn.de/browse/MOS-12504) | Log-Based Alerts erstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BASIS-104.0
 
 Deployment on **PROD** at
