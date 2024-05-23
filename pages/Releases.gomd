@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-72.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 23.05.24 - 13:56:19
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14506](https://jira.hochbahn.de/projects/MOS/versions/14506)
+
+key | summary |  type
+---- | ----|----
+[MOS-13397](https://jira.hochbahn.de/browse/MOS-13397) | TIER - neue Testscooter übernehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13360](https://jira.hochbahn.de/browse/MOS-13360) | Wallet iOS- serial_number constraint in der auth_token Tabelle | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13345](https://jira.hochbahn.de/browse/MOS-13345) | Ticketing-Deployment - Autoscaling auf DEV deaktivieren + CO2 einsparen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13335](https://jira.hochbahn.de/browse/MOS-13335) | ERMO#107 &#34;Event-Störung&#34; - Consumer 1 (STS) richtig benennen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13224](https://jira.hochbahn.de/browse/MOS-13224) | Fehlender &#34;last-modified&#34; Header bei PkPass-Abruf | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13106](https://jira.hochbahn.de/browse/MOS-13106) | Bike+Ride - Implementierung GET /box-rentals/{boxRentalId} | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13093](https://jira.hochbahn.de/browse/MOS-13093) | Ticketing-Recovery Ticketing: Recovery der Billing-Order bei fehlgeschlagenem  DT-Kauf | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13092](https://jira.hochbahn.de/browse/MOS-13092) | Ticketing-Recovery Ticketing: Recovery der Billing-Order bei fehlgeschlagenem  Einzelticketkauf | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12927](https://jira.hochbahn.de/browse/MOS-12927) | Neue Package Struktur in History-Orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12809](https://jira.hochbahn.de/browse/MOS-12809) | Bike+Ride - Datenmodell implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12734](https://jira.hochbahn.de/browse/MOS-12734) | Nutzungshistorie // Abruf von Orders auf 3 Jahre begrenzen  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11335](https://jira.hochbahn.de/browse/MOS-11335) | ShareNow Intervalle überprüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-105.0
 
 Deployment on **PROD** at: tba-BASIS
