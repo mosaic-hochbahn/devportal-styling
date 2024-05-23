@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-219.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 23.05.24 - 13:16:29
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14505](https://jira.hochbahn.de/projects/MOS/versions/14505)
+
+key | summary |  type
+---- | ----|----
+[MOS-13318](https://jira.hochbahn.de/browse/MOS-13318) | DB Änderungen zur Speicherung der externen Paymethod_id | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13307](https://jira.hochbahn.de/browse/MOS-13307) | Tabelle aktuelle aktiver Logpay-Kunden erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13191](https://jira.hochbahn.de/browse/MOS-13191) | Speicherreservierung viel zu hoch angesetzt | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13168](https://jira.hochbahn.de/browse/MOS-13168) | LogPay customer data updated failed da Alter außerhalb zulässiger Range auf WARN umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13048](https://jira.hochbahn.de/browse/MOS-13048) | [Dev Portal] fehlende Endpunkte bereitstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12012](https://jira.hochbahn.de/browse/MOS-12012) | Customer-Service: PhoneNumberIdParser auflösen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11873](https://jira.hochbahn.de/browse/MOS-11873) | Nicht entprelltes update an logpay: Redis Cache nutzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-76.0
 
 Deployment on **PROD** at: tba-BILLING
