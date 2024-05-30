@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-220.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 30.05.24 - 13:37:55
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14423](https://jira.hochbahn.de/projects/MOS/versions/14423)
+
+key | summary |  type
+---- | ----|----
+[MOS-13437](https://jira.hochbahn.de/browse/MOS-13437) | Spring spring.resources.static-locations key deprecated | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13385](https://jira.hochbahn.de/browse/MOS-13385) | Nicht mehr verwendete voi response file löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13376](https://jira.hochbahn.de/browse/MOS-13376) | Systemtest Jenkinsjob zu system-test-dev-regressionTest (Quality Gate) umkonfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13375](https://jira.hochbahn.de/browse/MOS-13375) | Systemtest Jenkinsjob zu system-test-dev-smokeTest umbennen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13374](https://jira.hochbahn.de/browse/MOS-13374) | Systemtest Jenkinsjob löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13256](https://jira.hochbahn.de/browse/MOS-13256) | Payment-Method-V2-Endpunkte aus der PMAO entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13237](https://jira.hochbahn.de/browse/MOS-13237) | Validation Enum WARNING_FRAUD_OTHER hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13193](https://jira.hochbahn.de/browse/MOS-13193) | Validate incoming voucher codes | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13165](https://jira.hochbahn.de/browse/MOS-13165) | FS-Validierung mit IDnow - Sensible Daten nicht loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11573](https://jira.hochbahn.de/browse/MOS-11573) | paymentMethod-Endpunkte refactoren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-72.0
 
 Deployment on **PROD** at
