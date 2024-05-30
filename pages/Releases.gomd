@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-106.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 30.05.24 - 13:46:10
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14424](https://jira.hochbahn.de/projects/MOS/versions/14424)
+
+key | summary |  type
+---- | ----|----
+[MOS-13299](https://jira.hochbahn.de/browse/MOS-13299) | Identity-Service: Check Password | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13294](https://jira.hochbahn.de/browse/MOS-13294) | AccountService - Fix Dependency Updates | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12854](https://jira.hochbahn.de/browse/MOS-12854) | Umsetzung Package Struktur Messaging Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12782](https://jira.hochbahn.de/browse/MOS-12782) | Postman Third-Party-API-Tests kaputt nach Umstellung auf authentication-proxy | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11452](https://jira.hochbahn.de/browse/MOS-11452) | [account-service] upgrade to Java 21 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-220.0
 
 Deployment on **PROD** at: tba-MOSAIC
