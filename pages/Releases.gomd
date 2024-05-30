@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-73.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 30.05.24 - 15:00:28
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14425](https://jira.hochbahn.de/projects/MOS/versions/14425)
+
+key | summary |  type
+---- | ----|----
+[MOS-13445](https://jira.hochbahn.de/browse/MOS-13445) | Valide Locks in Miles führen bei uns zu Warnings in den logs | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13433](https://jira.hochbahn.de/browse/MOS-13433) | Bike+Ride - Fehlerhandling implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13432](https://jira.hochbahn.de/browse/MOS-13432) | Bike+Ride - Fehlercodes definieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13354](https://jira.hochbahn.de/browse/MOS-13354) | Miles Job Emergency Toggles implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13317](https://jira.hochbahn.de/browse/MOS-13317) | MOIA // Analyse Plattform API - Protobuf | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13235](https://jira.hochbahn.de/browse/MOS-13235) | Ticketing-Recovery Ticketing: Recovery der Billing-Order bei fehlgeschlagenem DT-Verlängerungslauf | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13142](https://jira.hochbahn.de/browse/MOS-13142) | Bike+Ride - Übergang zu FINISHED_BOX_RENTAL | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13109](https://jira.hochbahn.de/browse/MOS-13109) | Bike+Ride - Implementierung GET /box-rentals/{boxRentalId}/access-details | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13108](https://jira.hochbahn.de/browse/MOS-13108) | Bike+Ride - Contract Tests für GET /box-rentals/{boxRentalId}/access-details | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13103](https://jira.hochbahn.de/browse/MOS-13103) | Bike+Ride - Implementierung POST /box-rentals (externer Teil) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13071](https://jira.hochbahn.de/browse/MOS-13071) | Feature Toggle MOS-12656 selbst entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12933](https://jira.hochbahn.de/browse/MOS-12933) | Bike+Ride - Implementierung POST /box-rentals (interner Teil) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12821](https://jira.hochbahn.de/browse/MOS-12821) | Erfolgreiche Dependabot-Branches automatisch mergen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-106.0
 
 Deployment on **PROD** at: tba-BASIS
