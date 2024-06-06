@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-221.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 06.06.24 - 13:38:37
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14600](https://jira.hochbahn.de/projects/MOS/versions/14600)
+
+key | summary |  type
+---- | ----|----
+[MOS-13541](https://jira.hochbahn.de/browse/MOS-13541) | [OOTW] merge dependabot branches that failed, customer-service | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13505](https://jira.hochbahn.de/browse/MOS-13505) | Einlösen einer abgelaufenen Kampagne loggt Fehler | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13496](https://jira.hochbahn.de/browse/MOS-13496) | [OOTW] merge dependabot branches that failed | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13488](https://jira.hochbahn.de/browse/MOS-13488) | Publish Voucher über App Refactoren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13471](https://jira.hochbahn.de/browse/MOS-13471) | automated tests, crm such bug | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13470](https://jira.hochbahn.de/browse/MOS-13470) | Sonar-Issues aus Projekt testing-release entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13411](https://jira.hochbahn.de/browse/MOS-13411) | Kunde kann Miles und Sixt nicht mehr nutzen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13401](https://jira.hochbahn.de/browse/MOS-13401) | Es fehlen Daten vom Sensor-Data-Exporter | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13327](https://jira.hochbahn.de/browse/MOS-13327) | [ERMO-108] customer-adapter clevertap sync job stabilisieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13296](https://jira.hochbahn.de/browse/MOS-13296) | registerCustomer() Domain Schnitt implementieren  | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13094](https://jira.hochbahn.de/browse/MOS-13094) | [system test] Activate CarSharing needs to revalidate | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12772](https://jira.hochbahn.de/browse/MOS-12772) | BaseRestController: Injection der ErrorResponseExceptionFactory über Konstruktor | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10201](https://jira.hochbahn.de/browse/MOS-10201) | [ERMO-65] Verwendung des x-switch-customer-number Headers ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-74.0
 
 Deployment on **PROD** at: tba-RIDE
