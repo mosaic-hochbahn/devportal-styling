@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-74.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 06.06.24 - 13:19:46
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14700](https://jira.hochbahn.de/projects/MOS/versions/14700)
+
+key | summary |  type
+---- | ----|----
+[MOS-13527](https://jira.hochbahn.de/browse/MOS-13527) | Versand von DebtDataEvent auf INFO loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13512](https://jira.hochbahn.de/browse/MOS-13512) | Termination-Date-Event frühs statt nachts verschicken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13499](https://jira.hochbahn.de/browse/MOS-13499) | CIBO-Billable Log-Ausgaben verdeutlichen wenn keine Produkte/Fahrten zu Sensordatenserie übergeben wurde | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13498](https://jira.hochbahn.de/browse/MOS-13498) | Feature toggle für TerminationDate Event Versand im STS | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13485](https://jira.hochbahn.de/browse/MOS-13485) | Bike+Ride - Konsistenz des &#34;Booking&#34; Objekts sicherstellen (Shuttle / Rental / BoxRental) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13483](https://jira.hochbahn.de/browse/MOS-13483) | CiBo-Systemtest fällt ständig um | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13474](https://jira.hochbahn.de/browse/MOS-13474) | Wallet-System-Test fällt ständig um | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13291](https://jira.hochbahn.de/browse/MOS-13291) | Bike+Ride - Eventversand an Billing | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13229](https://jira.hochbahn.de/browse/MOS-13229) | DT - Verlängerungslauf- &amp; Monatswechsel-Test | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-77.0
 
 Deployment on **PROD** at: tba-BILLING
