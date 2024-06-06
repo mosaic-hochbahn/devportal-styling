@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-107.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 06.06.24 - 14:05:02
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14601](https://jira.hochbahn.de/projects/MOS/versions/14601)
+
+key | summary |  type
+---- | ----|----
+[MOS-13491](https://jira.hochbahn.de/browse/MOS-13491) | identity-Service: Password-Reset durchführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13467](https://jira.hochbahn.de/browse/MOS-13467) | OOTW: Sonar Regeln für Basis-Deployment umsetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13425](https://jira.hochbahn.de/browse/MOS-13425) | Identity Service: Warn bei Context Canceled | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13350](https://jira.hochbahn.de/browse/MOS-13350) | identity-Service: Password-Reset beauftragen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13238](https://jira.hochbahn.de/browse/MOS-13238) | Account Service: Frühjahrsputz (Abbau technischer Schulden) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13124](https://jira.hochbahn.de/browse/MOS-13124) | ABT-Service: Fehlerhandling bei deactivation event mit falscher Kundennummer | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-221.0
 
 Deployment on **PROD** at: tba-MOSAIC
