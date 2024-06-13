@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-75.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 13.06.24 - 13:40:48
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14900](https://jira.hochbahn.de/projects/MOS/versions/14900)
+
+key | summary |  type
+---- | ----|----
+[MOS-13551](https://jira.hochbahn.de/browse/MOS-13551) | Sixt error mapping  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13549](https://jira.hochbahn.de/browse/MOS-13549) | Debt-Data-Event für Ticket-Aufträge nach Kafka-Störung erneut versenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13394](https://jira.hochbahn.de/browse/MOS-13394) | Bike+Ride - Implementierung GET /bookings?orderNumbers=X,Y | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13291](https://jira.hochbahn.de/browse/MOS-13291) | Bike+Ride - Eventversand an Billing | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13234](https://jira.hochbahn.de/browse/MOS-13234) | Ticketing-Recovery: Recovery der Ticketing-Order bei Fehler im Kauf-Prozess | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13155](https://jira.hochbahn.de/browse/MOS-13155) | Bike+Ride - Eventversand bei Erstellung und Änderung von BoxRentals | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13111](https://jira.hochbahn.de/browse/MOS-13111) | Bike+Ride - Systemtests um /box-rentals/{boxRentalId}/access-details erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13104](https://jira.hochbahn.de/browse/MOS-13104) | Bike+Ride - Systemtests für /box-rentals | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-109.0
 
 Deployment on **PROD** at: tba-BASIS
