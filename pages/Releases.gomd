@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-78.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 13.06.24 - 13:21:45
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14800](https://jira.hochbahn.de/projects/MOS/versions/14800)
+
+key | summary |  type
+---- | ----|----
+[MOS-13102](https://jira.hochbahn.de/browse/MOS-13102) | Entgegennahme von Erstattung Sondergebühren funktioniert bei share now nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13082](https://jira.hochbahn.de/browse/MOS-13082) | Alerting für ungewöhnlich viele Aborts bei LogPay | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-107.0
 
 Deployment on **PROD** at
