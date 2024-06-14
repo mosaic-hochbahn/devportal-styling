@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-222.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 14.06.24 - 11:18:15
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14801](https://jira.hochbahn.de/projects/MOS/versions/14801)
+
+key | summary |  type
+---- | ----|----
+[MOS-13568](https://jira.hochbahn.de/browse/MOS-13568) | Package-Struktur: ServiceNameEnum durch MspCode erstetzen innerhallb der Core-Schicht | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13540](https://jira.hochbahn.de/browse/MOS-13540) | Testreihe DEV | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13531](https://jira.hochbahn.de/browse/MOS-13531) | Check: Bestandskundenprozess wurde vollständig berücksichtigt | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13520](https://jira.hochbahn.de/browse/MOS-13520) | Aktivierungsflow anpassen: Ersetzen einer Zahlungsmethode | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13322](https://jira.hochbahn.de/browse/MOS-13322) | Email anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13321](https://jira.hochbahn.de/browse/MOS-13321) | Löschungsendpunkt nutzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13320](https://jira.hochbahn.de/browse/MOS-13320) | Aktivierungsflow anpassen: paymethod_id speichern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13319](https://jira.hochbahn.de/browse/MOS-13319) | Übernahme paymethod_id bestehender Kunden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13297](https://jira.hochbahn.de/browse/MOS-13297) | Missing-Requirements Part 2 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## RIDE-75.0
 
 Deployment on **PROD** at
