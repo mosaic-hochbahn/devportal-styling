@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-76.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 20.06.24 - 13:07:21
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14935](https://jira.hochbahn.de/projects/MOS/versions/14935)
+
+key | summary |  type
+---- | ----|----
+[MOS-13600](https://jira.hochbahn.de/browse/MOS-13600) | bike-and-ride-service in box-rental-service umbenennen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13579](https://jira.hochbahn.de/browse/MOS-13579) | Bike+Ride - Datenbestand Aufbau für Booking-Service | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13578](https://jira.hochbahn.de/browse/MOS-13578) | Bike+Ride - Booking-Service Datenbankschema | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13486](https://jira.hochbahn.de/browse/MOS-13486) | Bike+Ride - Mobility Service Provider Filter in History Orchestration | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13482](https://jira.hochbahn.de/browse/MOS-13482) | Bike+Ride - CI/CD für History-Service anlegen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13436](https://jira.hochbahn.de/browse/MOS-13436) | bei wallet unique constraint violation kein Error loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13112](https://jira.hochbahn.de/browse/MOS-13112) | Bike+Ride - Erweiterung Booking-Service um BoxRentals | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12926](https://jira.hochbahn.de/browse/MOS-12926) | Neue Package Struktur in Moia-Adapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-222.0
 
 Deployment on **PROD** at: tba-MOSAIC
