@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-110.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 20.06.24 - 14:26:51
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14936](https://jira.hochbahn.de/projects/MOS/versions/14936)
+
+key | summary |  type
+---- | ----|----
+[MOS-13604](https://jira.hochbahn.de/browse/MOS-13604) | Account-Service: Bestätigungslink abgelaufen, aber trotzdem Bestätigungsmail | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13583](https://jira.hochbahn.de/browse/MOS-13583) | Identity-Service: Resilienter gegenüber Ausfällen/Timeouts von Sendgrid werden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13567](https://jira.hochbahn.de/browse/MOS-13567) | Anonymous hat zu viele Sessions im Keycloak - Handling im Identity Service verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13563](https://jira.hochbahn.de/browse/MOS-13563) | Bonvoyo Proxy: Fachliche 403er nicht als Error Loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13555](https://jira.hochbahn.de/browse/MOS-13555) | identity-Service: Session Refresh | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13528](https://jira.hochbahn.de/browse/MOS-13528) | Account Service: Keine Warn Logs bei 409 (Conflict) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13519](https://jira.hochbahn.de/browse/MOS-13519) | Sharenow Proxy: Fachliche 403er nicht als Error Loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13517](https://jira.hochbahn.de/browse/MOS-13517) | identity-Service: Identity change password | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13514](https://jira.hochbahn.de/browse/MOS-13514) | Authentication Proxy: Main-Branch baut nicht. | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13502](https://jira.hochbahn.de/browse/MOS-13502) | Sixt Proxy: Fachliche 403er nicht als Error Loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12670](https://jira.hochbahn.de/browse/MOS-12670) | autom. email Bestätigung nach Passwort ändern  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-76.0
 
 Deployment on **PROD** at: tba-RIDE
