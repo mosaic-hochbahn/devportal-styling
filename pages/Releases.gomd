@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-79.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 20.06.24 - 14:29:56
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14807](https://jira.hochbahn.de/projects/MOS/versions/14807)
+
+key | summary |  type
+---- | ----|----
+[MOS-13682](https://jira.hochbahn.de/browse/MOS-13682) | CIBO: erneutes CheckIn mit PayPal funktioniert nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13589](https://jira.hochbahn.de/browse/MOS-13589) | dependabot-branches mergen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13539](https://jira.hochbahn.de/browse/MOS-13539) | Systemtests für Kienzler   | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13518](https://jira.hochbahn.de/browse/MOS-13518) | Billing-Order-Adapter, package-struktur grob erstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13448](https://jira.hochbahn.de/browse/MOS-13448) | MobilityServiceProvider um KIENZLER erweitern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13412](https://jira.hochbahn.de/browse/MOS-13412) | Kienzler in MobilityServiceProvider einführen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13396](https://jira.hochbahn.de/browse/MOS-13396) | Update InternalSwitchCustomer.yaml und InternalSwitchCustomer_CustomerProfileForMigrationOrder.yaml | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13351](https://jira.hochbahn.de/browse/MOS-13351) | MobilityServiceProvider um KIENZLER erweitern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13282](https://jira.hochbahn.de/browse/MOS-13282) | Billing-Service: SendBillFilesToSaperionJob | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13210](https://jira.hochbahn.de/browse/MOS-13210) | Neuer MDL in payment-service einführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13209](https://jira.hochbahn.de/browse/MOS-13209) | Neuer MDL in order-service einführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13208](https://jira.hochbahn.de/browse/MOS-13208) | Neuer MDL in billing-services einführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13080](https://jira.hochbahn.de/browse/MOS-13080) | Analyse: Billing Systemtests nach Karate-Update langsam | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-110.0
 
 Deployment on **PROD** at: tba-BASIS
