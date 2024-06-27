@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-223.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 27.06.24 - 13:25:19
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14808](https://jira.hochbahn.de/projects/MOS/versions/14808)
+
+key | summary |  type
+---- | ----|----
+[MOS-13732](https://jira.hochbahn.de/browse/MOS-13732) | Analyse LogPay ist offline | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13704](https://jira.hochbahn.de/browse/MOS-13704) | Loggen persoenlicher Daten unterbinden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13694](https://jira.hochbahn.de/browse/MOS-13694) | Analyse - Wie läuft die Datenübernahme von Logpay zu uns | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13603](https://jira.hochbahn.de/browse/MOS-13603) | Log-Basierte Metriken korrekt umsetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13552](https://jira.hochbahn.de/browse/MOS-13552) | neues Email-Template in Sendgrid aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13369](https://jira.hochbahn.de/browse/MOS-13369) | Übernahme von Adressen von IDnow einschränken für ID Pass Perso | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12780](https://jira.hochbahn.de/browse/MOS-12780) | CRM: Bike and Ride wird in Buchungen angezeigt | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-79.0
 
 Deployment on **PROD** at
