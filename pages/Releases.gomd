@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-77.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 27.06.24 - 14:04:12
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14937](https://jira.hochbahn.de/projects/MOS/versions/14937)
+
+key | summary |  type
+---- | ----|----
+[MOS-13683](https://jira.hochbahn.de/browse/MOS-13683) | Booking-Service - Bei Finished und Canceled Status aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13637](https://jira.hochbahn.de/browse/MOS-13637) | Bike+Ride - BookingService Cleanup Job | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13482](https://jira.hochbahn.de/browse/MOS-13482) | Bike+Ride - CI/CD für History-Service anlegen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13481](https://jira.hochbahn.de/browse/MOS-13481) | Bike+Ride - Gitlab Repo für History-Service anlegen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-80.0
 
 Deployment on **PROD** at: tba-BILLING
