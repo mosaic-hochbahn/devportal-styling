@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-111.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 27.06.24 - 15:43:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14938](https://jira.hochbahn.de/projects/MOS/versions/14938)
+
+key | summary |  type
+---- | ----|----
+[MOS-13738](https://jira.hochbahn.de/browse/MOS-13738) | Identity-Service: Refresh-Fake überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13645](https://jira.hochbahn.de/browse/MOS-13645) | sprechende Fehlermeldung bei Accountsperre | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12297](https://jira.hochbahn.de/browse/MOS-12297) | push-notification-service Betriebsoptimierung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-77.0
 
 Deployment on **PROD** at: tba-RIDE
