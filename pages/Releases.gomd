@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-80.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 27.06.24 - 13:35:18
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14939](https://jira.hochbahn.de/projects/MOS/versions/14939)
+
+key | summary |  type
+---- | ----|----
+[MOS-13558](https://jira.hochbahn.de/browse/MOS-13558) | Logging im Order-Service verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13393](https://jira.hochbahn.de/browse/MOS-13393) | Billing-Service: HardDeleteJob | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13353](https://jira.hochbahn.de/browse/MOS-13353) | Order-Service: Logpay-Error-Codes in Response hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13352](https://jira.hochbahn.de/browse/MOS-13352) | Payment-Service: Logpay-Error-Codes in Response hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-223.0
 
 Deployment on **PROD** at: tba-MOSAIC
