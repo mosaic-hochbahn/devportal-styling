@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-224.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 04.07.24 - 13:13:33
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14809](https://jira.hochbahn.de/projects/MOS/versions/14809)
+
+key | summary |  type
+---- | ----|----
+[MOS-13829](https://jira.hochbahn.de/browse/MOS-13829) | NoConnectionReuseStrategy eingebunden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13800](https://jira.hochbahn.de/browse/MOS-13800) | Umgang mit Logpay rejects - WLT-GET-06 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13770](https://jira.hochbahn.de/browse/MOS-13770) | Nach Löschen einer Kreditkarte kann nicht mit SEPA bezahlt werden v1 | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13746](https://jira.hochbahn.de/browse/MOS-13746) | neue psp_logpay_paymethod-Einträge im systemorientierten Kündigungsprozess beachten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13443](https://jira.hochbahn.de/browse/MOS-13443) | Speicheranpassung CRM + ev. andere Services | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-112.0
 
 Deployment on **PROD** at: tba-BASIS
