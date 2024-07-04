@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-81.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 04.07.24 - 13:19:04
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14940](https://jira.hochbahn.de/projects/MOS/versions/14940)
+
+key | summary |  type
+---- | ----|----
+[MOS-13695](https://jira.hochbahn.de/browse/MOS-13695) | Analyse der Ergebnisse des Last-Test | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13692](https://jira.hochbahn.de/browse/MOS-13692) | Aspekte für GracefulShutdown und ForceNewRequestId | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13670](https://jira.hochbahn.de/browse/MOS-13670) | Order-Service, package-struktur grob erstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13199](https://jira.hochbahn.de/browse/MOS-13199) | Optimierung Zahlungsflow für Gutscheine | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-224.0
 
 Deployment on **PROD** at: tba-MOSAIC
