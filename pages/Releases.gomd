@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-78.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 04.07.24 - 15:03:36
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/14810](https://jira.hochbahn.de/projects/MOS/versions/14810)
+
+key | summary |  type
+---- | ----|----
+[MOS-13820](https://jira.hochbahn.de/browse/MOS-13820) | Index auf ticket_job_next run | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13809](https://jira.hochbahn.de/browse/MOS-13809) | Admin Terminate Subscription Endpoint | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13747](https://jira.hochbahn.de/browse/MOS-13747) | Bike+Ride - Vorbeitung fürs zurückdrehen serviceProvider/serviceType -&gt; msp/mspType | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13741](https://jira.hochbahn.de/browse/MOS-13741) | In Dockerfiles einen nonroot User verwenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13733](https://jira.hochbahn.de/browse/MOS-13733) | Fehlender Kafka in Tests blockiert Dependency Updates / CVE-Behebung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13728](https://jira.hochbahn.de/browse/MOS-13728) | Bike+Ride - BoxRentalStartedEvent um DebtData Daten ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13487](https://jira.hochbahn.de/browse/MOS-13487) | Bike+Ride - Implementierung GET /history/bookings | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13449](https://jira.hochbahn.de/browse/MOS-13449) | Bike+Ride - Nach stornierten Buchungen pollen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12994](https://jira.hochbahn.de/browse/MOS-12994) | ganzheitlicher Performancetest &#34;neuer&#34; Verlängerunglauf | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12929](https://jira.hochbahn.de/browse/MOS-12929) | Neue Package Struktur in Shuttle-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-81.0
 
 Deployment on **PROD** at: tba-BILLING
