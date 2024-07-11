@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-113.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 11.07.24 - 13:23:44
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15000](https://jira.hochbahn.de/projects/MOS/versions/15000)
+
+key | summary |  type
+---- | ----|----
+[MOS-13845](https://jira.hochbahn.de/browse/MOS-13845) | OOTW: Messaging Service: Log HttpStatus 429 as Info again  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13213](https://jira.hochbahn.de/browse/MOS-13213) | Nach Account-Deaktivierung möchte ich mit gleichen Credentials einen neuen Account anlegen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## RIDE-78.0
 
 Deployment on **PROD** at
