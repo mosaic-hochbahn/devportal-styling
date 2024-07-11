@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-225.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 11.07.24 - 13:30:12
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15001](https://jira.hochbahn.de/projects/MOS/versions/15001)
+
+key | summary |  type
+---- | ----|----
+[MOS-13836](https://jira.hochbahn.de/browse/MOS-13836) | Vorbereitung für Monitoring | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13521](https://jira.hochbahn.de/browse/MOS-13521) | Filtern von ungültigen Email-Adressen bei Prüfung vom Ablaufdatum von Kreditkarten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11755](https://jira.hochbahn.de/browse/MOS-11755) | CRM Kündigung: Deaktiviere MDL | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BASIS-113.0
 
 Deployment on **PROD** at: tba-BASIS
