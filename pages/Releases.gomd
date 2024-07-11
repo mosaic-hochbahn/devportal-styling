@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-79.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 11.07.24 - 15:16:43
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15003](https://jira.hochbahn.de/projects/MOS/versions/15003)
+
+key | summary |  type
+---- | ----|----
+[MOS-13882](https://jira.hochbahn.de/browse/MOS-13882) | customerNumber-Logging für alle Log-Ausgaben am Beispiel hvv-ticket-orchestration umsetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13838](https://jira.hochbahn.de/browse/MOS-13838) | Dynamic Versioning in jwt-auth entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13820](https://jira.hochbahn.de/browse/MOS-13820) | Index auf ticket_job_next run | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13806](https://jira.hochbahn.de/browse/MOS-13806) | Ride-MSP KW27 - 01.07-05.07.2024 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13244](https://jira.hochbahn.de/browse/MOS-13244) | Analyse: Viele Logs mit &#34;The order is still active and can not change to billable&#34; | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-225.0
 
 Deployment on **PROD** at: tba-MOSAIC
