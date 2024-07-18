@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-226.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 18.07.24 - 13:18:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15005](https://jira.hochbahn.de/projects/MOS/versions/15005)
+
+key | summary |  type
+---- | ----|----
+[MOS-13934](https://jira.hochbahn.de/browse/MOS-13934) | Cleanup nach OrderAuthorizationChecks Statuswerte getrennt betrachten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13906](https://jira.hochbahn.de/browse/MOS-13906) | Tests Refactoren: idnowdocumentvalidation | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13904](https://jira.hochbahn.de/browse/MOS-13904) | orderAllowed im CustomerStatusEvent nicht mehr beachten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13896](https://jira.hochbahn.de/browse/MOS-13896) | Tests Refactoren: orderAuthorization  | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13895](https://jira.hochbahn.de/browse/MOS-13895) | Bei OrderAuthorizationChecks Statuswerte getrennt betrachten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13851](https://jira.hochbahn.de/browse/MOS-13851) | CRM: Endpunkt für Aufhebung der Kaufsperre | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13835](https://jira.hochbahn.de/browse/MOS-13835) | Sensible Application Properties nicht loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13687](https://jira.hochbahn.de/browse/MOS-13687) | Webseite Kündigungsrücknahme defekt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-11823](https://jira.hochbahn.de/browse/MOS-11823) | Customer-Adapter: Spring Test Library aus Unit-Test Dependencies entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9530](https://jira.hochbahn.de/browse/MOS-9530) | CRM: Status &#34;Kauffunktion gesperrt&#34; umbauen und editierbar machen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-7865](https://jira.hochbahn.de/browse/MOS-7865) | Wird ein ConnectionPool in unseren MicroServices genutzt | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-83.0
 
 Deployment on **PROD** at: tba-BILLING
