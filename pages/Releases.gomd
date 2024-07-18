@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-114.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 18.07.24 - 12:11:00
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15004](https://jira.hochbahn.de/projects/MOS/versions/15004)
+
+key | summary |  type
+---- | ----|----
+[MOS-13966](https://jira.hochbahn.de/browse/MOS-13966) | OOTW: Identity Service: Context Canceled innerhalb Datenbank wird nicht korrekt erkannt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BILLING-82.0
 
 Deployment on **PROD** at
