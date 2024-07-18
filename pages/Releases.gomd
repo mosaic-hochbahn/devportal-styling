@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-83.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 18.07.24 - 13:04:22
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15101](https://jira.hochbahn.de/projects/MOS/versions/15101)
+
+key | summary |  type
+---- | ----|----
+[MOS-13779](https://jira.hochbahn.de/browse/MOS-13779) | Billing-Service: MissingBillsRecoveryUseCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13745](https://jira.hochbahn.de/browse/MOS-13745) | Erstellung Payment Reports/Alertings | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13712](https://jira.hochbahn.de/browse/MOS-13712) | NetAmount selbst ausrechnen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13209](https://jira.hochbahn.de/browse/MOS-13209) | Neuer MDL in order-service einführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-114.0
 
 Deployment on **PROD** at: tba-BASIS
