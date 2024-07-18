@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-80.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 18.07.24 - 13:35:51
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15100](https://jira.hochbahn.de/projects/MOS/versions/15100)
+
+key | summary |  type
+---- | ----|----
+[MOS-13962](https://jira.hochbahn.de/browse/MOS-13962) | Rückerstattete Tickets werden in der google Wallet nicht ungültig | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13898](https://jira.hochbahn.de/browse/MOS-13898) | Hohe Zahl von &#34;The ticket does not belong to the logged in customer&#34; | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13810](https://jira.hochbahn.de/browse/MOS-13810) | B+R - Das Offer in der API Dokumentation aktualisieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13775](https://jira.hochbahn.de/browse/MOS-13775) | Bike+Ride - Restriktion für aktive Buchungen einführen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13749](https://jira.hochbahn.de/browse/MOS-13749) | Bike+Ride - bookingId und bookedAt in Responses ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13731](https://jira.hochbahn.de/browse/MOS-13731) | Kauf von DT am letzten Tag eines Monats | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13689](https://jira.hochbahn.de/browse/MOS-13689) | ShareNow: Neues Enum für Flughafengebühren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13450](https://jira.hochbahn.de/browse/MOS-13450) | Bike+Ride - Stornierte Buchungen bei uns abbrechen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-226.0
 
 Deployment on **PROD** at: tba-MOSAIC
