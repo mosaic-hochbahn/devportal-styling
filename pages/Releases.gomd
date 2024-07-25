@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-84.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 25.07.24 - 13:30:13
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15102](https://jira.hochbahn.de/projects/MOS/versions/15102)
+
+key | summary |  type
+---- | ----|----
+[MOS-13999](https://jira.hochbahn.de/browse/MOS-13999) | Product name in der Rechnungsemail für Kienzler fehlerhaft  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13794](https://jira.hochbahn.de/browse/MOS-13794) | Order-Service: CrmListOrdersUseCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13793](https://jira.hochbahn.de/browse/MOS-13793) | Order-Service: CrmSearchOrdersUseCase  | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13756](https://jira.hochbahn.de/browse/MOS-13756) | Billing Systemtest für CIBO mit gesperrter Zahlungsmethode | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13230](https://jira.hochbahn.de/browse/MOS-13230) | Billing Automated Tests erweitern um den Wechsel der Zahlungsmethode (CarSharing) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13205](https://jira.hochbahn.de/browse/MOS-13205) | Überführung Kafka-Consumer-Group in der application.yaml  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-80.0
 
 Deployment on **PROD** at
