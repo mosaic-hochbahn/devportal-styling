@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-81.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 25.07.24 - 15:14:50
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15006](https://jira.hochbahn.de/projects/MOS/versions/15006)
+
+key | summary |  type
+---- | ----|----
+[MOS-14030](https://jira.hochbahn.de/browse/MOS-14030) | Quartz Jobs in Miles-Ride-Orchestration nach Umbenennung von Packages kaputt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13812](https://jira.hochbahn.de/browse/MOS-13812) | Booking-Service - Sortierung der Bookings anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13776](https://jira.hochbahn.de/browse/MOS-13776) | Bike+Ride - Zurückdrehen serviceProvider/serviceType -&gt; msp/mspType | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13708](https://jira.hochbahn.de/browse/MOS-13708) | Bike+Ride - Customer Locks | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13265](https://jira.hochbahn.de/browse/MOS-13265) | StructuredLogger in miles-rental-orchestration einführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-115.0
 
 Deployment on **PROD** at: tba-BASIS
