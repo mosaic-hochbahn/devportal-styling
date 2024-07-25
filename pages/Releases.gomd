@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-115.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 25.07.24 - 14:00:54
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15008](https://jira.hochbahn.de/projects/MOS/versions/15008)
+
+key | summary |  type
+---- | ----|----
+[MOS-13935](https://jira.hochbahn.de/browse/MOS-13935) | Firebase-Adapter: Add feature toggle to block sending push notifications | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13905](https://jira.hochbahn.de/browse/MOS-13905) | orderAllowed aus CustomerStatusEvent entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13815](https://jira.hochbahn.de/browse/MOS-13815) | Send Template Email Schnittstelle um Downloadmöglichkeit der Anhänge erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13410](https://jira.hochbahn.de/browse/MOS-13410) | Proxy Logging: Quelle des Statuscode angeben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-228.0
 
 Deployment on **PROD** at: tba-MOSAIC
