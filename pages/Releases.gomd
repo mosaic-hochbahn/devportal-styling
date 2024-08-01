@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-116.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 01.08.24 - 13:32:52
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15105](https://jira.hochbahn.de/projects/MOS/versions/15105)
+
+key | summary |  type
+---- | ----|----
+[MOS-13832](https://jira.hochbahn.de/browse/MOS-13832) | Go-Kafka nicht deterministisches Verhalten bei Context Canceled | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13679](https://jira.hochbahn.de/browse/MOS-13679) | Adjust Services to write also percentiles for prometheus metrics | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12911](https://jira.hochbahn.de/browse/MOS-12911) | ERMO #100 - Bonvoyo ClientID wird aktuell an 2 Stellen konfiguriert | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9122](https://jira.hochbahn.de/browse/MOS-9122) | Dokumentation Echo-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-82.0
 
 Deployment on **PROD** at: tba-RIDE
