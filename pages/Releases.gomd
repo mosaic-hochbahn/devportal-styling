@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-85.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 01.08.24 - 13:13:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15104](https://jira.hochbahn.de/projects/MOS/versions/15104)
+
+key | summary |  type
+---- | ----|----
+[MOS-13795](https://jira.hochbahn.de/browse/MOS-13795) | OrderService: GetOrderByOrderNumberUseCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## RIDE-81.0
 
 Deployment on **PROD** at
