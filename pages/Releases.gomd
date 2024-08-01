@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-229.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 01.08.24 - 13:16:47
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15007](https://jira.hochbahn.de/projects/MOS/versions/15007)
+
+key | summary |  type
+---- | ----|----
+[MOS-14081](https://jira.hochbahn.de/browse/MOS-14081) | non-root user in Services ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14055](https://jira.hochbahn.de/browse/MOS-14055) | Google Filter auf Aktualität prüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14037](https://jira.hochbahn.de/browse/MOS-14037) | Updates fürs CRM | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13970](https://jira.hochbahn.de/browse/MOS-13970) | CWE-269 in unseren Services fixen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13893](https://jira.hochbahn.de/browse/MOS-13893) | CloudSQL-Export-für mosaic_customer um Vornamen ergänzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13892](https://jira.hochbahn.de/browse/MOS-13892) | CloudSQL-Export-Updatefrequenz für mosaic_idnow_document_validation auf alle 2 Stunden ändern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12230](https://jira.hochbahn.de/browse/MOS-12230) | Update-Fehlermeldungen aus Filter nehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-85.0
 
 Deployment on **PROD** at: tba-BILLING
