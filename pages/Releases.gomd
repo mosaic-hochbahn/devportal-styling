@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-82.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 01.08.24 - 13:28:27
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15009](https://jira.hochbahn.de/projects/MOS/versions/15009)
+
+key | summary |  type
+---- | ----|----
+[MOS-14077](https://jira.hochbahn.de/browse/MOS-14077) | ShareNow Orchestration Stuctured Logging in recovery jobs verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14051](https://jira.hochbahn.de/browse/MOS-14051) | Eigene JacksonMapper Konfigurationen in Services mit Kafka-Consumer erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14049](https://jira.hochbahn.de/browse/MOS-14049) | Flaky DT Renewal Test | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14038](https://jira.hochbahn.de/browse/MOS-14038) | B+R - BoxRentalStarted Event verschickt die vollen Adressdaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14032](https://jira.hochbahn.de/browse/MOS-14032) | Booking- und History-Service sollen mit doppelten Booking-IDs umgehen können | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14015](https://jira.hochbahn.de/browse/MOS-14015) | Unbekannter Fehlercode bei Miles bei niedriegem Batteriestand | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13744](https://jira.hochbahn.de/browse/MOS-13744) | History-Service - Aufbau von Datenbestand mit Box-Rentals | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13684](https://jira.hochbahn.de/browse/MOS-13684) | Bike+Ride - interne Schnittstelle zwischen box-rental-service und booking-service überarbeiten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13261](https://jira.hochbahn.de/browse/MOS-13261) | Fehler von Logpay verarbeiten und E-Mail Benachrichtigung rausschicken | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13115](https://jira.hochbahn.de/browse/MOS-13115) | Bike+Ride - Bereitstellung von Box Bookings fürs CRM | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13027](https://jira.hochbahn.de/browse/MOS-13027) | Zeitpunkt letzter Versuch des Verlängerungslaufes | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12975](https://jira.hochbahn.de/browse/MOS-12975) | Zeitpunkt zum Start des Verlängerungslauf | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-229.0
 
 Deployment on **PROD** at: tba-MOSAIC
