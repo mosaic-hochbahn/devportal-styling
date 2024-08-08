@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-230.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 08.08.24 - 13:03:31
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15106](https://jira.hochbahn.de/projects/MOS/versions/15106)
+
+key | summary |  type
+---- | ----|----
+[MOS-14103](https://jira.hochbahn.de/browse/MOS-14103) | Fixen der Ansicht: Bike and Ride wird im Kundenprofil angezeigt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14099](https://jira.hochbahn.de/browse/MOS-14099) | Kaufsperre fuer genehmigte Kunden aufheben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14088](https://jira.hochbahn.de/browse/MOS-14088) | Toggle für Kaufsperre auf Prod aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13842](https://jira.hochbahn.de/browse/MOS-13842) | Refactoring Naming CRM-UseCases | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13763](https://jira.hochbahn.de/browse/MOS-13763) | getLogPayCustomerStatus auf CustomerAdapterDomain verschieben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11770](https://jira.hochbahn.de/browse/MOS-11770) | Intern: Kündige PT-Nova Vertrag | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BASIS-116.0
 
 Deployment on **PROD** at
