@@ -1,5 +1,31 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-86.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 08.08.24 - 13:10:44
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15015](https://jira.hochbahn.de/projects/MOS/versions/15015)
+
+key | summary |  type
+---- | ----|----
+[MOS-14083](https://jira.hochbahn.de/browse/MOS-14083) | Fehlerbehandlung für &#34;create-new-jira-fix-version&#34; verbessern | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14040](https://jira.hochbahn.de/browse/MOS-14040) | Rechnungsadresse richtig fortschreiben  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14026](https://jira.hochbahn.de/browse/MOS-14026) | Gutschein-Prozess mit Moia erzeugt Fehler | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14024](https://jira.hochbahn.de/browse/MOS-14024) | Billing-Services und DEV auf Java 21 umstellen + Dependency-Updates | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14023](https://jira.hochbahn.de/browse/MOS-14023) | Billing-Mocks und Automated-Tests auf Java 21 umstellen + Dependency-Updates | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14020](https://jira.hochbahn.de/browse/MOS-14020) | Billing-Libs auf Java 21 umstellen + Dependency-Updates | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13963](https://jira.hochbahn.de/browse/MOS-13963) | Payment Service - Sondergebühren mit neuem Flow | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13929](https://jira.hochbahn.de/browse/MOS-13929) | Order Service - Sondergebühren mit neuem Flow | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13862](https://jira.hochbahn.de/browse/MOS-13862) | Order-Service: GetOrdersUseCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13798](https://jira.hochbahn.de/browse/MOS-13798) | Order-Service: CrmSetOrderRefundedUseCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13796](https://jira.hochbahn.de/browse/MOS-13796) | Order-Service: CrmSubOrdersByOrderNumberUseCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13777](https://jira.hochbahn.de/browse/MOS-13777) | Billing-Service Prometheus-Export funktioniert nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13755](https://jira.hochbahn.de/browse/MOS-13755) | Konfiguration der Log-Level vereinheitlichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13198](https://jira.hochbahn.de/browse/MOS-13198) | Optimierung Zahlungsflow für Sondergebühren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13084](https://jira.hochbahn.de/browse/MOS-13084) | Billing Services auf JAVA 21 bringen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## MOSAIC-230.0
 
 Deployment on **PROD** at: tba-MOSAIC
