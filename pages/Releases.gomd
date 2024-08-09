@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-117.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 09.08.24 - 10:07:53
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15014](https://jira.hochbahn.de/projects/MOS/versions/15014)
+
+key | summary |  type
+---- | ----|----
+[MOS-14076](https://jira.hochbahn.de/browse/MOS-14076) | Identity-Service: Counter für Anonymous Login/Refresh | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13952](https://jira.hochbahn.de/browse/MOS-13952) | Cambio | Proxy für Dev/QA einrichten /bookingAPI | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13899](https://jira.hochbahn.de/browse/MOS-13899) | Resilienter Umgang mit kafka messages beim Versenden von sendgrid Mails | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12855](https://jira.hochbahn.de/browse/MOS-12855) | Umsetzung Package Struktur Account Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-86.0
 
 Deployment on **PROD** at: tba-BILLING
