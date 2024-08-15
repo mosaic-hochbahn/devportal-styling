@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-84.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 15.08.24 - 14:10:37
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15301](https://jira.hochbahn.de/projects/MOS/versions/15301)
+
+key | summary |  type
+---- | ----|----
+[MOS-14181](https://jira.hochbahn.de/browse/MOS-14181) | LazyLoadingException im TicketTracker | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14165](https://jira.hochbahn.de/browse/MOS-14165) | Angleichen von (Peak) und Continuous SubscriptionRenewalJob | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14110](https://jira.hochbahn.de/browse/MOS-14110) | Ride-MSP KW32 - 05.08-09.08.2024 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14078](https://jira.hochbahn.de/browse/MOS-14078) | Analyse: sind wir Spring-Cloud Dependencies 2023.0.3 safe? | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14077](https://jira.hochbahn.de/browse/MOS-14077) | ShareNow Orchestration Stuctured Logging in recovery jobs verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14075](https://jira.hochbahn.de/browse/MOS-14075) | Booking-Service - Mapping-Fehler bei Moia-Buchungen  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14074](https://jira.hochbahn.de/browse/MOS-14074) | GET /api/v1/booking/bookingids bei Kienzler liefert 404 (nur auf PROD?) | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14047](https://jira.hochbahn.de/browse/MOS-14047) | Booking Service - Recovery Job | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14004](https://jira.hochbahn.de/browse/MOS-14004) | Cambio - Mit Postman die API durchtesten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13748](https://jira.hochbahn.de/browse/MOS-13748) | History-Service - Klärung des Order Objekts | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13420](https://jira.hochbahn.de/browse/MOS-13420) | Package-Struktur - hvv-ticket-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12259](https://jira.hochbahn.de/browse/MOS-12259) | ERMO 54 - Ride-MSP - Testbarkeit Jobs verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-8904](https://jira.hochbahn.de/browse/MOS-8904) | Toggle: &#34;Disable Active Bookings Filter&#34; ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-231.0
 
 Deployment on **PROD** at: tba-MOSAIC
