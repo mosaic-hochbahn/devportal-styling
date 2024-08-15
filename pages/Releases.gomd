@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-231.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 15.08.24 - 13:59:31
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15200](https://jira.hochbahn.de/projects/MOS/versions/15200)
+
+key | summary |  type
+---- | ----|----
+[MOS-13407](https://jira.hochbahn.de/browse/MOS-13407) | Dokus aktualisieren: Zahlmittel aktivieren bzw. löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-118.0
 
 Deployment on **PROD** at: tba-BASIS
