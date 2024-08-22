@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## MOSAIC-232.0
+
+Deployment on **PROD** at: tba-MOSAIC
+
+Deployment on *QA* at: 22.08.24 - 13:20:30
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15304](https://jira.hochbahn.de/projects/MOS/versions/15304)
+
+key | summary |  type
+---- | ----|----
+[MOS-14114](https://jira.hochbahn.de/browse/MOS-14114) | Retry fuer customer data update at Logpay und at MSP anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14011](https://jira.hochbahn.de/browse/MOS-14011) | Stabile Lösung solange der Spring-Bug noch besteht | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13726](https://jira.hochbahn.de/browse/MOS-13726) | CRM: Bike and Ride wird in Buchungen angezeigt mit spezifischen Details | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11769](https://jira.hochbahn.de/browse/MOS-11769) | Intern: Hole Profil | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11746](https://jira.hochbahn.de/browse/MOS-11746) | PT-NOVA: Hole PT-NOVA Profildaten | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BILLING-88.0
 
 Deployment on **PROD** at: tba-BILLING
