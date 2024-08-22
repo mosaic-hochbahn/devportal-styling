@@ -1,5 +1,33 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-85.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 22.08.24 - 13:59:33
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15205](https://jira.hochbahn.de/projects/MOS/versions/15205)
+
+key | summary |  type
+---- | ----|----
+[MOS-14281](https://jira.hochbahn.de/browse/MOS-14281) | Google Wallet Logging erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14277](https://jira.hochbahn.de/browse/MOS-14277) | Nur relevante Services im Ride-Deployment berücksichtigen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14222](https://jira.hochbahn.de/browse/MOS-14222) | Status PeakRenewSubscriptionsJob_trigger von Error &#34;befreien&#34; | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14212](https://jira.hochbahn.de/browse/MOS-14212) | Cambio - MSP und MSPType Enum ergänzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14193](https://jira.hochbahn.de/browse/MOS-14193) | Eventversand bei generellen Änderungen an Box-Rental-Buchungen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14191](https://jira.hochbahn.de/browse/MOS-14191) | Abruf von History-Bookings durch das 360° Cockpit | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14190](https://jira.hochbahn.de/browse/MOS-14190) | umfassendere Filter für TicketJobs-Admin-Endpunkt | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14182](https://jira.hochbahn.de/browse/MOS-14182) | Dokumentation für &#34;Neue Ticketing-Daten stehen bereit&#34; in Event und Use Cases aktualisiert | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14172](https://jira.hochbahn.de/browse/MOS-14172) | Upgrade to Java21 - History Domäne | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14167](https://jira.hochbahn.de/browse/MOS-14167) | Cambio - Gitlab Repo für StationaryBasedRental-Service anlegen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14147](https://jira.hochbahn.de/browse/MOS-14147) | Tier: Integrationstests stellen Verbindung zu localhost Memcached her | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14092](https://jira.hochbahn.de/browse/MOS-14092) | Unbekannter Fehlercode bei Sixt-Share bei Mietende im Ausland | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14071](https://jira.hochbahn.de/browse/MOS-14071) | MSP im MDC für structured logging setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14039](https://jira.hochbahn.de/browse/MOS-14039) | BoxRentalStartedEvent stationAddress Textfeld entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14025](https://jira.hochbahn.de/browse/MOS-14025) | History-Service - Update bei Änderungen der Order auslösen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14007](https://jira.hochbahn.de/browse/MOS-14007) | Cambio - Businessobjekte verfeinern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13416](https://jira.hochbahn.de/browse/MOS-13416) | Package-Struktur - vdv-barcode-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-119.0
 
 Deployment on **PROD** at: tba-BASIS
