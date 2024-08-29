@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-86.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 29.08.24 - 21:23:00
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15307](https://jira.hochbahn.de/projects/MOS/versions/15307)
+
+key | summary |  type
+---- | ----|----
+[MOS-14369](https://jira.hochbahn.de/browse/MOS-14369) | TicketStepTracker loggt Error bei unimplementierten Flows | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14317](https://jira.hochbahn.de/browse/MOS-14317) | History Service - itest Plugin ausbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14187](https://jira.hochbahn.de/browse/MOS-14187) | Cambio - CI/CD für StationaryBasedRentalService anlegen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14175](https://jira.hochbahn.de/browse/MOS-14175) | Upgrade zu Java21 - Shuttle | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14143](https://jira.hochbahn.de/browse/MOS-14143) |  Spring-Cloud Dependencies 2023.0.3 upgrade | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13415](https://jira.hochbahn.de/browse/MOS-13415) | Package-Struktur - sam-adapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-120.0
 
 Deployment on **PROD** at: tba-BASIS
