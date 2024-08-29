@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-120.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 29.08.24 - 13:55:35
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15207](https://jira.hochbahn.de/projects/MOS/versions/15207)
+
+key | summary |  type
+---- | ----|----
+[MOS-14282](https://jira.hochbahn.de/browse/MOS-14282) | Update Lombok in AccountService | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14216](https://jira.hochbahn.de/browse/MOS-14216) | Basic-Auth für ITM - von Auth-Proxy zu AES und ITM-Adapter verschieben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13953](https://jira.hochbahn.de/browse/MOS-13953) | ABT Service: Spring Cloud Dependencies Versionsupdate durchführen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12622](https://jira.hochbahn.de/browse/MOS-12622) | Auth-Proxy - Single OIDC-Token unterstützen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## MOSAIC-233.0
 
 Deployment on **PROD** at: tba-MOSAIC
