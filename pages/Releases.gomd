@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-89.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 29.08.24 - 11:48:14
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15206](https://jira.hochbahn.de/projects/MOS/versions/15206)
+
+key | summary |  type
+---- | ----|----
+[MOS-14357](https://jira.hochbahn.de/browse/MOS-14357) | Abgeschlossene Aufträge gehen nicht in den Zustand FINISHED | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14312](https://jira.hochbahn.de/browse/MOS-14312) | Payment Service - Sondergebühren mit Product Type | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14310](https://jira.hochbahn.de/browse/MOS-14310) | LogPay-Klärfälle für Mobi-Zahlung | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14299](https://jira.hochbahn.de/browse/MOS-14299) | OOTW Dependency Updates | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14150](https://jira.hochbahn.de/browse/MOS-14150) | wurstmeister Docker-Images entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13910](https://jira.hochbahn.de/browse/MOS-13910) | Verbesserung unserer API Doku für die Erstellung eines Auftrages | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13805](https://jira.hochbahn.de/browse/MOS-13805) | Order-Service: ProcessPushedRentalDebtData | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10367](https://jira.hochbahn.de/browse/MOS-10367) | Senden der Rechnung an SIXT über REST ausbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-85.0
 
 Deployment on **PROD** at
