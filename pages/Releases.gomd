@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-87.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 05.09.24 - 13:13:32
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15313](https://jira.hochbahn.de/projects/MOS/versions/15313)
+
+key | summary |  type
+---- | ----|----
+[MOS-14439](https://jira.hochbahn.de/browse/MOS-14439) | TIER - neue Testscooter übernehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14433](https://jira.hochbahn.de/browse/MOS-14433) | Offer und v1 Endpunkte in der Moia-Shuttle-Orchestration trennen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14425](https://jira.hochbahn.de/browse/MOS-14425) | OWASP Dependency Checks ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14421](https://jira.hochbahn.de/browse/MOS-14421) | Kunden-Kündigungslogik anpassen, falls es kein Ticket gibt | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14420](https://jira.hochbahn.de/browse/MOS-14420) | Feature-Toggle für ForcePeakRenewal-Modus | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14417](https://jira.hochbahn.de/browse/MOS-14417) | Code-Fix für falsche ticketJobNextRun-Berechnung einbauen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14394](https://jira.hochbahn.de/browse/MOS-14394) | Indizes erstellen auf der TicketStep/Job-Tabellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14158](https://jira.hochbahn.de/browse/MOS-14158) | Ticketing: Anpassen auf den neuen Order-Flow (ohne separates Capture) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12648](https://jira.hochbahn.de/browse/MOS-12648) | Devportal Parse Error | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-90.0
 
 Deployment on **PROD** at: tba-BILLING
