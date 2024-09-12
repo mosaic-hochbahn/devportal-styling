@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-91.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 12.09.24 - 12:34:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15401](https://jira.hochbahn.de/projects/MOS/versions/15401)
+
+key | summary |  type
+---- | ----|----
+[MOS-14113](https://jira.hochbahn.de/browse/MOS-14113) | Billing-Service: BillsWithoutBillNumberJob (Recovery und Clarification) | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BASIS-121.0
 
 Deployment on **PROD** at
