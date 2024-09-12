@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-122.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 12.09.24 - 13:09:53
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15404](https://jira.hochbahn.de/projects/MOS/versions/15404)
+
+key | summary |  type
+---- | ----|----
+[MOS-14454](https://jira.hochbahn.de/browse/MOS-14454) | Versions Updates vom microservice-starter-openapi-generator | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14383](https://jira.hochbahn.de/browse/MOS-14383) | Id-Now-Modul in Authentication-Proxy integrieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14373](https://jira.hochbahn.de/browse/MOS-14373) | Authentication Proxy: Dota Proxy integrieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14362](https://jira.hochbahn.de/browse/MOS-14362) | Warning Logs beim Parsen von JWT in commons zur Bestimmung der CustomerNumber  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14332](https://jira.hochbahn.de/browse/MOS-14332) | Firebase-CloudMsg-Adapter undeployen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14329](https://jira.hochbahn.de/browse/MOS-14329) | echo-service undeployen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9138](https://jira.hochbahn.de/browse/MOS-9138) | Dokumentation Testing-Proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-91.0
 
 Deployment on **PROD** at: tba-BILLING
