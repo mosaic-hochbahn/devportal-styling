@@ -1,5 +1,31 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-88.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 12.09.24 - 14:07:15
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15403](https://jira.hochbahn.de/projects/MOS/versions/15403)
+
+key | summary |  type
+---- | ----|----
+[MOS-14461](https://jira.hochbahn.de/browse/MOS-14461) | Rental-Service &#34;Standalone&#34;-Mock entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14451](https://jira.hochbahn.de/browse/MOS-14451) | microservic-starter-commons dependency updaten im Wallet-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14431](https://jira.hochbahn.de/browse/MOS-14431) | Fehlenden Index currentValidity auf TicketOrder erstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14394](https://jira.hochbahn.de/browse/MOS-14394) | Indizes erstellen auf der TicketStep/Job-Tabellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14304](https://jira.hochbahn.de/browse/MOS-14304) | Cambio - Service deployen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14237](https://jira.hochbahn.de/browse/MOS-14237) | Im History-Service Events auf Topic BOOKING_CHANGE verarbeiten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14236](https://jira.hochbahn.de/browse/MOS-14236) | Im Booking-Service Events auf Topic BOOKING_CHANGE verarbeiten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14219](https://jira.hochbahn.de/browse/MOS-14219) | Cambio - Endpunkt mocken: Miete beenden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14199](https://jira.hochbahn.de/browse/MOS-14199) | Cambio - Ride-MSP API Design | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14132](https://jira.hochbahn.de/browse/MOS-14132) | ShareNow - Contract Tests für Jobs nachziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13461](https://jira.hochbahn.de/browse/MOS-13461) | MCRM entfernen: Shuttle Service | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12634](https://jira.hochbahn.de/browse/MOS-12634) | ERMO#99 - Grafana Dashboard mithilfe eigener Metriken erstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12508](https://jira.hochbahn.de/browse/MOS-12508) | Verwendung von Long-Lived Connections vermeiden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11089](https://jira.hochbahn.de/browse/MOS-11089) | neuer ungemappter Miles-Errocode &#34;ride_end_parking_mode_in_progress&#34; | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11086](https://jira.hochbahn.de/browse/MOS-11086) | neuer ungemappter Tier-Errorcode &#34;VehicleNotActive&#34; | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-122.0
 
 Deployment on **PROD** at: tba-BASIS
