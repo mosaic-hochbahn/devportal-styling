@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-89.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 19.09.24 - 14:03:05
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15409](https://jira.hochbahn.de/projects/MOS/versions/15409)
+
+key | summary |  type
+---- | ----|----
+[MOS-14511](https://jira.hochbahn.de/browse/MOS-14511) | Error Log bei Kündigung ohne aktives Ticket greift zu häufig | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14507](https://jira.hochbahn.de/browse/MOS-14507) | Generierter Code soll nicht automatisch formatiert / optimiert werden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14503](https://jira.hochbahn.de/browse/MOS-14503) | Sanity Check beim setzen von ticket_job_next_run? | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14497](https://jira.hochbahn.de/browse/MOS-14497) | Dependabot Merge: Jenkins CHANGE_AUTHOR durch eigene Implementierung ersetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14459](https://jira.hochbahn.de/browse/MOS-14459) | Swagger-Annotations nicht mehr generieren, Dependency entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14450](https://jira.hochbahn.de/browse/MOS-14450) | Service Modernisierung - VOI Rental Orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14368](https://jira.hochbahn.de/browse/MOS-14368) | BookingId in Responses einbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14351](https://jira.hochbahn.de/browse/MOS-14351) | PackageSizes einer Subscription-Renewal begrenzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14212](https://jira.hochbahn.de/browse/MOS-14212) | Cambio - MSP und MSPType Enum ergänzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14186](https://jira.hochbahn.de/browse/MOS-14186) | Cambio - CI/CD für Cambio-Mock erstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14185](https://jira.hochbahn.de/browse/MOS-14185) | Cambio - Repo für Cambio-Mock erstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13557](https://jira.hochbahn.de/browse/MOS-13557) | Experiment Bewertung: Gradle Version Catalog | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13462](https://jira.hochbahn.de/browse/MOS-13462) | MCRM entfernen: Rental Service | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-123.0
 
 Deployment on **PROD** at: tba-BASIS
