@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-92.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 19.09.24 - 11:52:07
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15406](https://jira.hochbahn.de/projects/MOS/versions/15406)
+
+key | summary |  type
+---- | ----|----
+[MOS-14570](https://jira.hochbahn.de/browse/MOS-14570) | Recovery für Stornierung mit PostPay-Flow funktioniert nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14224](https://jira.hochbahn.de/browse/MOS-14224) | Prüfung der Zahlungsmethode bei Auftragsanlage | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14211](https://jira.hochbahn.de/browse/MOS-14211) | Cambio MDL einführen (order-service) | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14162](https://jira.hochbahn.de/browse/MOS-14162) | Cambio | Zahlung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14161](https://jira.hochbahn.de/browse/MOS-14161) | Cambio | Auftrag stornieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-88.0
 
 Deployment on **PROD** at
