@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-90.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 26.09.24 - 13:16:14
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15412](https://jira.hochbahn.de/projects/MOS/versions/15412)
+
+key | summary |  type
+---- | ----|----
+[MOS-14548](https://jira.hochbahn.de/browse/MOS-14548) | Ride-MSP KW39 - 16.09-20.09.2024 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14516](https://jira.hochbahn.de/browse/MOS-14516) | PoC: Server -&gt; Client Kommunikation statt Polling | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14499](https://jira.hochbahn.de/browse/MOS-14499) | Cambio - StationaryBasedRentalNoficationEvent mit Bodies bauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14497](https://jira.hochbahn.de/browse/MOS-14497) | Dependabot Merge: Jenkins CHANGE_AUTHOR durch eigene Implementierung ersetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14470](https://jira.hochbahn.de/browse/MOS-14470) | Cambio - Entitäten erstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14212](https://jira.hochbahn.de/browse/MOS-14212) | Cambio - MSP und MSPType Enum ergänzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## CUSTOMER-238.0
 
 Deployment on **PROD** at: tba-CUSTOMER
