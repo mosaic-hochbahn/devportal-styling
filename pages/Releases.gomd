@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-238.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 26.09.24 - 13:06:53
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15418](https://jira.hochbahn.de/projects/MOS/versions/15418)
+
+key | summary |  type
+---- | ----|----
+[MOS-14647](https://jira.hochbahn.de/browse/MOS-14647) | Dependabot: Dockerfile-Scanning für Test-Mocks nachziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14585](https://jira.hochbahn.de/browse/MOS-14585) | Dependabot: Ignore Major-Version for Dockerfile | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14567](https://jira.hochbahn.de/browse/MOS-14567) | Zahlmittel: Aktiviere Zahlmittel | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14523](https://jira.hochbahn.de/browse/MOS-14523) | Automatisches schließen der Tickets die auf PROD deployed wurden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13389](https://jira.hochbahn.de/browse/MOS-13389) | Verbleibende TODOs im Code abarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13366](https://jira.hochbahn.de/browse/MOS-13366) | Testtypen Übersicht vervollständigen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11773](https://jira.hochbahn.de/browse/MOS-11773) | Testing: Führerschein manipulieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11747](https://jira.hochbahn.de/browse/MOS-11747) | PT-NOVA: Übernehme PT-Zahlmethode | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BILLING-93.0
 
 Deployment on **PROD** at: tba-BILLING
