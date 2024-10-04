@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-125.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 04.10.24 - 13:36:50
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15420](https://jira.hochbahn.de/projects/MOS/versions/15420)
+
+key | summary |  type
+---- | ----|----
+[MOS-14728](https://jira.hochbahn.de/browse/MOS-14728) | Identity-Service: Unleash nicht initialisiert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14710](https://jira.hochbahn.de/browse/MOS-14710) | Messaging-Service: Application-Name entspricht nicht unserer Konvention | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14709](https://jira.hochbahn.de/browse/MOS-14709) | ITM-Proxy: Unleash falsch konfiguriert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14679](https://jira.hochbahn.de/browse/MOS-14679) | Identity-Service: Logout-Error mit falschen Issuer abfangen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14402](https://jira.hochbahn.de/browse/MOS-14402) | Nil Pointer Reference im Identity Services Kafka Consumer | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## CUSTOMER-239.0
 
 Deployment on **PROD** at: tba-CUSTOMER
