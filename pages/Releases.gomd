@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-240.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 10.10.24 - 13:25:01
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15600](https://jira.hochbahn.de/projects/MOS/versions/15600)
+
+key | summary |  type
+---- | ----|----
+[MOS-14721](https://jira.hochbahn.de/browse/MOS-14721) | customer deploy webhook: remove sucess message for dev deploy  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14720](https://jira.hochbahn.de/browse/MOS-14720) | [customer-service] dependabot spring cloud version | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14716](https://jira.hochbahn.de/browse/MOS-14716) | dependabot error: use local kafka to speed up build | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14714](https://jira.hochbahn.de/browse/MOS-14714) | Endpunkte zur Switch-PIN V1 abschalten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14701](https://jira.hochbahn.de/browse/MOS-14701) | [OOTW] merge dependabot branches that failed | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13379](https://jira.hochbahn.de/browse/MOS-13379) | system-test-dev-smokeTest verwendeten branch als build parameter konfigurierbar machen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13365](https://jira.hochbahn.de/browse/MOS-13365) | Systemtest README.md updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11744](https://jira.hochbahn.de/browse/MOS-11744) | Zahlmittel Mobi: Hole Arbeitgeber-Details (MOBI) | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11742](https://jira.hochbahn.de/browse/MOS-11742) | Zahlmittel: Zahlmittel löschen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## RIDE-92.0
 
 Deployment on **PROD** at: tba-RIDE
