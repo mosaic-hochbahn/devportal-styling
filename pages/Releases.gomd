@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-92.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 10.10.24 - 13:17:27
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15501](https://jira.hochbahn.de/projects/MOS/versions/15501)
+
+key | summary |  type
+---- | ----|----
+[MOS-13562](https://jira.hochbahn.de/browse/MOS-13562) | OrderNumber im Booking ergänzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-95.0
 
 Deployment on **PROD** at: tba-BILLING
