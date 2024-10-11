@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-126.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 11.10.24 - 13:02:50
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15503](https://jira.hochbahn.de/projects/MOS/versions/15503)
+
+key | summary |  type
+---- | ----|----
+[MOS-14730](https://jira.hochbahn.de/browse/MOS-14730) | Push-Notification-Service: Zuordnung einzelner Log-Nachrichten mittels correlation-id/request-id seit Batchverarbeitung nicht mehr möglich | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14621](https://jira.hochbahn.de/browse/MOS-14621) | Log based metrics für Services mit anderem Logging-Format | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14608](https://jira.hochbahn.de/browse/MOS-14608) | Erweiterung der Zielsysteme im PT-Proxy (QA) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14557](https://jira.hochbahn.de/browse/MOS-14557) | Authentication-Proxy: Package-Level Logger | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14525](https://jira.hochbahn.de/browse/MOS-14525) | JavaDefaultPipeline überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## CUSTOMER-240.0
 
 Deployment on **PROD** at: tba-CUSTOMER
