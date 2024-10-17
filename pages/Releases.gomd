@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-96.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 17.10.24 - 13:18:15
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15602](https://jira.hochbahn.de/projects/MOS/versions/15602)
+
+key | summary |  type
+---- | ----|----
+[MOS-14762](https://jira.hochbahn.de/browse/MOS-14762) | dependabot-branches mergen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14044](https://jira.hochbahn.de/browse/MOS-14044) | Implementierung des Zahlungsflows für die Erstattungen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14043](https://jira.hochbahn.de/browse/MOS-14043) | Neues Event für die Erstattungen im Order-Service versenden | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-13686](https://jira.hochbahn.de/browse/MOS-13686) | Optimierung Zahlungsflows für Erstattungen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-126.0
 
 Deployment on **PROD** at
