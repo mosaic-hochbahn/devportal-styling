@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-241.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 17.10.24 - 14:18:46
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15506](https://jira.hochbahn.de/projects/MOS/versions/15506)
+
+key | summary |  type
+---- | ----|----
+[MOS-14837](https://jira.hochbahn.de/browse/MOS-14837) | Fix Idnow-Doc-Val-Orchestration Main | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14805](https://jira.hochbahn.de/browse/MOS-14805) | reset-dev-stage remove success message | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14798](https://jira.hochbahn.de/browse/MOS-14798) | cambioPin zurück liefern an customer-service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14794](https://jira.hochbahn.de/browse/MOS-14794) | Fix Clarification-Service Master | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14793](https://jira.hochbahn.de/browse/MOS-14793) | dependency-analyzer hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14792](https://jira.hochbahn.de/browse/MOS-14792) | Fix Customer-Adapter Master | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14718](https://jira.hochbahn.de/browse/MOS-14718) | handleStuckDocumentValidations: version = null | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14703](https://jira.hochbahn.de/browse/MOS-14703) | Refactoring getLogPayCustomerStatus | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14551](https://jira.hochbahn.de/browse/MOS-14551) | customerpipeline um trivy scan stage ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14337](https://jira.hochbahn.de/browse/MOS-14337) | Cambionutzer anlegen Endpunkt des customer-adapter nutzen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14336](https://jira.hochbahn.de/browse/MOS-14336) | Cambio API anbinden und nutzen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## RIDE-93.0
 
 Deployment on **PROD** at: tba-RIDE
