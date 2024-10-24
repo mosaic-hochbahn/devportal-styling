@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-97.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 24.10.24 - 11:54:25
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15507](https://jira.hochbahn.de/projects/MOS/versions/15507)
+
+key | summary |  type
+---- | ----|----
+[MOS-14717](https://jira.hochbahn.de/browse/MOS-14717) | Customer-Anfragen mit Origin-Header füllen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14638](https://jira.hochbahn.de/browse/MOS-14638) | PaymentSuccessful-Event im Payment-Service nicht mehr senden | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14302](https://jira.hochbahn.de/browse/MOS-14302) | Ticketing-Flow - PaymentResult auswerten und nicht per ProcessSalesDataEvent triggern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10276](https://jira.hochbahn.de/browse/MOS-10276) | [ERMO-54] Order-Service Validierung der Forderungsdaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-127.0
 
 Deployment on **PROD** at
