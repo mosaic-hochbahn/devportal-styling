@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-94.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 24.10.24 - 14:35:06
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15508](https://jira.hochbahn.de/projects/MOS/versions/15508)
+
+key | summary |  type
+---- | ----|----
+[MOS-14832](https://jira.hochbahn.de/browse/MOS-14832) | ErrorOrigin.MSP bzw. RIDE zu RIDE_MSP umbenennen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14753](https://jira.hochbahn.de/browse/MOS-14753) | Kompatibilitätsprüfung mit aktueller Ride API v2 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14575](https://jira.hochbahn.de/browse/MOS-14575) | Terraform Infrastruktur in eigenen Repo Teil 2: Umziehen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14481](https://jira.hochbahn.de/browse/MOS-14481) | Cambio - Im Systemtest nach aktiver Reservierung pollen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14480](https://jira.hochbahn.de/browse/MOS-14480) | Cambio - Im Systemtest reservieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14473](https://jira.hochbahn.de/browse/MOS-14473) | Cambio - Implementierung GET /reservations/{reservationId} | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14471](https://jira.hochbahn.de/browse/MOS-14471) | Cambio - Implementierung POST /reservations | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10097](https://jira.hochbahn.de/browse/MOS-10097) | Ticket-File DB soll nur noch benötigte Einträge enthalten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## CUSTOMER-242.0
 
 Deployment on **PROD** at: tba-CUSTOMER
