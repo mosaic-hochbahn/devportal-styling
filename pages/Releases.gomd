@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-242.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 24.10.24 - 13:37:52
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15509](https://jira.hochbahn.de/projects/MOS/versions/15509)
+
+key | summary |  type
+---- | ----|----
+[MOS-14834](https://jira.hochbahn.de/browse/MOS-14834) | Datenbereinigung: Kunde ist bei Moia bereits gelöscht | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14582](https://jira.hochbahn.de/browse/MOS-14582) | Prozesserweiterung Löschen eines Zahlmittels | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14485](https://jira.hochbahn.de/browse/MOS-14485) | APIs anderer Teams in unseren Services Updaten | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14291](https://jira.hochbahn.de/browse/MOS-14291) | Cambio | Customer | Aktivierung eines Users | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13370](https://jira.hochbahn.de/browse/MOS-13370) | @flakyTest Tests aktivieren oder löschen, sowie diese Annotation vollständig entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13368](https://jira.hochbahn.de/browse/MOS-13368) | PROD deployment job um merge step für die Systemtest ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-97.0
 
 Deployment on **PROD** at: tba-BILLING
