@@ -1,5 +1,34 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-243.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 01.11.24 - 13:34:04
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15621](https://jira.hochbahn.de/projects/MOS/versions/15621)
+
+key | summary |  type
+---- | ----|----
+[MOS-14938](https://jira.hochbahn.de/browse/MOS-14938) | Fehler im Transaction Handling | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14867](https://jira.hochbahn.de/browse/MOS-14867) | ShareNow--&gt;Free2move | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14811](https://jira.hochbahn.de/browse/MOS-14811) | clean up ToDos | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14700](https://jira.hochbahn.de/browse/MOS-14700) | PaymentMethods: verbleibende UseCases | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14573](https://jira.hochbahn.de/browse/MOS-14573) | Fix Transaktions-Handling für den CleverTapSyncJob | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14533](https://jira.hochbahn.de/browse/MOS-14533) | Missing Enum value: Cambio, CleverTap Mapper | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14340](https://jira.hochbahn.de/browse/MOS-14340) | Update Endpunkt contact information anbinden und nutzen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-12052](https://jira.hochbahn.de/browse/MOS-12052) | Clean Up: DriversLicenceMapper macht Fachlogik | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11455](https://jira.hochbahn.de/browse/MOS-11455) | [automated-tests] upgrade to Java 21 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11454](https://jira.hochbahn.de/browse/MOS-11454) | [voucherify-mock] upgrade to JAva 21 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11453](https://jira.hochbahn.de/browse/MOS-11453) | [paypal-mock] upgrade to Java 21  | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11360](https://jira.hochbahn.de/browse/MOS-11360) | [voucherify-os] upgrade to Java 21  | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11358](https://jira.hochbahn.de/browse/MOS-11358) | [clarification-service] upgrade to Java 21 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11357](https://jira.hochbahn.de/browse/MOS-11357) | [clarification-os] upgrade to Java 21 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11354](https://jira.hochbahn.de/browse/MOS-11354) | [payment-method-activation-os] upgrade to Java 21 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11352](https://jira.hochbahn.de/browse/MOS-11352) | [document-validation] upgrade to Java 21 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-11349](https://jira.hochbahn.de/browse/MOS-11349) | [customer-os] upgrade to Java 21 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-10160](https://jira.hochbahn.de/browse/MOS-10160) | x-origin-service header missing | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-129.0
 
 Deployment on **PROD** at: tba-BASIS
