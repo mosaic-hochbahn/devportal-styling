@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-129.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 01.11.24 - 13:06:22
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15512](https://jira.hochbahn.de/projects/MOS/versions/15512)
+
+key | summary |  type
+---- | ----|----
+[MOS-14962](https://jira.hochbahn.de/browse/MOS-14962) | Bonvoyo Proxy: Überschreiten des Memory Limits beim Dateiupload | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14950](https://jira.hochbahn.de/browse/MOS-14950) | 01.11. // TIER: Toggle für Proxy deaktivieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14939](https://jira.hochbahn.de/browse/MOS-14939) | identity-service: Update codegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14902](https://jira.hochbahn.de/browse/MOS-14902) | identity service: requestId in Event Header schreiben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14827](https://jira.hochbahn.de/browse/MOS-14827) | Warnings zum Start des Account Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14822](https://jira.hochbahn.de/browse/MOS-14822) | messaging-service - Received unknown event | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14819](https://jira.hochbahn.de/browse/MOS-14819) | Reached maximum configured retry count - in Log von push-service | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14531](https://jira.hochbahn.de/browse/MOS-14531) | Authentication Proxy: Mockery einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12415](https://jira.hochbahn.de/browse/MOS-12415) | Identity-Service: Redis-Client Update bricht Rate-Limit | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-95.0
 
 Deployment on **PROD** at: tba-RIDE
