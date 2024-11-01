@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-98.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 01.11.24 - 13:35:27
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15511](https://jira.hochbahn.de/projects/MOS/versions/15511)
+
+key | summary |  type
+---- | ----|----
+[MOS-14945](https://jira.hochbahn.de/browse/MOS-14945) | Grafana-Dashboard für Aufrufzeiten von Drittsystemen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14631](https://jira.hochbahn.de/browse/MOS-14631) | Migration veralteter Gradle-Plugins zu JVM Test Suites  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14360](https://jira.hochbahn.de/browse/MOS-14360) | Cambio - Create Order und finished Event vom MSP-Team konsumieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14018](https://jira.hochbahn.de/browse/MOS-14018) | Analyse aller Billing Services - Wo und wie wird das Ergebnis der StreamBridge ausgewertet | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## CUSTOMER-243.0
 
 Deployment on **PROD** at: tba-CUSTOMER
