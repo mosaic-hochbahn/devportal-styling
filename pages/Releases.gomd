@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-95.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 01.11.24 - 12:24:26
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15619](https://jira.hochbahn.de/projects/MOS/versions/15619)
+
+key | summary |  type
+---- | ----|----
+[MOS-14932](https://jira.hochbahn.de/browse/MOS-14932) | Security: AccessValidationService - Authorization Header Log entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14920](https://jira.hochbahn.de/browse/MOS-14920) | Cambio - Zeitliche Unterschiede im BookingProposal Alternative Objekt abbilden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14843](https://jira.hochbahn.de/browse/MOS-14843) | Am 28.10.: Daten bisheriger TIER-Nutzer an SV bereitstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14754](https://jira.hochbahn.de/browse/MOS-14754) | gRPC-Protobuf Setup in Moia-Shuttle-Orchestration | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14686](https://jira.hochbahn.de/browse/MOS-14686) | Security Scans in Pipeline ergaenzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12580](https://jira.hochbahn.de/browse/MOS-12580) | Rental-Service während DEV-Deployment nicht erreichbar: Prüfung Liveness und Readyness | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BASIS-128.0
 
 Deployment on **PROD** at
