@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-96.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 07.11.24 - 13:40:49
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15513](https://jira.hochbahn.de/projects/MOS/versions/15513)
+
+key | summary |  type
+---- | ----|----
+[MOS-14474](https://jira.hochbahn.de/browse/MOS-14474) | Cambio - Implementierung GET /reservations/{reservationId}/can-cancel | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12580](https://jira.hochbahn.de/browse/MOS-12580) | Rental-Service während DEV-Deployment nicht erreichbar: Prüfung Liveness und Readyness | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-10097](https://jira.hochbahn.de/browse/MOS-10097) | Ticket-File DB soll nur noch benötigte Einträge enthalten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-99.0
 
 Deployment on **PROD** at: tba-BILLING
