@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-99.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 07.11.24 - 13:21:17
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15514](https://jira.hochbahn.de/projects/MOS/versions/15514)
+
+key | summary |  type
+---- | ----|----
+[MOS-14988](https://jira.hochbahn.de/browse/MOS-14988) | Order Recovery läuft obwohl ein Klärfall erstellt wurde | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14164](https://jira.hochbahn.de/browse/MOS-14164) | Cambio | Erstattung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-98.0
 
 Deployment on **PROD** at
