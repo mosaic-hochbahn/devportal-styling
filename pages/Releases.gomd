@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-130.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 07.11.24 - 13:51:15
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15623](https://jira.hochbahn.de/projects/MOS/versions/15623)
+
+key | summary |  type
+---- | ----|----
+[MOS-14944](https://jira.hochbahn.de/browse/MOS-14944) | ptnova-proxy: Mockery einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14943](https://jira.hochbahn.de/browse/MOS-14943) | Moia-Auth-Proxy: Mockery einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14614](https://jira.hochbahn.de/browse/MOS-14614) | neuen jira-change-issue-status-from-READY-FOR-QA-to-DEPLOYED-QA Job verwenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14564](https://jira.hochbahn.de/browse/MOS-14564) | Moia-GRPC-Proxy bereitstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14200](https://jira.hochbahn.de/browse/MOS-14200) | Docker Warnings: Abarbeiten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-96.0
 
 Deployment on **PROD** at: tba-RIDE
