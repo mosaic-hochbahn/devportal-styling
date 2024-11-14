@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-245.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 14.11.24 - 13:14:05
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15702](https://jira.hochbahn.de/projects/MOS/versions/15702)
+
+key | summary |  type
+---- | ----|----
+[MOS-15040](https://jira.hochbahn.de/browse/MOS-15040) | Metric für RegisterCustomer ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14853](https://jira.hochbahn.de/browse/MOS-14853) | Update Endpunkt personal details anbinden und nutzen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BILLING-100.0
 
 Deployment on **PROD** at: tba-BILLING
