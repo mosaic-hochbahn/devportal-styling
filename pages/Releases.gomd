@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-97.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 14.11.24 - 15:35:14
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15701](https://jira.hochbahn.de/projects/MOS/versions/15701)
+
+key | summary |  type
+---- | ----|----
+[MOS-15037](https://jira.hochbahn.de/browse/MOS-15037) | ClassCast-Exception im Wallet-Service | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15017](https://jira.hochbahn.de/browse/MOS-15017) | noticePeriodInDays-DB-Feld löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14914](https://jira.hochbahn.de/browse/MOS-14914) | UREKA - 1 Spalte in ticket_order Tabelle hinzufügen und non_null constraint entfernen für cn und on | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14845](https://jira.hochbahn.de/browse/MOS-14845) | Cambio - Implementierung GET /bookings/:bookingId | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14828](https://jira.hochbahn.de/browse/MOS-14828) | Service Modernisierung - SIXT Rental Orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14756](https://jira.hochbahn.de/browse/MOS-14756) | gRPC Endpunkt RequestTripOffers anbinden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14686](https://jira.hochbahn.de/browse/MOS-14686) | Security Scans in Pipeline ergaenzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## CUSTOMER-245.0
 
 Deployment on **PROD** at: tba-CUSTOMER
