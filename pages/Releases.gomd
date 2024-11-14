@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-100.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 14.11.24 - 12:14:28
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15801](https://jira.hochbahn.de/projects/MOS/versions/15801)
+
+key | summary |  type
+---- | ----|----
+[MOS-15000](https://jira.hochbahn.de/browse/MOS-15000) | SHARE NOW zu Free2move Rebranding im Billing-Kontext | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14911](https://jira.hochbahn.de/browse/MOS-14911) | Billing-Service: Technische Klärfälle als Error loggen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## CUSTOMER-244.0
 
 Deployment on **PROD** at
