@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-101.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 21.11.24 - 14:52:04
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15703](https://jira.hochbahn.de/projects/MOS/versions/15703)
+
+key | summary |  type
+---- | ----|----
+[MOS-15016](https://jira.hochbahn.de/browse/MOS-15016) | Payment-Service: Technische Klärfälle als WARNING loggen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15015](https://jira.hochbahn.de/browse/MOS-15015) | Order-Service: Technische Klärfälle als WARNING loggen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14934](https://jira.hochbahn.de/browse/MOS-14934) | Billing-Service: Technische Klärfälle in der Datenbank migrieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## RIDE-98.0
 
 Deployment on **PROD** at: tba-RIDE
