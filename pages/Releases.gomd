@@ -1,5 +1,35 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-98.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 21.11.24 - 13:43:35
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15803](https://jira.hochbahn.de/projects/MOS/versions/15803)
+
+key | summary |  type
+---- | ----|----
+[MOS-15138](https://jira.hochbahn.de/browse/MOS-15138) | Cambio - MandatorId konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15136](https://jira.hochbahn.de/browse/MOS-15136) | &#34;The order is still active and can not change to billable&#34; Alert anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15124](https://jira.hochbahn.de/browse/MOS-15124) | Security-Issue in karate.jar blockiert Build der RideApiOrchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15115](https://jira.hochbahn.de/browse/MOS-15115) | PT Cache für Subscriptions nachfüllen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15099](https://jira.hochbahn.de/browse/MOS-15099) | io.netty:netty-common (netty-common-4.1.114.Final.jar) │ CVE-2024-47535  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15089](https://jira.hochbahn.de/browse/MOS-15089) | Cambio - DriverId korrekt zusammenbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15068](https://jira.hochbahn.de/browse/MOS-15068) | breaking change in gradle-net.masterthought-cucumber-reporting  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15002](https://jira.hochbahn.de/browse/MOS-15002) | PeakRenewalJob + BlockedHours = funktioniert nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14928](https://jira.hochbahn.de/browse/MOS-14928) | Cambio - BookingChange Event in stationary-based-rental einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14915](https://jira.hochbahn.de/browse/MOS-14915) | UREKA - booking Tabelle in der HTO erzeugen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14812](https://jira.hochbahn.de/browse/MOS-14812) | GitLab CI - Erster Durchstich unserer Pipelines | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14796](https://jira.hochbahn.de/browse/MOS-14796) | Cambio - StartedEvent entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14759](https://jira.hochbahn.de/browse/MOS-14759) | Contract Tests für OrderTrip erstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14758](https://jira.hochbahn.de/browse/MOS-14758) | Setup für Contract-Tests mit gRPC/Protobuf Clients | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14757](https://jira.hochbahn.de/browse/MOS-14757) | gRPC Endpunkt OrderTrip anbinden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14690](https://jira.hochbahn.de/browse/MOS-14690) | Cambio - Cambio Pin aus Kafka Event persistieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14677](https://jira.hochbahn.de/browse/MOS-14677) | Dependabot-Auto-Merge konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14196](https://jira.hochbahn.de/browse/MOS-14196) | Ticketing-Frontend auf MOSAIC deployen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12580](https://jira.hochbahn.de/browse/MOS-12580) | Rental-Service während DEV-Deployment nicht erreichbar: Prüfung Liveness und Readyness | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## CUSTOMER-246.0
 
 Deployment on **PROD** at: tba-CUSTOMER
