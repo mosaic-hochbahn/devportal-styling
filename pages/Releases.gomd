@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-133.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 21.11.24 - 13:11:28
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15705](https://jira.hochbahn.de/projects/MOS/versions/15705)
+
+key | summary |  type
+---- | ----|----
+[MOS-15126](https://jira.hochbahn.de/browse/MOS-15126) | Gitleaks-Issues abarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15121](https://jira.hochbahn.de/browse/MOS-15121) | Identity-Service: Request Reset Password failed | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15117](https://jira.hochbahn.de/browse/MOS-15117) | Identity-Service: Login &#34;unknown error&#34; | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15071](https://jira.hochbahn.de/browse/MOS-15071) | Authentication-Fehler bei dota-auth-proxy auf Prod | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15022](https://jira.hochbahn.de/browse/MOS-15022) | Undeploy and remove TIER - Proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15018](https://jira.hochbahn.de/browse/MOS-15018) | Zerolog Konfiguration in Bibliothek auslagern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14618](https://jira.hochbahn.de/browse/MOS-14618) | OCPI-Service - logrus austauschen gegen modernen Logger | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14616](https://jira.hochbahn.de/browse/MOS-14616) | Identity-Service - logrus austauschen gegen modernen Logger | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-97.0
 
 Deployment on **PROD** at
