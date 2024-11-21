@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-246.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 21.11.24 - 13:30:14
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15802](https://jira.hochbahn.de/projects/MOS/versions/15802)
+
+key | summary |  type
+---- | ----|----
+[MOS-15084](https://jira.hochbahn.de/browse/MOS-15084) | Cambio API fürs löschen  anlegen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15019](https://jira.hochbahn.de/browse/MOS-15019) | DB-Anfrage Order-Daten und Stammdaten zu OrderNumbers | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14780](https://jira.hochbahn.de/browse/MOS-14780) | Error Handling für Update | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14293](https://jira.hochbahn.de/browse/MOS-14293) | Cambio | Customer | Update der User Daten Richtung Cambio | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13967](https://jira.hochbahn.de/browse/MOS-13967) | Toggle für Kaufsperre aus CRM ausbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-133.0
 
 Deployment on **PROD** at: tba-BASIS
