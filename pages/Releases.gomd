@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-247.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 28.11.24 - 13:07:55
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15804](https://jira.hochbahn.de/projects/MOS/versions/15804)
+
+key | summary |  type
+---- | ----|----
+[MOS-15109](https://jira.hochbahn.de/browse/MOS-15109) | Cambio Update Mapper - Fehlermeldung enthält Telefonummer | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15001](https://jira.hochbahn.de/browse/MOS-15001) | Api2EntityMapper - Logiken für ActivationService verschieben | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14990](https://jira.hochbahn.de/browse/MOS-14990) | Mapper löschen oder einsortieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14923](https://jira.hochbahn.de/browse/MOS-14923) | Modell-Klasse für PaymentMethod | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14898](https://jira.hochbahn.de/browse/MOS-14898) | Micrometer Metric zum Monitoring von SEPA oder Kreditkarte Löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-101.0
 
 Deployment on **PROD** at
