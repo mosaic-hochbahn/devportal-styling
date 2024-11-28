@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-99.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 28.11.24 - 14:47:09
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15805](https://jira.hochbahn.de/projects/MOS/versions/15805)
+
+key | summary |  type
+---- | ----|----
+[MOS-15193](https://jira.hochbahn.de/browse/MOS-15193) | Cambio - Invalid mapping zu MosaicException | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15157](https://jira.hochbahn.de/browse/MOS-15157) | Anbindung des Order-Service beim Reservieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15014](https://jira.hochbahn.de/browse/MOS-15014) | Printicket erhält zusätzlichen Hinweis  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14972](https://jira.hochbahn.de/browse/MOS-14972) | Systemtest für MOIA BookingProposals erstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14955](https://jira.hochbahn.de/browse/MOS-14955) | falsche E-Mail, wenn DT durch Accountkündigung gekündigt wird | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14745](https://jira.hochbahn.de/browse/MOS-14745) | falsche E-Mail, wenn DT gekauft wird, aber es Probleme gibt (SP: 3) | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14727](https://jira.hochbahn.de/browse/MOS-14727) | Reservierung bei Shuttle überarbeiten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14506](https://jira.hochbahn.de/browse/MOS-14506) | Deprecated PackageSize Logik ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14477](https://jira.hochbahn.de/browse/MOS-14477) | Cambio - Implementierung PUT /reservations/{reservationId}/cancel | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14385](https://jira.hochbahn.de/browse/MOS-14385) | Subscription - Customer Locks auf allen Subscription-verändernden APIs verwenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13349](https://jira.hochbahn.de/browse/MOS-13349) | Event bei Termination-Date-Change nicht mehr im STS konsumieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-134.0
 
 Deployment on **PROD** at: tba-BASIS
