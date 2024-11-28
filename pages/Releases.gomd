@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-102.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 28.11.24 - 13:08:37
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15806](https://jira.hochbahn.de/projects/MOS/versions/15806)
+
+key | summary |  type
+---- | ----|----
+[MOS-15097](https://jira.hochbahn.de/browse/MOS-15097) | Order-Service: Technische Klärfälle in der Datenbank migrieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15013](https://jira.hochbahn.de/browse/MOS-15013) | Verwendungszweck für Erstattungen von Tickets fehlerhaft | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14808](https://jira.hochbahn.de/browse/MOS-14808) | Automatisches Mergen von Dependency Updates mit Blacklist  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12240](https://jira.hochbahn.de/browse/MOS-12240) | Alte Payment-Flows ausbauen (Schritt 1, Order-Service) | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## CUSTOMER-247.0
 
 Deployment on **PROD** at: tba-CUSTOMER
