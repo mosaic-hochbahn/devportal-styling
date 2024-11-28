@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-134.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 28.11.24 - 13:25:04
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15706](https://jira.hochbahn.de/projects/MOS/versions/15706)
+
+key | summary |  type
+---- | ----|----
+[MOS-15175](https://jira.hochbahn.de/browse/MOS-15175) | Sauthgate: zerolog-config statt eigenen Konfiguration nutzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15174](https://jira.hochbahn.de/browse/MOS-15174) | Authentication Proxy: zerolog-config statt eigenen Konfiguration nutzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15172](https://jira.hochbahn.de/browse/MOS-15172) | Moia-Webhook-Multiplexer wird bei jedem dev Release deployed | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15169](https://jira.hochbahn.de/browse/MOS-15169) | Weiterleitung von Requests mit Mock-Scenario-Header an den MOIA-gRPC-Mock | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15155](https://jira.hochbahn.de/browse/MOS-15155) | GTI-Proxy entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15154](https://jira.hochbahn.de/browse/MOS-15154) | Identity-Service: User-Input sanetyzen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15063](https://jira.hochbahn.de/browse/MOS-15063) | Identity-Service: Context canceled beim Logout nicht abgefangen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14871](https://jira.hochbahn.de/browse/MOS-14871) | Passwortregeln hochsetzen für switch App | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14584](https://jira.hochbahn.de/browse/MOS-14584) | Anwenden CPU/Memory/Skalierung Richtlinie Team Central | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14265](https://jira.hochbahn.de/browse/MOS-14265) | Miles - Analyse und ggf. Implementierung des Credentials-Austauschs bei Neustart | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11914](https://jira.hochbahn.de/browse/MOS-11914) | pt-proxy: Konfiguration HPA überprüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10929](https://jira.hochbahn.de/browse/MOS-10929) | account-service: quartz vulnerability | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-102.0
 
 Deployment on **PROD** at: tba-BILLING
