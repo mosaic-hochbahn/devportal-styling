@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-103.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 05.12.24 - 11:39:25
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15902](https://jira.hochbahn.de/projects/MOS/versions/15902)
+
+key | summary |  type
+---- | ----|----
+[MOS-15246](https://jira.hochbahn.de/browse/MOS-15246) | Aufräumen nach Update auf spring-cloud-dependencies:2023.0.4 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15237](https://jira.hochbahn.de/browse/MOS-15237) | User-Agent löschen - Vorarbeit Schritt 1 | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15046](https://jira.hochbahn.de/browse/MOS-15046) | Cambio | LogPay-Flags | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-99.0
 
 Deployment on **PROD** at
