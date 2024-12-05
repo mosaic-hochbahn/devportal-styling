@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-248.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 05.12.24 - 13:22:23
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15901](https://jira.hochbahn.de/projects/MOS/versions/15901)
+
+key | summary |  type
+---- | ----|----
+[MOS-15279](https://jira.hochbahn.de/browse/MOS-15279) | Automated System Tests erfüllen die neue Passwort Richtline nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15247](https://jira.hochbahn.de/browse/MOS-15247) | 02.12. - Liste von Bestandskunden, die einen Gutschein erhalten soll | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15173](https://jira.hochbahn.de/browse/MOS-15173) | Aufruf des Löschens über CronJob | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15149](https://jira.hochbahn.de/browse/MOS-15149) | Check: Keine Bearer Tokens loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15130](https://jira.hochbahn.de/browse/MOS-15130) |  io.netty 4.1.114 hat DOS-Angriffspunkt das laesst den Trivy-Scan crashen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15096](https://jira.hochbahn.de/browse/MOS-15096) | Inkonsistenzen von Subscriptions bei 0420157830 beheben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15027](https://jira.hochbahn.de/browse/MOS-15027) | CleverTapSyncJob Lazy Loading ist kaputt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14998](https://jira.hochbahn.de/browse/MOS-14998) | Update in Richtung Cambio läuft auf 404-er | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14992](https://jira.hochbahn.de/browse/MOS-14992) | Event für Führerschein-Validierung in eigenen Use-Case | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BILLING-103.0
 
 Deployment on **PROD** at: tba-BILLING
