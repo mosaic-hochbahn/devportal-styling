@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-100.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 05.12.24 - 15:38:25
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16001](https://jira.hochbahn.de/projects/MOS/versions/16001)
+
+key | summary |  type
+---- | ----|----
+[MOS-15225](https://jira.hochbahn.de/browse/MOS-15225) | Cambio - Miete verlängern Schnittstellendefinition | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15104](https://jira.hochbahn.de/browse/MOS-15104) | Cambio - Zeitstempel in der Cambio Domain müssen auf LocalDateTime gemappt werden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15087](https://jira.hochbahn.de/browse/MOS-15087) | Cambio - E-Fahrzeug Funktionalität | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14973](https://jira.hochbahn.de/browse/MOS-14973) | Systemtest um Buchung über neue Schnittstelle erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14846](https://jira.hochbahn.de/browse/MOS-14846) | Cambio - BookingChange Event in HistoryService konsumieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14833](https://jira.hochbahn.de/browse/MOS-14833) | DT: Mehrfachkauf verhindern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14691](https://jira.hochbahn.de/browse/MOS-14691) | Cambio - Kafka Callback: CanceledOrder konsumieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## CUSTOMER-248.0
 
 Deployment on **PROD** at: tba-CUSTOMER
