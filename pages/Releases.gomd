@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-135.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 06.12.24 - 11:07:01
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/15904](https://jira.hochbahn.de/projects/MOS/versions/15904)
+
+key | summary |  type
+---- | ----|----
+[MOS-15243](https://jira.hochbahn.de/browse/MOS-15243) | Dota-Authentication-Proxy: Sessions manchmal nicht erfolgreich abgeholt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14669](https://jira.hochbahn.de/browse/MOS-14669) | Eine Auth-Proxy Instanz für alle | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-100.0
 
 Deployment on **PROD** at: tba-RIDE
