@@ -1,5 +1,31 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-101.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 12.12.24 - 13:52:54
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16101](https://jira.hochbahn.de/projects/MOS/versions/16101)
+
+key | summary |  type
+---- | ----|----
+[MOS-15346](https://jira.hochbahn.de/browse/MOS-15346) | Cambio - switchPin in Request und im Error in pin umbennen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15319](https://jira.hochbahn.de/browse/MOS-15319) | Ticketing-Services auf Spring 3.4 upgraden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15224](https://jira.hochbahn.de/browse/MOS-15224) | Cambio - DriverNotifications durchreichen - Schnittstellendefinition schreiben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15223](https://jira.hochbahn.de/browse/MOS-15223) | Cambio - Driver Notifications durchreichen: PUT /customer-notifications/:customerNotificationId/confirm | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15222](https://jira.hochbahn.de/browse/MOS-15222) | Cambio - Driver Notifications durchreichen: GET /customer-notifications | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15216](https://jira.hochbahn.de/browse/MOS-15216) | Cambio-Systemtests failen im Async-Step | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15206](https://jira.hochbahn.de/browse/MOS-15206) | Cambio | msp | Alternativen mit Tresor aussortieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15190](https://jira.hochbahn.de/browse/MOS-15190) | StationaryBasedRental - Mosaic Security Header wird an Proxy mitgeschickt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15161](https://jira.hochbahn.de/browse/MOS-15161) | GET /bookings/{bookingId} Endpunkt erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15150](https://jira.hochbahn.de/browse/MOS-15150) | Check: Keine Bearer Tokens loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15141](https://jira.hochbahn.de/browse/MOS-15141) | Cambio - Tankpin in Trip Objekt ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14844](https://jira.hochbahn.de/browse/MOS-14844) | Cambio - BookingChange Event in BookingService konsumieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14833](https://jira.hochbahn.de/browse/MOS-14833) | DT: Mehrfachkauf verhindern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14772](https://jira.hochbahn.de/browse/MOS-14772) | Cambio - Implementierung GET /trips/{tripId} | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14692](https://jira.hochbahn.de/browse/MOS-14692) | Cambio - Trip starten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## CUSTOMER-249.0
 
 Deployment on **PROD** at: tba-CUSTOMER
