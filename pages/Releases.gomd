@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-249.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 12.12.24 - 13:38:35
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16200](https://jira.hochbahn.de/projects/MOS/versions/16200)
+
+key | summary |  type
+---- | ----|----
+[MOS-15357](https://jira.hochbahn.de/browse/MOS-15357) | Testen mit dem IDnow Robot nicht möglich | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15320](https://jira.hochbahn.de/browse/MOS-15320) | document validation startet nicht mehr auf DEV | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15305](https://jira.hochbahn.de/browse/MOS-15305) | Prod BaseUrl ergänzen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15248](https://jira.hochbahn.de/browse/MOS-15248) | 09.12. - Liste von Bestandskunden, die einen Gutschein erhalten soll | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15240](https://jira.hochbahn.de/browse/MOS-15240) | Central-Schnittstellen berechtigen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15107](https://jira.hochbahn.de/browse/MOS-15107) | Lösch Use Case implementieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15103](https://jira.hochbahn.de/browse/MOS-15103) | Ticketing-Schnittstellen berechtigen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15101](https://jira.hochbahn.de/browse/MOS-15101) | Customer-Schnittstellen berechtigen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14991](https://jira.hochbahn.de/browse/MOS-14991) | Übersetzungsschnittstelle für das Erzeugen einer Registration-URL | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14952](https://jira.hochbahn.de/browse/MOS-14952) | Alte Mapper auflösen Part 1 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-136.0
 
 Deployment on **PROD** at: tba-BASIS
