@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-136.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 12.12.24 - 13:16:11
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16102](https://jira.hochbahn.de/projects/MOS/versions/16102)
+
+key | summary |  type
+---- | ----|----
+[MOS-15309](https://jira.hochbahn.de/browse/MOS-15309) | Auth-Proxy für Stadtrad bereitstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15277](https://jira.hochbahn.de/browse/MOS-15277) | Sauthgate: Single-Use-Module implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15184](https://jira.hochbahn.de/browse/MOS-15184) | Feature-Toggles aufräumen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15116](https://jira.hochbahn.de/browse/MOS-15116) | Messaging-Service: Twilio Error Mapping | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15069](https://jira.hochbahn.de/browse/MOS-15069) | Service-Umbau zur Validierung von Kundenaccount ohne Versenden der Mails | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13024](https://jira.hochbahn.de/browse/MOS-13024) | Logging - ApplicationName manchmal NOT_SET | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10041](https://jira.hochbahn.de/browse/MOS-10041) | client_id in pt-request zum log hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-135.0
 
 Deployment on **PROD** at
