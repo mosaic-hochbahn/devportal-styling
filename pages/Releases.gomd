@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-102.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 19.12.24 - 14:21:55
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16204](https://jira.hochbahn.de/projects/MOS/versions/16204)
+
+key | summary |  type
+---- | ----|----
+[MOS-15400](https://jira.hochbahn.de/browse/MOS-15400) | STS: Mock-Scenario-Header an Clients weiterreichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15365](https://jira.hochbahn.de/browse/MOS-15365) | Cambio - Errorhandler überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15358](https://jira.hochbahn.de/browse/MOS-15358) | Cambio - LastErrorCode anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15275](https://jira.hochbahn.de/browse/MOS-15275) | Cambio - Implementierung PUT /trips/:tripId/extend | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15250](https://jira.hochbahn.de/browse/MOS-15250) | Spring Update 3.4.0 - Default ClientHttpRequestFactory | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15118](https://jira.hochbahn.de/browse/MOS-15118) | Package-Struktur - switch-ticket-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14851](https://jira.hochbahn.de/browse/MOS-14851) | Cambio - Recovery Job: Stale Finishing Trip | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14849](https://jira.hochbahn.de/browse/MOS-14849) | Cambio - Recovery Job: Stale Starting Trip | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14694](https://jira.hochbahn.de/browse/MOS-14694) | Cambio - Trip beenden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## CUSTOMER-250.0
 
 Deployment on **PROD** at: tba-CUSTOMER
