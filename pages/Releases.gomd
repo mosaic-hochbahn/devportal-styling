@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-250.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 19.12.24 - 13:16:12
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16103](https://jira.hochbahn.de/projects/MOS/versions/16103)
+
+key | summary |  type
+---- | ----|----
+[MOS-15399](https://jira.hochbahn.de/browse/MOS-15399) | Update to Springboot 3.4.0 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15276](https://jira.hochbahn.de/browse/MOS-15276) | Kundendaten 0420327889 gerade ziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15176](https://jira.hochbahn.de/browse/MOS-15176) | Aufruf der Schnittstelle zu MSP zum Stornieren aller Reservierungen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BILLING-104.0
 
 Deployment on **PROD** at: tba-BILLING
