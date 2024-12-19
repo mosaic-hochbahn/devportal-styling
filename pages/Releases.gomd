@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-104.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 19.12.24 - 11:46:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16100](https://jira.hochbahn.de/projects/MOS/versions/16100)
+
+key | summary |  type
+---- | ----|----
+[MOS-15307](https://jira.hochbahn.de/browse/MOS-15307) | Erstattungen für das 360° Cockpit | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15062](https://jira.hochbahn.de/browse/MOS-15062) | Mindestgebühren bei MILES Fahrten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15044](https://jira.hochbahn.de/browse/MOS-15044) | Alte Payment-Flows ausbauen (Schritt 2, Payment-Service) | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14935](https://jira.hochbahn.de/browse/MOS-14935) | Überflüssige Datenbank-Spalten löschen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14933](https://jira.hochbahn.de/browse/MOS-14933) | Rechnungsstellung bei Zahlart MOBI | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14166](https://jira.hochbahn.de/browse/MOS-14166) | Cambio | Systemtests | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14163](https://jira.hochbahn.de/browse/MOS-14163) | Cambio | Rechnungsverarbeitung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13081](https://jira.hochbahn.de/browse/MOS-13081) | Validierung für ausgehende Anfragen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-11170](https://jira.hochbahn.de/browse/MOS-11170) | Order-Service den User-Agent aus der DB entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9611](https://jira.hochbahn.de/browse/MOS-9611) | Refactoring technische Klärfälle | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-101.0
 
 Deployment on **PROD** at
