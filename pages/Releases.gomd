@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-137.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 02.01.25 - 14:19:40
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16203](https://jira.hochbahn.de/projects/MOS/versions/16203)
+
+key | summary |  type
+---- | ----|----
+[MOS-15415](https://jira.hochbahn.de/browse/MOS-15415) | Sauthgate: Skipper für den Authenticator implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15354](https://jira.hochbahn.de/browse/MOS-15354) | Sauthgate: Secret-Management überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15310](https://jira.hochbahn.de/browse/MOS-15310) | Auth-Proxy für BVG Ticketing | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15290](https://jira.hochbahn.de/browse/MOS-15290) | Moia-Auth-Proxy: RequestId loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-102.0
 
 Deployment on **PROD** at: tba-RIDE
