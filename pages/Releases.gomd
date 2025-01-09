@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-105.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 09.01.25 - 13:01:34
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16205](https://jira.hochbahn.de/projects/MOS/versions/16205)
+
+key | summary |  type
+---- | ----|----
+[MOS-15391](https://jira.hochbahn.de/browse/MOS-15391) | Alte Payment-Flows ausbauen: Lösung für CopyPayment | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15289](https://jira.hochbahn.de/browse/MOS-15289) | Order-Service: Spalte bill_attention an der Order löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15261](https://jira.hochbahn.de/browse/MOS-15261) | Payment-Service Benennung im PostPay-Flow vereinheitlichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14547](https://jira.hochbahn.de/browse/MOS-14547) | Logging für Bonvoyo-Fehler verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14084](https://jira.hochbahn.de/browse/MOS-14084) | Bessere Schwellwerte für den Alert der LogPay Reject Metrik ermitteln | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## CUSTOMER-251.0
 
 Deployment on **PROD** at
