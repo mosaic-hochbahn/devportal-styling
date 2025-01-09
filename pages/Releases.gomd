@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-138.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 09.01.25 - 13:45:25
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16208](https://jira.hochbahn.de/projects/MOS/versions/16208)
+
+key | summary |  type
+---- | ----|----
+[MOS-15414](https://jira.hochbahn.de/browse/MOS-15414) | Spring Update ABT und Account Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15311](https://jira.hochbahn.de/browse/MOS-15311) | Auth-Proxy für BVG Auskunft | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## CUSTOMER-252.0
 
 Deployment on **PROD** at: tba-CUSTOMER
