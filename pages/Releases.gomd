@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-252.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 09.01.25 - 13:31:02
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16209](https://jira.hochbahn.de/projects/MOS/versions/16209)
+
+key | summary |  type
+---- | ----|----
+[MOS-15460](https://jira.hochbahn.de/browse/MOS-15460) | Top1 Fehler aus KW1 anschauen und beheben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15422](https://jira.hochbahn.de/browse/MOS-15422) | Schnittstelle in Customer-Adapter erweitern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15362](https://jira.hochbahn.de/browse/MOS-15362) | Deaktivierung und Löschung auseinander ziehen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15231](https://jira.hochbahn.de/browse/MOS-15231) | Registrierung validieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15192](https://jira.hochbahn.de/browse/MOS-15192) | CRM: Cambio Erstattungen zu Buchungen (Customer) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14294](https://jira.hochbahn.de/browse/MOS-14294) | Cambio | Customer | Löschen eines User Accounts | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13973](https://jira.hochbahn.de/browse/MOS-13973) | CRM: Cambio Statusfunktionen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13435](https://jira.hochbahn.de/browse/MOS-13435) | Remove real person from CustomerOrderAuthorizationService.yaml | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-105.0
 
 Deployment on **PROD** at: tba-BILLING
