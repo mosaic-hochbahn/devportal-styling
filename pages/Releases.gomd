@@ -1,5 +1,32 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-103.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 09.01.25 - 14:56:05
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16207](https://jira.hochbahn.de/projects/MOS/versions/16207)
+
+key | summary |  type
+---- | ----|----
+[MOS-15500](https://jira.hochbahn.de/browse/MOS-15500) | HappyCaseJob Errors auf PROD im Stationary-Based-Rental-Service | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15496](https://jira.hochbahn.de/browse/MOS-15496) | Scheduling im Stationary-Based-Rental-Service aktivieren, damit Trigger Recovery funktioniert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15269](https://jira.hochbahn.de/browse/MOS-15269) | Recover Stuck Subscriptions Job konfig überdenken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15266](https://jira.hochbahn.de/browse/MOS-15266) | Durchstich: BVG Ticketsortiment abrufen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15211](https://jira.hochbahn.de/browse/MOS-15211) | Anwenden CPU/Memory/Skalierung Richtlinie Team MSP | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15166](https://jira.hochbahn.de/browse/MOS-15166) | Service Modernisierung - Rental Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15144](https://jira.hochbahn.de/browse/MOS-15144) | Cambio - Alle Reservierung für Kundenkündigung stornieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15091](https://jira.hochbahn.de/browse/MOS-15091) | Datenschutz: Nicht benötigte Koordinaten entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14971](https://jira.hochbahn.de/browse/MOS-14971) | Tier - Undeploy Tier-Rental-Orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14773](https://jira.hochbahn.de/browse/MOS-14773) | Cambio - Im Systemtest nach aktiver Fahrt pollen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14695](https://jira.hochbahn.de/browse/MOS-14695) | Cambio - Trip im Systemtest beenden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14693](https://jira.hochbahn.de/browse/MOS-14693) | Cambio - Trip im Systemtest starten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14064](https://jira.hochbahn.de/browse/MOS-14064) | CRM: Cambio Buchungen (Ride MSP) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14031](https://jira.hochbahn.de/browse/MOS-14031) | Cambio Update-Events für aktuelle Informationen im 360°-Cockpit | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10246](https://jira.hochbahn.de/browse/MOS-10246) | Mockito Mock-Maker inline: Vertesten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9878](https://jira.hochbahn.de/browse/MOS-9878) | WeShare Rückbau / Abwicklung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-138.0
 
 Deployment on **PROD** at: tba-BASIS
