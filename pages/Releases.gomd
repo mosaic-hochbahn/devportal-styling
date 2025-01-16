@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-104.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 16.01.25 - 15:07:13
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16301](https://jira.hochbahn.de/projects/MOS/versions/16301)
+
+key | summary |  type
+---- | ----|----
+[MOS-15545](https://jira.hochbahn.de/browse/MOS-15545) | VDV-Barcode Systemtest Fehler beheben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15530](https://jira.hochbahn.de/browse/MOS-15530) | PT Validierungsfehler korrekt mappen im sts | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15490](https://jira.hochbahn.de/browse/MOS-15490) | Liste erstellen: Fehlermeldung beim Ticketkauf von unbekannten Haltestellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15482](https://jira.hochbahn.de/browse/MOS-15482) | Miles | Error Code Ergänzung - Silvester | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15479](https://jira.hochbahn.de/browse/MOS-15479) | Sonderzeichen werden vom SAM Server nicht richtig verarbeitet | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15211](https://jira.hochbahn.de/browse/MOS-15211) | Anwenden CPU/Memory/Skalierung Richtlinie Team MSP | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14885](https://jira.hochbahn.de/browse/MOS-14885) | Customer Locking nachziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14448](https://jira.hochbahn.de/browse/MOS-14448) | CleanupInactiveBookingsJobJob aus den Quartz-Tabellen des Booking-Service entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14438](https://jira.hochbahn.de/browse/MOS-14438) | PollCancelledOrdersJob aus den Quartz-Tabellen des Box-Rental-Service entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## CUSTOMER-253.0
 
 Deployment on **PROD** at: tba-CUSTOMER
