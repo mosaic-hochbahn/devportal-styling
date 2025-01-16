@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-253.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 16.01.25 - 13:40:24
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16400](https://jira.hochbahn.de/projects/MOS/versions/16400)
+
+key | summary |  type
+---- | ----|----
+[MOS-15558](https://jira.hochbahn.de/browse/MOS-15558) | Cambio ErrorMapper soll auch DisplayTitle loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15423](https://jira.hochbahn.de/browse/MOS-15423) | Externe-ID für Zahlungsmittel ausgeben | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15295](https://jira.hochbahn.de/browse/MOS-15295) | Buchungsdetails um Cambio erweitern | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15291](https://jira.hochbahn.de/browse/MOS-15291) | PaymethodId im Rahmen der Order Checks zurückgeben | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14619](https://jira.hochbahn.de/browse/MOS-14619) | Führerscheinvalidierung (AutoID) // Fallback Ausstellungsdatum, falls Erteilungsdatum leer übergeben wird | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13974](https://jira.hochbahn.de/browse/MOS-13974) | CRM: Cambio Buchungen (Customer) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13285](https://jira.hochbahn.de/browse/MOS-13285) | MILES: Errorkey b2bapi_user_in_deletion_process aufnehmen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-106.0
 
 Deployment on **PROD** at: tba-BILLING
