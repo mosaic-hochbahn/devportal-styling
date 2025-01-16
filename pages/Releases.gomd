@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-106.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 16.01.25 - 13:00:13
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16300](https://jira.hochbahn.de/projects/MOS/versions/16300)
+
+key | summary |  type
+---- | ----|----
+[MOS-15361](https://jira.hochbahn.de/browse/MOS-15361) | org.springframework.boot nur patch-version automatisch updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15355](https://jira.hochbahn.de/browse/MOS-15355) | Verbesserung der Testabdeckung der Rechnungserzeugung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15245](https://jira.hochbahn.de/browse/MOS-15245) | Update org.springframework.boot | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15098](https://jira.hochbahn.de/browse/MOS-15098) | Alte Payment-Flows ausbauen (Schritt 4, Billing-Feature-Toggles) | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15045](https://jira.hochbahn.de/browse/MOS-15045) | Alte Payment-Flows ausbauen (Schritt 3, Billing-Event-Interfaces) | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14629](https://jira.hochbahn.de/browse/MOS-14629) | [ERMO-108] Jobs mit erhöhtem Risiko verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14013](https://jira.hochbahn.de/browse/MOS-14013) | Upgrade von Jasperreports 6.x auf 7.x | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13830](https://jira.hochbahn.de/browse/MOS-13830) | Übergabe der zu belastenden Zahlungsmethode beim Kauf | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12162](https://jira.hochbahn.de/browse/MOS-12162) | Vereinheitlichung der Zahlungsflows für Ticketing implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-103.0
 
 Deployment on **PROD** at
