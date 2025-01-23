@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-254.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 23.01.25 - 13:51:05
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16406](https://jira.hochbahn.de/projects/MOS/versions/16406)
+
+key | summary |  type
+---- | ----|----
+[MOS-15630](https://jira.hochbahn.de/browse/MOS-15630) | SEPA-Mandate und Kreditkarten sind nicht synchron mit LogPay | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-140.0
 
 Deployment on **PROD** at: tba-BASIS
