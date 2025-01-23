@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-107.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 23.01.25 - 11:35:23
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16405](https://jira.hochbahn.de/projects/MOS/versions/16405)
+
+key | summary |  type
+---- | ----|----
+[MOS-15609](https://jira.hochbahn.de/browse/MOS-15609) | Nacharbeiten Cambio-Zahlungsprüfung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15548](https://jira.hochbahn.de/browse/MOS-15548) | Alten Refund-Flow aus Order-Service entfernen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15424](https://jira.hochbahn.de/browse/MOS-15424) | [ERMO-108] Jobs mit erhöhtem Risiko verbessern: Payment-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-104.0
 
 Deployment on **PROD** at
