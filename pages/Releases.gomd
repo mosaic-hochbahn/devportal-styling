@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-140.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 23.01.25 - 13:22:27
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16303](https://jira.hochbahn.de/projects/MOS/versions/16303)
+
+key | summary |  type
+---- | ----|----
+[MOS-15635](https://jira.hochbahn.de/browse/MOS-15635) | Account Service: Parallelausführung von Quartz Jobs in verschiedenen Pods verhindern | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15536](https://jira.hochbahn.de/browse/MOS-15536) | moia authentication proxy (grpc) auf PROD vorerst nicht deployen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15527](https://jira.hochbahn.de/browse/MOS-15527) | Java Services loggen diverse Warnings beim Start | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15428](https://jira.hochbahn.de/browse/MOS-15428) | Erweiterung der Zielsysteme im Account-Proxy (PROD) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-107.0
 
 Deployment on **PROD** at: tba-BILLING
