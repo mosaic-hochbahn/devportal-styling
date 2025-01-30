@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-108.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 30.01.25 - 11:46:12
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16409](https://jira.hochbahn.de/projects/MOS/versions/16409)
+
+key | summary |  type
+---- | ----|----
+[MOS-15679](https://jira.hochbahn.de/browse/MOS-15679) | Fix/merge dependabot-branches | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15661](https://jira.hochbahn.de/browse/MOS-15661) | Cambio Konfiguration für Prozessfehler anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15640](https://jira.hochbahn.de/browse/MOS-15640) | Log-Level ERROR statt WARN im sixt-debt-adapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-105.0
 
 Deployment on **PROD** at
