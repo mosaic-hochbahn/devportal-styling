@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-141.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 30.01.25 - 13:35:16
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16412](https://jira.hochbahn.de/projects/MOS/versions/16412)
+
+key | summary |  type
+---- | ----|----
+[MOS-15657](https://jira.hochbahn.de/browse/MOS-15657) | Auth-Proxy für BVG Ticketing mit BVG Mock | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13011](https://jira.hochbahn.de/browse/MOS-13011) | Tracing in Produktion aktivieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## CUSTOMER-255.0
 
 Deployment on **PROD** at: tba-CUSTOMER
