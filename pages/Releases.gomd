@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-255.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 30.01.25 - 13:19:31
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16413](https://jira.hochbahn.de/projects/MOS/versions/16413)
+
+key | summary |  type
+---- | ----|----
+[MOS-15704](https://jira.hochbahn.de/browse/MOS-15704) | Cambio im CRM auf PROD aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15701](https://jira.hochbahn.de/browse/MOS-15701) | LogpaySyncJob still legen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15697](https://jira.hochbahn.de/browse/MOS-15697) | ITM-Adapter fixen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15696](https://jira.hochbahn.de/browse/MOS-15696) | Customer Service master baut nicht | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15692](https://jira.hochbahn.de/browse/MOS-15692) | Systemtest für technische Klärfälle im CRM löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15648](https://jira.hochbahn.de/browse/MOS-15648) | Fehlerhaftes get bei cambio | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15638](https://jira.hochbahn.de/browse/MOS-15638) | DEV / QA konfig der Termination Jobs anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15481](https://jira.hochbahn.de/browse/MOS-15481) | BVG als MDL aktivieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15331](https://jira.hochbahn.de/browse/MOS-15331) | [dependabot] update microservice-starter-openapi-generator &gt; 3.3.0 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14875](https://jira.hochbahn.de/browse/MOS-14875) | [Last Tests] customer-service, PMAO | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-108.0
 
 Deployment on **PROD** at: tba-BILLING
