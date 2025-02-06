@@ -1,5 +1,31 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-107.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 06.02.25 - 13:49:02
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16414](https://jira.hochbahn.de/projects/MOS/versions/16414)
+
+key | summary |  type
+---- | ----|----
+[MOS-15724](https://jira.hochbahn.de/browse/MOS-15724) | Fehlermeldung bei Nutzung alter Buchungsschnittstellen mit neu aktivierten MOIA-Kunden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15721](https://jira.hochbahn.de/browse/MOS-15721) | Cambio - Recovery Jobs verschicken kein CancelOrder Event | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15719](https://jira.hochbahn.de/browse/MOS-15719) | Cambio - ProjectedRange in Reserved.Vehicle | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15717](https://jira.hochbahn.de/browse/MOS-15717) | Ausbau des Versands von Clarification Events im MOIA-Adapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15698](https://jira.hochbahn.de/browse/MOS-15698) | Cambio - Phasen Erkennung umschreiben | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15668](https://jira.hochbahn.de/browse/MOS-15668) | Cambio - CanCancel Endpunkt gibt statt Exception ein notificationCode aus | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15667](https://jira.hochbahn.de/browse/MOS-15667) | Externe Kundennummer bei Customer abfragen und verwenden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15637](https://jira.hochbahn.de/browse/MOS-15637) | neuer Ticket orders Endpunkt auch mit msp &#34;hvv&#34; | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15614](https://jira.hochbahn.de/browse/MOS-15614) | Cambio - Booking- und HistoryService werden oft vergessen in der API Spec zu aktualisieren | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15598](https://jira.hochbahn.de/browse/MOS-15598) | Cambio - Dünner Wrapper um Repository um BookingChange Event zu zentralisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15594](https://jira.hochbahn.de/browse/MOS-15594) | Analyse und Abstimmung: Wie lösen wir das Polling der App ab? | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15593](https://jira.hochbahn.de/browse/MOS-15593) | Analyse: Wann erhalten wir welche Updates über GetTrip? | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15501](https://jira.hochbahn.de/browse/MOS-15501) | Cambio - Dummy Daten ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14850](https://jira.hochbahn.de/browse/MOS-14850) | Cambio - Recovery Job: Stale Active Trip | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14847](https://jira.hochbahn.de/browse/MOS-14847) | Cambio - Recovery Job: Stale Creating Reservation | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-142.0
 
 Deployment on **PROD** at: tba-BASIS
