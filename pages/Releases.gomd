@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-109.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 06.02.25 - 10:01:33
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16311](https://jira.hochbahn.de/projects/MOS/versions/16311)
+
+key | summary |  type
+---- | ----|----
+[MOS-15795](https://jira.hochbahn.de/browse/MOS-15795) | Cambio - MSP-Referenz aus dem neuen FinishedEvent auslesen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15785](https://jira.hochbahn.de/browse/MOS-15785) | Cambio - Order Reject Event für Systemtest um Mock Szenario erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15744](https://jira.hochbahn.de/browse/MOS-15744) | Unleash downgraden auf 9.3.2 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15563](https://jira.hochbahn.de/browse/MOS-15563) | BVG als MDL einführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15550](https://jira.hochbahn.de/browse/MOS-15550) | Toggle für alten Refund-Flow entfernen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15549](https://jira.hochbahn.de/browse/MOS-15549) | Alten Refund-Flow aus Payment-Service entfernen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-14930](https://jira.hochbahn.de/browse/MOS-14930) | Alte Refund-Flows ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9375](https://jira.hochbahn.de/browse/MOS-9375) | Billing | Rate Limits für alle Endpunkte prüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-141.0
 
 Deployment on **PROD** at
