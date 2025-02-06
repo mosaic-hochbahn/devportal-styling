@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-142.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 06.02.25 - 13:35:34
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16415](https://jira.hochbahn.de/projects/MOS/versions/16415)
+
+key | summary |  type
+---- | ----|----
+[MOS-15733](https://jira.hochbahn.de/browse/MOS-15733) | Messaging Service: Unnötige Alarme überprüfen. | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15716](https://jira.hochbahn.de/browse/MOS-15716) | sauthgate OIDC: Verhalten bei disabled proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15713](https://jira.hochbahn.de/browse/MOS-15713) | DOTA-Proxy Authentication Errors | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15435](https://jira.hochbahn.de/browse/MOS-15435) | Fix Log-Link in Ambassador Rate Limit Alerts | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12947](https://jira.hochbahn.de/browse/MOS-12947) | Push-Notification-Service: Package-Strutur umsetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## CUSTOMER-256.0
 
 Deployment on **PROD** at: tba-CUSTOMER
