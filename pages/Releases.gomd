@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-257.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 13.02.25 - 13:13:30
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16600](https://jira.hochbahn.de/projects/MOS/versions/16600)
+
+key | summary |  type
+---- | ----|----
+[MOS-15879](https://jira.hochbahn.de/browse/MOS-15879) | fix mietstart und mietende im crm bei cambio | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15866](https://jira.hochbahn.de/browse/MOS-15866) | Security Vulnerabilities beheben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15662](https://jira.hochbahn.de/browse/MOS-15662) | Header Behandlung hinzufügen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15646](https://jira.hochbahn.de/browse/MOS-15646) | Moia-gRPC-Mock um Customer Anteil erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15058](https://jira.hochbahn.de/browse/MOS-15058) | Account Aktivierung 1 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13447](https://jira.hochbahn.de/browse/MOS-13447) | Logging von vertraulichen Daten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-107.0
 
 Deployment on **PROD** at
