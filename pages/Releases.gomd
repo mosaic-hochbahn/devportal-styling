@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-108.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 13.02.25 - 14:10:09
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16505](https://jira.hochbahn.de/projects/MOS/versions/16505)
+
+key | summary |  type
+---- | ----|----
+[MOS-15878](https://jira.hochbahn.de/browse/MOS-15878) | POST /trips bei Cambio entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15861](https://jira.hochbahn.de/browse/MOS-15861) | Bei der Reservierung muss die Aktion OpenVehicle ergänzt werden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15667](https://jira.hochbahn.de/browse/MOS-15667) | Externe Kundennummer bei Customer abfragen und verwenden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15597](https://jira.hochbahn.de/browse/MOS-15597) | Service Modernisierung - moia shuttle orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15595](https://jira.hochbahn.de/browse/MOS-15595) | Einrichten von Quartz-Jobs | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15588](https://jira.hochbahn.de/browse/MOS-15588) | DT Kündigungsrücknahme kann zu Datenschiefstand führen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15426](https://jira.hochbahn.de/browse/MOS-15426) | Cambio - Recovery Job: Stale Extending Rent | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15382](https://jira.hochbahn.de/browse/MOS-15382) | Ticketerzeugung nicht erfolgreich | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15381](https://jira.hochbahn.de/browse/MOS-15381) | Kaufprozess nicht erfolgreich | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15376](https://jira.hochbahn.de/browse/MOS-15376) | Ticket bestellen und aktivieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-143.0
 
 Deployment on **PROD** at: tba-BASIS
