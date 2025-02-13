@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-143.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 13.02.25 - 13:41:48
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16601](https://jira.hochbahn.de/projects/MOS/versions/16601)
+
+key | summary |  type
+---- | ----|----
+[MOS-15872](https://jira.hochbahn.de/browse/MOS-15872) | Tracing Prod: Fix für Not-DB-Deployments | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15815](https://jira.hochbahn.de/browse/MOS-15815) | Wechsel auf Google Artifact Registry | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15769](https://jira.hochbahn.de/browse/MOS-15769) | Account Service Devportal Docs kaputt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BILLING-110.0
 
 Deployment on **PROD** at: tba-BILLING
