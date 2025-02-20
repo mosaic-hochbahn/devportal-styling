@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-258.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 20.02.25 - 13:21:47
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16604](https://jira.hochbahn.de/projects/MOS/versions/16604)
+
+key | summary |  type
+---- | ----|----
+[MOS-15932](https://jira.hochbahn.de/browse/MOS-15932) | [ERMO-137] fix pass-through-headers | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15891](https://jira.hochbahn.de/browse/MOS-15891) | fix openAPI versions | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15890](https://jira.hochbahn.de/browse/MOS-15890) | add logging to Moia grpcMock | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15887](https://jira.hochbahn.de/browse/MOS-15887) | paypal-adapter Dependabot Branches fixen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15885](https://jira.hochbahn.de/browse/MOS-15885) | Dependabot Branches fixen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15873](https://jira.hochbahn.de/browse/MOS-15873) | QA User bitte mit Kaufsperre belegen zwecks Testing 360°-Cockpit | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15703](https://jira.hochbahn.de/browse/MOS-15703) | System-Test Cambio ergänzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15678](https://jira.hochbahn.de/browse/MOS-15678) | MOIA Metriken anlegen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15645](https://jira.hochbahn.de/browse/MOS-15645) | ErrorMapping | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15272](https://jira.hochbahn.de/browse/MOS-15272) | Technische Klärfälle aus CRM ausbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11288](https://jira.hochbahn.de/browse/MOS-11288) | Customer-Service: PUT /customer/push-notifications/register-token Mapping entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-108.0
 
 Deployment on **PROD** at
