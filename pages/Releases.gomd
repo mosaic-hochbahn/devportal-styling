@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-111.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 20.02.25 - 16:55:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16511](https://jira.hochbahn.de/projects/MOS/versions/16511)
+
+key | summary |  type
+---- | ----|----
+[MOS-15938](https://jira.hochbahn.de/browse/MOS-15938) | Billing Service - PositionText nach PTNova zu lang | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15926](https://jira.hochbahn.de/browse/MOS-15926) | Fix Security Findings | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15843](https://jira.hochbahn.de/browse/MOS-15843) | OOTW: Dependencies, Gradle, etc. aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15773](https://jira.hochbahn.de/browse/MOS-15773) | Voraussetzungen für Erstattungen und Sondergebühren erfüllen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15772](https://jira.hochbahn.de/browse/MOS-15772) | Microservice-Schnitt für nicht-orginäre Forderungen ausarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12362](https://jira.hochbahn.de/browse/MOS-12362) | Umgang mit Entity-Properties verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12091](https://jira.hochbahn.de/browse/MOS-12091) | Alert bei vermehrten fachlichen Klärfälle | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10369](https://jira.hochbahn.de/browse/MOS-10369) | Tests für Enums in Schnittstellen ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-109.0
 
 Deployment on **PROD** at: tba-RIDE
