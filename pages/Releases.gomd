@@ -1,5 +1,30 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-109.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 20.02.25 - 14:01:32
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16605](https://jira.hochbahn.de/projects/MOS/versions/16605)
+
+key | summary |  type
+---- | ----|----
+[MOS-15929](https://jira.hochbahn.de/browse/MOS-15929) | Cambio - Billing Chargable Feld falsch, wenn es nach der Startzeit ist | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15914](https://jira.hochbahn.de/browse/MOS-15914) | Cambio - ErrorCode BOOKING_PERIOD_TOO_CLOSE_TO_OTHER_BOOKING ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15889](https://jira.hochbahn.de/browse/MOS-15889) | CVE-2024-12797 blockiert unsere Pipelines | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15861](https://jira.hochbahn.de/browse/MOS-15861) | Bei der Reservierung muss die Aktion OpenVehicle ergänzt werden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15839](https://jira.hochbahn.de/browse/MOS-15839) | history-orchestration: BVG als MSP im Enum hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15745](https://jira.hochbahn.de/browse/MOS-15745) | Feature Toggle: Cambio Dummy Daten Toggles entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15595](https://jira.hochbahn.de/browse/MOS-15595) | Einrichten von Quartz-Jobs | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15392](https://jira.hochbahn.de/browse/MOS-15392) | QA: Neues vSAM für OrgId 39127 einrichten (TB 1.5d) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15381](https://jira.hochbahn.de/browse/MOS-15381) | Kaufprozess nicht erfolgreich | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15284](https://jira.hochbahn.de/browse/MOS-15284) | &#34;Multi-Ride&#34; aus Ticketing entfernen (zurückbauen) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15252](https://jira.hochbahn.de/browse/MOS-15252) | Handling von Shuttle-Buchungen im Booking-Service  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14755](https://jira.hochbahn.de/browse/MOS-14755) | Kafka Nachricht-Versandbestätigung auf &#34;synchron&#34; umstellen  (TB: 1d) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14440](https://jira.hochbahn.de/browse/MOS-14440) | automatische Bestätigungsmail bei Zurückziehen Kündigung Deutschlandticket | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14244](https://jira.hochbahn.de/browse/MOS-14244) | Confluence Tags vergeben (Ticketing) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-144.0
 
 Deployment on **PROD** at: tba-BASIS
