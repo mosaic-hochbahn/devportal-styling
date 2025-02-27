@@ -1,5 +1,31 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-110.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 27.02.25 - 13:41:17
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16701](https://jira.hochbahn.de/projects/MOS/versions/16701)
+
+key | summary |  type
+---- | ----|----
+[MOS-16017](https://jira.hochbahn.de/browse/MOS-16017) | Keine Servicenumber an Billing schicken für BVG orders | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15998](https://jira.hochbahn.de/browse/MOS-15998) | Cambio Sequenzdiagramme fixen und im Repo ablegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15988](https://jira.hochbahn.de/browse/MOS-15988) | Cambio - Sequenzdiagramme und Code auf gleiche Begriffe abgleichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15947](https://jira.hochbahn.de/browse/MOS-15947) | Dependabot Build-Failures melden sich nicht in Slack | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15942](https://jira.hochbahn.de/browse/MOS-15942) | BVG-Ticketkauf Sequenzdiagramm erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15901](https://jira.hochbahn.de/browse/MOS-15901) | Ride-MSP KW7 - 17.02.-21.02.2025 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15808](https://jira.hochbahn.de/browse/MOS-15808) | Einrichten eines Quartz-Jobs zur regelmäßigen Abfrage von GetTrip | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15737](https://jira.hochbahn.de/browse/MOS-15737) | Update von Shuttle-Buchungen im MOIA State &#34;PICKED_UP&#34; | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15735](https://jira.hochbahn.de/browse/MOS-15735) | Update von Shuttle-Buchungen im MOIA State &#34;ORDERED&#34; | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15725](https://jira.hochbahn.de/browse/MOS-15725) | BVG Offers Cache und Mockszenarien Problematik  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15710](https://jira.hochbahn.de/browse/MOS-15710) | neue Startkartenlogik Deutschlandticket (ohne PT) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15547](https://jira.hochbahn.de/browse/MOS-15547) | Analyse - Ticketkauf aus Auskunft (TB: 1d) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15253](https://jira.hochbahn.de/browse/MOS-15253) | Handling von Shuttle-Buchungen im History-Service  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15186](https://jira.hochbahn.de/browse/MOS-15186) | Error-Mapping für die neuen gRPC Schnittstellen implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14830](https://jira.hochbahn.de/browse/MOS-14830) | AIDA-Rückbau: Keycloak-Clients löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-145.0
 
 Deployment on **PROD** at: tba-BASIS
