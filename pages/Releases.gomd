@@ -1,5 +1,30 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-259.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 27.02.25 - 09:21:28
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16700](https://jira.hochbahn.de/projects/MOS/versions/16700)
+
+key | summary |  type
+---- | ----|----
+[MOS-15980](https://jira.hochbahn.de/browse/MOS-15980) | Add Fail Metrik | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15976](https://jira.hochbahn.de/browse/MOS-15976) | fix CVEs in voucherify-Orchestration | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15975](https://jira.hochbahn.de/browse/MOS-15975) | fix CVEs in switch-clarification-Service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15974](https://jira.hochbahn.de/browse/MOS-15974) | fix CVEs in paypal-Adapter | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15973](https://jira.hochbahn.de/browse/MOS-15973) | fix CVEs in payment-method-activation-Orchestration | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15972](https://jira.hochbahn.de/browse/MOS-15972) | fix CVEs in notes-Service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15971](https://jira.hochbahn.de/browse/MOS-15971) | fix CVEs in itm-Adapter | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15970](https://jira.hochbahn.de/browse/MOS-15970) | fix CVEs in idnow-document-validation-orchestration | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15969](https://jira.hochbahn.de/browse/MOS-15969) | fix CVEs in document-validation | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15968](https://jira.hochbahn.de/browse/MOS-15968) | fix CVEs in Customer-Orchestration | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15967](https://jira.hochbahn.de/browse/MOS-15967) | fix CVEs in Clarification-Orchestration | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15966](https://jira.hochbahn.de/browse/MOS-15966) | fix CVEs in Customer-Adapter | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15964](https://jira.hochbahn.de/browse/MOS-15964) | fix CVEs in Customer-Service | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15892](https://jira.hochbahn.de/browse/MOS-15892) | Timeouts Konfigurieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+
 ## BILLING-111.0
 
 Deployment on **PROD** at
