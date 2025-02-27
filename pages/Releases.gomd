@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-145.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 27.02.25 - 13:21:44
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16703](https://jira.hochbahn.de/projects/MOS/versions/16703)
+
+key | summary |  type
+---- | ----|----
+[MOS-15858](https://jira.hochbahn.de/browse/MOS-15858) | Domain change von share-now auf free2move | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-112.0
 
 Deployment on **PROD** at: tba-BILLING
