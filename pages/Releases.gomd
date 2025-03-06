@@ -1,5 +1,30 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-111.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 06.03.25 - 13:50:14
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16707](https://jira.hochbahn.de/projects/MOS/versions/16707)
+
+key | summary |  type
+---- | ----|----
+[MOS-16122](https://jira.hochbahn.de/browse/MOS-16122) | History Service kann SHUTTLE als msptype nicht verarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16103](https://jira.hochbahn.de/browse/MOS-16103) | getTrip Response um BookingProposal ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16102](https://jira.hochbahn.de/browse/MOS-16102) | Cambio - Finishing isn&#39;t timing out if Cambio doesn&#39;t update | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16100](https://jira.hochbahn.de/browse/MOS-16100) | Nur Angebote der Service Area de-hamburg-01 herausgeben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16088](https://jira.hochbahn.de/browse/MOS-16088) | Cambio - Error Code entspricht nicht der Doku | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16009](https://jira.hochbahn.de/browse/MOS-16009) | Speichern der echten Vehicle-Informationen von MOIA | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15896](https://jira.hochbahn.de/browse/MOS-15896) | Aufruf der GRPC API im UseCase mit Feature Toggle Weiche ergänzen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15895](https://jira.hochbahn.de/browse/MOS-15895) | Alte API Aufrufe in UseCase Struktur umbauen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15894](https://jira.hochbahn.de/browse/MOS-15894) | Metriken ergänzen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15787](https://jira.hochbahn.de/browse/MOS-15787) | BVG als MSP im STS einpflegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15738](https://jira.hochbahn.de/browse/MOS-15738) | Update von Shuttle-Buchungen im MOIA State &#34;DROPPED_OFF&#34; | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15736](https://jira.hochbahn.de/browse/MOS-15736) | Update von Shuttle-Buchungen im MOIA State &#34;ACCEPTED&#34; | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14833](https://jira.hochbahn.de/browse/MOS-14833) | DT: Mehrfachkauf verhindern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14813](https://jira.hochbahn.de/browse/MOS-14813) | GitLab CI - Externe Pipelines ersetzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-113.0
 
 Deployment on **PROD** at: tba-BILLING
