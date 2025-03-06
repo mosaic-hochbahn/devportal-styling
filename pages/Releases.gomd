@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-113.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 06.03.25 - 13:22:27
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16705](https://jira.hochbahn.de/projects/MOS/versions/16705)
+
+key | summary |  type
+---- | ----|----
+[MOS-16108](https://jira.hochbahn.de/browse/MOS-16108) | Produkt auf der Rechnungsmail fehlt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16050](https://jira.hochbahn.de/browse/MOS-16050) | BVG-Verbuchung schlägt fehl | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16047](https://jira.hochbahn.de/browse/MOS-16047) | Endpunkt und UseCase ausbauen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15954](https://jira.hochbahn.de/browse/MOS-15954) | Alte Datenbankfelder löschen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15953](https://jira.hochbahn.de/browse/MOS-15953) | Migration ausgewählter Datenbankfelder und Archivierung der LogPay-Felder | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15939](https://jira.hochbahn.de/browse/MOS-15939) | Rechnungsdaten werden für abgebrochene Aufträge angenommen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15907](https://jira.hochbahn.de/browse/MOS-15907) | Alerts in den alert-billing-channel posten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12315](https://jira.hochbahn.de/browse/MOS-12315) | Überflüssige Spalten in der DB löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-110.0
 
 Deployment on **PROD** at
