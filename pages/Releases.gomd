@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-146.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 06.03.25 - 13:53:24
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16706](https://jira.hochbahn.de/projects/MOS/versions/16706)
+
+key | summary |  type
+---- | ----|----
+[MOS-16081](https://jira.hochbahn.de/browse/MOS-16081) | [cambio] forward to mock | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16078](https://jira.hochbahn.de/browse/MOS-16078) | OOTW: Error beim Healtcheck des PT-Webdispatchers | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16021](https://jira.hochbahn.de/browse/MOS-16021) | OOTW: push-notification-service: error logs / 500 responses bei Abbruch von Reqeuests durch den User  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15999](https://jira.hochbahn.de/browse/MOS-15999) | OOTW: push-notification-service: 502 Response from google | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## RIDE-111.0
 
 Deployment on **PROD** at: tba-RIDE
