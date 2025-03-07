@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## SBAHN-34.0
+
+Deployment on **PROD** at: tba-SBAHN
+
+Deployment on *QA* at: 07.03.25 - 13:12:39
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16709](https://jira.hochbahn.de/projects/MOS/versions/16709)
+
+key | summary |  type
+---- | ----|----
+[MOS-16139](https://jira.hochbahn.de/browse/MOS-16139) | Belegscan funktioniert nach Dependency-Update nicht mehr | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BASIS-146.0
 
 Deployment on **PROD** at: tba-BASIS
