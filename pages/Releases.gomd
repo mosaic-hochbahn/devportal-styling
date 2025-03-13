@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-260.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 13.03.25 - 09:29:38
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16704](https://jira.hochbahn.de/projects/MOS/versions/16704)
+
+key | summary |  type
+---- | ----|----
+[MOS-16132](https://jira.hochbahn.de/browse/MOS-16132) | [passThroughHeaders] verhindern von NPE wenn keine Daten | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-16118](https://jira.hochbahn.de/browse/MOS-16118) | Fix NullPointer in GRPC HeaderInterceptor | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15958](https://jira.hochbahn.de/browse/MOS-15958) | MOIA-grpc API Löschendpunkt ansprechen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15956](https://jira.hochbahn.de/browse/MOS-15956) | Kündigungsemail für MOIA per Toggle abschalten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15943](https://jira.hochbahn.de/browse/MOS-15943) | [system-tests] Moia Aktivierung via gRPC | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15934](https://jira.hochbahn.de/browse/MOS-15934) | Fix Registration Consumer | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15933](https://jira.hochbahn.de/browse/MOS-15933) | System Tests Aktivierung MDL | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15896](https://jira.hochbahn.de/browse/MOS-15896) | Aufruf der GRPC API im UseCase mit Feature Toggle Weiche ergänzen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15895](https://jira.hochbahn.de/browse/MOS-15895) | Alte API Aufrufe in UseCase Struktur umbauen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15894](https://jira.hochbahn.de/browse/MOS-15894) | Metriken ergänzen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15218](https://jira.hochbahn.de/browse/MOS-15218) | Logging und Metriken bei Kreditkarten Abläufen ergänzen/verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-10490](https://jira.hochbahn.de/browse/MOS-10490) | Config Diffs zwischen QA und PROD abbauen (Customer) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## SBAHN-34.0
 
 Deployment on **PROD** at
