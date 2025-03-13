@@ -1,5 +1,32 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-112.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 13.03.25 - 13:34:07
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16711](https://jira.hochbahn.de/projects/MOS/versions/16711)
+
+key | summary |  type
+---- | ----|----
+[MOS-16177](https://jira.hochbahn.de/browse/MOS-16177) | Vervollständigen von Error-Logs | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16169](https://jira.hochbahn.de/browse/MOS-16169) | &#34;Missing customer credentials&#34; von MOIA soll zu MSP_CUSTOMER_NOT_ACTIVATED führen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16160](https://jira.hochbahn.de/browse/MOS-16160) | Cambio - Phasen-Check bei Open-Vehicle entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16155](https://jira.hochbahn.de/browse/MOS-16155) | neue Dependencies für veraltete Services ignorieren (dependabot.ignore) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16132](https://jira.hochbahn.de/browse/MOS-16132) | [passThroughHeaders] verhindern von NPE wenn keine Daten | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-16125](https://jira.hochbahn.de/browse/MOS-16125) | Neue Shuttle-Phase TERMINATED des Shuttle-Service unterstützen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16118](https://jira.hochbahn.de/browse/MOS-16118) | Fix NullPointer in GRPC HeaderInterceptor | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-16109](https://jira.hochbahn.de/browse/MOS-16109) | Neues Tabellenfeld MSP für CIBO Orders auf QA und Prod setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16010](https://jira.hochbahn.de/browse/MOS-16010) | createdByThirdPartyMock und Mock-Header implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15958](https://jira.hochbahn.de/browse/MOS-15958) | MOIA-grpc API Löschendpunkt ansprechen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15956](https://jira.hochbahn.de/browse/MOS-15956) | Kündigungsemail für MOIA per Toggle abschalten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15796](https://jira.hochbahn.de/browse/MOS-15796) | Wallet DB-Einträge entfernen bei CustomerDeletion | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15788](https://jira.hochbahn.de/browse/MOS-15788) | Konzept: Deployment-Pipelines zwischen Team &#34;MSP&#34; und Team &#34;Ticketing&#34; auftrennen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15739](https://jira.hochbahn.de/browse/MOS-15739) | Abbruch von Shuttle-Buchungen durch MOIA | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15560](https://jira.hochbahn.de/browse/MOS-15560) | Passthrough-Headers auch weiterhin an MOIA über gRPC weitergeben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15338](https://jira.hochbahn.de/browse/MOS-15338) | Die globale Variable für Passthrough-Header ersetzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-114.0
 
 Deployment on **PROD** at: tba-BILLING
