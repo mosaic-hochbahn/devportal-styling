@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-113.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 20.03.25 - 13:48:33
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16808](https://jira.hochbahn.de/projects/MOS/versions/16808)
+
+key | summary |  type
+---- | ----|----
+[MOS-16236](https://jira.hochbahn.de/browse/MOS-16236) | Fehler beim öffnen von BVG-HTML-Tickets in der App | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16202](https://jira.hochbahn.de/browse/MOS-16202) | Beim Cancel-Aufruf an Billing nur gültige reasonCodes verwenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16187](https://jira.hochbahn.de/browse/MOS-16187) | Über Moia Ridepooling API Expressfahrten unterstützen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16090](https://jira.hochbahn.de/browse/MOS-16090) | Analyse: Switch-Ticket-Service stürzt auf DEV häufig ab / Speicherbedarf auf PROD sehr hoch | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16041](https://jira.hochbahn.de/browse/MOS-16041) | #3 update-dev-Helmchart-Projekt um Variable erweitern, die Ticketing-Repo ansteuert | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15959](https://jira.hochbahn.de/browse/MOS-15959) | Eventkonsumierung mit MOIA-Call verbinden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15944](https://jira.hochbahn.de/browse/MOS-15944) | Error-Mapping für die neuen gRPC Schnittstellen anpassen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15917](https://jira.hochbahn.de/browse/MOS-15917) | Über Moia Ridepooling API Rollstuhlfahrer unterstützen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15806](https://jira.hochbahn.de/browse/MOS-15806) | PaymentMethod anonymisieren im STS bei CustomerDeletion | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15790](https://jira.hochbahn.de/browse/MOS-15790) | ganzheitlicher Abnahmetest Backend - INI BVG Ticketing | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15740](https://jira.hochbahn.de/browse/MOS-15740) | Systemtest und gRPC-Mock um Updates erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15452](https://jira.hochbahn.de/browse/MOS-15452) | Secret aus dem rental-service Repository entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15396](https://jira.hochbahn.de/browse/MOS-15396) | Service Modernisierung - SpringBootTemplate Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-148.0
 
 Deployment on **PROD** at: tba-BASIS
