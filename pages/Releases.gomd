@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-148.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 20.03.25 - 13:09:29
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16809](https://jira.hochbahn.de/projects/MOS/versions/16809)
+
+key | summary |  type
+---- | ----|----
+[MOS-16216](https://jira.hochbahn.de/browse/MOS-16216) | OOTW: Java Services Build Broken wegen Security High =&gt; auch in Prod vorhanden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16077](https://jira.hochbahn.de/browse/MOS-16077) | OOTW: Fehler im Miles-Auth-Proxy bei 502 | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## SBAHN-36.0
 
 Deployment on **PROD** at: tba-SBAHN
