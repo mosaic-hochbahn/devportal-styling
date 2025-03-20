@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-115.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 20.03.25 - 11:59:16
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16713](https://jira.hochbahn.de/projects/MOS/versions/16713)
+
+key | summary |  type
+---- | ----|----
+[MOS-16253](https://jira.hochbahn.de/browse/MOS-16253) | Startzeiten der Billing-Microservices anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16048](https://jira.hochbahn.de/browse/MOS-16048) | Datenbankfelder löschen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15927](https://jira.hochbahn.de/browse/MOS-15927) | Implementierung Erstattungsprozess ohne Logik | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15676](https://jira.hochbahn.de/browse/MOS-15676) | Order-Service: Versuch einer Stornierung nicht mehr speichern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15524](https://jira.hochbahn.de/browse/MOS-15524) | Post-Deployment-Test(s) für Belegscan-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-112.0
 
 Deployment on **PROD** at
