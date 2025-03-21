@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-261.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 21.03.25 - 09:35:43
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16807](https://jira.hochbahn.de/projects/MOS/versions/16807)
+
+key | summary |  type
+---- | ----|----
+[MOS-16228](https://jira.hochbahn.de/browse/MOS-16228) | clarification aus helm charts entfernen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-16220](https://jira.hochbahn.de/browse/MOS-16220) | clarification systemtests entfernen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-16215](https://jira.hochbahn.de/browse/MOS-16215) | spelling in cambio yaml | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16198](https://jira.hochbahn.de/browse/MOS-16198) | Cambio - Metrik um FAILURE ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15959](https://jira.hochbahn.de/browse/MOS-15959) | Eventkonsumierung mit MOIA-Call verbinden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-113.0
 
 Deployment on **PROD** at: tba-RIDE
