@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-262.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 27.03.25 - 09:18:35
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16719](https://jira.hochbahn.de/projects/MOS/versions/16719)
+
+key | summary |  type
+---- | ----|----
+[MOS-16192](https://jira.hochbahn.de/browse/MOS-16192) | Anonymisierte MoiaCustomer aus der DB löschen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16172](https://jira.hochbahn.de/browse/MOS-16172) | Logging und Metriken bei SEPA Abläufen ergänzen/verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16119](https://jira.hochbahn.de/browse/MOS-16119) | MDC_REQUEST_ID bei Eventverarbeitung bereitstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-15059](https://jira.hochbahn.de/browse/MOS-15059) | Account Update | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-2.0
 
 Deployment on **PROD** at
