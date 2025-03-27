@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-116.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 27.03.25 - 12:50:14
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16717](https://jira.hochbahn.de/projects/MOS/versions/16717)
+
+key | summary |  type
+---- | ----|----
+[MOS-14978](https://jira.hochbahn.de/browse/MOS-14978) | Tickets automatisch schließen nach PROD-Deployment | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13459](https://jira.hochbahn.de/browse/MOS-13459) | Payment-Service auf neue Package-Struktur umstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-10444](https://jira.hochbahn.de/browse/MOS-10444) | Jenkins-Job für PROD-Release erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## CUSTOMER-262.0
 
 Deployment on **PROD** at: tba-CUSTOMER
