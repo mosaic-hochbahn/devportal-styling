@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-149.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 27.03.25 - 13:27:53
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16718](https://jira.hochbahn.de/projects/MOS/versions/16718)
+
+key | summary |  type
+---- | ----|----
+[MOS-16274](https://jira.hochbahn.de/browse/MOS-16274) | OOTW: Spring Updates manuell lösen (abt, messagin) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16150](https://jira.hochbahn.de/browse/MOS-16150) | Response TOO_MANY_FAILED_LOGINS nicht implementiert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16136](https://jira.hochbahn.de/browse/MOS-16136) | OOTW: testing-kafka-gateway: Update dependencies / logging Umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16065](https://jira.hochbahn.de/browse/MOS-16065) | Panic im Sauthgate | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15853](https://jira.hochbahn.de/browse/MOS-15853) | DOTA-Proxy Authentication Retry mechamisn broken | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BILLING-116.0
 
 Deployment on **PROD** at: tba-BILLING
