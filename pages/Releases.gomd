@@ -1,5 +1,32 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-114.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 27.03.25 - 13:46:12
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16812](https://jira.hochbahn.de/projects/MOS/versions/16812)
+
+key | summary |  type
+---- | ----|----
+[MOS-16336](https://jira.hochbahn.de/browse/MOS-16336) | Apple Wallet gelöschte Tickets handlen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16330](https://jira.hochbahn.de/browse/MOS-16330) | Beim Profil-Löschen muss Billing bei Cambio über mögliche Kosten informiert werden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16329](https://jira.hochbahn.de/browse/MOS-16329) | Booking-Service akzeptiert BVG als MDL nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16306](https://jira.hochbahn.de/browse/MOS-16306) | Prüfung auf vorhandene Customer-Number im Auth-Header aus Shuttle-Service Endpunkten entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16213](https://jira.hochbahn.de/browse/MOS-16213) | Unknown Cambio Error: cambioMessage [Die ID konnte nicht verarbeitet werden.]&#34; | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16185](https://jira.hochbahn.de/browse/MOS-16185) | Durch MOIA abgebrochene Fahrten sollen noch 15 Minuten länger aktiv bleiben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16138](https://jira.hochbahn.de/browse/MOS-16138) | Shuttle-Order Tabelle (DEV und QA) von falschen aktiven Fahrten bereinigen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16119](https://jira.hochbahn.de/browse/MOS-16119) | MDC_REQUEST_ID bei Eventverarbeitung bereitstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-16101](https://jira.hochbahn.de/browse/MOS-16101) | moia-shuttle-orchestration: Refactoring des UpdateTripsHandler | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16049](https://jira.hochbahn.de/browse/MOS-16049) | Outgoing Ticketing-Traffic auf sensible Header-Passthrough prüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16011](https://jira.hochbahn.de/browse/MOS-16011) | &#34;neue Startkartenlogik&#34; QA-Test und PROD-Scharfschaltung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15946](https://jira.hochbahn.de/browse/MOS-15946) | neue Startkartenlogik Deutschlandticket (PT-Teil) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15924](https://jira.hochbahn.de/browse/MOS-15924) | letzte kritische Kafka-Events auf synchron umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15653](https://jira.hochbahn.de/browse/MOS-15653) | Price Parts speichern und ausgeben | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15452](https://jira.hochbahn.de/browse/MOS-15452) | Secret aus dem rental-service Repository entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15396](https://jira.hochbahn.de/browse/MOS-15396) | Service Modernisierung - SpringBootTemplate Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-149.0
 
 Deployment on **PROD** at: tba-BASIS
