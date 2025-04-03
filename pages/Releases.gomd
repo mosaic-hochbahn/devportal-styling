@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-150.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 03.04.25 - 13:31:49
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16813](https://jira.hochbahn.de/projects/MOS/versions/16813)
+
+key | summary |  type
+---- | ----|----
+[MOS-16204](https://jira.hochbahn.de/browse/MOS-16204) | OOTW: Logging im Testing Proxy umstellen, damit Dependency Updates funktionieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16149](https://jira.hochbahn.de/browse/MOS-16149) | OOTW: Logs ABT-Service: Warnings aufgrund von PT Problemen auf Info zurückstufen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15858](https://jira.hochbahn.de/browse/MOS-15858) | Domain change von share-now auf free2move | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15761](https://jira.hochbahn.de/browse/MOS-15761) | Registrierungswebhook bereitstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## CUSTOMER-263.0
 
 Deployment on **PROD** at: tba-CUSTOMER
