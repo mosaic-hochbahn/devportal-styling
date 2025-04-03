@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## CUSTOMER-263.0
+
+Deployment on **PROD** at: tba-CUSTOMER
+
+Deployment on *QA* at: 03.04.25 - 10:27:30
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16724](https://jira.hochbahn.de/projects/MOS/versions/16724)
+
+key | summary |  type
+---- | ----|----
+[MOS-16360](https://jira.hochbahn.de/browse/MOS-16360) | maxReplicas fuer unsere Services setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16340](https://jira.hochbahn.de/browse/MOS-16340) | customer-service cleanup defect-dojo and fix CVE | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16255](https://jira.hochbahn.de/browse/MOS-16255) | update PayPal-Adapter BillingAgreement logging  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16156](https://jira.hochbahn.de/browse/MOS-16156) | Telefonnummer validieren | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-16099](https://jira.hochbahn.de/browse/MOS-16099) | [01.04.] Datenzulieferung für hvv - Kundendaten aktive Deutschlandtickets | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15957](https://jira.hochbahn.de/browse/MOS-15957) | Deactivation-Event konsumieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15229](https://jira.hochbahn.de/browse/MOS-15229) | Validierungsregeln einbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-114.0
 
 Deployment on **PROD** at
