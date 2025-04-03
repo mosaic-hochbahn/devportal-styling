@@ -1,5 +1,34 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-115.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 03.04.25 - 15:29:02
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16814](https://jira.hochbahn.de/projects/MOS/versions/16814)
+
+key | summary |  type
+---- | ----|----
+[MOS-16385](https://jira.hochbahn.de/browse/MOS-16385) | Booking-Change Event wird schneller verarbeitet als das Speichern abgeschlossen ist | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16382](https://jira.hochbahn.de/browse/MOS-16382) | Shuttle vehicleCoordinates nur ausliefern, wenn diese nicht leer sind | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16356](https://jira.hochbahn.de/browse/MOS-16356) |  PriceParts aus ShuttleReservation ausbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16339](https://jira.hochbahn.de/browse/MOS-16339) | Check-In - Implementierung Boarding eines autonomen Fahrzeugs | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16338](https://jira.hochbahn.de/browse/MOS-16338) | Check-In - Schnittstelle zum Boarding eines autonomen Fahrzeugs | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16325](https://jira.hochbahn.de/browse/MOS-16325) | Booking-Proposals - Angebote zu autonomen Fahrten ausgeben | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16294](https://jira.hochbahn.de/browse/MOS-16294) | Ride-MSP KW13 - 24.03.- 28.03.2025 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16276](https://jira.hochbahn.de/browse/MOS-16276) | BigQuery Export der Shuttle-Order Tabelle aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16244](https://jira.hochbahn.de/browse/MOS-16244) | History-Service - BOOKING_CHANGE und ORDER_UPDATED Event werden gleichzeitig verarbeitet | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16107](https://jira.hochbahn.de/browse/MOS-16107) | Timeouts für gRPC Aufrufe konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16049](https://jira.hochbahn.de/browse/MOS-16049) | Outgoing Ticketing-Traffic auf sensible Header-Passthrough prüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16025](https://jira.hochbahn.de/browse/MOS-16025) | Ausgabe der neuen Shuttle Bookings auch ans 360° Cockpit | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16004](https://jira.hochbahn.de/browse/MOS-16004) | Billing benachrichtigen, wenn eine MOIA-Fahrt abgerechnet werden kann | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15924](https://jira.hochbahn.de/browse/MOS-15924) | letzte kritische Kafka-Events auf synchron umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15693](https://jira.hochbahn.de/browse/MOS-15693) | Cambio - CanCancel Feature Toggle entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15691](https://jira.hochbahn.de/browse/MOS-15691) | /ride/bookings liefert leeres &#34;vehicleCoordinate&#34; Objekt in den &#34;updates&#34; aus | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-13270](https://jira.hochbahn.de/browse/MOS-13270) | StructuredLogger in shuttle-service einführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13264](https://jira.hochbahn.de/browse/MOS-13264) | StructuredLogger in booking-service einführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-4.0
 
 Deployment on **PROD** at: tba-TICKETING
