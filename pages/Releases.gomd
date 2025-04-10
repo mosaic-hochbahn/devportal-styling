@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-151.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 10.04.25 - 13:13:59
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17001](https://jira.hochbahn.de/projects/MOS/versions/17001)
+
+key | summary |  type
+---- | ----|----
+[MOS-16406](https://jira.hochbahn.de/browse/MOS-16406) | Moia authentication proxy aus Geofox nicht erreichbar | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16398](https://jira.hochbahn.de/browse/MOS-16398) | ocpi-Service: Dependency Updates und zerolog umstellung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16214](https://jira.hochbahn.de/browse/MOS-16214) | Verification-Webhook bereitstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## SBAHN-38.0
 
 Deployment on **PROD** at: tba-SBAHN
