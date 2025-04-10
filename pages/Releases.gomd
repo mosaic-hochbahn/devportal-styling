@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-116.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 10.04.25 - 13:48:47
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17002](https://jira.hochbahn.de/projects/MOS/versions/17002)
+
+key | summary |  type
+---- | ----|----
+[MOS-16286](https://jira.hochbahn.de/browse/MOS-16286) | Deployment - Umstellung des target-namespace für Update DEV Helmchart Job | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15906](https://jira.hochbahn.de/browse/MOS-15906) | Cambio - Recovery Job Optimierung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15488](https://jira.hochbahn.de/browse/MOS-15488) | BookingChange Event - Aufteilung in Internes und Externes Event | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15168](https://jira.hochbahn.de/browse/MOS-15168) | In den Rest-Clients den X-Origin-Service Header setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13269](https://jira.hochbahn.de/browse/MOS-13269) | StructuredLogger in moia-shuttle-orchestration einführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-5.0
 
 Deployment on **PROD** at: tba-TICKETING
