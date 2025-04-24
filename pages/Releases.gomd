@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-6.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 24.04.25 - 13:39:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17014](https://jira.hochbahn.de/projects/MOS/versions/17014)
+
+key | summary |  type
+---- | ----|----
+[MOS-16543](https://jira.hochbahn.de/browse/MOS-16543) | Lasttest für Einzelticket-Kauf fixen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16510](https://jira.hochbahn.de/browse/MOS-16510) | API-Specs schreiben  für alle v2-Endpunkte | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16504](https://jira.hochbahn.de/browse/MOS-16504) | Neue Korrekturpreisstufe für das Deutschlandticket (FV Preisstufe 90228000) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16482](https://jira.hochbahn.de/browse/MOS-16482) | Vorbereitung: Update der SAM-PROD auf 2.9.3 - Claranet Deployment | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16479](https://jira.hochbahn.de/browse/MOS-16479) | Vorbereitung: Update der SAM-PROD auf 2.9.3 - CAB-Meeting | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16476](https://jira.hochbahn.de/browse/MOS-16476) | Analyse: Deutschlandtickets für nur wenige Tage kaufen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16435](https://jira.hochbahn.de/browse/MOS-16435) | Apple Wallet gelöschte Tickets handlen v2 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16413](https://jira.hochbahn.de/browse/MOS-16413) | Passthrough in HTO ausschalten / alte GetOrderDetails-Methode in STS löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16384](https://jira.hochbahn.de/browse/MOS-16384) | API v2 INI - Konzept &amp; Tickets schreiben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15081](https://jira.hochbahn.de/browse/MOS-15081) | Offer-Cache: Scheduled-Refresh nur wenn neue Tarifserver-Offers abgerufen werden konnten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13085](https://jira.hochbahn.de/browse/MOS-13085) | SAM: Signierung dauert 40x länger nach PROD-Update auf v2.8.9 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-152.0
 
 Deployment on **PROD** at: tba-BASIS
