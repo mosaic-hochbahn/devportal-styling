@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-120.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 24.04.25 - 11:23:10
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16906](https://jira.hochbahn.de/projects/MOS/versions/16906)
+
+key | summary |  type
+---- | ----|----
+[MOS-16370](https://jira.hochbahn.de/browse/MOS-16370) | Payment-Service Konfiguration zum Speicherverbrauch anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16341](https://jira.hochbahn.de/browse/MOS-16341) | Alte Rechnungs-PDFs in Bucket überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16114](https://jira.hochbahn.de/browse/MOS-16114) | Ermitteln der Teile aus den originären Forderung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15413](https://jira.hochbahn.de/browse/MOS-15413) | Order-Service: GET /crm/orders/list ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14801](https://jira.hochbahn.de/browse/MOS-14801) | Billing-Team: Sonarqube Guidelines Implementieren  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14777](https://jira.hochbahn.de/browse/MOS-14777) | BillGeneratedSupplier synchron realisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12218](https://jira.hochbahn.de/browse/MOS-12218) | Terraform - Log-based Metrics über Terraform konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-119.0
 
 Deployment on **PROD** at
