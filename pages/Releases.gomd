@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-152.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 24.04.25 - 13:34:52
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17013](https://jira.hochbahn.de/projects/MOS/versions/17013)
+
+key | summary |  type
+---- | ----|----
+[MOS-16541](https://jira.hochbahn.de/browse/MOS-16541) | Push Notifiaction Service: Upate Dependendies und Zerolog einführen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16503](https://jira.hochbahn.de/browse/MOS-16503) | OOTW: Sharenow Proxy Refresh Zeitpunkt anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15882](https://jira.hochbahn.de/browse/MOS-15882) | Go: Clock-Bibliothek austauschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15541](https://jira.hochbahn.de/browse/MOS-15541) | Helm Charts: Startup Probe ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-117.0
 
 Deployment on **PROD** at: tba-RIDE
