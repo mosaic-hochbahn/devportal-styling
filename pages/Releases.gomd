@@ -1,5 +1,31 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-117.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 24.04.25 - 13:27:07
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16905](https://jira.hochbahn.de/projects/MOS/versions/16905)
+
+key | summary |  type
+---- | ----|----
+[MOS-16571](https://jira.hochbahn.de/browse/MOS-16571) | Groups aus Dependabot-Konfigurationen entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16528](https://jira.hochbahn.de/browse/MOS-16528) | Namen von Einstiegs- und Ausstiegspunkten bei Fahrtanfragen von MOIA übernehmen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16485](https://jira.hochbahn.de/browse/MOS-16485) | POST /reservations bei MOIA gibt direkt eine TripId zurück, obwohl noch kein Trip existiert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16465](https://jira.hochbahn.de/browse/MOS-16465) | Feedback - Schnittstelle Feedback einreichen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16464](https://jira.hochbahn.de/browse/MOS-16464) | Feedback - Schnittstelle ausstehendes Feedback abfragen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16456](https://jira.hochbahn.de/browse/MOS-16456) | Booking-Proposals - Angebote sortieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16433](https://jira.hochbahn.de/browse/MOS-16433) | BookingChange Event - Migration auf internes Event abschließen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16395](https://jira.hochbahn.de/browse/MOS-16395) | Service Modernisierung - Shuttle Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16374](https://jira.hochbahn.de/browse/MOS-16374) | Check-In - Hinzufügen neuer ShuttlePhase AT_PICKUP | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16369](https://jira.hochbahn.de/browse/MOS-16369) | Check-In - Aktualisieren der ShuttlePhase zu AT_PICKUP | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16327](https://jira.hochbahn.de/browse/MOS-16327) | Check-In - Erweiterung der System-Tests um autonome Fahrt | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15897](https://jira.hochbahn.de/browse/MOS-15897) | shuttle-service: Deprecated /bookings Endpunkte entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15455](https://jira.hochbahn.de/browse/MOS-15455) | Secret aus dem box-rental-service Repository entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15454](https://jira.hochbahn.de/browse/MOS-15454) | Secret aus dem sixt-rental-orchestration Repository entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13267](https://jira.hochbahn.de/browse/MOS-13267) | StructuredLogger in history-orchestration einführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-120.0
 
 Deployment on **PROD** at: tba-BILLING
