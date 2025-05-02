@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-121.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 02.05.25 - 11:45:07
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16909](https://jira.hochbahn.de/projects/MOS/versions/16909)
+
+key | summary |  type
+---- | ----|----
+[MOS-16144](https://jira.hochbahn.de/browse/MOS-16144) | Neuen JobExecutor in allen verbliebenen Services implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16117](https://jira.hochbahn.de/browse/MOS-16117) | Anfrage für die Erstellung der Rechnung schicken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16115](https://jira.hochbahn.de/browse/MOS-16115) | Anfrage für die Erstattungen schicken  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-6.0
 
 Deployment on **PROD** at
