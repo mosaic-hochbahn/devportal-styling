@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-118.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 02.05.25 - 13:42:57
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16911](https://jira.hochbahn.de/projects/MOS/versions/16911)
+
+key | summary |  type
+---- | ----|----
+[MOS-16594](https://jira.hochbahn.de/browse/MOS-16594) | Feedback - Systemtest | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16463](https://jira.hochbahn.de/browse/MOS-16463) | Feedback - Implementierung Einreichen von Feedback | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16462](https://jira.hochbahn.de/browse/MOS-16462) | Feedback - Implementierung Abfragen von ausstehendem Feedback bei MOIA | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16400](https://jira.hochbahn.de/browse/MOS-16400) | Nicht gebuchte BookingProposals regelmäßig löschen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16369](https://jira.hochbahn.de/browse/MOS-16369) | Check-In - Aktualisieren der ShuttlePhase zu AT_PICKUP | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14034](https://jira.hochbahn.de/browse/MOS-14034) | Kafka Logausgaben für asynchrones Sendeverhalten richtig konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-7.0
 
 Deployment on **PROD** at: tba-TICKETING
