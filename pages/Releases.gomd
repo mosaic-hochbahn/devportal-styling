@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-122.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 08.05.25 - 11:08:08
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17023](https://jira.hochbahn.de/projects/MOS/versions/17023)
+
+key | summary |  type
+---- | ----|----
+[MOS-16617](https://jira.hochbahn.de/browse/MOS-16617) | Schnittstelle zum Abrufen von Zahlungsinformationen implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16612](https://jira.hochbahn.de/browse/MOS-16612) | Schnittstelle zum Erzeugen von Auftragsnummern implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16567](https://jira.hochbahn.de/browse/MOS-16567) | Workaround für netAmount und vatPercent wieder ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16308](https://jira.hochbahn.de/browse/MOS-16308) | ShuttleFinishedEvent konsumieren und Trip von MOIA abrufen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15768](https://jira.hochbahn.de/browse/MOS-15768) | Rabatt-Informationen von MOIA auf der Rechnung darstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15767](https://jira.hochbahn.de/browse/MOS-15767) | Rabatt-Informationen entgegen nehmen und speichern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-118.0
 
 Deployment on **PROD** at
