@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-119.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 08.05.25 - 13:52:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17026](https://jira.hochbahn.de/projects/MOS/versions/17026)
+
+key | summary |  type
+---- | ----|----
+[MOS-16672](https://jira.hochbahn.de/browse/MOS-16672) | GET /rental/VOI/orders/{orderNumber} Endpunkt aus der VOI-Rental-Orchestration entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16554](https://jira.hochbahn.de/browse/MOS-16554) | History-Service ruft Shuttle-Order ab, bevor sie gespeichert ist | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15921](https://jira.hochbahn.de/browse/MOS-15921) | Cambio - Booking und HistoryService im Systemtest ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14034](https://jira.hochbahn.de/browse/MOS-14034) | Kafka Logausgaben für asynchrones Sendeverhalten richtig konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-122.0
 
 Deployment on **PROD** at: tba-BILLING
