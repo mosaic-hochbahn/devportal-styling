@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-8.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 09.05.25 - 09:51:32
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16915](https://jira.hochbahn.de/projects/MOS/versions/16915)
+
+key | summary |  type
+---- | ----|----
+[MOS-16645](https://jira.hochbahn.de/browse/MOS-16645) | Wallet Monatswechsel STS Memory Performance anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16644](https://jira.hochbahn.de/browse/MOS-16644) | Wallet DB-Einträge entfernen Perfomance verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16637](https://jira.hochbahn.de/browse/MOS-16637) | System-Test-Branches müssen beschützt werden! | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16620](https://jira.hochbahn.de/browse/MOS-16620) | SAM-Server Update 25.01.1 - Deployment-Begleitung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16523](https://jira.hochbahn.de/browse/MOS-16523) | Ticket-Offer-Abfrage v2 implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16521](https://jira.hochbahn.de/browse/MOS-16521) | Ticket-Abruf &amp; Manipulations v2 implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16520](https://jira.hochbahn.de/browse/MOS-16520) | Ticketkauf v2 implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15384](https://jira.hochbahn.de/browse/MOS-15384) | Ticket-Flow umstellen auf &#34;erst abrechnen, dann erstellen (Tarifserver hvv) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-119.0
 
 Deployment on **PROD** at: tba-RIDE
