@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-155.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 15.05.25 - 14:12:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17201](https://jira.hochbahn.de/projects/MOS/versions/17201)
+
+key | summary |  type
+---- | ----|----
+[MOS-15758](https://jira.hochbahn.de/browse/MOS-15758) | voucherify-authentication-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15754](https://jira.hochbahn.de/browse/MOS-15754) | paypal-authentication-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15752](https://jira.hochbahn.de/browse/MOS-15752) | itm-authentication-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15751](https://jira.hochbahn.de/browse/MOS-15751) | idnow-authentication-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15749](https://jira.hochbahn.de/browse/MOS-15749) | clevertap-authentication-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-9.0
 
 Deployment on **PROD** at: tba-TICKETING
