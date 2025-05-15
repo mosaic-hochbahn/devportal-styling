@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-9.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 15.05.25 - 12:48:21
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17202](https://jira.hochbahn.de/projects/MOS/versions/17202)
+
+key | summary |  type
+---- | ----|----
+[MOS-16643](https://jira.hochbahn.de/browse/MOS-16643) | Passthrough in HTO nur für externe Aufrufe ausschalten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16574](https://jira.hochbahn.de/browse/MOS-16574) | Alte DT Discount Preisstufenlogik entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16475](https://jira.hochbahn.de/browse/MOS-16475) | Dev-Meeting Vorbereitung - Analyse: Ansteigende Zeit bis Erstreaktion vom Service bei vielen parallelen Order-Request (HTO) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16474](https://jira.hochbahn.de/browse/MOS-16474) | Toggle disable_pt_nova_adapter_in_cto wieder ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16401](https://jira.hochbahn.de/browse/MOS-16401) | Zielbild/Architektur für Ticketing-Integration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14831](https://jira.hochbahn.de/browse/MOS-14831) | Ticketing: Services mit Quartz-Jobs mit Trigger-Recovery ausstatten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-123.0
 
 Deployment on **PROD** at: tba-BILLING
