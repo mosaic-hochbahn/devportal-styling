@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-120.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 15.05.25 - 14:52:06
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17102](https://jira.hochbahn.de/projects/MOS/versions/17102)
+
+key | summary |  type
+---- | ----|----
+[MOS-16660](https://jira.hochbahn.de/browse/MOS-16660) | Feedback - Fehlercode Handling | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16657](https://jira.hochbahn.de/browse/MOS-16657) | Kompression für Kafka-Events aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16633](https://jira.hochbahn.de/browse/MOS-16633) | Secret aus dem box-rental-service Repository entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16459](https://jira.hochbahn.de/browse/MOS-16459) | moia-shuttle-orchestration: gRPC Mock Server Dependency austauschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16020](https://jira.hochbahn.de/browse/MOS-16020) | Sicherheitsprobleme der karate.jar in Dockerfiles der Mock-Services | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15965](https://jira.hochbahn.de/browse/MOS-15965) | booking-service: refactoring analog zum history-service vornehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15840](https://jira.hochbahn.de/browse/MOS-15840) | V1 und V2 Shuttle-History-Bookings voneinander trennen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-155.0
 
 Deployment on **PROD** at: tba-BASIS
