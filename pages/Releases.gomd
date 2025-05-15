@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-123.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 15.05.25 - 11:48:09
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17200](https://jira.hochbahn.de/projects/MOS/versions/17200)
+
+key | summary |  type
+---- | ----|----
+[MOS-16623](https://jira.hochbahn.de/browse/MOS-16623) | Dependencies etc. updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16603](https://jira.hochbahn.de/browse/MOS-16603) | Aufräumen RefundFlow | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16590](https://jira.hochbahn.de/browse/MOS-16590) | Alert für den ShuttleOrderRecoveryJob erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16564](https://jira.hochbahn.de/browse/MOS-16564) | PriceParts: Type in Text mappen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16562](https://jira.hochbahn.de/browse/MOS-16562) | Supplier in Billing Services synchron realisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16221](https://jira.hochbahn.de/browse/MOS-16221) | Recovery-Flow überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16116](https://jira.hochbahn.de/browse/MOS-16116) | Daten für die Erstellung der Rechnung sammeln | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-8.0
 
 Deployment on **PROD** at
