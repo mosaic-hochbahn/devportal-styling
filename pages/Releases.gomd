@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## SBAHN-40.0
+
+Deployment on **PROD** at: tba-SBAHN
+
+Deployment on *QA* at: 16.05.25 - 14:41:31
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/16910](https://jira.hochbahn.de/projects/MOS/versions/16910)
+
+key | summary |  type
+---- | ----|----
+[MOS-16623](https://jira.hochbahn.de/browse/MOS-16623) | Dependencies etc. updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-120.0
 
 Deployment on **PROD** at: tba-RIDE
