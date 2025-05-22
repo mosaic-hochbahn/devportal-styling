@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-10.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 22.05.25 - 13:42:05
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17207](https://jira.hochbahn.de/projects/MOS/versions/17207)
+
+key | summary |  type
+---- | ----|----
+[MOS-16726](https://jira.hochbahn.de/browse/MOS-16726) | Wallet Admin Endpunkte Async machen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16706](https://jira.hochbahn.de/browse/MOS-16706) | HTO: IO Error während Deployments | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16704](https://jira.hochbahn.de/browse/MOS-16704) | Offers um Sortennummer erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16343](https://jira.hochbahn.de/browse/MOS-16343) | neue requestId in System-Test bei retry erzeugen funktioniert nicht | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16197](https://jira.hochbahn.de/browse/MOS-16197) | SQL-Skript zur Anonymisierung von Subscriptions auf QA und Prod ausführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16036](https://jira.hochbahn.de/browse/MOS-16036) | Neue Discountlogik - Sonderlocken für Einführungsphase zurückbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15993](https://jira.hochbahn.de/browse/MOS-15993) | Order History Systemtest für Ticketing | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-121.0
 
 Deployment on **PROD** at: tba-RIDE
