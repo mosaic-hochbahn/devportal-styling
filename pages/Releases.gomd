@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-156.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 22.05.25 - 13:21:09
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17104](https://jira.hochbahn.de/projects/MOS/versions/17104)
+
+key | summary |  type
+---- | ----|----
+[MOS-16653](https://jira.hochbahn.de/browse/MOS-16653) | PT-Proxies: Ping-Endpunkte-Route korrigieren oder entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15753](https://jira.hochbahn.de/browse/MOS-15753) | logpay-authentication-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15747](https://jira.hochbahn.de/browse/MOS-15747) | bonvoyo-apikey-authentication-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-124.0
 
 Deployment on **PROD** at: tba-BILLING
