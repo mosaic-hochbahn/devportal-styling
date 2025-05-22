@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-121.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 22.05.25 - 13:35:26
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17109](https://jira.hochbahn.de/projects/MOS/versions/17109)
+
+key | summary |  type
+---- | ----|----
+[MOS-16692](https://jira.hochbahn.de/browse/MOS-16692) | Ride-MSP KW20 - 12.05. - 16.05.2025 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16689](https://jira.hochbahn.de/browse/MOS-16689) | MapStruct Mapper Warnings in Shuttle-Services eliminieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16555](https://jira.hochbahn.de/browse/MOS-16555) | Shuttle-Orchestration Refactoring - Service-Klassen strukturieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16468](https://jira.hochbahn.de/browse/MOS-16468) | Shuttle API v2 Schnittstellen müssen nicht mit Offers umgehen können | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16461](https://jira.hochbahn.de/browse/MOS-16461) | Liveness-Monitoring für unsere Services auf PROD einrichten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14443](https://jira.hochbahn.de/browse/MOS-14443) | Toggle: disable_box_rental_starting_event ausbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-156.0
 
 Deployment on **PROD** at: tba-BASIS
