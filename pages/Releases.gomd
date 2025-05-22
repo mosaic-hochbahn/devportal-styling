@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-124.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 22.05.25 - 11:48:04
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17103](https://jira.hochbahn.de/projects/MOS/versions/17103)
+
+key | summary |  type
+---- | ----|----
+[MOS-16557](https://jira.hochbahn.de/browse/MOS-16557) | [Analyse] Billing-Service - Generierung der Rechnungen als Integration Test | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16168](https://jira.hochbahn.de/browse/MOS-16168) | Schnittstelle zu Abrufen der originären Forderungen implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## SBAHN-40.0
 
 Deployment on **PROD** at
