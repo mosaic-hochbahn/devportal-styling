@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-157.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 28.05.25 - 13:34:32
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17112](https://jira.hochbahn.de/projects/MOS/versions/17112)
+
+key | summary |  type
+---- | ----|----
+[MOS-15759](https://jira.hochbahn.de/browse/MOS-15759) | zenner-authentication-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15757](https://jira.hochbahn.de/browse/MOS-15757) | voi-authentication-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15756](https://jira.hochbahn.de/browse/MOS-15756) | sixt-authentication-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15755](https://jira.hochbahn.de/browse/MOS-15755) | sharenow-authentication-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15746](https://jira.hochbahn.de/browse/MOS-15746) | bikenride-authentication-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15723](https://jira.hochbahn.de/browse/MOS-15723) | Feature-Flag für neue Passwort-Regeln entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-125.0
 
 Deployment on **PROD** at: tba-BILLING
