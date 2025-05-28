@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-122.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 28.05.25 - 16:04:26
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17212](https://jira.hochbahn.de/projects/MOS/versions/17212)
+
+key | summary |  type
+---- | ----|----
+[MOS-16751](https://jira.hochbahn.de/browse/MOS-16751) | bookingService: fehlende BookingId hinzufügen  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16698](https://jira.hochbahn.de/browse/MOS-16698) | Exception in Error Message bei Aufruf der /reservations Endpoints | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16580](https://jira.hochbahn.de/browse/MOS-16580) | Grafana Dashboard für die bisherige Dauer aktuell aktiver Buchungen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15838](https://jira.hochbahn.de/browse/MOS-15838) | MOIA: User Koordinaten aus getTrip entfernen. | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15453](https://jira.hochbahn.de/browse/MOS-15453) | Secret aus dem shuttle-service Repository entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12403](https://jira.hochbahn.de/browse/MOS-12403) | spring.jpa.open-in-view deaktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-157.0
 
 Deployment on **PROD** at: tba-BASIS
