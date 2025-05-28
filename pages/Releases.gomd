@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-125.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 28.05.25 - 13:20:44
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17111](https://jira.hochbahn.de/projects/MOS/versions/17111)
+
+key | summary |  type
+---- | ----|----
+[MOS-16733](https://jira.hochbahn.de/browse/MOS-16733) |  hvv Any Systemtests anpassen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-16722](https://jira.hochbahn.de/browse/MOS-16722) | SendUncommittedBillsJob auf neue Package-Struktur umstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-16720](https://jira.hochbahn.de/browse/MOS-16720) | ERMO146 - Bereits erhaltene DebtData nicht überschreiben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16715](https://jira.hochbahn.de/browse/MOS-16715) | ALIKE - Abrechnung der Fahrten / Erstellung der Rechnung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16699](https://jira.hochbahn.de/browse/MOS-16699) | Alert für Voucher Recovery Jobs redeem und release  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16606](https://jira.hochbahn.de/browse/MOS-16606) | Payment-Service Prüfung auf doppelte Erstattungen oder Sondergebühren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-10.0
 
 Deployment on **PROD** at
