@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-11.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 30.05.25 - 10:26:00
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17213](https://jira.hochbahn.de/projects/MOS/versions/17213)
+
+key | summary |  type
+---- | ----|----
+[MOS-16732](https://jira.hochbahn.de/browse/MOS-16732) | Event umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16664](https://jira.hochbahn.de/browse/MOS-16664) | Ticketing-Wächter 19.05 - 23.05 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16514](https://jira.hochbahn.de/browse/MOS-16514) | Analyse: Maßnahmen ERMO#142 - Probleme beim Verlängerungslauf  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16376](https://jira.hochbahn.de/browse/MOS-16376) | Ticketing-Frontend für PROD aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15771](https://jira.hochbahn.de/browse/MOS-15771) | Apple-Wallet - Auth token duplicate key  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-122.0
 
 Deployment on **PROD** at: tba-RIDE
