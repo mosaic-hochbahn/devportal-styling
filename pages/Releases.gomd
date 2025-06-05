@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-123.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 05.06.25 - 13:25:49
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17217](https://jira.hochbahn.de/projects/MOS/versions/17217)
+
+key | summary |  type
+---- | ----|----
+[MOS-16914](https://jira.hochbahn.de/browse/MOS-16914) | Update der Feedback und Trip Proto Dateien in der Moia-Shuttle-Orchestration | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16744](https://jira.hochbahn.de/browse/MOS-16744) | moia-shuttle-orchestration: optimistic Locking bei parallelen Abläufe | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16691](https://jira.hochbahn.de/browse/MOS-16691) | Shuttle Booking Proposals regelmäßig nach Big Query exportieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16600](https://jira.hochbahn.de/browse/MOS-16600) | DevPortal: Server URLs fixen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16580](https://jira.hochbahn.de/browse/MOS-16580) | Grafana Dashboard für die bisherige Dauer aktuell aktiver Buchungen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-126.0
 
 Deployment on **PROD** at: tba-BILLING
