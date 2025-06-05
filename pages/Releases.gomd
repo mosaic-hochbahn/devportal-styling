@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-158.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 05.06.25 - 13:27:44
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17215](https://jira.hochbahn.de/projects/MOS/versions/17215)
+
+key | summary |  type
+---- | ----|----
+[MOS-16910](https://jira.hochbahn.de/browse/MOS-16910) | Dedeploy cambio-booking-authentication-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15728](https://jira.hochbahn.de/browse/MOS-15728) | Fehlende Feature-Toggles alerten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-123.0
 
 Deployment on **PROD** at: tba-RIDE
