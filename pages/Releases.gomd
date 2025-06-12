@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-159.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 12.06.25 - 16:37:54
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17304](https://jira.hochbahn.de/projects/MOS/versions/17304)
+
+key | summary |  type
+---- | ----|----
+[MOS-16923](https://jira.hochbahn.de/browse/MOS-16923) | More Logs for debugging in sauthgate | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16812](https://jira.hochbahn.de/browse/MOS-16812) | Services auf Go 1.24.x updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-127.0
 
 Deployment on **PROD** at: tba-BILLING
