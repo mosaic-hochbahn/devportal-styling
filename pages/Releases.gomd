@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-160.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 19.06.25 - 13:23:18
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17307](https://jira.hochbahn.de/projects/MOS/versions/17307)
+
+key | summary |  type
+---- | ----|----
+[MOS-16935](https://jira.hochbahn.de/browse/MOS-16935) | OOTW: Logout Failed, Context Canceled | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-15750](https://jira.hochbahn.de/browse/MOS-15750) | dota-authentication-proxy | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-125.0
 
 Deployment on **PROD** at: tba-RIDE
