@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-128.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 19.06.25 - 10:27:13
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17405](https://jira.hochbahn.de/projects/MOS/versions/17405)
+
+key | summary |  type
+---- | ----|----
+[MOS-16976](https://jira.hochbahn.de/browse/MOS-16976) | DefectDojo Findings fixen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16788](https://jira.hochbahn.de/browse/MOS-16788) | Controller-Use-Cases auf neue Package-Struktur umstellen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-16746](https://jira.hochbahn.de/browse/MOS-16746) | In den Rest-Clients den X-Origin-Service Header setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16738](https://jira.hochbahn.de/browse/MOS-16738) | DiscountableDebtDataEvent löschen | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-16693](https://jira.hochbahn.de/browse/MOS-16693) | Dokumentation neuer Erstattungs-Prozess | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16442](https://jira.hochbahn.de/browse/MOS-16442) | discount-service ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16380](https://jira.hochbahn.de/browse/MOS-16380) | Aufräumen nachdem alle PDFs im Bucket sind | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12363](https://jira.hochbahn.de/browse/MOS-12363) | Billing-Service auf neue Package-Struktur umstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-159.0
 
 Deployment on **PROD** at
