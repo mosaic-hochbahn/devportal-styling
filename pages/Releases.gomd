@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-126.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 26.06.25 - 12:03:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17311](https://jira.hochbahn.de/projects/MOS/versions/17311)
+
+key | summary |  type
+---- | ----|----
+[MOS-16806](https://jira.hochbahn.de/browse/MOS-16806) | booking-service: Rental MSPs in Behandlung von BookingChangeInternalEvent ergänzen  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16743](https://jira.hochbahn.de/browse/MOS-16743) | Speichern der verpflichtenden Feedbacks im ALIKE-Kontext | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16332](https://jira.hochbahn.de/browse/MOS-16332) | Cambio - neuen Fehlertext in den CambioErrorMapper aufnehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13271](https://jira.hochbahn.de/browse/MOS-13271) | StructuredLogger in sixt-rental-orchestration einführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-9341](https://jira.hochbahn.de/browse/MOS-9341) | moia-shuttle-orchestration obsoleten vault code entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-129.0
 
 Deployment on **PROD** at: tba-BILLING
