@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-129.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 26.06.25 - 11:49:03
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17406](https://jira.hochbahn.de/projects/MOS/versions/17406)
+
+key | summary |  type
+---- | ----|----
+[MOS-17042](https://jira.hochbahn.de/browse/MOS-17042) | Verbesserungen an die Dokumentation und das Model  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17004](https://jira.hochbahn.de/browse/MOS-17004) | Header X-Origin-Service im Belegscan-Service setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16381](https://jira.hochbahn.de/browse/MOS-16381) | Datenbankspalte für Rechnungs-PDFs löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16180](https://jira.hochbahn.de/browse/MOS-16180) | Auftrag auf inaktiv setzen bei Vollerstattung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15203](https://jira.hochbahn.de/browse/MOS-15203) | [Voucherify] Billing: Locking Validation Session | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BASIS-160.0
 
 Deployment on **PROD** at
