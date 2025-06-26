@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-15.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 26.06.25 - 14:46:00
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17407](https://jira.hochbahn.de/projects/MOS/versions/17407)
+
+key | summary |  type
+---- | ----|----
+[MOS-17047](https://jira.hochbahn.de/browse/MOS-17047) | Wallet-Service Code und Doku angleichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17039](https://jira.hochbahn.de/browse/MOS-17039) | mysteriösen über-langen Apple-Wallet-Push-Token untersuchen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17038](https://jira.hochbahn.de/browse/MOS-17038) | tariffProductId auch für BVG und DT rausgeben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16963](https://jira.hochbahn.de/browse/MOS-16963) | Produktkategorien - API-Umsetzung  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16896](https://jira.hochbahn.de/browse/MOS-16896) | #Ermo 142 Entscheidungsgrundlage automatischer VL-Stop | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16823](https://jira.hochbahn.de/browse/MOS-16823) | KOSE - Anbindung des Google-Bucket für Nachrichtenversand | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16822](https://jira.hochbahn.de/browse/MOS-16822) | KOSE - Sperrnachrichten erzeugen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15419](https://jira.hochbahn.de/browse/MOS-15419) | Offene Punkte PT Offers Cache Rework | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-161.0
 
 Deployment on **PROD** at: tba-BASIS
