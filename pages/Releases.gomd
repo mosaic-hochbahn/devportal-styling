@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-161.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 26.06.25 - 13:14:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17409](https://jira.hochbahn.de/projects/MOS/versions/17409)
+
+key | summary |  type
+---- | ----|----
+[MOS-17011](https://jira.hochbahn.de/browse/MOS-17011) | MOIA GRPC Proxy URL Änderung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17008](https://jira.hochbahn.de/browse/MOS-17008) | Dev-Portal: Besser anzeigen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16965](https://jira.hochbahn.de/browse/MOS-16965) | HTTP Endpunkt implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16958](https://jira.hochbahn.de/browse/MOS-16958) | Service und Deployment für HTTP-MQTT Bridge | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16937](https://jira.hochbahn.de/browse/MOS-16937) | OOTW: Webhook-Multiplexer, Connection Closed due Panic | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16927](https://jira.hochbahn.de/browse/MOS-16927) | Erweiterung der Feedback Function um weiteren Feedbacktype | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-126.0
 
 Deployment on **PROD** at: tba-RIDE
