@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-16.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 03.07.25 - 12:52:13
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17413](https://jira.hochbahn.de/projects/MOS/versions/17413)
+
+key | summary |  type
+---- | ----|----
+[MOS-17063](https://jira.hochbahn.de/browse/MOS-17063) | DebtDataEvent 2x beim VL fehlgeschlagen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16825](https://jira.hochbahn.de/browse/MOS-16825) | KOSE - Anbindung des Google-Bucket für Nachrichtenempfang | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16821](https://jira.hochbahn.de/browse/MOS-16821) | KOSE - Persistenz der Sperraufträge | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16820](https://jira.hochbahn.de/browse/MOS-16820) | KOSE - Service-Schnittstelle umsetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16687](https://jira.hochbahn.de/browse/MOS-16687) | Tracing: Helm Chart update | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-15.0
 
 Deployment on **PROD** at
