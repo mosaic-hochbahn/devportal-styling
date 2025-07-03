@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BASIS-162.0
+
+Deployment on **PROD** at: tba-BASIS
+
+Deployment on *QA* at: 03.07.25 - 13:32:35
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17411](https://jira.hochbahn.de/projects/MOS/versions/17411)
+
+key | summary |  type
+---- | ----|----
+[MOS-17077](https://jira.hochbahn.de/browse/MOS-17077) | OOTW: Sauthgate schreibt keine Metriken in prometheus / grafana | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16999](https://jira.hochbahn.de/browse/MOS-16999) | OOTW: Push-Notification-Service konnte Notifications nicht senden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16966](https://jira.hochbahn.de/browse/MOS-16966) | MQTT Nachrichtenversand | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-16.0
 
 Deployment on **PROD** at: tba-TICKETING
