@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-127.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 03.07.25 - 15:08:11
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17410](https://jira.hochbahn.de/projects/MOS/versions/17410)
+
+key | summary |  type
+---- | ----|----
+[MOS-17074](https://jira.hochbahn.de/browse/MOS-17074) | Log Level reduzieren bei fehlender Erstellung der Buchung bei MOIA | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17051](https://jira.hochbahn.de/browse/MOS-17051) | ALIKE Shuttle Phase alterniert zwischen TO_PICKUP und AT_PICKUP | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16960](https://jira.hochbahn.de/browse/MOS-16960) | Letzte nichtgenutzte Überreste der &#34;x-switch-customer-number&#34; aus shuttle entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16807](https://jira.hochbahn.de/browse/MOS-16807) | history-service: Rental MSPs in Behandlung von BookingChangeInternalEvent ergänzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13273](https://jira.hochbahn.de/browse/MOS-13273) | StructuredLogger in voi-ride-orchestration einführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BASIS-162.0
 
 Deployment on **PROD** at: tba-BASIS
