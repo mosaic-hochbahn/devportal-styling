@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-17.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 10.07.25 - 13:22:00
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17501](https://jira.hochbahn.de/projects/MOS/versions/17501)
+
+key | summary |  type
+---- | ----|----
+[MOS-17070](https://jira.hochbahn.de/browse/MOS-17070) | Jobs laufen in der HTO beim Service shutdown korrekt zuende | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17069](https://jira.hochbahn.de/browse/MOS-17069) | APIv2 Nacharbeiten bzgl. tariffProductId / bookingResponse | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16829](https://jira.hochbahn.de/browse/MOS-16829) | KOSE - Anbindung an Ticketing Use Cases | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16828](https://jira.hochbahn.de/browse/MOS-16828) | KOSE - Retry im Fehlerfall des Versands | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-131.0
 
 Deployment on **PROD** at: tba-BILLING
