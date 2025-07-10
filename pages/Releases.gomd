@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-131.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 10.07.25 - 12:02:57
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17500](https://jira.hochbahn.de/projects/MOS/versions/17500)
+
+key | summary |  type
+---- | ----|----
+[MOS-16750](https://jira.hochbahn.de/browse/MOS-16750) | Billing-Service: Recovery-Jobs verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16749](https://jira.hochbahn.de/browse/MOS-16749) | Payment-Service: Reihenfolge von Recovery-Jobs anpassen und Recovery-Jobs verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-127.0
 
 Deployment on **PROD** at
