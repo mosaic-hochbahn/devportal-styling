@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-128.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 10.07.25 - 14:00:59
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17504](https://jira.hochbahn.de/projects/MOS/versions/17504)
+
+key | summary |  type
+---- | ----|----
+[MOS-17142](https://jira.hochbahn.de/browse/MOS-17142) | Scheduling im Booking-Service aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17123](https://jira.hochbahn.de/browse/MOS-17123) | Prüfung für 360 aus history-orchestration ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17080](https://jira.hochbahn.de/browse/MOS-17080) | StadtRad // MSP Enum erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17054](https://jira.hochbahn.de/browse/MOS-17054) | Cambio - Recovery Job Optimierung - Teil 2 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16808](https://jira.hochbahn.de/browse/MOS-16808) | rental-service: Bestehende Rental Buchungen in den history-service übertragen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16405](https://jira.hochbahn.de/browse/MOS-16405) | Start Trip in Cambio Systemtests ersetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15979](https://jira.hochbahn.de/browse/MOS-15979) | Kienzler: Booking und History-Service im Systemtest ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15878](https://jira.hochbahn.de/browse/MOS-15878) | POST /trips bei Cambio entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-17.0
 
 Deployment on **PROD** at: tba-TICKETING
