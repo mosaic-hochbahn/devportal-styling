@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-18.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 17.07.25 - 13:49:30
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17607](https://jira.hochbahn.de/projects/MOS/versions/17607)
+
+key | summary |  type
+---- | ----|----
+[MOS-17160](https://jira.hochbahn.de/browse/MOS-17160) | Teil1 - Vollständiges Ticketsortiment: Übernahme in Wallet | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17097](https://jira.hochbahn.de/browse/MOS-17097) | KOSE - Schnittstelle für die S-Bahn | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17033](https://jira.hochbahn.de/browse/MOS-17033) | Vollständiges Ticketsortiment: API liefert das Vollsortiment | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16994](https://jira.hochbahn.de/browse/MOS-16994) | KOSE - Cron Job zur Erkennung von Nicht-Verarbeitung von Messages | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-129.0
 
 Deployment on **PROD** at: tba-RIDE
