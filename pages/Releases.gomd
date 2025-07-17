@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-132.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 17.07.25 - 13:07:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17606](https://jira.hochbahn.de/projects/MOS/versions/17606)
+
+key | summary |  type
+---- | ----|----
+[MOS-17143](https://jira.hochbahn.de/browse/MOS-17143) | Unbekannten PricePart Typ im billing-order-adapter mappen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17090](https://jira.hochbahn.de/browse/MOS-17090) | Nicht mehr verwendete Feature-Toggles entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17060](https://jira.hochbahn.de/browse/MOS-17060) | Order Service - ActiveUntil und jede Verwendung als deprecated markieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16898](https://jira.hochbahn.de/browse/MOS-16898) | Gutscheineinlösung doppelt möglich | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-16652](https://jira.hochbahn.de/browse/MOS-16652) | Billing-Order-Adapter protobuf aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16252](https://jira.hochbahn.de/browse/MOS-16252) | Cambio - Fahrten und Erstattungen im gleichen Rechnungslauf verarbeiten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15868](https://jira.hochbahn.de/browse/MOS-15868) | Webhook Adapter implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-128.0
 
 Deployment on **PROD** at
