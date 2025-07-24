@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-130.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 24.07.25 - 14:18:22
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17511](https://jira.hochbahn.de/projects/MOS/versions/17511)
+
+key | summary |  type
+---- | ----|----
+[MOS-17228](https://jira.hochbahn.de/browse/MOS-17228) | Contract Tests für Jobs sollten die Quartz Job Configuration mit einbeziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17225](https://jira.hochbahn.de/browse/MOS-17225) | Kafka Event Kompression für Topics in Richtung 360° Cockpit wieder aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17210](https://jira.hochbahn.de/browse/MOS-17210) | history-service: Definition der Booking-Schnittstelle für 360 erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17132](https://jira.hochbahn.de/browse/MOS-17132) | booking-service: Ticketing MSPs in Behandlung von BookingChangeInternalEvent ergänzen  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16805](https://jira.hochbahn.de/browse/MOS-16805) | rental-service: BookingChangeInternalEvent für aktuelle Buchungen versenden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16797](https://jira.hochbahn.de/browse/MOS-16797) | Toggle emergency_disable_booking_service_cleanup_job auf PROD deaktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16782](https://jira.hochbahn.de/browse/MOS-16782) | shuttle-service: Migration Job entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14810](https://jira.hochbahn.de/browse/MOS-14810) | GitLab CI - Testen ohne Docker | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-19.0
 
 Deployment on **PROD** at: tba-TICKETING
