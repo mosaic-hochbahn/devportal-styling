@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-19.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 24.07.25 - 12:54:52
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17514](https://jira.hochbahn.de/projects/MOS/versions/17514)
+
+key | summary |  type
+---- | ----|----
+[MOS-16826](https://jira.hochbahn.de/browse/MOS-16826) | KOSE - Aktualisieren des Sperrauftrags in DB bei Nachrichtenempfang | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-133.0
 
 Deployment on **PROD** at: tba-BILLING
