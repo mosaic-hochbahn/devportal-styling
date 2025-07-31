@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-20.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 31.07.25 - 13:21:53
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17519](https://jira.hochbahn.de/projects/MOS/versions/17519)
+
+key | summary |  type
+---- | ----|----
+[MOS-17255](https://jira.hochbahn.de/browse/MOS-17255) | KOSE - Sperrnachrichten nur für DT-Produkt versenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17220](https://jira.hochbahn.de/browse/MOS-17220) | Offer-v2 Renamings und alte Attribute löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17186](https://jira.hochbahn.de/browse/MOS-17186) | KOSE - Massensperren ermöglichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17152](https://jira.hochbahn.de/browse/MOS-17152) | Vollständiges Ticketsortiment: Tickets kaufen mit TarifProductID ermöglichen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17145](https://jira.hochbahn.de/browse/MOS-17145) | ANALYSE - VDV KA Konformität - Ausgabemeldung VDV-Barcode-Berechtigung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17097](https://jira.hochbahn.de/browse/MOS-17097) | KOSE - Schnittstelle für die S-Bahn | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16553](https://jira.hochbahn.de/browse/MOS-16553) | Google Wallet Images umziehen TB 0,5d | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14791](https://jira.hochbahn.de/browse/MOS-14791) | &#34;Ticket validity expired&#34;-Alert wieder aktivieren nach App-Rollout 1.26 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-131.0
 
 Deployment on **PROD** at: tba-RIDE
