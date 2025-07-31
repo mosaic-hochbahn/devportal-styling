@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-131.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 31.07.25 - 13:15:40
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17617](https://jira.hochbahn.de/projects/MOS/versions/17617)
+
+key | summary |  type
+---- | ----|----
+[MOS-17279](https://jira.hochbahn.de/browse/MOS-17279) | Authorization-Header nicht intern weitergeben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17233](https://jira.hochbahn.de/browse/MOS-17233) | Ride-MSP KW30 - 21.07. - 25.07.2025 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17218](https://jira.hochbahn.de/browse/MOS-17218) | Pre-Booking - Buchung von in Zukunft liegender Fahrten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17212](https://jira.hochbahn.de/browse/MOS-17212) | history-service: speichern des 360-Bookings | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17159](https://jira.hochbahn.de/browse/MOS-17159) | BookingService: Rental im Recovery Job ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17134](https://jira.hochbahn.de/browse/MOS-17134) | history-service: Ticketing MSPs in Behandlung von BookingChangeInternalEvent ergänzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17112](https://jira.hochbahn.de/browse/MOS-17112) | moia-shuttle-orchestration: Erneutes Refactoring des UpdateTripsHandler | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17083](https://jira.hochbahn.de/browse/MOS-17083) | StadtRad // Service deployed | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16556](https://jira.hochbahn.de/browse/MOS-16556) | Service Modernisierung - Miles-Rental-Orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15489](https://jira.hochbahn.de/browse/MOS-15489) | BookingService - Versand von PushNotifications | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-134.0
 
 Deployment on **PROD** at: tba-BILLING
