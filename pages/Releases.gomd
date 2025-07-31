@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-134.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 31.07.25 - 11:53:26
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17518](https://jira.hochbahn.de/projects/MOS/versions/17518)
+
+key | summary |  type
+---- | ----|----
+[MOS-17287](https://jira.hochbahn.de/browse/MOS-17287) | Erstattung ohne Erstattungsgrund schlägt mit dem neuen Prozess fehl | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17201](https://jira.hochbahn.de/browse/MOS-17201) | Webhook adapter deployen und testen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17185](https://jira.hochbahn.de/browse/MOS-17185) | [Analyse] Billing Systemtests laufen häufig in ein Connection-Timeout | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17158](https://jira.hochbahn.de/browse/MOS-17158) | Fehler beim Senden der Rechnung an Free2move abfangen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17120](https://jira.hochbahn.de/browse/MOS-17120) | Retry bei fehlgeschlagenen Stornos | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17009](https://jira.hochbahn.de/browse/MOS-17009) | Inbetriebnahme der refund-orchestration  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16675](https://jira.hochbahn.de/browse/MOS-16675) | Terraform - Log-Based Metrics - In Alerts aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16670](https://jira.hochbahn.de/browse/MOS-16670) | Integration Test für synchrones Kafka Event  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14142](https://jira.hochbahn.de/browse/MOS-14142) | ArchUnit-Tests am Ende der package-Struktur-Initiative prüfen/aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-130.0
 
 Deployment on **PROD** at
