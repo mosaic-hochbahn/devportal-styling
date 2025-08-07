@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-132.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 07.08.25 - 13:27:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17621](https://jira.hochbahn.de/projects/MOS/versions/17621)
+
+key | summary |  type
+---- | ----|----
+[MOS-17299](https://jira.hochbahn.de/browse/MOS-17299) | Bei allen MSPs das activeUntil setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17267](https://jira.hochbahn.de/browse/MOS-17267) | StadtRad // Start Trips Contract Tests | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17266](https://jira.hochbahn.de/browse/MOS-17266) | StadtRad // Api Docs aufsetzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17216](https://jira.hochbahn.de/browse/MOS-17216) | StadtRad // API mit Testschloss testen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17213](https://jira.hochbahn.de/browse/MOS-17213) | history-service: alte HistoryBookings in 360-Bookings überführen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16870](https://jira.hochbahn.de/browse/MOS-16870) | system-tests: Abruf von Rental-Bookings bei booking-service und history-service ergänzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16703](https://jira.hochbahn.de/browse/MOS-16703) | Dependabot für unsere Mock-Services einrichten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16000](https://jira.hochbahn.de/browse/MOS-16000) | Passthrough-Header in den Helm-Charts immer überschreiben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-21.0
 
 Deployment on **PROD** at: tba-TICKETING
