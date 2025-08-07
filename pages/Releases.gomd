@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-135.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 07.08.25 - 11:49:17
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17620](https://jira.hochbahn.de/projects/MOS/versions/17620)
+
+key | summary |  type
+---- | ----|----
+[MOS-17305](https://jira.hochbahn.de/browse/MOS-17305) | Erstattungen von Sixt auf neuen Prozess umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17303](https://jira.hochbahn.de/browse/MOS-17303) | billing-order-adapter: MSP TIER / WESHARE entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17292](https://jira.hochbahn.de/browse/MOS-17292) | hvv-m-receipt-scan-service: MSP TIER / WESHARE entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17291](https://jira.hochbahn.de/browse/MOS-17291) | logpay-mock: MPS TIER / WESHARE entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17219](https://jira.hochbahn.de/browse/MOS-17219) | Health Check in allen Billing Services anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16745](https://jira.hochbahn.de/browse/MOS-16745) | PassThroughHeaders auf PROD überschreiben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15608](https://jira.hochbahn.de/browse/MOS-15608) | Systemtest - Filter Policy für Endpunkte prüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14957](https://jira.hochbahn.de/browse/MOS-14957) | Cambio | Erstattung - Migrationslogik entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-20.0
 
 Deployment on **PROD** at
