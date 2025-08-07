@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-21.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 07.08.25 - 13:26:18
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17622](https://jira.hochbahn.de/projects/MOS/versions/17622)
+
+key | summary |  type
+---- | ----|----
+[MOS-17376](https://jira.hochbahn.de/browse/MOS-17376) | Ticketing System Tests zu Nightly Regression Tests hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17370](https://jira.hochbahn.de/browse/MOS-17370) | Ticketing Services Branches checken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17348](https://jira.hochbahn.de/browse/MOS-17348) | TransportationClassName statt ID im DebtDataEvent | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-17344](https://jira.hochbahn.de/browse/MOS-17344) | Subscription hat kein Ticket Error auf Warning runter stufen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17340](https://jira.hochbahn.de/browse/MOS-17340) | Systemtest zum Ticket-Download v2 schreiben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17338](https://jira.hochbahn.de/browse/MOS-17338) | KOSE - BlockReason bei allen CRM-Endpunkten mit ausgeben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17323](https://jira.hochbahn.de/browse/MOS-17323) | KOSE - Aufräumen und letzte Probleme lösen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17289](https://jira.hochbahn.de/browse/MOS-17289) | KOSE - TOO_LATE Status für Ticketsperren im vdv-kose-service entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17238](https://jira.hochbahn.de/browse/MOS-17238) | Booking-Schnittstelle für APIv2 für Migration anpassen (TB: 1d) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16926](https://jira.hochbahn.de/browse/MOS-16926) | KOSE - Dokumentation | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-135.0
 
 Deployment on **PROD** at: tba-BILLING
