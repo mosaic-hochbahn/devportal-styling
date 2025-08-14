@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-22.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 14.08.25 - 14:38:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17801](https://jira.hochbahn.de/projects/MOS/versions/17801)
+
+key | summary |  type
+---- | ----|----
+[MOS-17422](https://jira.hochbahn.de/browse/MOS-17422) | SAM-Rest Zertifikatsupdate 2025 - Toggle für Mandantenfähigkeit deaktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17361](https://jira.hochbahn.de/browse/MOS-17361) | Booking Migrationsjob implementieren für Ticketing | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17360](https://jira.hochbahn.de/browse/MOS-17360) | BookingChangeInternalEvent erstellen bei Ticketkauf/änderungen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17330](https://jira.hochbahn.de/browse/MOS-17330) | AreaInfo.json tauschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17284](https://jira.hochbahn.de/browse/MOS-17284) | Kauf für Dritte - Offer | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-13995](https://jira.hochbahn.de/browse/MOS-13995) | STS Helm-Charts: Circuit-Breaker-Config entfernbar? | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-133.0
 
 Deployment on **PROD** at: tba-RIDE
