@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-133.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 14.08.25 - 13:49:23
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17703](https://jira.hochbahn.de/projects/MOS/versions/17703)
+
+key | summary |  type
+---- | ----|----
+[MOS-17367](https://jira.hochbahn.de/browse/MOS-17367) | history-service: neue Bookings-Schnittstelle von Ticketing einbinden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17366](https://jira.hochbahn.de/browse/MOS-17366) | booking-service: neue Bookings-Schnittstelle von Ticketing einbinden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17365](https://jira.hochbahn.de/browse/MOS-17365) | history-service: journeys bei CiboBookings ergänzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17271](https://jira.hochbahn.de/browse/MOS-17271) | Geschäftsobjekte für Rental ergänzen, Flows aktualisieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16870](https://jira.hochbahn.de/browse/MOS-16870) | system-tests: Abruf von Rental-Bookings bei booking-service und history-service ergänzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16808](https://jira.hochbahn.de/browse/MOS-16808) | rental-service: Bestehende Rental Buchungen in den history-service übertragen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15948](https://jira.hochbahn.de/browse/MOS-15948) | MOIA - Rate-Limit an unseren Endpunkten einrichten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-136.0
 
 Deployment on **PROD** at: tba-BILLING
