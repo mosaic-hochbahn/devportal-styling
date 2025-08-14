@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-136.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 14.08.25 - 11:35:43
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17800](https://jira.hochbahn.de/projects/MOS/versions/17800)
+
+key | summary |  type
+---- | ----|----
+[MOS-17408](https://jira.hochbahn.de/browse/MOS-17408) | billing-deployment: MSP TIER entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17369](https://jira.hochbahn.de/browse/MOS-17369) | OOTW: Dependencies updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17319](https://jira.hochbahn.de/browse/MOS-17319) | [ERMO-149] Cambio / Kienzler / MOIA - ActiveUntil setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17315](https://jira.hochbahn.de/browse/MOS-17315) | order-service: MSP TIER / WESHARE entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17314](https://jira.hochbahn.de/browse/MOS-17314) | billing-service: MSP TIER / WESHARE entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17304](https://jira.hochbahn.de/browse/MOS-17304) | billing-event-interfaces: MSP TIER / WESHARE entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17295](https://jira.hochbahn.de/browse/MOS-17295) | payment-service: MSP TIER / WESHARE entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17294](https://jira.hochbahn.de/browse/MOS-17294) | sixt-debt-adapter: MSP TIER / WESHARE entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17293](https://jira.hochbahn.de/browse/MOS-17293) | refund-orchestration: MSP TIER / WESHARE entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17290](https://jira.hochbahn.de/browse/MOS-17290) | billing-automated-test: MSP TIER entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16897](https://jira.hochbahn.de/browse/MOS-16897) | Nacharbeiten zu MOS-15203 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-132.0
 
 Deployment on **PROD** at
