@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-23.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 21.08.25 - 13:36:49
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17710](https://jira.hochbahn.de/projects/MOS/versions/17710)
+
+key | summary |  type
+---- | ----|----
+[MOS-17473](https://jira.hochbahn.de/browse/MOS-17473) | KOSE - Ursprüngliches Gültigkeitsende als sperrLoeschDatum verwenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17463](https://jira.hochbahn.de/browse/MOS-17463) | Kategorie JSON tauschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17433](https://jira.hochbahn.de/browse/MOS-17433) | Obsolete Jackson Mapper Config entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17407](https://jira.hochbahn.de/browse/MOS-17407) | Ticketing-Wächter 10.08. - 15.08. | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17391](https://jira.hochbahn.de/browse/MOS-17391) | app.hvv.de: Nginx Version upaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17311](https://jira.hochbahn.de/browse/MOS-17311) | Vollständiges Ticketsortiment - Ringe / Kauf für dritte: API Entwurf | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-134.0
 
 Deployment on **PROD** at: tba-RIDE
