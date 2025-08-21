@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-134.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 21.08.25 - 13:19:11
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17805](https://jira.hochbahn.de/projects/MOS/versions/17805)
+
+key | summary |  type
+---- | ----|----
+[MOS-17434](https://jira.hochbahn.de/browse/MOS-17434) | StadtRad // Callback Events Yaml vorbereiten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17431](https://jira.hochbahn.de/browse/MOS-17431) | StadtRad // Get Trips Endpunkt | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17429](https://jira.hochbahn.de/browse/MOS-17429) | StadtRad // Trip per MspReference beim RentalService abrufen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17412](https://jira.hochbahn.de/browse/MOS-17412) | StadtRad // Contract Test für Event Empfang | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17409](https://jira.hochbahn.de/browse/MOS-17409) | Alte Feature Toggles für den Einbau der MOIA gRPC API ausbauen, Emergency Toggle für Update Job einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17383](https://jira.hochbahn.de/browse/MOS-17383) | autom. Kündigung - Löschung der Daten im box-rental-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17371](https://jira.hochbahn.de/browse/MOS-17371) | Lasttest für Moia erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17365](https://jira.hochbahn.de/browse/MOS-17365) | history-service: journeys bei CiboBookings ergänzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17276](https://jira.hochbahn.de/browse/MOS-17276) | REST-Schnittstellen für MOIA asynchron implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16942](https://jira.hochbahn.de/browse/MOS-16942) | booking-service: Workaround für Rental MSPs ausbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-137.0
 
 Deployment on **PROD** at: tba-BILLING
