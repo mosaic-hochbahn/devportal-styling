@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-24.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 28.08.25 - 13:12:26
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17810](https://jira.hochbahn.de/projects/MOS/versions/17810)
+
+key | summary |  type
+---- | ----|----
+[MOS-17524](https://jira.hochbahn.de/browse/MOS-17524) | Steinstraßen-&#34;Hack&#34; für v2 überarbeiten / entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17518](https://jira.hochbahn.de/browse/MOS-17518) | HTO: RequestId in Jobs immer neu setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17480](https://jira.hochbahn.de/browse/MOS-17480) | Verdacht auf Betrug: Sperren von Berechtigungen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17432](https://jira.hochbahn.de/browse/MOS-17432) | Ambassador Mappings für Vollzugriffe auf Services fixen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17423](https://jira.hochbahn.de/browse/MOS-17423) | SAM-Rest Zertifikatsupdate 2025 - Erneuern der SSL-Zertifikate | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17359](https://jira.hochbahn.de/browse/MOS-17359) | Vollständiges Ticketsortiment: Tickets mit Ringen // Wallet | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17358](https://jira.hochbahn.de/browse/MOS-17358) | Vollständiges Ticketsortiment: Tickets mit Ringen // Ticket HTML | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17356](https://jira.hochbahn.de/browse/MOS-17356) | Vollständiges Ticketsortiment: Tickets mit Ringen // Order + History | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17313](https://jira.hochbahn.de/browse/MOS-17313) | Fehlerhafter Versand von DebtDataEvents im VL (SP: 8) | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-17300](https://jira.hochbahn.de/browse/MOS-17300) | Kauf für Dritte - Order | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17161](https://jira.hochbahn.de/browse/MOS-17161) | Vollständiges Ticketsortiment: Tickets mit Ringen // Offer | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17034](https://jira.hochbahn.de/browse/MOS-17034) | Vollständiges Ticketsortiment: Vollsortiment wird gekauft | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-15543](https://jira.hochbahn.de/browse/MOS-15543) | Monos und Maja Dependencies aus allen Ticketing Services entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-138.0
 
 Deployment on **PROD** at: tba-BILLING
