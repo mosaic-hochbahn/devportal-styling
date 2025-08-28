@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-135.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 28.08.25 - 13:34:13
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17715](https://jira.hochbahn.de/projects/MOS/versions/17715)
+
+key | summary |  type
+---- | ----|----
+[MOS-17504](https://jira.hochbahn.de/browse/MOS-17504) | Hängengebliebene Trips im Moia-Grpc-Mock automatisch aufräumen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17501](https://jira.hochbahn.de/browse/MOS-17501) | MOIA - Update der Protobuf File zu Trip und BoardingAuthentication | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17479](https://jira.hochbahn.de/browse/MOS-17479) | Yaml des history-service und booking-service aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17471](https://jira.hochbahn.de/browse/MOS-17471) | RideExceptionFactory + StadtRad - Erster grober Einbau in Common Lib | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17429](https://jira.hochbahn.de/browse/MOS-17429) | StadtRad // Trip per MspReference beim RentalService abrufen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17412](https://jira.hochbahn.de/browse/MOS-17412) | StadtRad // Contract Test für Event Empfang | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17324](https://jira.hochbahn.de/browse/MOS-17324) | Pre-Booking - Versand von Push-Benachrichtigungen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17268](https://jira.hochbahn.de/browse/MOS-17268) | StadtRad // Start Trip implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16942](https://jira.hochbahn.de/browse/MOS-16942) | booking-service: Workaround für Rental MSPs ausbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16895](https://jira.hochbahn.de/browse/MOS-16895) | history-service, booking-service: Resilienz gegenüber API-YAML Mismatch erhöhen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-24.0
 
 Deployment on **PROD** at: tba-TICKETING
