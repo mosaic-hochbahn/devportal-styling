@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-25.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 04.09.25 - 12:52:59
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17814](https://jira.hochbahn.de/projects/MOS/versions/17814)
+
+key | summary |  type
+---- | ----|----
+[MOS-17554](https://jira.hochbahn.de/browse/MOS-17554) | BVG-Kategorien und englische HVV-Kategorien einpflegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17547](https://jira.hochbahn.de/browse/MOS-17547) | Wallet-Service Lock bei der DeviceRegistration nutzen + AuthToken Lock fixen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17506](https://jira.hochbahn.de/browse/MOS-17506) | RequestLogging: LogLevel von Requests nicht nur nach Response Code | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17496](https://jira.hochbahn.de/browse/MOS-17496) | Missing Doku: APIv2 (Offer/Order) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17097](https://jira.hochbahn.de/browse/MOS-17097) | KOSE - Schnittstelle für die S-Bahn | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-139.0
 
 Deployment on **PROD** at: tba-BILLING
