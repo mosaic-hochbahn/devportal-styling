@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-140.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 11.09.25 - 14:11:14
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17900](https://jira.hochbahn.de/projects/MOS/versions/17900)
+
+key | summary |  type
+---- | ----|----
+[MOS-17581](https://jira.hochbahn.de/browse/MOS-17581) | Exception beim Canceln von autonomen MOIA und ZM MOBI | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-17489](https://jira.hochbahn.de/browse/MOS-17489) | Ablage des Anhangs einer Sondergebühr im Bucket | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17441](https://jira.hochbahn.de/browse/MOS-17441) | Entgegennahme, Validierung und Speicherung eines SpecialFeeCase | <img class="issue-type" alt="Sub-Task" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10316&amp;avatarType=issuetype"></img>
+[MOS-17402](https://jira.hochbahn.de/browse/MOS-17402) | Implementierung Verarbeitung von Sondergebühren - Teil 1 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16759](https://jira.hochbahn.de/browse/MOS-16759) | 25.08.2025 Rechnungen/Gutschriften Footer anpassen - Vorstandsänderung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-26.0
 
 Deployment on **PROD** at: tba-TICKETING
