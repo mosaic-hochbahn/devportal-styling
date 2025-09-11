@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-26.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 11.09.25 - 13:14:52
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17901](https://jira.hochbahn.de/projects/MOS/versions/17901)
+
+key | summary |  type
+---- | ----|----
+[MOS-17605](https://jira.hochbahn.de/browse/MOS-17605) | DT in den Kategorien präsenter platzieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17590](https://jira.hochbahn.de/browse/MOS-17590) | Namen-Validierung für Kauf für Dritte | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17587](https://jira.hochbahn.de/browse/MOS-17587) | Booking-Migration: replaced tickets ignorieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17572](https://jira.hochbahn.de/browse/MOS-17572) | 5xx Errors in HTO auf 500 mappen und maskieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17516](https://jira.hochbahn.de/browse/MOS-17516) | BVG Wallet Barcode Signature in STS speichern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17425](https://jira.hochbahn.de/browse/MOS-17425) | SAM: Ausbau Mandanten, Schritt 1: Ticketing-seitig | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-137.0
 
 Deployment on **PROD** at: tba-RIDE
