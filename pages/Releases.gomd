@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-137.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 11.09.25 - 13:03:35
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17902](https://jira.hochbahn.de/projects/MOS/versions/17902)
+
+key | summary |  type
+---- | ----|----
+[MOS-17543](https://jira.hochbahn.de/browse/MOS-17543) | StadtRad // Implementierung für Pause starten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17538](https://jira.hochbahn.de/browse/MOS-17538) | sharenow-rental-service - Test mit Pact-Broker verknüpfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17520](https://jira.hochbahn.de/browse/MOS-17520) | StadtRad // Security Konzept Events Endpunkt | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17501](https://jira.hochbahn.de/browse/MOS-17501) | MOIA - Update der Protobuf File zu Trip und BoardingAuthentication | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17497](https://jira.hochbahn.de/browse/MOS-17497) | StadtRad // ErrorCodes klären | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17479](https://jira.hochbahn.de/browse/MOS-17479) | Yaml des history-service und booking-service aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17459](https://jira.hochbahn.de/browse/MOS-17459) | StadtRad // Contract Test und Implementierung für Support Endpunkt | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17457](https://jira.hochbahn.de/browse/MOS-17457) | StadtRad // Implementierung für Pause beenden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17456](https://jira.hochbahn.de/browse/MOS-17456) | StadtRad // Contract Test für Pause starten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17430](https://jira.hochbahn.de/browse/MOS-17430) | StadtRad // Contract Test für Pause beenden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17428](https://jira.hochbahn.de/browse/MOS-17428) | StadtRad // Implementierung für Event Empfang | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-12539](https://jira.hochbahn.de/browse/MOS-12539) | Aktualisierung/Vervollständigung MOIA Doku | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-136.0
 
 Deployment on **PROD** at
