@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-27.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 18.09.25 - 13:15:40
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18007](https://jira.hochbahn.de/projects/MOS/versions/18007)
+
+key | summary |  type
+---- | ----|----
+[MOS-17648](https://jira.hochbahn.de/browse/MOS-17648) | Update Error Log &#34;Forbidden&#34; for unauthorized user | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17646](https://jira.hochbahn.de/browse/MOS-17646) | KOSE - Semester- und Schülerticket unterstützen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17637](https://jira.hochbahn.de/browse/MOS-17637) | Breaking-Change mit 5.8.0 in de.hochbahn.event-commons | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-17632](https://jira.hochbahn.de/browse/MOS-17632) | sprechende Fehlermeldung wenn PT-Kombinationen nicht passt | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17622](https://jira.hochbahn.de/browse/MOS-17622) | API v2 auf Prod bringen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17542](https://jira.hochbahn.de/browse/MOS-17542) | Missing Doku: Booking-Migration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17496](https://jira.hochbahn.de/browse/MOS-17496) | Missing Doku: APIv2 (Offer/Order) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17100](https://jira.hochbahn.de/browse/MOS-17100) | Vorverkauf von Tickets im Bartarif: Offer | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-141.0
 
 Deployment on **PROD** at: tba-BILLING
