@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-138.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 18.09.25 - 13:38:52
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17905](https://jira.hochbahn.de/projects/MOS/versions/17905)
+
+key | summary |  type
+---- | ----|----
+[MOS-17606](https://jira.hochbahn.de/browse/MOS-17606) | Ride-MSP KW37 - 08.09. - 12.09.2025 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17603](https://jira.hochbahn.de/browse/MOS-17603) | Optimierung der Datenbankabfragen im Booking-Service | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17536](https://jira.hochbahn.de/browse/MOS-17536) | Simpler Test in einem Service mit Pact aufbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17529](https://jira.hochbahn.de/browse/MOS-17529) | Admin-Service - Mieten bei Sixt beenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17528](https://jira.hochbahn.de/browse/MOS-17528) | Admin-Service - Mieten manuell beenden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17333](https://jira.hochbahn.de/browse/MOS-17333) | Ride-MSP Adminservice - Deployment | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17252](https://jira.hochbahn.de/browse/MOS-17252) | Bei SIXT-Share Mieten auch die externalCustomerNumber speichern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17214](https://jira.hochbahn.de/browse/MOS-17214) | Lasttest fürs Abrufen der Historie erstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-27.0
 
 Deployment on **PROD** at: tba-TICKETING
