@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-141.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 18.09.25 - 11:41:46
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17907](https://jira.hochbahn.de/projects/MOS/versions/17907)
+
+key | summary |  type
+---- | ----|----
+[MOS-17390](https://jira.hochbahn.de/browse/MOS-17390) | [Voucherify] Billing: Bereiststellung von Kundenanteil für Zahlungen und Erstattungen mit Gutschein | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17352](https://jira.hochbahn.de/browse/MOS-17352) | Job-Endpunkte in Tests manuell triggern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17280](https://jira.hochbahn.de/browse/MOS-17280) | HardDelete für Refund-Orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17061](https://jira.hochbahn.de/browse/MOS-17061) | Order Service - Prüfen welche Endpunkte mit ActiveUntil als deprecated markiert werden können | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-140.0
 
 Deployment on **PROD** at
