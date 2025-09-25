@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-28.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 25.09.25 - 15:35:38
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17915](https://jira.hochbahn.de/projects/MOS/versions/17915)
+
+key | summary |  type
+---- | ----|----
+[MOS-17718](https://jira.hochbahn.de/browse/MOS-17718) | Ticketing-Frontend-Authentifizierung für Offer/Categories | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17681](https://jira.hochbahn.de/browse/MOS-17681) | Keine Warning im Wallet-Service schmeißen in NotifyDevice wenn Ticket aus DB schon gelöscht | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17641](https://jira.hochbahn.de/browse/MOS-17641) | Ticketing-Wächter 18.09. - 25.09. | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17593](https://jira.hochbahn.de/browse/MOS-17593) | Sperrgrund in Booking-API aufnehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17585](https://jira.hochbahn.de/browse/MOS-17585) | Ring-Infos aus PT übernehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17254](https://jira.hochbahn.de/browse/MOS-17254) | VDV-KA - Antworten auf Ausgabemeldungen empfangen &amp; verarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17250](https://jira.hochbahn.de/browse/MOS-17250) | VDV-KA - Service-Schnittstellen umsetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17202](https://jira.hochbahn.de/browse/MOS-17202) | Vorverkauf von Tickets im Bartarif: Order | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17100](https://jira.hochbahn.de/browse/MOS-17100) | Vorverkauf von Tickets im Bartarif: Offer | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16853](https://jira.hochbahn.de/browse/MOS-16853) | STS: SQLs optimieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-139.0
 
 Deployment on **PROD** at: tba-RIDE
