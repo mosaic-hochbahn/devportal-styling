@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-139.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 25.09.25 - 13:32:01
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18009](https://jira.hochbahn.de/projects/MOS/versions/18009)
+
+key | summary |  type
+---- | ----|----
+[MOS-17715](https://jira.hochbahn.de/browse/MOS-17715) | StadtRad // Totals Berechnung von Kilometern ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17645](https://jira.hochbahn.de/browse/MOS-17645) | history-service: Obergrenze für pageSize ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17633](https://jira.hochbahn.de/browse/MOS-17633) | Sortierung im history-service verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17539](https://jira.hochbahn.de/browse/MOS-17539) | rental-service - Test mit Pact-Broker verknüpfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17529](https://jira.hochbahn.de/browse/MOS-17529) | Admin-Service - Mieten bei Sixt beenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17528](https://jira.hochbahn.de/browse/MOS-17528) | Admin-Service - Mieten manuell beenden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17525](https://jira.hochbahn.de/browse/MOS-17525) | Admin-Service - Abruf von einzelnen HistoryBookings | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17521](https://jira.hochbahn.de/browse/MOS-17521) | StadtRad // Recovery Jobs | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17384](https://jira.hochbahn.de/browse/MOS-17384) | autom. Kündigung - Löschung der Daten im stationary-based-rental-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-142.0
 
 Deployment on **PROD** at: tba-BILLING
