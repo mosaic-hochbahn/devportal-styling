@@ -2,227 +2,43 @@
 
 ## Authentication
 
-At the moment you have two options to authenticate. For most of the services we us  a method called "beam-auth", wich will most probably be deprecated.
-The newer authentication method is OAuth2  MOSAIC Identity Provider that is already in place for e.g. this MOSAIC API Portal.
-We will most probably deprecate the older authentication method during the year 2022.
+Currently there are multiple ways to authenticate against MOSAIC:
 
-### OAuth2 Authentication for hvv switch App Users
+### Authentication for HVV Switch App with a logged-in User
+Authentication for Apps with access to valid User Credentials is handled via jwt Token Authentication.<br>
+To obtain a valid token consult the documentation for the Endpoint **/auth/token** and **/auth/token/refresh**.<br>
+After obtaining a valid Token you can execute authenticated Requests against MOSAIC by setting the Authentication Header.
 
-see https://confluence.hochbahn.de/display/BEAM/hvv+switch+App+Authentifizierung
-
-### OAuth2 Authentication via Confidential Client
-
-see **[Tutorials](Tutorials)**
-
-### Legacy App Authentication
-
-see **[Tutorials](Tutorials)**
-
-## Roles
-
-There are basically 2 different roles important for you, using this API:
-
-**Anonymous User:**<br>
-The credentials for an anonymous user are provided by _Upstream Mobility_ in advance. Your app will stay authenticated using these credentials until the user uses their own credentials.
-
-**Registered User:**<br>
-A manually registered account, by one of your app's users, based on the user's credentials.
-
-The _Anonymous User_ is considered the least privileged authenticated consumer of the API.<br>
-It can consume APIs providing basic information, like **Locations** or **Ticket Offers**.<br>
-For customer-specific resources you need to be authenticated as a _Registered User_.<br>
-The same applies to all offer-related topics. I.e. if you want to buy a ticket, you need to be authenticated as a _Registered User_.
-
-### CRM
-
-More special roles are required for CRM-related APIs (*"Customer-Relationship-Management"*), i.e. for back office applications:
-
-**Agent:**<br>
-An agent can call APIs which deliver information about any registered user. This role is relevant for a back office employee.
-
-**Admin:**<br>
-An admin is able to manage agents, e.g. create a new agent account. This role is relevant for a back office manager.
-
-For almost every API endpoint, some form of authentication is required. Every documented API lists the applicable _Security Schemes_ and _Roles_.
-
-Whenever you try to access an API endpoint with an unprivileged role, a HTTP status code `403` _Error Response_ will be returned.
-
-## Error Responses
-
-If something goes wrong, you will receive a uniform _Error Response_.
-
-### Error Format
-
-```json
-{
-    "httpStatusCode": 404, // required, contains the HTTP status code
-    "server": { // required, contains information about the specific server that sent the response
-        "time": '2019-05-28T14:07:17Z' // required, contains the current server time (UTC)
-    },
-    "error": { // required, contains a description of the error
-        "code": "NOT_FOUND", // required, specific error code
-        "message": "The requested resource couldn't be found" // required, human readable description, useful for debugging, NOT to be used for display purposes
-    },
-    "fields": [ // optional, a list of field validation errors for POST and PUT requests with a Request Body
-        {
-            "name": "firstName", // required, the field name of the Request Body
-            "error": { // required, same as above
-                "code": "MISSING",
-                "message": "field is required, but missing"
-            }
-        }
-    ]
-}
+Example Request with Token:
 ```
+curl -sH "Authentication: Bearer <token>" https://api.<env>.hochbahn.cloud/some/customer/endpoint
+```
+The env can be "dev", "qa" or must be omitted for the production environment (api.hochbahn.cloud).
 
-For legacy reasons, at some API endpoints it is necessary to send a custom _`Accept`_ header to receive this error response format.<br>
-The endpoints in question mention the possibility of the custom _`Accept`_ header explicitly.<br>
-If the custom _`Accept`_ header is not set and something goes wrong, the response will contain the legacy error format.
-Since we don't recommend using the legacy error format, we won't document it here.
+### Authentication for HVV Switch App without a logged-in User
+Authentication for Apps without access to valid User Credentials is handled by setting an API Key Header on Requests.<br>
+To make things easier this API Key can also be set on Requests with a valid jwt Token of a User.
 
-### Error Codes
+Example:
+```
+curl -sH "mosaic-api-key:<apikey>" https://api.<env>.hochbahn.cloud/some/anonymous/endpoint
+```
+The env can be "dev", "qa" or must be omitted for the production environment (api.hochbahn.cloud).
 
-#### General Client errors (HTTP Status 4xx):
+Only some of Mosaics Endpoints are accessible using this Method.
+Most notably **routing**, **vehicle positions** or **ticket offers**.
 
-- `AUTHENTICATION_FAILED`: The given Authentication information is invalid (HTTP Status `401`)
-- `BAD_REQUEST`: The request is malformed or required properties are missing (HTTP Status `400`)
-- `CONFLICT`: Unable to perform the operation because of a conflict (HTTP Status `409`)
-- `FORBIDDEN`: The user privileges are insufficient (HTTP Status `403`)
-- `NOT_FOUND`: A resource could not be found (HTTP Status 404)
-- `TOKEN_EXPIRED`: Authentication token is expired (HTTP Status `401`)
-- `TOO_MANY_FAILED_LOGINS`: Login &amp; other password related features are temporarily blocked because of too many failed login attempts (HTTP Status `403`)
-- `UNAUTHORIZED`: Authentication information is missing (HTTP Status `401`)
-- `USER_LOCKED`: The Account of the User has been locked f.e. by a CRM User (HTTP Status `401`)
-- `VALIDATION_ERROR`: An error occurred validating the request body (HTTP Status `400`)
+### Authentication for m2m Communication
+Authentication for m2m Commmunication is handled via jwt Token Authentication.
+To obtain a valid token one needs to use the oAuth2.0 **client_credentials** Flow:
 
-#### Payment-related Client errors (HTTP Status 4xx)
-
-- `AT_LEAST_ONE_PAYMENT_METHOD_REQUIRED`: Last payment method is not deletable because at least one payment method is required (HTTP Status `409`)
-- `EXPIRED_PAYMENT_METHOD`: The provided payment method (.g. credit card) is expired (HTTP Status `403`)
-- `NOT_VALID`: The requested payment provider is invalid (HTTP Status `400`)
-- `PSP_ERROR_REJECTED`: The payment has been rejected by LogPay (HTTP Status `409`)
-- `PSP_ACCOUNT_ERROR`: The customer is blocked at LogPay (HTTP Status `409`)
-- `PAYMENT_METHOD_MISSING_REQUIREMENTS`: Unable to comply due to missing requirements for payment method f.e. creditcard (HTTP Status `409`)
-- `VALIDATION_ERROR`: An error occurred validating the billing agreement token (HTTP Status `409`)
-
-#### Drivers-licence-related Client errors (HTTP Status 4xx)
-
-- `DRIVERS_LICENCE_ALREADY_KNOWN` The drivers licence with this licence number is already known (HTTP Status `409`)
-- `NOT_MODIFIABLE`: Modification is not allowed due to validation status of drivers licence (HTTP Status `409`)
-
-#### Order-related Client errors (HTTP Status 4xx)
-
-- `NOT_VALID`: The requested order contained an invalid combination of parameters (HTTP Status `400`)
-- `AREA_NOT_VALID`: The requested order is not applicable to the given area parameter (HTTP Status `409`)
-- `ORDER_FORBIDDEN`: The customer is not allowed to order (HTTP Status `403`)
-
-#### Ticket-related Client errors (HTTP Status 4xx)
-
-- `TICKET_NOT_AVAILABLE`: The ticket is not yet available for download (HTTP Status `403`)
-- `TICKET_EXPIRED`: The ticket is not available for download because the ticket validity is expired (HTTP Status `403`)
-- `REQUEST_ALREADY_RECEIVED`: The same ticket order request has been received more than once (HTTP Status `409`)
-- `MSP_TRIP_ACTIVE`: A trip is already active for the given customer, e.g. in case of 10-Day Ticket (HTTP Status `400`)
-- `MSP_ALREADY_USED`: There is no remaining trip to activate left, e.g. in case of 10-Day Ticket (HTTP Status `400`)
-
-#### Shuttle-related Client errors (HTTP Status 4xx)
-
-- `MSP_CANCEL_REJECTED`: Cancellation is not allowed at this point. (HTTP Status `400`)
-- `MSP_TRIP_TO_CANCEL_NOT_FOUND`: The trip to cancel wasn't found. (HTTP Status `400`)
-- `MSP_CUSTOMER_NOT_ACTIVATED`: The customer is not activated. (HTTP Status `400`)
-- `MSP_TRIP_ACTIVE`: A trip is already active for the given customer. (HTTP Status `400`)
-- `MSP_TRIP_ALREADY_COMPLETED`: A trip with the same id was previously completed. (HTTP Status `400`)
-- `MSP_OFFER_FAILED_BEFORE`: The offer has failed before and cannot be ordered anymore. (HTTP Status `400`)
-- `MSP_OFFER_EXPIRED`: The offer has expired. (HTTP Status `400`)
-- `MSP_NOT_WITHIN_SERVICE_HOURS`: The requested ride time is not within the service hours. (HTTP Status `400`)
-- `MSP_NOT_WITHIN_SEATS_RANGE`: Requested seats configuration can’t be served. (HTTP Status `400`)
-- `MSP_NOT_WITHIN_SERVICE_AREA`: The requested location is not inside a known service area. (HTTP Status `400`)
-- `MSP_SAME_PICKUP_AND_DELIVERY_STOP`: Only non-identical stops for pickup and delivery fit request. (HTTP Status `400`)
-- `MSP_NO_PICKUP_STOPS_NEAR`: No pickup stop found near the requested location. (HTTP Status `400`)
-- `MSP_NO_DELIVERY_STOPS_NEAR`: No delivery stop found near the requested location. (HTTP Status `400`)
-- `MSP_NO_PICKUP_AND_DELIVERY_STOPS_NEAR`: No pickup stop and no delivery stop found near requested locations. (HTTP Status `400`)
-- `MSP_WALKING_LIMIT_EXCEEDED`: The combined distance to pickup and from delivery stop is too long. (HTTP Status `400`)
-- `MSP_DIRECT_WALK_IS_FASTER`: The combined walking distance to pickup and from delivery stop is longer than the distance of the trip. (HTTP Status `400`)
-- `MSP_DISPATCHING_ERROR` We failed to find a vehicle to fulfil the offer or order request. (HTTP Status `400`)
-- `MSP_ALREADY_ORDERED` The offer has already been ordered. (HTTP Status `409`)
-
-#### Rental-related Client errors (HTTP Status 4xx)
-
-- `FREE_RESERVATIONS_LIMIT_EXCEEDED`: Customer did too many reservations in a short amount of time. (HTTP Status `400`)
-- `PRICE_NOT_FOUND`: MSP could not find given priceId in their system. Perhaps old priceId? (HTTP Status `400`)
-- `VEHICLE_NOT_AVAILABLE`: Vehicle is currently not available. (HTTP Status `400`)
-- `CUSTOMER_NOT_ACTIVATED_AT_MSP`: The customer is not yet activated for MSP. (HTTP Status `400`)
-- `ERROR_UNLOCKING_VEHICLE`: Could not unlock vehicle, because of an error. (HTTP Status `400`)
-- `IGNITION_STILL_ON`: Could not end rental, because the ignition is still on. (HTTP Status `400`)
-- `RENTAL_ALREADY_ENDED`: Given rental has already ended. (HTTP Status `400`)
-- `TOO_FAR_AWAY`: Too far away. We currently don't know what that means. (HTTP Status `400`)
-- `VEHICLE_NOT_WITHIN_DISTANCE`: The vehicle is not within user distance. (HTTP Status `400`)
-- `VEHICLE_IN_FORBIDDEN_AREA`: Vehicle is in forbidden area. (HTTP Status `400`)
-- `VEHICLE_OUTSIDE_START_CITY`: Vehicle is outside of start city. (HTTP Status `400`)
-- `VEHICLE_NOT_IN_ASSIGNED_REGION_ZONE`: Vehicle is not in assigned region zone. (HTTP Status `400`)
-- `ERROR_LOCKING_VEHICLE`: Could not lock vehicle, because of an error. (HTTP Status `400`)
-- `PIN_WRONG`: The given PIN is not correct. (HTTP Status `400`)
-- `ALREADY_ACTIVE_RENTAL`: Customer has an already active rent, so could not start a second one. (HTTP Status `409`)
-- `INVALID_PHASE`: The operation is not allowed in this rental phase. (HTTP Status `409`)
-- `ADDITIONAL_FEE_NOT_VALID`: The given additional fee and the real additional fee do not match. (HTTP Status `409`)
-
-#### Specific Client errors (HTTP Status 4xx)
-
-- `ALREADY_VALIDATED`: The phone number has already been validated (HTTP Status `409`)
-- `CUSTOMER_USAGE_BLOCKED`: A registration attempt is made with for a blocked customer for this MSP (HTTP Status `403`)
-- `CUSTOMER_NOT_ACTIVATED_AT_MSP`: The external customer number for the provided serviceName could not be found (HTTP Status `404`)
-- `DUPLICATE_PHONE_NUMBER`: An existing account is already linked to this phone number at a msp account (HTTP Status `400`)
-- `MISSING_REQUIREMENTS`: Unable to comply due to missing requirements (HTTP Status `409`)
-- `MSP_ACTIVATION_ERROR`: It is not possible to create an account at a msp (HTTP Status `400`)
-- `MSP_HAS_NO_EXTERNAL_CUSTOMER_NUMBER`: The MPSs HVV and CIBO do not have an external customer number (HTTP Status `404`)
-- `USAGE_BLOCKED`: The user is not allowed to use the msp because his usage is blocked f.e. by a CRM User (HTTP Status `403`)
-- `USER_ALREADY_ACTIVATED`: A new activation email is requested, but the user account has already been activated (HTTP Status `400`)
-- `USER_EXISTS`: A registration attempt is made with an already registered email address (HTTP Status `409`)
-
-#### Field Validation errors (HTTP Status 4xx)
-
-- `NotNull`: Value is required but null or missing (HTTP Status `400`)
-- `Size`: Value violates the size restrictions (HTTP Status `400`)
-- `NotBlank`: Value may not be empty, but is null, missing or contains spaces only (HTTP Status `400`)
-- `Email`: Value must be a valid email address, but could not be validated (HTTP Status `400`)
-- `Pattern`: Value does not match an expected pattern (HTTP Status `400`)
-- `Past`: Date value is expected to be in the past, but is the present or in the future (HTTP Status `400`)
-- `AssertTrue`: Boolean value is expected to be true (HTTP Status `400`)
-- `Type`: The given value is not of the expected type, e.g. Enum or Date (HTTP Status `400`)
-- `Min`: Numerical value is below an expected minimum (HTTP Status `400`)
-- `Max`: Numerical value is above an expected minimum (HTTP Status `400`)
-- `RemainingTries`: Additional information about a failed login attempt, containing the number of remaining login tries in the "message" property (HTTP Status `401`)
-- `PinInvalid`: The delivered PIN is not correct (HTTP Status `400`)
-- `Duplicate`: The delivered value is already present (HTTP Status `400`)
-- `PriceInvalid`: The price somehow has changed / was corrupted and the offer is not valid anymore (HTTP Status `400`)
-- `TokenInvalid`: The provided token is no valid billing agreement token (HTTP Status `409`)
-
-#### General Server errors (HTTP Status 5xx):
-
-- `SERVER_ERROR`: An internal server error occurred (HTTP Status `500`)
-- `MSP_NOT_SUPPORTED`: MSP is not supported. (HTTP Status `501`)
-- Other non-documented error codes are possible in this case for debugging purposes. It is not required to parse and interpret the code for HTTP Status 5xx.
-
-#### Shuttle-related Server errors (HTTP Status 5xx)
-
-- `MSP_GENERAL_ERROR`: An internal, technical error occurred. (HTTP Status `500`)
-
-#### Rental-related Server errors (HTTP Status 5xx)
-
-- `GENERAL_ERROR`: An internal error has occurred (HTTP Status `500`)
-- `UNKNOWN_MSP_ERROR`: MSP sent an unknown error with errorCode 'UNICORN_ERROR' and message 'A unicorn blocks your car.' (HTTP Status `500`)
-- `RENTAL_IS_IN_UNEXPECTED_STATE`: Expected was STARTING or STARTED (HTTP Status `500`)
-- `AUTHENTICATION_FAILED_AT_MSP`: Could not authenticate against MSP. (HTTP Status `500`)
-- `SUSPICIOUS_CUSTOMER_ACTIVITY_AT_MSP`: MSP temporarily blocked the customer, because they have detected some suspicious activity on his/her account, e.g. suspicious drivers licence number. (HTTP Status `500`)
-- `PRICE_NOT_VALID`: The given price is not correct. (HTTP Status `500`)
-- `ORDER_CUSTOMER_NUMBER_NOT_MATCHING`: The requested rental order does not belong to the user. (HTTP Status `500`)
-
-## Date Format
-
-Our APIs sometimes expect dates as input in the request body or returns dates in the response body.<br>
-In this case, we rely on string representation of the date according to <a href="https://en.wikipedia.org/wiki/ISO_8601">ISO 8601</a>.
-
-Dates contained in the response body will always be in UTC timezone (zero offset), unless specified otherwise.<br>
-You may, however, use any other timezone in requests, as long as the offset is specified correctly.
-
-For better understanding of how the string representation of a date might look like,
-please take a look at <a href="https://docs.oracle.com/javase/8/docs/api/java/time/format/DateTimeFormatter.html#ISO_OFFSET_DATE_TIME">the Java documentation of ISO_OFFSET_DATE_TIME</a>.
+Example:
+```bash
+curl -X POST 'https://id.<env>.hochbahn.cloud/realms/mosaic/protocol/openid-connect/token' \
+-H 'Content-Type: application/x-www-form-urlencoded' \
+-d 'grant_type=client_credentials' \
+-d 'client_id=<client-id>' \
+-d 'client_secret=<client-secret>'
+```
+The env can be "dev", "qa" or must be omitted for the production environment (id.hochbahn.cloud).
+The client_id and client_secret are your credentials.
