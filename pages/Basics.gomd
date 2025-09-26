@@ -7,7 +7,7 @@ Currently there are multiple ways to authenticate against MOSAIC:
 ### Authentication for HVV Switch App with a logged-in User
 Authentication for Apps with access to valid User Credentials is handled via jwt Token Authentication.<br>
 To obtain a valid token consult the documentation for the Endpoint **/auth/token** and **/auth/token/refresh**.<br>
-After obtaining a valid Token you can execute authenticated Requests against by setting the Authentication Header.
+After obtaining a valid Token you can execute authenticated Requests against MOSAIC by setting the Authentication Header.
 
 Example Request with Token:
 ```
