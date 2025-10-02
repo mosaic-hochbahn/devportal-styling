@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-143.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 02.10.25 - 12:31:54
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17925](https://jira.hochbahn.de/projects/MOS/versions/17925)
+
+key | summary |  type
+---- | ----|----
+[MOS-17734](https://jira.hochbahn.de/browse/MOS-17734) | OOTW Dependency Updates | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17550](https://jira.hochbahn.de/browse/MOS-17550) | Refund Orchestration - Async Ausführung ohne Delay  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17491](https://jira.hochbahn.de/browse/MOS-17491) | Asynchrone Verarbeitung von Sondergebühren implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-28.0
 
 Deployment on **PROD** at
