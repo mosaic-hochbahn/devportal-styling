@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-29.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 02.10.25 - 14:08:54
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17927](https://jira.hochbahn.de/projects/MOS/versions/17927)
+
+key | summary |  type
+---- | ----|----
+[MOS-17750](https://jira.hochbahn.de/browse/MOS-17750) | OrderTicketV2 ErrorCodes falsch dokumentiert | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-17748](https://jira.hochbahn.de/browse/MOS-17748) | iOS // Wallet: &#34;Gültig bis&#34;-Datum falsch bei Zeitkarten-Ergänzung Wochenende &amp; 1. Klasse | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17742](https://jira.hochbahn.de/browse/MOS-17742) | iOS Wallet / Anpassung Tageskarten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17738](https://jira.hochbahn.de/browse/MOS-17738) | Kategorien Konsistenz Check | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17362](https://jira.hochbahn.de/browse/MOS-17362) | Ticketing-System-Test mit Hamburger User einrichten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-140.0
 
 Deployment on **PROD** at: tba-RIDE
