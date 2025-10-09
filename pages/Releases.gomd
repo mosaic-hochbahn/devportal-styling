@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-144.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 09.10.25 - 12:06:27
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17932](https://jira.hochbahn.de/projects/MOS/versions/17932)
+
+key | summary |  type
+---- | ----|----
+[MOS-17792](https://jira.hochbahn.de/browse/MOS-17792) | Startup initialDelay für alle Services erhöhen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17776](https://jira.hochbahn.de/browse/MOS-17776) | Analyse Restart von Pods beim Deployment | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-29.0
 
 Deployment on **PROD** at
