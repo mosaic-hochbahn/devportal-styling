@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-141.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 09.10.25 - 13:37:16
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17933](https://jira.hochbahn.de/projects/MOS/versions/17933)
+
+key | summary |  type
+---- | ----|----
+[MOS-17749](https://jira.hochbahn.de/browse/MOS-17749) | ExternalCustomerNumber in Shuttle speichern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17739](https://jira.hochbahn.de/browse/MOS-17739) | Ride-MSP KW40 - 29.09. - 02.10.2025 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17683](https://jira.hochbahn.de/browse/MOS-17683) | bookings Endpunkt im Developer Portal aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17612](https://jira.hochbahn.de/browse/MOS-17612) | sharenow-rental-service - Automatisches Pact-Publish in Jenkins konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17555](https://jira.hochbahn.de/browse/MOS-17555) | Admin-Service - Erstellen eines Wächter MOSAIC Users | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17335](https://jira.hochbahn.de/browse/MOS-17335) | Quartz Monitoring nachziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-30.0
 
 Deployment on **PROD** at: tba-TICKETING
