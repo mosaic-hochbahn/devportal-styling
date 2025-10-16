@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-142.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 16.10.25 - 13:23:29
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17941](https://jira.hochbahn.de/projects/MOS/versions/17941)
+
+key | summary |  type
+---- | ----|----
+[MOS-17851](https://jira.hochbahn.de/browse/MOS-17851) | Neue Version des OrderUpdateEvent auswerten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17801](https://jira.hochbahn.de/browse/MOS-17801) | RentalService | Toggle ENABLE_RENTAL_DELETION_EVENT_TYPE ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17793](https://jira.hochbahn.de/browse/MOS-17793) | MOIA Buchungen hängen in CANCELING fest | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-17663](https://jira.hochbahn.de/browse/MOS-17663) | Searchfox-Mock undeployen, wird nicht mehr genutzt | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17582](https://jira.hochbahn.de/browse/MOS-17582) | Moia Adapter Scheduler undeployen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17566](https://jira.hochbahn.de/browse/MOS-17566) | [Voucherify] MSP: Billing liefert neues price attribute für Gutscheinverrechnung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17556](https://jira.hochbahn.de/browse/MOS-17556) | Push-Notifications - BookingId ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17512](https://jira.hochbahn.de/browse/MOS-17512) | moia-grpc-mock - v1beta4 trip mock entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-145.0
 
 Deployment on **PROD** at: tba-BILLING
