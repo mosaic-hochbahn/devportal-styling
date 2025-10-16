@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-31.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 16.10.25 - 13:25:08
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17939](https://jira.hochbahn.de/projects/MOS/versions/17939)
+
+key | summary |  type
+---- | ----|----
+[MOS-17601](https://jira.hochbahn.de/browse/MOS-17601) | TicketJobs in der v2 unterstützen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-142.0
 
 Deployment on **PROD** at: tba-RIDE
