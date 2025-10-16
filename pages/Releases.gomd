@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-145.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 16.10.25 - 11:49:48
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18108](https://jira.hochbahn.de/projects/MOS/versions/18108)
+
+key | summary |  type
+---- | ----|----
+[MOS-17796](https://jira.hochbahn.de/browse/MOS-17796) | Unvollständige Auslieferung von Rechnungsdokumenten an die App | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-17789](https://jira.hochbahn.de/browse/MOS-17789) | OOTW Security-Dependency Updates | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17500](https://jira.hochbahn.de/browse/MOS-17500) | Benutzung von CRM-Endpoints in den billing-automated-tests | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17404](https://jira.hochbahn.de/browse/MOS-17404) | Neue Sondergebühren im order-Service vorhalten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17403](https://jira.hochbahn.de/browse/MOS-17403) | Recovery-Prozess für Sondergebühren implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-141.0
 
 Deployment on **PROD** at
