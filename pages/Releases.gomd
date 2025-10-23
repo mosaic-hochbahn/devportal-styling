@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-146.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 23.10.25 - 11:35:53
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18110](https://jira.hochbahn.de/projects/MOS/versions/18110)
+
+key | summary |  type
+---- | ----|----
+[MOS-17870](https://jira.hochbahn.de/browse/MOS-17870) | CVE-2025-58050 im billing-service fixen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17580](https://jira.hochbahn.de/browse/MOS-17580) | Billing-Testing-Lib erstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17574](https://jira.hochbahn.de/browse/MOS-17574) | Benutzung der billing-libs in der special-fee-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17548](https://jira.hochbahn.de/browse/MOS-17548) | Erweiterung Rechnungsmailtemplate um Auftragsnummer | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17442](https://jira.hochbahn.de/browse/MOS-17442) | Billing-Libs erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17400](https://jira.hochbahn.de/browse/MOS-17400) | Hard-Delete in Special-Fee-Orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17399](https://jira.hochbahn.de/browse/MOS-17399) | Sondergebühren von Sixt auf neuen Prozess umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17347](https://jira.hochbahn.de/browse/MOS-17347) | Order-Service: Code ausbauen (Refund) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17321](https://jira.hochbahn.de/browse/MOS-17321) | Solution-Design Modul Claim-History | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-31.0
 
 Deployment on **PROD** at
