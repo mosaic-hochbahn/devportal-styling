@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-32.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 23.10.25 - 14:34:57
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18113](https://jira.hochbahn.de/projects/MOS/versions/18113)
+
+key | summary |  type
+---- | ----|----
+[MOS-17872](https://jira.hochbahn.de/browse/MOS-17872) | Analyse: Ticket-Verkauf gestört 20.10.2025 20:25 Uhr - 22:25 Uhr | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17854](https://jira.hochbahn.de/browse/MOS-17854) | Ticketing-Wächter 16.10. - 23.10. | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17844](https://jira.hochbahn.de/browse/MOS-17844) | Renovate für alle Services umsetzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17693](https://jira.hochbahn.de/browse/MOS-17693) | BVG BEST - Neue Tickettypen unterstützen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17544](https://jira.hochbahn.de/browse/MOS-17544) | VDV-KA - Fachliche Anbindung Ausgabemeldungen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15492](https://jira.hochbahn.de/browse/MOS-15492) | späte Bestandskundenmigration und DT Preiserhöhung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14424](https://jira.hochbahn.de/browse/MOS-14424) | automatisierte Konsistenzprüfungen der Subscription inkl. Alerting | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-143.0
 
 Deployment on **PROD** at: tba-RIDE
