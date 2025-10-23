@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-143.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 23.10.25 - 14:26:14
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18112](https://jira.hochbahn.de/projects/MOS/versions/18112)
+
+key | summary |  type
+---- | ----|----
+[MOS-17851](https://jira.hochbahn.de/browse/MOS-17851) | Neue Version des OrderUpdateEvent auswerten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17647](https://jira.hochbahn.de/browse/MOS-17647) | history-service: journeys nach 6 Monaten entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17541](https://jira.hochbahn.de/browse/MOS-17541) | Build vom rental-service duch Pact-Broker triggern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17540](https://jira.hochbahn.de/browse/MOS-17540) | Einen Karate contract test für ShareNow mit Pact umsetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17512](https://jira.hochbahn.de/browse/MOS-17512) | moia-grpc-mock - v1beta4 trip mock entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17382](https://jira.hochbahn.de/browse/MOS-17382) | autom. Kündigung - Löschung der Daten im history-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17335](https://jira.hochbahn.de/browse/MOS-17335) | Quartz Monitoring nachziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-146.0
 
 Deployment on **PROD** at: tba-BILLING
