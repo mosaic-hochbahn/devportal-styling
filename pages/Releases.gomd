@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-33.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 30.10.25 - 13:31:34
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18116](https://jira.hochbahn.de/projects/MOS/versions/18116)
+
+key | summary |  type
+---- | ----|----
+[MOS-17912](https://jira.hochbahn.de/browse/MOS-17912) | STS weiteren Index für getSubscriptionsStuckSince abfrage einführen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17766](https://jira.hochbahn.de/browse/MOS-17766) | VDV-KOSE Service: Retry Logik für Nachrichten mit passenden Antworten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17694](https://jira.hochbahn.de/browse/MOS-17694) | BVG BEST - Mehrsprachigkeit unterstützen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-32.0
 
 Deployment on **PROD** at
