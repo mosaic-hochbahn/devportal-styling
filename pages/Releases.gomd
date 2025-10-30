@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-144.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 30.10.25 - 14:21:39
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17949](https://jira.hochbahn.de/projects/MOS/versions/17949)
+
+key | summary |  type
+---- | ----|----
+[MOS-17944](https://jira.hochbahn.de/browse/MOS-17944) | Personenbezogene Daten in den Logs des Booking-Service, History-Service und History-Orchestration maskieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17891](https://jira.hochbahn.de/browse/MOS-17891) | Verlängerung der Löschfristen der MOIA/ALIKE Offers | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17867](https://jira.hochbahn.de/browse/MOS-17867) | TicketBookings für DevPortal aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17783](https://jira.hochbahn.de/browse/MOS-17783) | Grafana: Alerts für Rate-Limits einrichten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17728](https://jira.hochbahn.de/browse/MOS-17728) | Hackathon Finding | Fehlende Dokumentation für das Stornieren einer MOIA Reservierung | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-17727](https://jira.hochbahn.de/browse/MOS-17727) | Hackathon Finding |  Unterschiedliche Fehlermeldungen für Passagieranzahl | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-17451](https://jira.hochbahn.de/browse/MOS-17451) | rental-service: Migration Job entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17353](https://jira.hochbahn.de/browse/MOS-17353) | ERMO-154 Workaround für PricePart Filter ausbauen, API-Doku verbessern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17236](https://jira.hochbahn.de/browse/MOS-17236) | In den System-Tests die 360° Schnittstelle mit aufnehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16003](https://jira.hochbahn.de/browse/MOS-16003) | Domain in der URL für ShareNow, free2move anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-12405](https://jira.hochbahn.de/browse/MOS-12405) | Toggle package in allen Services updaten um Logging zu verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-147.0
 
 Deployment on **PROD** at: tba-BILLING
