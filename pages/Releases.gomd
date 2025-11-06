@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-145.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 06.11.25 - 14:02:19
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17957](https://jira.hochbahn.de/projects/MOS/versions/17957)
+
+key | summary |  type
+---- | ----|----
+[MOS-17930](https://jira.hochbahn.de/browse/MOS-17930) | miles-rental-orchestration: Trigger Recovery für self-rescheduling Jobs | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17929](https://jira.hochbahn.de/browse/MOS-17929) | StadtRad - Support Endpunkt erlaubt mehrere Schadensmeldungen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17928](https://jira.hochbahn.de/browse/MOS-17928) | StadtRad - Support Endpunkt support-type auf BROKEN_DOWN reduzieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17731](https://jira.hochbahn.de/browse/MOS-17731) | Hackathon Finding | Falscher Statuscode beim Beenden einer MILES Miete ohne Request Body | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-14719](https://jira.hochbahn.de/browse/MOS-14719) | PoC - Job mit dynamischen Intervall | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-34.0
 
 Deployment on **PROD** at: tba-TICKETING
