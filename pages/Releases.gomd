@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-34.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 06.11.25 - 13:21:23
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/17954](https://jira.hochbahn.de/projects/MOS/versions/17954)
+
+key | summary |  type
+---- | ----|----
+[MOS-17972](https://jira.hochbahn.de/browse/MOS-17972) | VDV-KA - Ausgabemeldungen nicht für SAM-Dummy-Responses erzeugen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17967](https://jira.hochbahn.de/browse/MOS-17967) | AmbassadorMapping für getPresaleOffersV2 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17962](https://jira.hochbahn.de/browse/MOS-17962) | Kauf für Dritte: weitere Passenger Objekt Checks einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17956](https://jira.hochbahn.de/browse/MOS-17956) | Ticketing-Wächter 30.10 - 06.11. | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15805](https://jira.hochbahn.de/browse/MOS-15805) | postman pre-request-script authentication | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-11501](https://jira.hochbahn.de/browse/MOS-11501) | MCRM entfernen aus Ticketing Microservices | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-148.0
 
 Deployment on **PROD** at: tba-BILLING
