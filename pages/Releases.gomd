@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-146.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 13.11.25 - 13:36:10
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18301](https://jira.hochbahn.de/projects/MOS/versions/18301)
+
+key | summary |  type
+---- | ----|----
+[MOS-17969](https://jira.hochbahn.de/browse/MOS-17969) | Service Modernisierung - Stationary-Based-Rental-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17797](https://jira.hochbahn.de/browse/MOS-17797) | Miles-Prozesse modernisieren | Create reservation | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16761](https://jira.hochbahn.de/browse/MOS-16761) | neuer API Endpunkt: aktive / laufende Bestellungen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14603](https://jira.hochbahn.de/browse/MOS-14603) | Logging Richtlinien: Allgemeine Daten zur Person | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-35.0
 
 Deployment on **PROD** at: tba-TICKETING
