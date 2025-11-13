@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-35.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 13.11.25 - 13:29:21
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18203](https://jira.hochbahn.de/projects/MOS/versions/18203)
+
+key | summary |  type
+---- | ----|----
+[MOS-18001](https://jira.hochbahn.de/browse/MOS-18001) | VDV-Kose Ausgabemeldung: Fehlender Alarm bei nicht erfolgreichen Ausgabemeldungsversand | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-17990](https://jira.hochbahn.de/browse/MOS-17990) | Fehlender VDV Barcode Systemtest | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17923](https://jira.hochbahn.de/browse/MOS-17923) | Ausgabemeldung: Unique Contstaints Fehler abfangen und handeln | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17811](https://jira.hochbahn.de/browse/MOS-17811) | Rückbau &#34;hvv any&#34; | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17695](https://jira.hochbahn.de/browse/MOS-17695) | BVG BEST - Rates unterstützen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17032](https://jira.hochbahn.de/browse/MOS-17032) | AIDA Ride Orchestration und Ticket Service undeployen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16597](https://jira.hochbahn.de/browse/MOS-16597) | StartupProbe statt liveness/readinessProbe in Helmcharts verwenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-149.0
 
 Deployment on **PROD** at: tba-BILLING
