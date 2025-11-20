@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-150.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 20.11.25 - 12:49:24
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18306](https://jira.hochbahn.de/projects/MOS/versions/18306)
+
+key | summary |  type
+---- | ----|----
+[MOS-18057](https://jira.hochbahn.de/browse/MOS-18057) | hvv Any aus Billing-Automated-Tests ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18029](https://jira.hochbahn.de/browse/MOS-18029) | Umbenennung von der SpecialFeeFlow | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18011](https://jira.hochbahn.de/browse/MOS-18011) | Special-Fee-Orchestration: ArchUnitTests fehlen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17893](https://jira.hochbahn.de/browse/MOS-17893) | Überführung des neuen Gutschein-Service in die Billing-Struktur | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17884](https://jira.hochbahn.de/browse/MOS-17884) | Post-Pay-Orchestration: Grafana und Alerts aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17860](https://jira.hochbahn.de/browse/MOS-17860) | Schnittstelle Sondergebühren aufräumen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17800](https://jira.hochbahn.de/browse/MOS-17800) | Trivy-Meldungen verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17405](https://jira.hochbahn.de/browse/MOS-17405) | Endpunkt für Sondergebühren im WebHook-Adapter implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-146.0
 
 Deployment on **PROD** at
