@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-147.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 20.11.25 - 13:12:00
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18209](https://jira.hochbahn.de/projects/MOS/versions/18209)
+
+key | summary |  type
+---- | ----|----
+[MOS-18065](https://jira.hochbahn.de/browse/MOS-18065) | Neue MOIA API | Nicht genutzte Booking-Proposals erst nach einer Woche löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17931](https://jira.hochbahn.de/browse/MOS-17931) | miles-rental-orchestration: Alle Jobs mit dynamischen Interval implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17798](https://jira.hochbahn.de/browse/MOS-17798) | Miles-Prozesse modernisieren | Cancel reservation | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-150.0
 
 Deployment on **PROD** at: tba-BILLING
