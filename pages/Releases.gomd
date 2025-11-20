@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-36.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 20.11.25 - 14:38:09
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18308](https://jira.hochbahn.de/projects/MOS/versions/18308)
+
+key | summary |  type
+---- | ----|----
+[MOS-18060](https://jira.hochbahn.de/browse/MOS-18060) | Hackday - Generator.yaml entfernen / alte public-APIs deprecaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17941](https://jira.hochbahn.de/browse/MOS-17941) | BVG Order: Nutzung des Offer-Caches | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-147.0
 
 Deployment on **PROD** at: tba-RIDE
