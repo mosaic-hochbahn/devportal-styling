@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-37.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 27.11.25 - 13:01:38
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18215](https://jira.hochbahn.de/projects/MOS/versions/18215)
+
+key | summary |  type
+---- | ----|----
+[MOS-18088](https://jira.hochbahn.de/browse/MOS-18088) | Deployment: Update Helm Charts | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18077](https://jira.hochbahn.de/browse/MOS-18077) | Funktion &#34;Namen ändern&#34;: Updates gehen nicht an Frontends | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-18071](https://jira.hochbahn.de/browse/MOS-18071) | Beim DT Kauf zukünftige Preisänderungen richtig abbilden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18060](https://jira.hochbahn.de/browse/MOS-18060) | Hackday - Generator.yaml entfernen / alte public-APIs deprecaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18053](https://jira.hochbahn.de/browse/MOS-18053) | SAM-Server Update 25.11.1 - Performanz/Validierungs-Tests auf TEST-Umgebung durchführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18042](https://jira.hochbahn.de/browse/MOS-18042) | Ressocurcenbedarf Pods anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17948](https://jira.hochbahn.de/browse/MOS-17948) | APIv2-Kauf: alle &#34;externen&#34; Fehlerfälle vertesten und dokumentieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17702](https://jira.hochbahn.de/browse/MOS-17702) | BVG BEST - Wallet-Support | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-36.0
 
 Deployment on **PROD** at
