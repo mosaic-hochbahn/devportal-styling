@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-148.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 27.11.25 - 13:37:07
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18317](https://jira.hochbahn.de/projects/MOS/versions/18317)
+
+key | summary |  type
+---- | ----|----
+[MOS-18033](https://jira.hochbahn.de/browse/MOS-18033) | Ride-MSP KW47 - 13.11. - 21.11.2025 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17931](https://jira.hochbahn.de/browse/MOS-17931) | miles-rental-orchestration: Alle Jobs mit dynamischen Interval implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17907](https://jira.hochbahn.de/browse/MOS-17907) | CI und Infrastruktur Repos trennen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17879](https://jira.hochbahn.de/browse/MOS-17879) | Admin-Service - Job zum automatischen Beenden von feststeckenden Mieten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17731](https://jira.hochbahn.de/browse/MOS-17731) | Hackathon Finding | Falscher Statuscode beim Beenden einer MILES Miete ohne Request Body | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-17509](https://jira.hochbahn.de/browse/MOS-17509) | DEV-Portal API-Docs überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17377](https://jira.hochbahn.de/browse/MOS-17377) | cambio: Angebote nach Fahrzeug-Klassen sortieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-151.0
 
 Deployment on **PROD** at: tba-BILLING
