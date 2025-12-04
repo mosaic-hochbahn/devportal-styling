@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-152.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 04.12.25 - 11:44:03
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18218](https://jira.hochbahn.de/projects/MOS/versions/18218)
+
+key | summary |  type
+---- | ----|----
+[MOS-18078](https://jira.hochbahn.de/browse/MOS-18078) | Refactoring | Use Case Betrag Reservieren auf Flow Konzept umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18021](https://jira.hochbahn.de/browse/MOS-18021) | Msp-Referenz empfangen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17980](https://jira.hochbahn.de/browse/MOS-17980) | Anonymisierung von Kundendaten (2) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17977](https://jira.hochbahn.de/browse/MOS-17977) | Erweiterung Gutscheine Cockpit | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17949](https://jira.hochbahn.de/browse/MOS-17949) | Inbetriebnahme der special-fee-orchestration für öffentliche Endpunkte | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17896](https://jira.hochbahn.de/browse/MOS-17896) | Schnittstelle und DB definieren für neuen Gutschein-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-148.0
 
 Deployment on **PROD** at
