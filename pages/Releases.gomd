@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-149.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 04.12.25 - 13:42:19
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18219](https://jira.hochbahn.de/projects/MOS/versions/18219)
+
+key | summary |  type
+---- | ----|----
+[MOS-18115](https://jira.hochbahn.de/browse/MOS-18115) | Retry einzelner Buchungen beim Update von outdated History Bookings  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18104](https://jira.hochbahn.de/browse/MOS-18104) | Booking Change Internal Events mit Migration Flag im Booking-Service verarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18085](https://jira.hochbahn.de/browse/MOS-18085) | Ride-MSP KW48 - 24.11. - 27.11.2025 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18082](https://jira.hochbahn.de/browse/MOS-18082) | DSGVO Löschung: Anonymisierte aber noch nicht gelöschte Kunden im history-service wiederherstellen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-18019](https://jira.hochbahn.de/browse/MOS-18019) | StadtRad - CreateOrder mit PostPay Endpunkt ersetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18016](https://jira.hochbahn.de/browse/MOS-18016) | StadtRad - Vertragsnummer am Booking/StadtRadTrip speichern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18010](https://jira.hochbahn.de/browse/MOS-18010) | StadtRad - UseCase Vertragsnummer abspeichern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17936](https://jira.hochbahn.de/browse/MOS-17936) | Pre-Booking für MOIA (&amp; ALIKE) - Neue Phase | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17730](https://jira.hochbahn.de/browse/MOS-17730) | Hackathon Finding | Data Exposure SQL Statement bei der Reservierung eines MILES Fahrzeugs gegen MOCK | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-17377](https://jira.hochbahn.de/browse/MOS-17377) | cambio: Angebote nach Fahrzeug-Klassen sortieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-38.0
 
 Deployment on **PROD** at: tba-TICKETING
