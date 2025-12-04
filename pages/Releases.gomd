@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-38.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 04.12.25 - 13:40:10
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18325](https://jira.hochbahn.de/projects/MOS/versions/18325)
+
+key | summary |  type
+---- | ----|----
+[MOS-18119](https://jira.hochbahn.de/browse/MOS-18119) | BVG API Änderungen abfangen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18107](https://jira.hochbahn.de/browse/MOS-18107) | Undokumentierte Billing-Error-Codes mappen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17966](https://jira.hochbahn.de/browse/MOS-17966) | Anpassung Vorverkauf von Tickets // Offers Call um date Parameter erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-152.0
 
 Deployment on **PROD** at: tba-BILLING
