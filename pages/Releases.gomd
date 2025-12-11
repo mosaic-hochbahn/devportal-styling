@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-153.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 11.12.25 - 11:41:04
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18329](https://jira.hochbahn.de/projects/MOS/versions/18329)
+
+key | summary |  type
+---- | ----|----
+[MOS-18132](https://jira.hochbahn.de/browse/MOS-18132) | security-findings beheben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17887](https://jira.hochbahn.de/browse/MOS-17887) | Benutzung der billing-libs im order-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17654](https://jira.hochbahn.de/browse/MOS-17654) | Benutzung der billing-libs im billing-webhook-adapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17653](https://jira.hochbahn.de/browse/MOS-17653) | Benutzung der billing-libs im billing-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17652](https://jira.hochbahn.de/browse/MOS-17652) | Benutzung der billing-libs im payment-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17651](https://jira.hochbahn.de/browse/MOS-17651) | Benutzung der billing-libs im billing-order-adapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17650](https://jira.hochbahn.de/browse/MOS-17650) | Benutzung der billing-libs im sixt-debt-adapter | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17649](https://jira.hochbahn.de/browse/MOS-17649) | Benutzung der billing-libs in der refund-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15936](https://jira.hochbahn.de/browse/MOS-15936) | Alten MOIA-Abrechnungsflow ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-149.0
 
 Deployment on **PROD** at
