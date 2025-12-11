@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-150.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 11.12.25 - 14:37:18
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18225](https://jira.hochbahn.de/projects/MOS/versions/18225)
+
+key | summary |  type
+---- | ----|----
+[MOS-18143](https://jira.hochbahn.de/browse/MOS-18143) | Kachel für dynamische Jobs auf OOTW Dashboard hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18066](https://jira.hochbahn.de/browse/MOS-18066) | ALIKE Feedback | Kundennummer beim Feedback mit abspeichern und regelmäßig löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17976](https://jira.hochbahn.de/browse/MOS-17976) | History-Orchestration auf nicht-Erreichbarkeit des Journey-Service vorbereiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17836](https://jira.hochbahn.de/browse/MOS-17836) | Miles-Prozesse modernisieren | Start trip | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-39.0
 
 Deployment on **PROD** at: tba-TICKETING
