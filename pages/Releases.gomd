@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-39.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 11.12.25 - 13:03:20
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18332](https://jira.hochbahn.de/projects/MOS/versions/18332)
+
+key | summary |  type
+---- | ----|----
+[MOS-18140](https://jira.hochbahn.de/browse/MOS-18140) | Verlängerungslauf: Datum in der csv prüfen und korrigieren + 29.12 per Skript setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18058](https://jira.hochbahn.de/browse/MOS-18058) | Hackday - Pakete HVV/BVG/Platform in der HTO sauber trennen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18025](https://jira.hochbahn.de/browse/MOS-18025) | Anpassung Vorverkauf von Tickets // Offers/Categories Call mit etag cachebar machen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17946](https://jira.hochbahn.de/browse/MOS-17946) | SAM-Adapter: Fehler beim Parsing von DateTimeCompact (60 Sekunden) | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BILLING-153.0
 
 Deployment on **PROD** at: tba-BILLING
