@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-40.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 18.12.25 - 13:04:56
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18503](https://jira.hochbahn.de/projects/MOS/versions/18503)
+
+key | summary |  type
+---- | ----|----
+[MOS-17700](https://jira.hochbahn.de/browse/MOS-17700) | BVG BEST - Vorverkauf von Tickets | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-150.0
 
 Deployment on **PROD** at
