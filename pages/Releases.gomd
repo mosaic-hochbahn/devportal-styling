@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-151.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 19.12.25 - 10:37:52
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18505](https://jira.hochbahn.de/projects/MOS/versions/18505)
+
+key | summary |  type
+---- | ----|----
+[MOS-18166](https://jira.hochbahn.de/browse/MOS-18166) | MOIA - Neue TripStates ReadyForBoarding vorbereiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18144](https://jira.hochbahn.de/browse/MOS-18144) | Ride-MSP KW50 - 08.12. - 12.12.2025 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18017](https://jira.hochbahn.de/browse/MOS-18017) | StadtRad - Bei StartTrip Vertragsnummer an RentalService übergeben | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17880](https://jira.hochbahn.de/browse/MOS-17880) | Admin-Service - PoC: Web-Oberfläche | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-40.0
 
 Deployment on **PROD** at: tba-TICKETING
