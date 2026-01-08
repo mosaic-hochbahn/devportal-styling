@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-152.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 08.01.26 - 13:10:20
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18702](https://jira.hochbahn.de/projects/MOS/versions/18702)
+
+key | summary |  type
+---- | ----|----
+[MOS-18167](https://jira.hochbahn.de/browse/MOS-18167) | MOIA - Neue TripStates ReadyForBoarding einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18153](https://jira.hochbahn.de/browse/MOS-18153) | StadtRad - Endpunkt zum Abrufen von Rechnungsinformationen nach Fahrtende | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18127](https://jira.hochbahn.de/browse/MOS-18127) | Bei Fehlern bei der Event-Verarbeitung in Booking- und History-Service die Verarbeitung wiederholen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18018](https://jira.hochbahn.de/browse/MOS-18018) | StadtRad - Race Condition PostPay | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17838](https://jira.hochbahn.de/browse/MOS-17838) | Miles-Prozesse modernisieren | Pause trip | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17592](https://jira.hochbahn.de/browse/MOS-17592) | MosaicDateTime für genaue UTC Times | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-41.0
 
 Deployment on **PROD** at: tba-TICKETING
