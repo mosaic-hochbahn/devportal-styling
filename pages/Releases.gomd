@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-41.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 08.01.26 - 12:51:20
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18602](https://jira.hochbahn.de/projects/MOS/versions/18602)
+
+key | summary |  type
+---- | ----|----
+[MOS-18218](https://jira.hochbahn.de/browse/MOS-18218) | ETAGs auch für STS (Ticket Download | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18217](https://jira.hochbahn.de/browse/MOS-18217) | weitere undokumentierte &#34;Unexpected Payment-Errors&#34; von Billing handlen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-154.0
 
 Deployment on **PROD** at: tba-BILLING
