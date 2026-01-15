@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-42.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 15.01.26 - 14:36:34
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18706](https://jira.hochbahn.de/projects/MOS/versions/18706)
+
+key | summary |  type
+---- | ----|----
+[MOS-18254](https://jira.hochbahn.de/browse/MOS-18254) | Ticketing Services Springboot 4 migration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18219](https://jira.hochbahn.de/browse/MOS-18219) | AreaInfo.json tauschen Januar 2026 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18214](https://jira.hochbahn.de/browse/MOS-18214) | fehlgeschlagene Preisprüfung bei der Subscription resultiert in GENERAL_ERROR | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-18175](https://jira.hochbahn.de/browse/MOS-18175) | Farbcode Service einstellen zum 18.1.2026 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18168](https://jira.hochbahn.de/browse/MOS-18168) | VDV-KOSE-Service: Technische Probleme Fehlermeldung als Retryable deklarieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17890](https://jira.hochbahn.de/browse/MOS-17890) | Dependabot Konfiguration entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-153.0
 
 Deployment on **PROD** at: tba-RIDE
