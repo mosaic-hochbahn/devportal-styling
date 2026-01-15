@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-155.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 15.01.26 - 13:56:07
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18608](https://jira.hochbahn.de/projects/MOS/versions/18608)
+
+key | summary |  type
+---- | ----|----
+[MOS-18272](https://jira.hochbahn.de/browse/MOS-18272) | Verbuchung für HVV-Tickets A82C0I, A82GDN und A82WKV neu anstoßen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18240](https://jira.hochbahn.de/browse/MOS-18240) | Alle Fehler von POST /orders dokumentieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18239](https://jira.hochbahn.de/browse/MOS-18239) | OOTW: Security-Updates | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18123](https://jira.hochbahn.de/browse/MOS-18123) | Refactoring Logik für Status Wechsel | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18096](https://jira.hochbahn.de/browse/MOS-18096) | Inbetriebnahme voucher-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18024](https://jira.hochbahn.de/browse/MOS-18024) | Rechnung erstellen und verbuchen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17900](https://jira.hochbahn.de/browse/MOS-17900) | Implementierung Gutschein Recovery | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17895](https://jira.hochbahn.de/browse/MOS-17895) | Systemtests und Mocks für Voucherify-Funktionalitäten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17746](https://jira.hochbahn.de/browse/MOS-17746) |  Rechnungserstellung auslösen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17406](https://jira.hochbahn.de/browse/MOS-17406) | Order-Service: Code ausbauen (Special Fee) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-152.0
 
 Deployment on **PROD** at
