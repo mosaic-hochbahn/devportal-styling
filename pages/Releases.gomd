@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-153.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 15.01.26 - 14:27:19
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18707](https://jira.hochbahn.de/projects/MOS/versions/18707)
+
+key | summary |  type
+---- | ----|----
+[MOS-18221](https://jira.hochbahn.de/browse/MOS-18221) | StadtRad: Konzeption zur Jahresgebühr | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18212](https://jira.hochbahn.de/browse/MOS-18212) | Ride-MSP KW2 - 5.1. - 9.1.2026 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18167](https://jira.hochbahn.de/browse/MOS-18167) | MOIA - Neue TripStates ReadyForBoarding einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18116](https://jira.hochbahn.de/browse/MOS-18116) | Ersten Service auf Spring Boot 4 upgraden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17988](https://jira.hochbahn.de/browse/MOS-17988) | SIXT-Share-Prozesse modernisieren | Create reservation | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17814](https://jira.hochbahn.de/browse/MOS-17814) | moia-adapter: Event-Registrierung ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-155.0
 
 Deployment on **PROD** at: tba-BILLING
