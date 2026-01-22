@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-43.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 22.01.26 - 13:25:33
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18718](https://jira.hochbahn.de/projects/MOS/versions/18718)
+
+key | summary |  type
+---- | ----|----
+[MOS-18349](https://jira.hochbahn.de/browse/MOS-18349) | Slack Notifications for Renovate | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18326](https://jira.hochbahn.de/browse/MOS-18326) | Deutschlandticket für HH Senioren - Offers | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18320](https://jira.hochbahn.de/browse/MOS-18320) | Ticketing-Wächter 15.01.-22.01. | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18279](https://jira.hochbahn.de/browse/MOS-18279) | Java 25 update für Ticketing Services | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18251](https://jira.hochbahn.de/browse/MOS-18251) | Umgang mit Customer Daten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18245](https://jira.hochbahn.de/browse/MOS-18245) | Seniorenrabatt - weitere Analysen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16680](https://jira.hochbahn.de/browse/MOS-16680) | VatPercent hard coding auf 7% in STS wieder ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-13743](https://jira.hochbahn.de/browse/MOS-13743) | Ticketing: In Dockerfiles einen nonroot User verwenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-156.0
 
 Deployment on **PROD** at: tba-BILLING
