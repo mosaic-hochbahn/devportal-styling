@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-156.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 22.01.26 - 12:15:04
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18714](https://jira.hochbahn.de/projects/MOS/versions/18714)
+
+key | summary |  type
+---- | ----|----
+[MOS-18317](https://jira.hochbahn.de/browse/MOS-18317) | Slack Log Errors Channel - Verlinkung der Error Message zu den Logs defekt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-18296](https://jira.hochbahn.de/browse/MOS-18296) | Endpunkt für den Empfang von Hintergrundzahlungen definieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18247](https://jira.hochbahn.de/browse/MOS-18247) | Modul / Repo für Hintergrundzahlung aufsetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18238](https://jira.hochbahn.de/browse/MOS-18238) | SoftDelete Consumer und UseCase | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18237](https://jira.hochbahn.de/browse/MOS-18237) | HardDelete UseCase und Recovery | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18090](https://jira.hochbahn.de/browse/MOS-18090) | (Analyse) Upgrade auf Spring Boot 4 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18089](https://jira.hochbahn.de/browse/MOS-18089) | Umsetzung Alert für Pod-Restart | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17970](https://jira.hochbahn.de/browse/MOS-17970) | Synchronisierung der Post-Pay-Claims mit dem Order-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17916](https://jira.hochbahn.de/browse/MOS-17916) | Alte Daten in die Gutscheinverwaltung überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17915](https://jira.hochbahn.de/browse/MOS-17915) | Neue Gutscheinverwaltung für alte Prozesse nutzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17427](https://jira.hochbahn.de/browse/MOS-17427) | Predeployment-Checks schon bei Merge-Requests durchführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-42.0
 
 Deployment on **PROD** at
