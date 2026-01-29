@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-155.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 29.01.26 - 13:22:06
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18901](https://jira.hochbahn.de/projects/MOS/versions/18901)
+
+key | summary |  type
+---- | ----|----
+[MOS-18390](https://jira.hochbahn.de/browse/MOS-18390) | Stadtrad verschieben der Column beschreibung von der Entity ins Embedabble | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18385](https://jira.hochbahn.de/browse/MOS-18385) | Testfixtures für AccountService anlegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18373](https://jira.hochbahn.de/browse/MOS-18373) | Stadtrad  Verarbeitung von planID und paymentMethodID | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18348](https://jira.hochbahn.de/browse/MOS-18348) | Ride-MSP KW4 - 19.1. - 23.1.2026 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18328](https://jira.hochbahn.de/browse/MOS-18328) | Stadtrad ActivateStadtradUseCase mit KundenInfos ergänzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18327](https://jira.hochbahn.de/browse/MOS-18327) | Stadtrad Implementierung Controller für Aktivierung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18324](https://jira.hochbahn.de/browse/MOS-18324) | Stadtrad Aktivierung DB Schema anpassen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18275](https://jira.hochbahn.de/browse/MOS-18275) | Slack-Monitoring-Channel für MDL-Integrationsservices anlegen und Grafana-Webhook anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18235](https://jira.hochbahn.de/browse/MOS-18235) | MOIA - Alte Implementierung von ALIKE Shuttle Boarding entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18231](https://jira.hochbahn.de/browse/MOS-18231) | Feature Toggle für Berlin  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14248](https://jira.hochbahn.de/browse/MOS-14248) | fix hibernate warning | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-157.0
 
 Deployment on **PROD** at: tba-BILLING
