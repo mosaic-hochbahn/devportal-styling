@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-157.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 29.01.26 - 12:53:15
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18800](https://jira.hochbahn.de/projects/MOS/versions/18800)
+
+key | summary |  type
+---- | ----|----
+[MOS-18357](https://jira.hochbahn.de/browse/MOS-18357) | Special-Fee-Orchestration - Quartz Konfiguration hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18313](https://jira.hochbahn.de/browse/MOS-18313) | PostPay Claim Endpunkt veröffentlichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18297](https://jira.hochbahn.de/browse/MOS-18297) | Validierung der Anfrage einer Hintergrundzahlung  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18190](https://jira.hochbahn.de/browse/MOS-18190) | Benachrichtigungen über häufige Gutscheinfehler | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17805](https://jira.hochbahn.de/browse/MOS-17805) | Webhook-Adapter | Bad Request nicht als Error loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-154.0
 
 Deployment on **PROD** at
