@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-44.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 29.01.26 - 13:35:32
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18900](https://jira.hochbahn.de/projects/MOS/versions/18900)
+
+key | summary |  type
+---- | ----|----
+[MOS-18406](https://jira.hochbahn.de/browse/MOS-18406) | Wächtern: HTO Logs beherrschbarer gestalten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18391](https://jira.hochbahn.de/browse/MOS-18391) | Print-Ticket-Service: Lib Modelmapper durch Mapstruct austuschen (Java25 Error Logs) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18350](https://jira.hochbahn.de/browse/MOS-18350) | VDV-Kose-Service: Ausgabemeldungen drosseln | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18287](https://jira.hochbahn.de/browse/MOS-18287) | GET /offers-date muss als LocalDate definiert und behandelt werden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15280](https://jira.hochbahn.de/browse/MOS-15280) | Rückbau: Toggle für SAM-Server-Dummy-Response | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-155.0
 
 Deployment on **PROD** at: tba-RIDE
