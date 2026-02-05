@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-158.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 05.02.26 - 11:45:53
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18903](https://jira.hochbahn.de/projects/MOS/versions/18903)
+
+key | summary |  type
+---- | ----|----
+[MOS-18299](https://jira.hochbahn.de/browse/MOS-18299) | Sammlung der Daten des Rechnungsempfängers | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18298](https://jira.hochbahn.de/browse/MOS-18298) | Daten für spätere Abarbeitung und Wiederholung speichern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-44.0
 
 Deployment on **PROD** at
