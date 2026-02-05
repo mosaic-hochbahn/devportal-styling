@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-45.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 05.02.26 - 13:44:09
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18906](https://jira.hochbahn.de/projects/MOS/versions/18906)
+
+key | summary |  type
+---- | ----|----
+[MOS-18441](https://jira.hochbahn.de/browse/MOS-18441) | STS Subscription Consistency Check wieder ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18437](https://jira.hochbahn.de/browse/MOS-18437) | Startkartenlogik: Berechtigungsprüfung erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18338](https://jira.hochbahn.de/browse/MOS-18338) | Deutschlandticket für HH Senioren - Orders | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18255](https://jira.hochbahn.de/browse/MOS-18255) | Ticketing-Endpunkte für den Zugriff neuer Benutzerrollen 360°-Cockpit berechtigen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14153](https://jira.hochbahn.de/browse/MOS-14153) | Deutlich machen: API zum Update der Customer-Details eines Tickets kann nur auf Subscription-Tickets angewandt werden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-158.0
 
 Deployment on **PROD** at: tba-BILLING
