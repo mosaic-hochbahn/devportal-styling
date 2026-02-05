@@ -1,5 +1,31 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-156.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 05.02.26 - 15:02:53
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18905](https://jira.hochbahn.de/projects/MOS/versions/18905)
+
+key | summary |  type
+---- | ----|----
+[MOS-18456](https://jira.hochbahn.de/browse/MOS-18456) | MOIA - Update der Protobuf File für BoardingAuthentication | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18452](https://jira.hochbahn.de/browse/MOS-18452) | Miles Fueling Jobs alle 10 Sekunden ausführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18427](https://jira.hochbahn.de/browse/MOS-18427) | Stadtrad Sequenzdiagramme + Doku  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18415](https://jira.hochbahn.de/browse/MOS-18415) | StadtradAccountRepository-Tests nachziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18375](https://jira.hochbahn.de/browse/MOS-18375) | Stadtrad Versionsheader hinzufügen  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18374](https://jira.hochbahn.de/browse/MOS-18374) | StadtRad Ride-MSP: Update 1.5.0 &gt; 1.6.0 Schnittstelle | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18325](https://jira.hochbahn.de/browse/MOS-18325) | Stadtrad doppelte Aktivierung verhindern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18304](https://jira.hochbahn.de/browse/MOS-18304) | Jelbi: Neuen Service anlegen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18284](https://jira.hochbahn.de/browse/MOS-18284) | StadtRad UC-6 MSP: Konzeption Schnittstelle Jahresgebühr für DBC | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18244](https://jira.hochbahn.de/browse/MOS-18244) | StadtRAD API anbinden &amp; Polling implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18242](https://jira.hochbahn.de/browse/MOS-18242) | Neues StadtRAD Service anlegen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18235](https://jira.hochbahn.de/browse/MOS-18235) | MOIA - Alte Implementierung von ALIKE Shuttle Boarding entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18035](https://jira.hochbahn.de/browse/MOS-18035) | booking-service: Aktiv/Inaktiv-Unterscheidung mit App abgleichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17991](https://jira.hochbahn.de/browse/MOS-17991) | MILES Fueling Session aktiv beenden scheint nie zu funktionieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17674](https://jira.hochbahn.de/browse/MOS-17674) | Anbindung an alte MOIA-API aus unseren Services ausbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-45.0
 
 Deployment on **PROD** at: tba-TICKETING
