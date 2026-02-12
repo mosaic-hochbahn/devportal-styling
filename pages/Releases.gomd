@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-159.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 12.02.26 - 11:34:59
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18808](https://jira.hochbahn.de/projects/MOS/versions/18808)
+
+key | summary |  type
+---- | ----|----
+[MOS-18498](https://jira.hochbahn.de/browse/MOS-18498) | Gutschein-Fehler im Order-Service dokumentieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18484](https://jira.hochbahn.de/browse/MOS-18484) | Gutscheinschnittstelle zur App erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18389](https://jira.hochbahn.de/browse/MOS-18389) | Recovery für die Wiederholung von Hintergrundszahlungen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18315](https://jira.hochbahn.de/browse/MOS-18315) | Stadtrad Implementierung dokumentieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18305](https://jira.hochbahn.de/browse/MOS-18305) | Delete/Anonymize Consumer und UseCase für die Hintergrundzahlung  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18302](https://jira.hochbahn.de/browse/MOS-18302) | Erstellung der Rechnung für die Hintergrundzahlung triggern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18300](https://jira.hochbahn.de/browse/MOS-18300) | Zahlungstransaktion für die Hintergrundzahlung triggern  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18189](https://jira.hochbahn.de/browse/MOS-18189) | Voucherify-Mock zu Billing übernehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18179](https://jira.hochbahn.de/browse/MOS-18179) | Allgemeine Architekturtests in billing-testing-lib auslagern (voucher-service) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17947](https://jira.hochbahn.de/browse/MOS-17947) | Logging im Payment-Service verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17919](https://jira.hochbahn.de/browse/MOS-17919) | Erweiterung der Validierung um negative Rechnungspositionen für Erstattungen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-156.0
 
 Deployment on **PROD** at
