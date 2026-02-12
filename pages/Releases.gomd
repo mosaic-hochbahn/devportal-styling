@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-157.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 12.02.26 - 13:51:08
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18911](https://jira.hochbahn.de/projects/MOS/versions/18911)
+
+key | summary |  type
+---- | ----|----
+[MOS-18506](https://jira.hochbahn.de/browse/MOS-18506) | Monitoring für MOIA Quota an Realität anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18450](https://jira.hochbahn.de/browse/MOS-18450) | Stadtrad MSP account service auf Api generierung Umstellen  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18445](https://jira.hochbahn.de/browse/MOS-18445) | Ride-MSP KW6 - 02.02. - 06.02.2026 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18431](https://jira.hochbahn.de/browse/MOS-18431) | Stadtrad user-id für DBC generieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18332](https://jira.hochbahn.de/browse/MOS-18332) | Stadtrad Offene Buchung Check für Deaktivierung entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18285](https://jira.hochbahn.de/browse/MOS-18285) | StadtRad UC-6 MSP: Erster Jahresgebühr Flow | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18067](https://jira.hochbahn.de/browse/MOS-18067) | Miles-Prozesse modernisieren | Recovery erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17674](https://jira.hochbahn.de/browse/MOS-17674) | Anbindung an alte MOIA-API aus unseren Services ausbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-159.0
 
 Deployment on **PROD** at: tba-BILLING
