@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-160.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 19.02.26 - 11:52:39
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18816](https://jira.hochbahn.de/projects/MOS/versions/18816)
+
+key | summary |  type
+---- | ----|----
+[MOS-18571](https://jira.hochbahn.de/browse/MOS-18571) | Nutzung TimeUtils ohne Clock Dependency | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18458](https://jira.hochbahn.de/browse/MOS-18458) | OOTW: Security Updates | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18372](https://jira.hochbahn.de/browse/MOS-18372) | Allgemeine Unittests in billing-testing-lib auslagern (voucher-service) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18366](https://jira.hochbahn.de/browse/MOS-18366) | PTnova Fehlermeldung richtig loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18337](https://jira.hochbahn.de/browse/MOS-18337) | Payment Service - Hintergrundzahlung (MIT) implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18257](https://jira.hochbahn.de/browse/MOS-18257) | Billing-Endpunkte für den Zugriff neuer Benutzerrollen 360°-Cockpit berechtigen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-46.0
 
 Deployment on **PROD** at
