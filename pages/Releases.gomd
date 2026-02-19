@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-47.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 19.02.26 - 16:45:30
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18916](https://jira.hochbahn.de/projects/MOS/versions/18916)
+
+key | summary |  type
+---- | ----|----
+[MOS-18555](https://jira.hochbahn.de/browse/MOS-18555) | Wallet Service:  Leaking von RequestId bei Kafka Eventverarbeitung verhindern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18513](https://jira.hochbahn.de/browse/MOS-18513) | STS cleanup auf Code Basis | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18459](https://jira.hochbahn.de/browse/MOS-18459) | BEST - 4 Fahrten Karte - Konzept | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18363](https://jira.hochbahn.de/browse/MOS-18363) | Deutschlandticket für HH Senioren - Verlängerungslauf / Entzug des SeniorenTickets | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18339](https://jira.hochbahn.de/browse/MOS-18339) | Deutschlandticket für HH Senioren - Verlängerungslauf durchführen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18227](https://jira.hochbahn.de/browse/MOS-18227) | Wallet-Service Rate-Limit überschritten durch abgelaufene Tickets | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16714](https://jira.hochbahn.de/browse/MOS-16714) | Toggle für neue Discountlogik aus der Toggleconfig entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-158.0
 
 Deployment on **PROD** at: tba-RIDE
