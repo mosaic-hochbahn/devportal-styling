@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-158.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 19.02.26 - 13:36:18
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18915](https://jira.hochbahn.de/projects/MOS/versions/18915)
+
+key | summary |  type
+---- | ----|----
+[MOS-18569](https://jira.hochbahn.de/browse/MOS-18569) | StadtRad - Jahresgebühr Historie dokumentieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18501](https://jira.hochbahn.de/browse/MOS-18501) | Ride-MSP – Betrieb der Integration MDL Services – KW7 (09.02–13.02.2026) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18446](https://jira.hochbahn.de/browse/MOS-18446) | Ride-MSP – Betrieb der Integration MDL Services – KW6 (02.02–06.02.2026) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18444](https://jira.hochbahn.de/browse/MOS-18444) | Stadtrad richtige ID für requests verwenden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18184](https://jira.hochbahn.de/browse/MOS-18184) | Basis Docker-Image bereitstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18067](https://jira.hochbahn.de/browse/MOS-18067) | Miles-Prozesse modernisieren | Recovery erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-160.0
 
 Deployment on **PROD** at: tba-BILLING
