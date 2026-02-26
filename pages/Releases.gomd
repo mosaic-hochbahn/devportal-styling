@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-159.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 26.02.26 - 13:41:40
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18921](https://jira.hochbahn.de/projects/MOS/versions/18921)
+
+key | summary |  type
+---- | ----|----
+[MOS-18587](https://jira.hochbahn.de/browse/MOS-18587) | OrderAuth anpassen bei Customer | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18565](https://jira.hochbahn.de/browse/MOS-18565) | CustomerChecks durchfuehren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18562](https://jira.hochbahn.de/browse/MOS-18562) | Ride-MSP KW8 - 16.02. - 20.02.2026 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18527](https://jira.hochbahn.de/browse/MOS-18527) | Spring Boot update auf 4.x in foreignParking | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18488](https://jira.hochbahn.de/browse/MOS-18488) | Spring Boot 4 upgraden: Stationary-based-rental-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18442](https://jira.hochbahn.de/browse/MOS-18442) | StadtRad // StadtRad Mock | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18419](https://jira.hochbahn.de/browse/MOS-18419) | MOIA &amp; ALIKE // Push-Nachricht bei Verspätung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18334](https://jira.hochbahn.de/browse/MOS-18334) | Stadtrad internal Endpunkt zum Deaktivieren eines Accounts | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18286](https://jira.hochbahn.de/browse/MOS-18286) | Ride-MSP Commons Lib: Auto-Merge und Deploy für Dependabot einführen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18263](https://jira.hochbahn.de/browse/MOS-18263) | StadtRAD: Fahrräder aus StadtRAD API synchronisieren und persistieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18259](https://jira.hochbahn.de/browse/MOS-18259) | StadtRAD : Stationen aus StadtRAD API pollen und persistieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18139](https://jira.hochbahn.de/browse/MOS-18139) | Buchungen von bereits gelöschten Kunden aus der Datenbank des History-Service entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18092](https://jira.hochbahn.de/browse/MOS-18092) | StadtRad - Bei Fehlschlag PostPay Ordern Canceln | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-161.0
 
 Deployment on **PROD** at: tba-BILLING
