@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-161.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 26.02.26 - 13:37:55
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18820](https://jira.hochbahn.de/projects/MOS/versions/18820)
+
+key | summary |  type
+---- | ----|----
+[MOS-18509](https://jira.hochbahn.de/browse/MOS-18509) | E-Mail zu Seniorenticket  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18482](https://jira.hochbahn.de/browse/MOS-18482) | [Analyse] Automatische HTTP-Retries Deaktivierung bewerten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18477](https://jira.hochbahn.de/browse/MOS-18477) | Merchant-Pay-Orchestration: Grafana und Alerts aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18457](https://jira.hochbahn.de/browse/MOS-18457) | Docker Mirror in allen Dockerfiles nutzen und Libs im Docker immer updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18422](https://jira.hochbahn.de/browse/MOS-18422) | Gutscheindaten zu Bigquery exportieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18307](https://jira.hochbahn.de/browse/MOS-18307) | Synchronisierung der Merchant-Pay-Claims mit dem Order-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18178](https://jira.hochbahn.de/browse/MOS-18178) | Endpunkte, die nur vom Switch-Crm benutzt wurden, entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18160](https://jira.hochbahn.de/browse/MOS-18160) | [Analyse] Billing-Libs Spring Dependencies | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-47.0
 
 Deployment on **PROD** at
