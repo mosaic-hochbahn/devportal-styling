@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-49.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 05.03.26 - 13:54:51
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18924](https://jira.hochbahn.de/projects/MOS/versions/18924)
+
+key | summary |  type
+---- | ----|----
+[MOS-18589](https://jira.hochbahn.de/browse/MOS-18589) | Ticketing-Wächter 20.02.-27.02. | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17247](https://jira.hochbahn.de/browse/MOS-17247) | MockHeader im V2-Cache überdenken/überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16034](https://jira.hochbahn.de/browse/MOS-16034) | HTO: Contract-Tests: Deutschlandticket: Toggle überpüfen  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-162.0
 
 Deployment on **PROD** at: tba-BILLING
