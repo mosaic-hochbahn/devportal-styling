@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-162.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 05.03.26 - 11:48:38
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/18925](https://jira.hochbahn.de/projects/MOS/versions/18925)
+
+key | summary |  type
+---- | ----|----
+[MOS-18631](https://jira.hochbahn.de/browse/MOS-18631) | OOTW Security Findings fixen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18600](https://jira.hochbahn.de/browse/MOS-18600) | Tracing in Spring Boot 4 wieder aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18566](https://jira.hochbahn.de/browse/MOS-18566) | RestTemplateConfigurationCustomIT in billing-common-lib auslagern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18540](https://jira.hochbahn.de/browse/MOS-18540) | Rate-Limit für Switch-Crm-Endpunkte entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18475](https://jira.hochbahn.de/browse/MOS-18475) | Rechnungserstellung von Jahresgebühren für StadtRad im Billing Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18470](https://jira.hochbahn.de/browse/MOS-18470) | Upgrade sixt-debt-adapter auf Spring Boot 4 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18465](https://jira.hochbahn.de/browse/MOS-18465) | Upgrade logpay-mock auf Spring Boot 4 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18463](https://jira.hochbahn.de/browse/MOS-18463) | Upgrade billing-webhook-adapter auf Spring Boot 4 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18461](https://jira.hochbahn.de/browse/MOS-18461) | Upgrade billing-order-adapter auf Spring Boot 4 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18387](https://jira.hochbahn.de/browse/MOS-18387) | Systemtest für Jahresgebühren erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18361](https://jira.hochbahn.de/browse/MOS-18361) | Upgrade Libs und Payment-Service auf Spring Boot 4 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18303](https://jira.hochbahn.de/browse/MOS-18303) | HardDelete UseCase und Job für Hintergrundzahlung  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17917](https://jira.hochbahn.de/browse/MOS-17917) | Alte Gutscheinprozesse entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-159.0
 
 Deployment on **PROD** at
