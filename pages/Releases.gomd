@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-161.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 12.03.26 - 16:07:54
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19004](https://jira.hochbahn.de/projects/MOS/versions/19004)
+
+key | summary |  type
+---- | ----|----
+[MOS-18658](https://jira.hochbahn.de/browse/MOS-18658) | Azure Services: external secret api version anpassen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18624](https://jira.hochbahn.de/browse/MOS-18624) | Ride-MSP – Betrieb der Integration MDL Services – KW9 (02.03–06.03.2026) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18622](https://jira.hochbahn.de/browse/MOS-18622) | StadtRad Ride // Neue Modul-Struktur | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18621](https://jira.hochbahn.de/browse/MOS-18621) | StadtRad Ride // externalContractId mit accountId austauschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18613](https://jira.hochbahn.de/browse/MOS-18613) | Stadtrad Aktivierung in die Stadtrad Orchestration | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18576](https://jira.hochbahn.de/browse/MOS-18576) | StadtRad Ride // RentalService Endpunkt für MspAccountFee | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18575](https://jira.hochbahn.de/browse/MOS-18575) | StadtRad Ride // Fee + Ride Differenzierung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18378](https://jira.hochbahn.de/browse/MOS-18378) | Stadtrad API Pfade anpassen  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-163.0
 
 Deployment on **PROD** at: tba-BILLING
