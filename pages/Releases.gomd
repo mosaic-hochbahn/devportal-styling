@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-163.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 12.03.26 - 11:50:35
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19101](https://jira.hochbahn.de/projects/MOS/versions/19101)
+
+key | summary |  type
+---- | ----|----
+[MOS-18584](https://jira.hochbahn.de/browse/MOS-18584) | Alert für Validierungsfehler | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18583](https://jira.hochbahn.de/browse/MOS-18583) | Allgemeine Integrationstests in billing-testing-lib auslagern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18582](https://jira.hochbahn.de/browse/MOS-18582) | StadtRad Erstattung für ein Jahr erlauben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18479](https://jira.hochbahn.de/browse/MOS-18479) | Post-Pay-Orchestration - Receive Claim auf internes Event umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18469](https://jira.hochbahn.de/browse/MOS-18469) | Upgrade refund-orchestration auf Spring Boot 4 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18121](https://jira.hochbahn.de/browse/MOS-18121) |  Datenbankspalten entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18046](https://jira.hochbahn.de/browse/MOS-18046) | Systemtest erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-49.0
 
 Deployment on **PROD** at
