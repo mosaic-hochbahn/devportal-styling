@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-51.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 19.03.26 - 14:20:23
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19015](https://jira.hochbahn.de/projects/MOS/versions/19015)
+
+key | summary |  type
+---- | ----|----
+[MOS-18695](https://jira.hochbahn.de/browse/MOS-18695) | Invalid SAM-Certificate | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18685](https://jira.hochbahn.de/browse/MOS-18685) | DebtData Price aus Offer nehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18609](https://jira.hochbahn.de/browse/MOS-18609) | Verlängerungslauf in Business Hours durchführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18529](https://jira.hochbahn.de/browse/MOS-18529) | Systemtest für Seniorenticket-DT anlegen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18342](https://jira.hochbahn.de/browse/MOS-18342) | Deutschlandticket für HH Senioren - automatische E-Mailkommunikation | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-162.0
 
 Deployment on **PROD** at: tba-RIDE
