@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-164.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 19.03.26 - 11:41:32
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19016](https://jira.hochbahn.de/projects/MOS/versions/19016)
+
+key | summary |  type
+---- | ----|----
+[MOS-18688](https://jira.hochbahn.de/browse/MOS-18688) | Moia API aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18648](https://jira.hochbahn.de/browse/MOS-18648) | Erstellung technischen Konzepts für UREKA | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18647](https://jira.hochbahn.de/browse/MOS-18647) | Zentralisierte Tests in der Billing-Webhook-Adapter einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18646](https://jira.hochbahn.de/browse/MOS-18646) | Zentralisierte Tests in der Billing-Order-Adapter einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18645](https://jira.hochbahn.de/browse/MOS-18645) | Zentralisierte Tests in der Sixt-Debt-Adapter einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18642](https://jira.hochbahn.de/browse/MOS-18642) | Zentralisierte Tests in der Payment-Service einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18496](https://jira.hochbahn.de/browse/MOS-18496) | Special-Fee-Orchestration - Kafka Producer Konfiguration korrigieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18472](https://jira.hochbahn.de/browse/MOS-18472) | Upgrade voucher-service auf Spring Boot 4 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18468](https://jira.hochbahn.de/browse/MOS-18468) | Upgrade post-pay-orchestration auf Spring Boot 4 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18466](https://jira.hochbahn.de/browse/MOS-18466) | Upgrade merchant-pay-orchestration auf Spring Boot 4 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18412](https://jira.hochbahn.de/browse/MOS-18412) | Zentralisierte Tests in der Refund-Orchestration einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18344](https://jira.hochbahn.de/browse/MOS-18344) | Dokumentation - Hintergrundzahlung (MIT) mit Merchant-Pay-Orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-161.0
 
 Deployment on **PROD** at
