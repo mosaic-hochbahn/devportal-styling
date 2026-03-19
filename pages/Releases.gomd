@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-162.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 19.03.26 - 14:08:16
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19018](https://jira.hochbahn.de/projects/MOS/versions/19018)
+
+key | summary |  type
+---- | ----|----
+[MOS-18676](https://jira.hochbahn.de/browse/MOS-18676) | MOIA TripStateService gRPC API auf v1 umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18675](https://jira.hochbahn.de/browse/MOS-18675) | StadtRad // Manueller Integrationstest auf Dev | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18674](https://jira.hochbahn.de/browse/MOS-18674) | InternalTerminationEndpoint entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18619](https://jira.hochbahn.de/browse/MOS-18619) | Spring Boot update auf 4.x - in JelbiDataService | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18577](https://jira.hochbahn.de/browse/MOS-18577) | StadtRad Ride // Erstellung MspAccountFee | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18020](https://jira.hochbahn.de/browse/MOS-18020) | StadtRad - Voucher Absprache mit App | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-164.0
 
 Deployment on **PROD** at: tba-BILLING
