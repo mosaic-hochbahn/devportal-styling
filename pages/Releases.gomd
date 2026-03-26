@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-163.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 26.03.26 - 14:00:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19020](https://jira.hochbahn.de/projects/MOS/versions/19020)
+
+key | summary |  type
+---- | ----|----
+[MOS-18719](https://jira.hochbahn.de/browse/MOS-18719) | StadtRad redunanten Stadtrad naming entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18699](https://jira.hochbahn.de/browse/MOS-18699) | Stadtrad refactor (Account und Contract) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18684](https://jira.hochbahn.de/browse/MOS-18684) | Ride-MSP KW12 - 16.03. - 20.03.2026 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18608](https://jira.hochbahn.de/browse/MOS-18608) | HSP Tool: Beschränkung auf Hamburg-Koordinaten entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18606](https://jira.hochbahn.de/browse/MOS-18606) | StadtRad Ride // Fahrtkosten entgegennehmen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18586](https://jira.hochbahn.de/browse/MOS-18586) | StadtradAccountID wird externalCustomerNumber | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18580](https://jira.hochbahn.de/browse/MOS-18580) | Spring Boot 4 upgraden: stadtrad-rental-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18265](https://jira.hochbahn.de/browse/MOS-18265) | StadtRAD UC-4: Auskunft Tarife (Pricing) pollen und für App breitstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-52.0
 
 Deployment on **PROD** at: tba-TICKETING
