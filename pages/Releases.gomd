@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-52.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 26.03.26 - 13:18:09
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19021](https://jira.hochbahn.de/projects/MOS/versions/19021)
+
+key | summary |  type
+---- | ----|----
+[MOS-18737](https://jira.hochbahn.de/browse/MOS-18737) | SAM-Adapter: Alte, abgelaufene SSL-Zertifikate entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18663](https://jira.hochbahn.de/browse/MOS-18663) | KOSE - Rücknahmen für die keine Ausgabemeldung gefunden wurde auf RETRYABLE setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18438](https://jira.hochbahn.de/browse/MOS-18438) | BEST - 4 Fahrten Karte - Order ohne Aktivierung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-51.0
 
 Deployment on **PROD** at
