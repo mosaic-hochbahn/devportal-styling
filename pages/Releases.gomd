@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-164.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 09.04.26 - 13:59:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19112](https://jira.hochbahn.de/projects/MOS/versions/19112)
+
+key | summary |  type
+---- | ----|----
+[MOS-18788](https://jira.hochbahn.de/browse/MOS-18788) | Addressprüfung wirft Nullpointer | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-18781](https://jira.hochbahn.de/browse/MOS-18781) | Setzen der PaymentId fachlich beschreiben | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18767](https://jira.hochbahn.de/browse/MOS-18767) | Stadtrad AccountNotFoundException beim Event | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18765](https://jira.hochbahn.de/browse/MOS-18765) | StadtRad Ride // Koordinate bei Paused abspeichern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18758](https://jira.hochbahn.de/browse/MOS-18758) | Stadtrad Aktivierung Integration Package Struktur Core | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18739](https://jira.hochbahn.de/browse/MOS-18739) | Stadtrad Aktivierung Integration Package Struktur Boundary | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18692](https://jira.hochbahn.de/browse/MOS-18692) | Stadtrad Zahlungsmittel bei Customer abrufen und prüfen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18607](https://jira.hochbahn.de/browse/MOS-18607) | StadtRad Ride // Recovery wenn Totals nicht bereit sind | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18493](https://jira.hochbahn.de/browse/MOS-18493) | Stadtrad DB-Schema find Account/Contract mit is aktiv Prüfung  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18246](https://jira.hochbahn.de/browse/MOS-18246) | StadtRAD UC-1: Operating Area Hamburg im StadtRAD-Adapter bereitstellen  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-53.0
 
 Deployment on **PROD** at: tba-TICKETING
