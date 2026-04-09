@@ -1,5 +1,39 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-166.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 09.04.26 - 13:30:47
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19111](https://jira.hochbahn.de/projects/MOS/versions/19111)
+
+key | summary |  type
+---- | ----|----
+[MOS-18824](https://jira.hochbahn.de/browse/MOS-18824) | Adressänderung auf der Rechnung von Free2move(ShareNow) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18798](https://jira.hochbahn.de/browse/MOS-18798) | API Design für die Bestätigung - interne API Guest-Payment-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18797](https://jira.hochbahn.de/browse/MOS-18797) | API Design für Checkout - interne API Guest-Payment-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18792](https://jira.hochbahn.de/browse/MOS-18792) | API Design für die Bestätigung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18791](https://jira.hochbahn.de/browse/MOS-18791) | API Design für Checkout  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18790](https://jira.hochbahn.de/browse/MOS-18790) | Dependabot Credentials Umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18766](https://jira.hochbahn.de/browse/MOS-18766) | Scheduled Security Scans aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18705](https://jira.hochbahn.de/browse/MOS-18705) | Zeitraum von Prozessfehlern für Moia ändern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18702](https://jira.hochbahn.de/browse/MOS-18702) | Erstellung Claim History | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18701](https://jira.hochbahn.de/browse/MOS-18701) | Erstellung Guest Payment Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18700](https://jira.hochbahn.de/browse/MOS-18700) | Erstellung Guest Payment Orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18679](https://jira.hochbahn.de/browse/MOS-18679) | Post-Pay-Orchestration: Synchronisierung zum Order-Service überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18678](https://jira.hochbahn.de/browse/MOS-18678) | Systemtest für PostPayCase ABORTED erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18649](https://jira.hochbahn.de/browse/MOS-18649) | Schnellere Rechnungserstellung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18644](https://jira.hochbahn.de/browse/MOS-18644) | Zentralisierte Tests in der Voucher-Service einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18640](https://jira.hochbahn.de/browse/MOS-18640) | Zentralisierte Tests in der Post-Pay-Orchestration einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18639](https://jira.hochbahn.de/browse/MOS-18639) | Zentralisierte Tests in der Merchant-Pay-Orchestration einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18638](https://jira.hochbahn.de/browse/MOS-18638) | Zentralisierte Tests in der Special-Fee-Orchestration einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18508](https://jira.hochbahn.de/browse/MOS-18508) | Aufruf neuer Endpunkt für das Lesen der Zahlungsmethodendaten  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17666](https://jira.hochbahn.de/browse/MOS-17666) | JPA-Entities und DEV-DB angleichen (Billing-Service) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17665](https://jira.hochbahn.de/browse/MOS-17665) | JPA-Entities und DEV-DB angleichen (Payment-Service) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17660](https://jira.hochbahn.de/browse/MOS-17660) | JPA-Entities und DEV-DB angleichen (Order-Service) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17567](https://jira.hochbahn.de/browse/MOS-17567) | [Analyse] Test für Deploymentfehler aus MOS-17523 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-165.0
 
 Deployment on **PROD** at
