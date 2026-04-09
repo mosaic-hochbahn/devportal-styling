@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-53.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 09.04.26 - 13:42:59
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19024](https://jira.hochbahn.de/projects/MOS/versions/19024)
+
+key | summary |  type
+---- | ----|----
+[MOS-18836](https://jira.hochbahn.de/browse/MOS-18836) | großgeschriebene &#34;Authorization&#34;-Header in Logs maskieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18735](https://jira.hochbahn.de/browse/MOS-18735) | Testuser Emails auf example.com umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18709](https://jira.hochbahn.de/browse/MOS-18709) | Deutschlandticket für HH Senioren - Liste aller potentiellen Seniorenticket Kunden erstellen (7.4.) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18556](https://jira.hochbahn.de/browse/MOS-18556) | Startkartenlogik - Statische PLZ-Liste entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-166.0
 
 Deployment on **PROD** at: tba-BILLING
