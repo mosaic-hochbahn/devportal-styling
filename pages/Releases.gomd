@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-165.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 16.04.26 - 14:55:10
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19301](https://jira.hochbahn.de/projects/MOS/versions/19301)
+
+key | summary |  type
+---- | ----|----
+[MOS-18795](https://jira.hochbahn.de/browse/MOS-18795) | StadtRad Ride // Preisvalidierung bei Account Fee | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18694](https://jira.hochbahn.de/browse/MOS-18694) | StadtRad CustomerProfile Check | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18690](https://jira.hochbahn.de/browse/MOS-18690) | Stadtrad isActive Endpunkt für die App | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18686](https://jira.hochbahn.de/browse/MOS-18686) | Filter für Stationen und Fahrräder auf Geschäftsgebiet Hamburg implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18635](https://jira.hochbahn.de/browse/MOS-18635) | StadtRad Ride // Bisher unfertige Endpunkte einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18330](https://jira.hochbahn.de/browse/MOS-18330) | Stadtrad für eine bestehende Konto das Zahlmittel ändern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18310](https://jira.hochbahn.de/browse/MOS-18310) | Jelbi: Stationen und Punkte im MobilityServiceLocator in den Cache legen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18266](https://jira.hochbahn.de/browse/MOS-18266) | StadtRAD : Dokumentation StadtRAD API &amp; Datenmodell | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-54.0
 
 Deployment on **PROD** at: tba-TICKETING
