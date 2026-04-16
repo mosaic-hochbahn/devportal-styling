@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-54.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 16.04.26 - 12:59:09
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19201](https://jira.hochbahn.de/projects/MOS/versions/19201)
+
+key | summary |  type
+---- | ----|----
+[MOS-18877](https://jira.hochbahn.de/browse/MOS-18877) | In Discount Berechnung kann durch 0 geteilt werden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-18433](https://jira.hochbahn.de/browse/MOS-18433) | Verlängerungslauf richtig skalieren / steuern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18359](https://jira.hochbahn.de/browse/MOS-18359) | Ticketbezeichnung und Geltungsbereich sind bei englischem Kauf auf deutsch | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-167.0
 
 Deployment on **PROD** at: tba-BILLING
