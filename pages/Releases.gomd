@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-55.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 23.04.26 - 16:25:06
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19336](https://jira.hochbahn.de/projects/MOS/versions/19336)
+
+key | summary |  type
+---- | ----|----
+[MOS-18897](https://jira.hochbahn.de/browse/MOS-18897) | Undeployment app.hvv.de | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18855](https://jira.hochbahn.de/browse/MOS-18855) | Analyse: Response-Spitzen bei Ticketing-Services | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18854](https://jira.hochbahn.de/browse/MOS-18854) | VDV-KA - Limit bei Rücknahme ohne Ausgabemeldung greift nicht | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-18840](https://jira.hochbahn.de/browse/MOS-18840) | Zeitzonen in Tests richtig berücksichtigen (HTO) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18777](https://jira.hochbahn.de/browse/MOS-18777) | BEST -  Zeitkarten (ohne MoKa Azubi) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18628](https://jira.hochbahn.de/browse/MOS-18628) | BEST - Validieren der Starthaltstelle | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-14152](https://jira.hochbahn.de/browse/MOS-14152) | Kafka-Konfiguration nur in Application und nicht in HELM-Charts | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-166.0
 
 Deployment on **PROD** at: tba-RIDE
