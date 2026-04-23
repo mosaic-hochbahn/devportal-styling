@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-166.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 23.04.26 - 13:32:44
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19337](https://jira.hochbahn.de/projects/MOS/versions/19337)
+
+key | summary |  type
+---- | ----|----
+[MOS-18917](https://jira.hochbahn.de/browse/MOS-18917) | Tarifanpassung Cambio | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18913](https://jira.hochbahn.de/browse/MOS-18913) | Azure services deploy Channel parameter setzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18895](https://jira.hochbahn.de/browse/MOS-18895) | Fehler in der Api-Definition | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-18892](https://jira.hochbahn.de/browse/MOS-18892) | RequirementCodes korrigieren  | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-18889](https://jira.hochbahn.de/browse/MOS-18889) | Stadtrad Missing-Requirement Ambassador umleitung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18846](https://jira.hochbahn.de/browse/MOS-18846) | StadtRad customer entblocken | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18819](https://jira.hochbahn.de/browse/MOS-18819) | Preise des zum Kunden passenden Pricing Plan am Vehicle mit ausgeben | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18671](https://jira.hochbahn.de/browse/MOS-18671) | Team Label in Deployment.yaml&#39;s setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18585](https://jira.hochbahn.de/browse/MOS-18585) | Stadtrad Deaktivierungs-Event versenden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18581](https://jira.hochbahn.de/browse/MOS-18581) | Spring Boot 4 upgraden: rental-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18543](https://jira.hochbahn.de/browse/MOS-18543) | Stadtrad getContracts -&gt; getAccount Endpunkt erweitern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-168.0
 
 Deployment on **PROD** at: tba-BILLING
