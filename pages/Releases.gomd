@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-168.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 23.04.26 - 11:38:59
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19335](https://jira.hochbahn.de/projects/MOS/versions/19335)
+
+key | summary |  type
+---- | ----|----
+[MOS-18867](https://jira.hochbahn.de/browse/MOS-18867) | Alte StadtRad-Implementierung im billing-order-adapter entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18843](https://jira.hochbahn.de/browse/MOS-18843) | Billing-Service: Produkte für StadtRad konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18803](https://jira.hochbahn.de/browse/MOS-18803) | LogPay-Schnittstellen in Lib auslagern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18800](https://jira.hochbahn.de/browse/MOS-18800) | Use-Case Checkout im Guest-Payment-Service implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18641](https://jira.hochbahn.de/browse/MOS-18641) | Zentralisierte Tests in Order-Service einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17205](https://jira.hochbahn.de/browse/MOS-17205) | Löschen Logik fürs Abfragen von Erstattungen - Blockiert bis Ende März 2026 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-165.0
 
 Deployment on **PROD** at
