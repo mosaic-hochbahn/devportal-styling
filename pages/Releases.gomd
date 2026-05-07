@@ -1,5 +1,36 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-169.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 07.05.26 - 13:39:43
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19500](https://jira.hochbahn.de/projects/MOS/versions/19500)
+
+key | summary |  type
+---- | ----|----
+[MOS-19031](https://jira.hochbahn.de/browse/MOS-19031) | OOTW - Spring-Dependency-Updates | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19013](https://jira.hochbahn.de/browse/MOS-19013) | Logging Auth-Header nach Ugrade auf starter-commons-lib nicht gefiltert | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18986](https://jira.hochbahn.de/browse/MOS-18986) | Nexus-Cache für externe Dependencies nutzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18959](https://jira.hochbahn.de/browse/MOS-18959) | Dependency-Cooldown in allen Billing-Projekten aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18950](https://jira.hochbahn.de/browse/MOS-18950) | Systemtest Zahlmethoden - Favorisierte Zahlmethode ermitteln | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18949](https://jira.hochbahn.de/browse/MOS-18949) | Systemtest Zahlmethoden - SEPA hinzufügen und löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18931](https://jira.hochbahn.de/browse/MOS-18931) | Security-Issues beheben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18925](https://jira.hochbahn.de/browse/MOS-18925) | Systemtest Zahlmethoden - Kreditkarte hinzufügen und löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18922](https://jira.hochbahn.de/browse/MOS-18922) | Neue sAuthGate-URLs für Kommunikation mit PT verwenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18914](https://jira.hochbahn.de/browse/MOS-18914) | Systemtest für UseCase &#34;Verfügbare Zahlungsarten ermitteln&#34; | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18908](https://jira.hochbahn.de/browse/MOS-18908) | Billing-Service Datenstruktur Customer-Number anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18887](https://jira.hochbahn.de/browse/MOS-18887) | Deployment neuer Services | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18883](https://jira.hochbahn.de/browse/MOS-18883) | Rechnungserstellung für unregistrierte Zahlungen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18861](https://jira.hochbahn.de/browse/MOS-18861) | Order-Service: Löschen Logik fürs Abfragen von Erstattungen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18822](https://jira.hochbahn.de/browse/MOS-18822) | Systemtests Gast-Zahlung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18801](https://jira.hochbahn.de/browse/MOS-18801) | Use-Case für die Bestätigung im Guest-Payment-Service implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18799](https://jira.hochbahn.de/browse/MOS-18799) | Use-Case für die Bestätigung in der Guest-Payment-Orchestration implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18796](https://jira.hochbahn.de/browse/MOS-18796) | Use-Case Checkout in der Guest-Payment-Orchestration implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18698](https://jira.hochbahn.de/browse/MOS-18698) | OpenAPI-Convention-Plugin zentralisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16563](https://jira.hochbahn.de/browse/MOS-16563) | Terraform - Log-Based Metrics - Dashboards | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-167.0
 
 Deployment on **PROD** at: tba-RIDE
