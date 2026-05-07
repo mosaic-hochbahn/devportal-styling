@@ -1,5 +1,40 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-167.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 07.05.26 - 13:39:34
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19401](https://jira.hochbahn.de/projects/MOS/versions/19401)
+
+key | summary |  type
+---- | ----|----
+[MOS-19002](https://jira.hochbahn.de/browse/MOS-19002) | Ride-MSP: Nexus-Cache für externe Dependencies nutzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18973](https://jira.hochbahn.de/browse/MOS-18973) | Im Foreignparking unbeabsichtigte Datenbankänderungen von springBoot4 zurückdrehen. | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18960](https://jira.hochbahn.de/browse/MOS-18960) | Stadtrad Sendgrid Templates anlegen  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18958](https://jira.hochbahn.de/browse/MOS-18958) | Kafka Success / Error Handler im Stationary-Based-Rental-Service aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18929](https://jira.hochbahn.de/browse/MOS-18929) | StadtRad // Rental Silent Push V1 Mapping ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18926](https://jira.hochbahn.de/browse/MOS-18926) | StadtRad // distance check header logik anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18923](https://jira.hochbahn.de/browse/MOS-18923) | NullPointer im BikeAndRide bei fehlenden Koordinaten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18909](https://jira.hochbahn.de/browse/MOS-18909) | Stadtrad Kafka Event für Email versand | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18906](https://jira.hochbahn.de/browse/MOS-18906) | Ride-msp-commons Lib: Dependabot Version-Bumps zu einem einzigen Pipeline-Schritt zusammenfassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18902](https://jira.hochbahn.de/browse/MOS-18902) | StadtRad Widerruf Endpunkt für die App  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18891](https://jira.hochbahn.de/browse/MOS-18891) | Stadtrad getStatus Endpunkt fürs CRM  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18874](https://jira.hochbahn.de/browse/MOS-18874) | Direct-Api auf Spring Boot 4 upgraden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18820](https://jira.hochbahn.de/browse/MOS-18820) | Überprüfung der übermittelten PricesPerUnit vor der Buchung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18764](https://jira.hochbahn.de/browse/MOS-18764) | Spring Boot 4 upgraden: voi-rental-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18763](https://jira.hochbahn.de/browse/MOS-18763) | Spring Boot 4 upgraden: sharenow-rental-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18665](https://jira.hochbahn.de/browse/MOS-18665) | StadtRad Ride // PaymentMethodId an Billing übergeben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18652](https://jira.hochbahn.de/browse/MOS-18652) | CloudSQL um MOIA Pre-Booking-Infos erweitern (Teil 1) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18545](https://jira.hochbahn.de/browse/MOS-18545) | Stadtrad MOBI als Zahlungsmittel für Jahresgebühr ablehnen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18490](https://jira.hochbahn.de/browse/MOS-18490) | Miles-Prozesse modernisieren | Recovery erweitern (Teil 2) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18310](https://jira.hochbahn.de/browse/MOS-18310) | Jelbi: Stationen und Punkte im MobilityServiceLocator in den Cache legen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18309](https://jira.hochbahn.de/browse/MOS-18309) | Jelbi: Daten dem MSL bereitstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18308](https://jira.hochbahn.de/browse/MOS-18308) | Jelbi: API anbinden &amp; Polling implementieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17729](https://jira.hochbahn.de/browse/MOS-17729) | Hackathon Finding | HTML Antwort beim Starten einer MILES Miete mit langer reservationId | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-17617](https://jira.hochbahn.de/browse/MOS-17617) | StadtRad // Systemtest schreiben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-55.0
 
 Deployment on **PROD** at
