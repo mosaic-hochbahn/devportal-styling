@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-56.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 08.05.26 - 13:22:21
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19402](https://jira.hochbahn.de/projects/MOS/versions/19402)
+
+key | summary |  type
+---- | ----|----
+[MOS-19037](https://jira.hochbahn.de/browse/MOS-19037) | Festes Kaufdatum aus Seniorenticket Systemtest ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19036](https://jira.hochbahn.de/browse/MOS-19036) | BEST - 4FK - 2x2 Tickets aktivieren scheitert an OptimisticLocking | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19034](https://jira.hochbahn.de/browse/MOS-19034) | Begleitung ION-Adapter schwenk von VM zu Container (QA) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19028](https://jira.hochbahn.de/browse/MOS-19028) | Nexus-Cache für externe Dependencies nutzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19027](https://jira.hochbahn.de/browse/MOS-19027) | Auth-Header maskieren case-sensitive | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19019](https://jira.hochbahn.de/browse/MOS-19019) | ERMO#185 - Verlängerungslauf-Störung April | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18961](https://jira.hochbahn.de/browse/MOS-18961) | Ticket für Folgemonat bei später Bestandskundenmigration mit werdenden Senior schlägt fehl | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-18948](https://jira.hochbahn.de/browse/MOS-18948) | Falsche ServiceNumber bei manchen Ticket-Käufen im DebtData-Event | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-18924](https://jira.hochbahn.de/browse/MOS-18924) | PT Proxy austauschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18897](https://jira.hochbahn.de/browse/MOS-18897) | Undeployment app.hvv.de | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18439](https://jira.hochbahn.de/browse/MOS-18439) | BEST - 4 Fahrten Karte - Abschnitte aktivieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-16730](https://jira.hochbahn.de/browse/MOS-16730) | Shutdown Konfiguration angleichen (Timeouts etc.) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-169.0
 
 Deployment on **PROD** at: tba-BILLING
