@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-57.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 21.05.26 - 13:13:20
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19513](https://jira.hochbahn.de/projects/MOS/versions/19513)
+
+key | summary |  type
+---- | ----|----
+[MOS-19076](https://jira.hochbahn.de/browse/MOS-19076) | Offer Consistency Check für BVG auf DEV und QA deaktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19035](https://jira.hochbahn.de/browse/MOS-19035) | Startkartenlogik - Caching der PLZ-Liste erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19023](https://jira.hochbahn.de/browse/MOS-19023) | BEST - 4 Fahrten Karte - Bulk-Mehrfach-Aktivierung für Fahrscheine | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19018](https://jira.hochbahn.de/browse/MOS-19018) | BEST - 4 Fahrten Karte - Response Objekte Quickfix | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19009](https://jira.hochbahn.de/browse/MOS-19009) | Verlängerungslauf-Neu (Spring Batch) erzeugt OOM in HTO | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-18564](https://jira.hochbahn.de/browse/MOS-18564) | BEST - 4 Fahrten Karte - Anzeige in den Bookings/Historie  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18563](https://jira.hochbahn.de/browse/MOS-18563) | BEST - 4 Fahrten Karte - Abschnitte direkt beim Kauf aktivieren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18164](https://jira.hochbahn.de/browse/MOS-18164) | Datenbankqueries überprüfen: Limits vorhanden? | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-14367](https://jira.hochbahn.de/browse/MOS-14367) | Beim UpdateCustomerDetails fehlt noch der TicketJob | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-56.0
 
 Deployment on **PROD** at
