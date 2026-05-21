@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-170.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 21.05.26 - 13:13:46
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19511](https://jira.hochbahn.de/projects/MOS/versions/19511)
+
+key | summary |  type
+---- | ----|----
+[MOS-19072](https://jira.hochbahn.de/browse/MOS-19072) | Wichtige Security-Fixes | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19065](https://jira.hochbahn.de/browse/MOS-19065) | billing-security-findings fixen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19039](https://jira.hochbahn.de/browse/MOS-19039) | Warnungen von Kafka-Consumern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18993](https://jira.hochbahn.de/browse/MOS-18993) | Use-Case zum Auslösen der Abrechnung implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18992](https://jira.hochbahn.de/browse/MOS-18992) | Event für Abrechnungsdaten vom unregistrierten Kauf definieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18952](https://jira.hochbahn.de/browse/MOS-18952) | Gastzahlung Confirm Aufräumjob nach Offline-Antwort - Konzept | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18951](https://jira.hochbahn.de/browse/MOS-18951) | Fehlerbehandlung für Exceptions im Controller in billing-common-lib auslagern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18927](https://jira.hochbahn.de/browse/MOS-18927) | Prozessfehler mit ClaimNumber statt OrderNumber Loggen und in Metrik auswerten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18912](https://jira.hochbahn.de/browse/MOS-18912) | Billing-Service Rechnungserstellung ohne Kundendetails | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18910](https://jira.hochbahn.de/browse/MOS-18910) | Billing-Service Customer-Number migrieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-57.0
 
 Deployment on **PROD** at: tba-TICKETING
