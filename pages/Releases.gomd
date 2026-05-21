@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-168.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 21.05.26 - 13:53:43
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19406](https://jira.hochbahn.de/projects/MOS/versions/19406)
+
+key | summary |  type
+---- | ----|----
+[MOS-19014](https://jira.hochbahn.de/browse/MOS-19014) | Spring Boot 4 upgraden: history-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19000](https://jira.hochbahn.de/browse/MOS-19000) | Ride-MSP KW19 - 04.05. - 08.05.2026 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18985](https://jira.hochbahn.de/browse/MOS-18985) | AccessTokenValidator um Role Cockpit erweitern  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18888](https://jira.hochbahn.de/browse/MOS-18888) | direct-api-service: isCharging bei MILES korrekt auswerten | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-18336](https://jira.hochbahn.de/browse/MOS-18336) | Stadtrad  E-Mail nach Aktivierung an User:innen mit erfolgreicher Dublette | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18323](https://jira.hochbahn.de/browse/MOS-18323) | Jelbi: Stationen zu LimitedEndpunkt hinzufügen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18322](https://jira.hochbahn.de/browse/MOS-18322) | Jelbi: Stationen zu LocateEndpunkt hinzufügen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-170.0
 
 Deployment on **PROD** at: tba-BILLING
