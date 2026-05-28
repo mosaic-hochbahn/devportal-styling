@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-169.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 28.05.26 - 14:11:48
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19518](https://jira.hochbahn.de/projects/MOS/versions/19518)
+
+key | summary |  type
+---- | ----|----
+[MOS-19073](https://jira.hochbahn.de/browse/MOS-19073) | StadtRad - Enddatum fehlt in getAccout Response | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19068](https://jira.hochbahn.de/browse/MOS-19068) | Spring Boot 4 upgraden: history-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19048](https://jira.hochbahn.de/browse/MOS-19048) | Vehicle Damage Persistence auf Spring Boot 4 upgraden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19033](https://jira.hochbahn.de/browse/MOS-19033) | Spring Boot 4 upgraden: box-rental-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18933](https://jira.hochbahn.de/browse/MOS-18933) | Stadtrad Kafka Events SpringBoot4 lib  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18932](https://jira.hochbahn.de/browse/MOS-18932) | Stadtrad Aktivierungstabellen Created/updated/version Spalte | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18923](https://jira.hochbahn.de/browse/MOS-18923) | NullPointer im BikeAndRide bei fehlenden Koordinaten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-171.0
 
 Deployment on **PROD** at: tba-BILLING
