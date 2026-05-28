@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-171.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 28.05.26 - 12:56:55
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19407](https://jira.hochbahn.de/projects/MOS/versions/19407)
+
+key | summary |  type
+---- | ----|----
+[MOS-19094](https://jira.hochbahn.de/browse/MOS-19094) | Security-Findings fixen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19049](https://jira.hochbahn.de/browse/MOS-19049) | HardDeleteUseCase im Guest-Payment-Service implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19011](https://jira.hochbahn.de/browse/MOS-19011) | Ablehnung vom Confirm in Guest-Pay-Orchestration abspeichern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19010](https://jira.hochbahn.de/browse/MOS-19010) | Confirm-Offline-Fall im Guest-Payment-Service behandeln | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18994](https://jira.hochbahn.de/browse/MOS-18994) | Systemtests Gast-Zahlung erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18988](https://jira.hochbahn.de/browse/MOS-18988) | [Analyse] Upgrade Open-API-Generator auf 7.22.0 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18953](https://jira.hochbahn.de/browse/MOS-18953) | Voucher-Service fehlende Infos in Fehlerbehandlung ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18921](https://jira.hochbahn.de/browse/MOS-18921) | Validierung von Preisbestandteilen bei Erstattungen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18911](https://jira.hochbahn.de/browse/MOS-18911) | Billing-Service Tabelle Customer entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18154](https://jira.hochbahn.de/browse/MOS-18154) | hvv Any aus den Billing-Services entfernen (Refund) - ab 22.4.26 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18081](https://jira.hochbahn.de/browse/MOS-18081) | AbstractEntityBase in die billing-common-lib überführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-168.0
 
 Deployment on **PROD** at
