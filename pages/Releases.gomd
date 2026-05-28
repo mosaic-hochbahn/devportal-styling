@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-58.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 28.05.26 - 14:40:12
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19517](https://jira.hochbahn.de/projects/MOS/versions/19517)
+
+key | summary |  type
+---- | ----|----
+[MOS-19024](https://jira.hochbahn.de/browse/MOS-19024) | BEST - 4 Fahrten Karte - Systemtest | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18946](https://jira.hochbahn.de/browse/MOS-18946) | Auth-Header für alle Proxies entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-169.0
 
 Deployment on **PROD** at: tba-RIDE
