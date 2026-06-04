@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-172.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 04.06.26 - 13:03:57
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19601](https://jira.hochbahn.de/projects/MOS/versions/19601)
+
+key | summary |  type
+---- | ----|----
+[MOS-19165](https://jira.hochbahn.de/browse/MOS-19165) | Ambassor-Mappings for payment-method-service anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19121](https://jira.hochbahn.de/browse/MOS-19121) | Fehlerbehebung bei Ablehnung vom Confirm | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19107](https://jira.hochbahn.de/browse/MOS-19107) | Error Logs für Export Spans filtern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19106](https://jira.hochbahn.de/browse/MOS-19106) | Scheduled Security Scans - Für alle Stages nur noch Critical melden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19101](https://jira.hochbahn.de/browse/MOS-19101) | Skalierung Gastzahlung verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19099](https://jira.hochbahn.de/browse/MOS-19099) | Alerts neue Gastkauf-LogPay-Schnittstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19075](https://jira.hochbahn.de/browse/MOS-19075) | [Analyse] Verbesserung der Startzeiten von Java-25-Anwendungen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19054](https://jira.hochbahn.de/browse/MOS-19054) | Alle Billing-Projekte auf Java 25 migrieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19053](https://jira.hochbahn.de/browse/MOS-19053) | Use-Case Cancel im Guest-Payment-Service implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18998](https://jira.hochbahn.de/browse/MOS-18998) | Gradle Group-Id in allen Service und Libs anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18741](https://jira.hochbahn.de/browse/MOS-18741) | Order-Service: Fehlerbehandlung im BillGeneratedConsumer verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18633](https://jira.hochbahn.de/browse/MOS-18633) | Upgrade auf Java 25 (Analyse) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-15765](https://jira.hochbahn.de/browse/MOS-15765) | Unleash Update prüfen (Next Check Oktober) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-58.0
 
 Deployment on **PROD** at
