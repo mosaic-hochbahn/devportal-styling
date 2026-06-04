@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-170.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 04.06.26 - 14:12:07
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19603](https://jira.hochbahn.de/projects/MOS/versions/19603)
+
+key | summary |  type
+---- | ----|----
+[MOS-19131](https://jira.hochbahn.de/browse/MOS-19131) | Async MILES Recovery: Bei EXPIRED_RESERVATION auch Order canceln | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-19100](https://jira.hochbahn.de/browse/MOS-19100) | Stadtrad RequestFactory PATCH | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19087](https://jira.hochbahn.de/browse/MOS-19087) | Spring boot 4 upgrade search-adapter | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19070](https://jira.hochbahn.de/browse/MOS-19070) | Spring Boot 4 upgraden: shuttle-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19008](https://jira.hochbahn.de/browse/MOS-19008) | StadtRad: Aktivierungs-Flow anpassen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18919](https://jira.hochbahn.de/browse/MOS-18919) | CloudSQL um MOIA Pre-Booking-Infos erweitern (Teil 2) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18473](https://jira.hochbahn.de/browse/MOS-18473) | Jelbi: Stationen zu StationEndpunkten hinzufügen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-172.0
 
 Deployment on **PROD** at: tba-BILLING
