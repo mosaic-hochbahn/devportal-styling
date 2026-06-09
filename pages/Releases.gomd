@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-59.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 09.06.26 - 14:42:14
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19701](https://jira.hochbahn.de/projects/MOS/versions/19701)
+
+key | summary |  type
+---- | ----|----
+[MOS-19160](https://jira.hochbahn.de/browse/MOS-19160) | Neue BVG-Produkte in Kategorien einsortieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19126](https://jira.hochbahn.de/browse/MOS-19126) | Offer/Kategorien-BVG-Admin-Mappings auf PROD deaktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19112](https://jira.hochbahn.de/browse/MOS-19112) | Felix Ticketing-Angebot zur Verfügung stellen + Nachhaltige Lösung schaffen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19078](https://jira.hochbahn.de/browse/MOS-19078) | DT Verlängerungslauf tagsüber | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19032](https://jira.hochbahn.de/browse/MOS-19032) | BEST - 4FK - speziellen Deadlock bei doppelter 4FK auflösen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19029](https://jira.hochbahn.de/browse/MOS-19029) | BEST - 4FK - kumulative Rollbacks nach Fehlern durchführen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19025](https://jira.hochbahn.de/browse/MOS-19025) | BEST - 4 Fahrten Karte - Gleichzeitiges Speichern von Booking + Tickets | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19022](https://jira.hochbahn.de/browse/MOS-19022) | BEST - Response Objekte ersetzen GET /orders | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17979](https://jira.hochbahn.de/browse/MOS-17979) | Mai 2026: Journey-Service abschalten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-170.0
 
 Deployment on **PROD** at
