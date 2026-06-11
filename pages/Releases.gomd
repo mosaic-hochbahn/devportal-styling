@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-171.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 11.06.26 - 13:32:15
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19606](https://jira.hochbahn.de/projects/MOS/versions/19606)
+
+key | summary |  type
+---- | ----|----
+[MOS-19229](https://jira.hochbahn.de/browse/MOS-19229) | IsActiveUseCase soll auch bei pendingAccounts true liefern | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19221](https://jira.hochbahn.de/browse/MOS-19221) | Bei Account mit Status PENDING Account ausliefern und keinen 404  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19215](https://jira.hochbahn.de/browse/MOS-19215) | Stadtrad - Deaktivierungs 404 als Error loggen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19210](https://jira.hochbahn.de/browse/MOS-19210) | StadtRad // Doppelte Jahresgebühr Abrechnungen durchblocken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19208](https://jira.hochbahn.de/browse/MOS-19208) | Beim  suspensionRepository soll ein @Transactional gesetzt werden | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-19203](https://jira.hochbahn.de/browse/MOS-19203) | DATE_OF_BIRTH muss dem Frontend mitgegeben werden  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19173](https://jira.hochbahn.de/browse/MOS-19173) | StadtRad // Jahresgebühr Check Errormargin erlauben | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19154](https://jira.hochbahn.de/browse/MOS-19154) | Retry für eingehende Kafka Events | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19040](https://jira.hochbahn.de/browse/MOS-19040) | StadtRad - Mindestalter in Missing Requirements angeben | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-59.0
 
 Deployment on **PROD** at
