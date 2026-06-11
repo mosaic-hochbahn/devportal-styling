@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-173.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 11.06.26 - 15:25:25
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19604](https://jira.hochbahn.de/projects/MOS/versions/19604)
+
+key | summary |  type
+---- | ----|----
+[MOS-19213](https://jira.hochbahn.de/browse/MOS-19213) | OriginalClaim vereinheitlichen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19184](https://jira.hochbahn.de/browse/MOS-19184) | Claim Event empfangen (refund-orchestration) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19183](https://jira.hochbahn.de/browse/MOS-19183) | Claim Event versenden (guest-pay-orchestration) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19152](https://jira.hochbahn.de/browse/MOS-19152) | Test Aufruf Saperion über sAuthGate | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19052](https://jira.hochbahn.de/browse/MOS-19052) | Use-Case Cancel in der Guest-Pay-Orchestration implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19041](https://jira.hochbahn.de/browse/MOS-19041) | [Analyse] Karate-Update auf 2.x | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18991](https://jira.hochbahn.de/browse/MOS-18991) | Abrechnung Sondergebühren | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18865](https://jira.hochbahn.de/browse/MOS-18865) | special-fee-Modul dokumentieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-171.0
 
 Deployment on **PROD** at: tba-RIDE
