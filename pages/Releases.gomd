@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-60.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 12.06.26 - 13:26:56
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19705](https://jira.hochbahn.de/projects/MOS/versions/19705)
+
+key | summary |  type
+---- | ----|----
+[MOS-19247](https://jira.hochbahn.de/browse/MOS-19247) | CustomerProfile nicht mehr unmaskiert loggen und Logs bereinigen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19224](https://jira.hochbahn.de/browse/MOS-19224) | KOSE - Rücknahme RETRYABLE Zeiten und Versuche korrigieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19195](https://jira.hochbahn.de/browse/MOS-19195) | Ticketing-Wächter 05.06. - 11.06 | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19029](https://jira.hochbahn.de/browse/MOS-19029) | BEST - 4FK - kumulative Rollbacks nach Fehlern durchführen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19006](https://jira.hochbahn.de/browse/MOS-19006) | Presale Logik für Subscriptions anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18962](https://jira.hochbahn.de/browse/MOS-18962) | UREKA - API Draft | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18823](https://jira.hochbahn.de/browse/MOS-18823) | Wallet Service Kafka resilienter machen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17198](https://jira.hochbahn.de/browse/MOS-17198) | Alarming für failing dev deployments von Services einrichten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-16993](https://jira.hochbahn.de/browse/MOS-16993) | Rate-Limits: BurstFactor und Limits auf kürzere Zeiträume beziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-173.0
 
 Deployment on **PROD** at: tba-BILLING
