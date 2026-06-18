@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-174.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 18.06.26 - 15:06:04
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19608](https://jira.hochbahn.de/projects/MOS/versions/19608)
+
+key | summary |  type
+---- | ----|----
+[MOS-19252](https://jira.hochbahn.de/browse/MOS-19252) | Fix Logging Matcher für sensible Felder | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19218](https://jira.hochbahn.de/browse/MOS-19218) | Stadtrad Produktname auf der Rechnung Anpassung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19189](https://jira.hochbahn.de/browse/MOS-19189) | Claim-History-Service entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19185](https://jira.hochbahn.de/browse/MOS-19185) | Claim abrufen (refund-orchestration) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19125](https://jira.hochbahn.de/browse/MOS-19125) | Mobi Exit - Erstattungen und Sondergebühren mit Mobi ablehnen. | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19105](https://jira.hochbahn.de/browse/MOS-19105) | Payment-Method-Service: Monitoring und Alerting einrichten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18987](https://jira.hochbahn.de/browse/MOS-18987) | Zentralisiertes Billing-OpenAPI-Plugin in allen Billing-Services verwenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18759](https://jira.hochbahn.de/browse/MOS-18759) | [Grafana] Billing Detailed Dashboard um CPU/Memory Metriken erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-61.0
 
 Deployment on **PROD** at: tba-TICKETING
