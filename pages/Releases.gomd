@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-61.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 18.06.26 - 14:33:11
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19610](https://jira.hochbahn.de/projects/MOS/versions/19610)
+
+key | summary |  type
+---- | ----|----
+[MOS-19259](https://jira.hochbahn.de/browse/MOS-19259) | BVG Api Changes /reclaim | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18963](https://jira.hochbahn.de/browse/MOS-18963) | UREKA - Offer | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18125](https://jira.hochbahn.de/browse/MOS-18125) | Scheduled Security Scans auf allen Umgebungen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17981](https://jira.hochbahn.de/browse/MOS-17981) | HTO Verlängerungslauf: Transaktionsklammern überprüfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-60.0
 
 Deployment on **PROD** at
