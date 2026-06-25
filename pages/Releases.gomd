@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-62.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 25.06.26 - 13:11:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19801](https://jira.hochbahn.de/projects/MOS/versions/19801)
+
+key | summary |  type
+---- | ----|----
+[MOS-19161](https://jira.hochbahn.de/browse/MOS-19161) | BEST - 4FK - Booking type im STS setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18967](https://jira.hochbahn.de/browse/MOS-18967) | UREKA - CheckOut API | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18945](https://jira.hochbahn.de/browse/MOS-18945) | STS: open-in-view auf false setzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18150](https://jira.hochbahn.de/browse/MOS-18150) | Vorbereitung: SAM-Server-Deployment Version 25.12.1 - ACHTUNG: Inhalt geändert: 26.05.2 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17904](https://jira.hochbahn.de/browse/MOS-17904) | Ticketing Frontend Tests + Renovate aktivieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-175.0
 
 Deployment on **PROD** at: tba-BILLING
