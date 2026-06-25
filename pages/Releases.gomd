@@ -1,5 +1,19 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-175.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 25.06.26 - 11:56:17
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19802](https://jira.hochbahn.de/projects/MOS/versions/19802)
+
+key | summary |  type
+---- | ----|----
+[MOS-19276](https://jira.hochbahn.de/browse/MOS-19276) | Mobi Exit - Abbau Systemtests | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19225](https://jira.hochbahn.de/browse/MOS-19225) | StadtRad - Fehlerbehandlung bei Kundendaten für Jahresgebühr anpassen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18623](https://jira.hochbahn.de/browse/MOS-18623) | JacksonMapperIT überarbeiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-174.0
 
 Deployment on **PROD** at
