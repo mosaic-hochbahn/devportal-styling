@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-173.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 25.06.26 - 13:16:31
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19800](https://jira.hochbahn.de/projects/MOS/versions/19800)
+
+key | summary |  type
+---- | ----|----
+[MOS-19272](https://jira.hochbahn.de/browse/MOS-19272) | Spring Boot 4 upgraden: ride-msp-admin-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19212](https://jira.hochbahn.de/browse/MOS-19212) | 🚨 B+R - Deaktivierung des Buchungs-Endpunktes | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19200](https://jira.hochbahn.de/browse/MOS-19200) | Api Version V6 glattziehen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19174](https://jira.hochbahn.de/browse/MOS-19174) | HOLON - Interne Testgruppe Whitelist | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19171](https://jira.hochbahn.de/browse/MOS-19171) | HOLON - Service Area für HOLON ausspielen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18567](https://jira.hochbahn.de/browse/MOS-18567) | StadtRAD Schnittstelle Vertragsdetails MSP - 360°-Cockpit: createdAt durch Uhrzeit ergänzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-62.0
 
 Deployment on **PROD** at: tba-TICKETING
