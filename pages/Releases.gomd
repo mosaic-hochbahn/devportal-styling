@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-174.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 02.07.26 - 14:03:10
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19906](https://jira.hochbahn.de/projects/MOS/versions/19906)
+
+key | summary |  type
+---- | ----|----
+[MOS-19294](https://jira.hochbahn.de/browse/MOS-19294) | Feature Toggle für Jelbi | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19170](https://jira.hochbahn.de/browse/MOS-19170) | HOLON - Serviceklassen Whitelist um HOLON erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19086](https://jira.hochbahn.de/browse/MOS-19086) | Spring boot 4 upgrade rental-station | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19085](https://jira.hochbahn.de/browse/MOS-19085) | Spring boot 4 upgrade refill | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19084](https://jira.hochbahn.de/browse/MOS-19084) | Spring boot 4 upgrade bikeandride | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-17207](https://jira.hochbahn.de/browse/MOS-17207) | ALIKE - Feedback im Mock wieder erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-173.0
 
 Deployment on **PROD** at
