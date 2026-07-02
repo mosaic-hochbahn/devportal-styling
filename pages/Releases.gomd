@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-176.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 02.07.26 - 16:04:56
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19905](https://jira.hochbahn.de/projects/MOS/versions/19905)
+
+key | summary |  type
+---- | ----|----
+[MOS-19340](https://jira.hochbahn.de/browse/MOS-19340) | 01.07.26 Rechnungen/Gutschriften Footer anpassen - Vorstandsänderung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19260](https://jira.hochbahn.de/browse/MOS-19260) | Event Gastzahlung Abrechnung/Forderung umbenennen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19186](https://jira.hochbahn.de/browse/MOS-19186) | Kundendetails für Erstattungen von unregistrierten Käufen (refund-orchestration) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19176](https://jira.hochbahn.de/browse/MOS-19176) | guest-pay-Modul dokumentieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-63.0
 
 Deployment on **PROD** at: tba-TICKETING
