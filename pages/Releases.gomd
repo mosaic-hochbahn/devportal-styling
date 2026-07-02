@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-63.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 02.07.26 - 14:17:44
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19807](https://jira.hochbahn.de/projects/MOS/versions/19807)
+
+key | summary |  type
+---- | ----|----
+[MOS-19335](https://jira.hochbahn.de/browse/MOS-19335) | 4-Fahrten-Karte wird in der App nur als Base64 kodierter String angezeigt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-19240](https://jira.hochbahn.de/browse/MOS-19240) | Offboarding &amp; Übergabe Sven | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19161](https://jira.hochbahn.de/browse/MOS-19161) | BEST - 4FK - Booking type im STS setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19080](https://jira.hochbahn.de/browse/MOS-19080) | Erweiterung Sperrgründe um einen spezifischen Sperrgrund für Einzelsperrungen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-17278](https://jira.hochbahn.de/browse/MOS-17278) | Keycloak clients für Metronom und Akn prüfen und ggf. entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-174.0
 
 Deployment on **PROD** at: tba-RIDE
