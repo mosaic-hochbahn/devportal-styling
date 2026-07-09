@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-177.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 09.07.26 - 14:06:13
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19908](https://jira.hochbahn.de/projects/MOS/versions/19908)
+
+key | summary |  type
+---- | ----|----
+[MOS-19343](https://jira.hochbahn.de/browse/MOS-19343) | OOTW Dependency Updates (Security) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19291](https://jira.hochbahn.de/browse/MOS-19291) | MOBI aus der post-pay-orchestration ausbauen - ab 01.07.26 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19263](https://jira.hochbahn.de/browse/MOS-19263) | API Doku für Erstattungen aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19201](https://jira.hochbahn.de/browse/MOS-19201) | Performance: Langsame DB-Queries im billing-service &amp; order-service verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19163](https://jira.hochbahn.de/browse/MOS-19163) | Verbesserungen Abfrage von Dependencies | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-175.0
 
 Deployment on **PROD** at: tba-RIDE
