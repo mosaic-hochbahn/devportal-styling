@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-175.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 09.07.26 - 13:18:38
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19907](https://jira.hochbahn.de/projects/MOS/versions/19907)
+
+key | summary |  type
+---- | ----|----
+[MOS-19332](https://jira.hochbahn.de/browse/MOS-19332) | RideDomain Tests nachziehen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19328](https://jira.hochbahn.de/browse/MOS-19328) | Ride-MSP KW27 - 29.06. - 03.07.2026 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19321](https://jira.hochbahn.de/browse/MOS-19321) | miles: Vorhandensein einer Charging-Session korrekt bewerten | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-19180](https://jira.hochbahn.de/browse/MOS-19180) | Foxcrypt Leak: Analyse betroffener Services und Secrets | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19115](https://jira.hochbahn.de/browse/MOS-19115) | VOI - Datenbank Tabelle Account | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19114](https://jira.hochbahn.de/browse/MOS-19114) | VOI - Datenbank Tabelle Suspension | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19088](https://jira.hochbahn.de/browse/MOS-19088) | Spring boot 4 upgrade stadtrad-adapter | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18842](https://jira.hochbahn.de/browse/MOS-18842) | Stadtrad-Aktivierungen als separaten CloudSQL-Export liefern.  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18775](https://jira.hochbahn.de/browse/MOS-18775) | Stadtrad Logging  [PAIR] | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18733](https://jira.hochbahn.de/browse/MOS-18733) | Umgang mit FAILED_RENT bei Trip-Only MSPs fixen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-176.0
 
 Deployment on **PROD** at
