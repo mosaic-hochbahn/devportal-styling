@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-178.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 16.07.26 - 14:23:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19817](https://jira.hochbahn.de/projects/MOS/versions/19817)
+
+key | summary |  type
+---- | ----|----
+[MOS-19391](https://jira.hochbahn.de/browse/MOS-19391) | Rate-Limits für Rechnungsdownload auf Dev/QA erhöhen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19383](https://jira.hochbahn.de/browse/MOS-19383) | Entfernung MockScenario in CancelGuestPayEvent | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19315](https://jira.hochbahn.de/browse/MOS-19315) | Keine Schufa Prüfung bei Bestandskundenübernahme | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19314](https://jira.hochbahn.de/browse/MOS-19314) | createdAt und updatedAt in der Datenbank ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19258](https://jira.hochbahn.de/browse/MOS-19258) | Erstattungen in guest-payment-service empfangen und ausführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19219](https://jira.hochbahn.de/browse/MOS-19219) | Belegscan abschalten - ab 01.07.26 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19204](https://jira.hochbahn.de/browse/MOS-19204) | Karate v1 → v2 Migration: billing-automated-tests | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19187](https://jira.hochbahn.de/browse/MOS-19187) | Rechnung für Erstattungen von Gastzahlungen erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18970](https://jira.hochbahn.de/browse/MOS-18970) | Umbenennung guest-pay-orchestration abschließen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-64.0
 
 Deployment on **PROD** at
