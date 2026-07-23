@@ -1,5 +1,28 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-179.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 23.07.26 - 11:50:54
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19912](https://jira.hochbahn.de/projects/MOS/versions/19912)
+
+key | summary |  type
+---- | ----|----
+[MOS-19443](https://jira.hochbahn.de/browse/MOS-19443) | payment-service: überall val statt var nutzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19439](https://jira.hochbahn.de/browse/MOS-19439) | Jasperreport-Dependencies updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19417](https://jira.hochbahn.de/browse/MOS-19417) | Test Gastzahlung und Erstattung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19414](https://jira.hochbahn.de/browse/MOS-19414) | MOBI aus dem payment-method-service ausbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19385](https://jira.hochbahn.de/browse/MOS-19385) | Payment Service - Referenz von der Sondergebühr zum Payment wiederherstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19367](https://jira.hochbahn.de/browse/MOS-19367) | Bereitstellung Zahlungsmethoden für UREKA zu App | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19334](https://jira.hochbahn.de/browse/MOS-19334) | Mock Header weiterleiten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19312](https://jira.hochbahn.de/browse/MOS-19312) | MOBI aus dem billing-service ausbauen - ab 01.07.26 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19311](https://jira.hochbahn.de/browse/MOS-19311) | MOBI aus den billing-event-interfaces ausbauen - ab 01.07.26 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19289](https://jira.hochbahn.de/browse/MOS-19289) | MOBI aus dem payment-service ausbauen - ab 01.07.26 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19188](https://jira.hochbahn.de/browse/MOS-19188) | Klärung Konzept: Erstattungen Historie für Cockpit bereitstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19079](https://jira.hochbahn.de/browse/MOS-19079) | Billing Service - Verbuchung und Rechnungserstellung von der Archivierung in Saperion entkoppeln | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-65.0
 
 Deployment on **PROD** at
