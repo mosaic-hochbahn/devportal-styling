@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-177.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 23.07.26 - 13:21:17
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19913](https://jira.hochbahn.de/projects/MOS/versions/19913)
+
+key | summary |  type
+---- | ----|----
+[MOS-19446](https://jira.hochbahn.de/browse/MOS-19446) | Tarifanpassung Cambio | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19370](https://jira.hochbahn.de/browse/MOS-19370) | Widerruf B+R / Buchungs-Endpunkt v2 aufsetzen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19369](https://jira.hochbahn.de/browse/MOS-19369) | Widerruf B+R / Endpunkt für Widerruf | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19321](https://jira.hochbahn.de/browse/MOS-19321) | miles: Vorhandensein einer Charging-Session korrekt bewerten | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-19310](https://jira.hochbahn.de/browse/MOS-19310) | Stadtrad Metriken für Aktivierung exportieren und in Grafana darstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18730](https://jira.hochbahn.de/browse/MOS-18730) | StadtRAD Pricing: bikeLimit aus DBC übernehmen, persistieren und über Pricing Endpoint bereitstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-179.0
 
 Deployment on **PROD** at: tba-BILLING
