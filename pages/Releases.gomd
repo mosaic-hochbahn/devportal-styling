@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-66.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 23.07.26 - 14:55:37
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/19819](https://jira.hochbahn.de/projects/MOS/versions/19819)
+
+key | summary |  type
+---- | ----|----
+[MOS-18978](https://jira.hochbahn.de/browse/MOS-18978) | UREKA - Confirm API | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## RIDE-177.0
 
 Deployment on **PROD** at: tba-RIDE
