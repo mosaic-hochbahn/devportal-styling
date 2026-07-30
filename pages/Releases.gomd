@@ -1,5 +1,27 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-180.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 30.07.26 - 14:16:47
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20000](https://jira.hochbahn.de/projects/MOS/versions/20000)
+
+key | summary |  type
+---- | ----|----
+[MOS-19490](https://jira.hochbahn.de/browse/MOS-19490) | Security-Updates: postgresql | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19479](https://jira.hochbahn.de/browse/MOS-19479) | MOBI aus der refund-orchestration ausbauen - ab 01.07.26 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19464](https://jira.hochbahn.de/browse/MOS-19464) | Systemtest PreferredPaymentMethod verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19454](https://jira.hochbahn.de/browse/MOS-19454) | Gutschein-Produkt für StadtRad konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19433](https://jira.hochbahn.de/browse/MOS-19433) | Übergabe Rechnungsnummer an Ticketing Domain | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19405](https://jira.hochbahn.de/browse/MOS-19405) | Bei rejected refunds im guest-payment-service mails an Logpay schicken | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19393](https://jira.hochbahn.de/browse/MOS-19393) | Footer fehlt auf Rechnungen mit bestimmter Länge | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19313](https://jira.hochbahn.de/browse/MOS-19313) | MOBI aus dem order-service ausbauen - ab 01.07.26 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19206](https://jira.hochbahn.de/browse/MOS-19206) | Karate v1 → v2 Migration: voucherify-mock | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19191](https://jira.hochbahn.de/browse/MOS-19191) | Claim-History befüllen (Post-Pay-Orchestration) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19042](https://jira.hochbahn.de/browse/MOS-19042) | Sources für Billing-Libs im Nexus bereitstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-67.0
 
 Deployment on **PROD** at: tba-TICKETING
