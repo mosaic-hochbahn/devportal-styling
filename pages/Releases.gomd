@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-178.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 30.07.26 - 14:38:45
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20100](https://jira.hochbahn.de/projects/MOS/versions/20100)
+
+key | summary |  type
+---- | ----|----
+[MOS-19442](https://jira.hochbahn.de/browse/MOS-19442) | Ride-MSP KW30 - 20.07. - 24.07.2026 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19350](https://jira.hochbahn.de/browse/MOS-19350) | VOI - VOI Client | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19346](https://jira.hochbahn.de/browse/MOS-19346) | VOI - Customer-Service Client | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19118](https://jira.hochbahn.de/browse/MOS-19118) | VOI - Customer ent-/blocken UseCase (360) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19104](https://jira.hochbahn.de/browse/MOS-19104) | admin-service: endBooking Endpunkt für SV24 freischalten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18968](https://jira.hochbahn.de/browse/MOS-18968) | PricePerUnitExtended in normales Modell integrieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-180.0
 
 Deployment on **PROD** at: tba-BILLING
