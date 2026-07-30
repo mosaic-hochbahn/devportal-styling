@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-67.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 30.07.26 - 13:00:39
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20002](https://jira.hochbahn.de/projects/MOS/versions/20002)
+
+key | summary |  type
+---- | ----|----
+[MOS-19466](https://jira.hochbahn.de/browse/MOS-19466) | Ticket Step log spam verhindern  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19415](https://jira.hochbahn.de/browse/MOS-19415) | Auflistung Microservices und Abhängigkeiten/Besonderheiten (bis 24.7.) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-66.0
 
 Deployment on **PROD** at
