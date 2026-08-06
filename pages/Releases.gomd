@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-181.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 06.08.26 - 12:35:55
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20008](https://jira.hochbahn.de/projects/MOS/versions/20008)
+
+key | summary |  type
+---- | ----|----
+[MOS-19512](https://jira.hochbahn.de/browse/MOS-19512) | Reservierungsbetrag von 5€ auf 9 € setzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19504](https://jira.hochbahn.de/browse/MOS-19504) | Alle Fehlermeldungen für Gastzahlung in der API aufnehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19480](https://jira.hochbahn.de/browse/MOS-19480) | MOBI aus der special-fee-orchestration ausbauen - ab 01.07.26 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19469](https://jira.hochbahn.de/browse/MOS-19469) | User für Automated Systemtests ersetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19421](https://jira.hochbahn.de/browse/MOS-19421) | Billing Services - Mocks - Automated Tests auf Google Artifact Registry umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19420](https://jira.hochbahn.de/browse/MOS-19420) | Billing Libs auf Google Artifact Registry umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19402](https://jira.hochbahn.de/browse/MOS-19402) | EventSupplier in billing lib übernehmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19392](https://jira.hochbahn.de/browse/MOS-19392) | Billing-Automated-Tests: Parallele Jenkins-Stages durch Karate-Threads ersetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19389](https://jira.hochbahn.de/browse/MOS-19389) | Billing Build und Deploy Pipeline konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-178.0
 
 Deployment on **PROD** at
