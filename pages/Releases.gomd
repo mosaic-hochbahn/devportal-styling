@@ -1,5 +1,20 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-179.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 06.08.26 - 14:18:13
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20104](https://jira.hochbahn.de/projects/MOS/versions/20104)
+
+key | summary |  type
+---- | ----|----
+[MOS-19374](https://jira.hochbahn.de/browse/MOS-19374) | Widerruf B+R / Mailversand Richtung Kienzler (Sendgrid) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19373](https://jira.hochbahn.de/browse/MOS-19373) | Widerruf B+R / Mailversand Richtung Endkunde (Sendgrid) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19146](https://jira.hochbahn.de/browse/MOS-19146) | Automatische Dependency-Updates für Live-MSP-Services | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18689](https://jira.hochbahn.de/browse/MOS-18689) | Stadtrad Endpunkte DEV-Portal inkl Callbacks | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-68.0
 
 Deployment on **PROD** at: tba-TICKETING
