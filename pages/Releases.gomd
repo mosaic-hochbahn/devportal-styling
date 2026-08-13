@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-182.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 13.08.26 - 11:40:57
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20106](https://jira.hochbahn.de/projects/MOS/versions/20106)
+
+key | summary |  type
+---- | ----|----
+[MOS-19539](https://jira.hochbahn.de/browse/MOS-19539) | Refund Recovery im Guest-Payment-Service wirft Fehler | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19524](https://jira.hochbahn.de/browse/MOS-19524) | Mobi Payment-Service aufräumen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19452](https://jira.hochbahn.de/browse/MOS-19452) | Erstattungen Historie für Cockpit bereitstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19412](https://jira.hochbahn.de/browse/MOS-19412) | Logging und Logging Filter sensibler Daten/Felder im payment-method-service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19193](https://jira.hochbahn.de/browse/MOS-19193) | Claim-History befüllen (Special-Fee-Orchestration) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19192](https://jira.hochbahn.de/browse/MOS-19192) | Claim-History befüllen (Merchant-Pay-Orchestration) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-179.0
 
 Deployment on **PROD** at
