@@ -1,5 +1,24 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-69.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 13.08.26 - 15:36:53
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20107](https://jira.hochbahn.de/projects/MOS/versions/20107)
+
+key | summary |  type
+---- | ----|----
+[MOS-19579](https://jira.hochbahn.de/browse/MOS-19579) | Wallet-Service Warnings: The number of expected partitions for topic ... | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19562](https://jira.hochbahn.de/browse/MOS-19562) | STS - CiBo BeOut Events entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19547](https://jira.hochbahn.de/browse/MOS-19547) | STS - Application Startup Warning Missing Template | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19416](https://jira.hochbahn.de/browse/MOS-19416) | Nexus auf GAR umstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19298](https://jira.hochbahn.de/browse/MOS-19298) | SAM-Server Update 26.05.2 - Claranet-Auftrag erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18981](https://jira.hochbahn.de/browse/MOS-18981) | UREKA - Daten fürs Cockpit zur Verfügung stellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18978](https://jira.hochbahn.de/browse/MOS-18978) | UREKA - Confirm API | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18183](https://jira.hochbahn.de/browse/MOS-18183) | Recovery TicketSteps dem Subscription-Renewal Ticket-Job hinzufügen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-180.0
 
 Deployment on **PROD** at: tba-RIDE
