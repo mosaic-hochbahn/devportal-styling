@@ -1,5 +1,30 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-181.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 20.08.26 - 16:28:24
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20013](https://jira.hochbahn.de/projects/MOS/versions/20013)
+
+key | summary |  type
+---- | ----|----
+[MOS-19602](https://jira.hochbahn.de/browse/MOS-19602) | moia: Reservierung bleibt in CANCELING_RESERVATION stecken, wenn Abruf der externalCustomerNumber bei Customer fehl schlägt | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-19556](https://jira.hochbahn.de/browse/MOS-19556) | Ride-MSP KW33 - 10.08. - 14.08.2026 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19532](https://jira.hochbahn.de/browse/MOS-19532) | Widerruf B+R / Kundendaten aus E-Mail an Kienzler entfernen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19493](https://jira.hochbahn.de/browse/MOS-19493) | Serviceanfrage - 0422107827 / Synchronisationsproblem bei Mietstatus und Abrechnung Miles  | <img class="issue-type" alt="Serviceanfrage - mosaic" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10320&amp;avatarType=issuetype"></img>
+[MOS-19483](https://jira.hochbahn.de/browse/MOS-19483) | Kafka Event Retry Pattern einbauen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19481](https://jira.hochbahn.de/browse/MOS-19481) | Live-MSP - Umzug Artefakt Repositories in GitLab  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19477](https://jira.hochbahn.de/browse/MOS-19477) | MSP - Alle Servics und Mocks auf GAR umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19476](https://jira.hochbahn.de/browse/MOS-19476) | MSP - Libs auf GAR umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19347](https://jira.hochbahn.de/browse/MOS-19347) | VOI - VOI activate Event versenden | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19149](https://jira.hochbahn.de/browse/MOS-19149) | Trivy-Scan in den Build-Pipelines der Live-MSP-Services einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19117](https://jira.hochbahn.de/browse/MOS-19117) | VOI - Missing requirements UseCase (App) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19113](https://jira.hochbahn.de/browse/MOS-19113) | VOI - Aktivierung UseCase (App) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19046](https://jira.hochbahn.de/browse/MOS-19046) | Live-MSP - Umzug Jenkins Library in eigenes Repo | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18966](https://jira.hochbahn.de/browse/MOS-18966) | StadtRad // Account im Systemtest | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-183.0
 
 Deployment on **PROD** at: tba-BILLING
