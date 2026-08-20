@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-70.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 20.08.26 - 11:35:09
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20014](https://jira.hochbahn.de/projects/MOS/versions/20014)
+
+key | summary |  type
+---- | ----|----
+[MOS-19585](https://jira.hochbahn.de/browse/MOS-19585) | Kafka Update auf 8.3 (Konfiguration in docker-compose) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19584](https://jira.hochbahn.de/browse/MOS-19584) | Loggen von sensitiven verhindern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19583](https://jira.hochbahn.de/browse/MOS-19583) | STS: Sonar Warnings wegen fehlenden Thymleafe checks | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19580](https://jira.hochbahn.de/browse/MOS-19580) | Wallet Service Warning: jdbc meta | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19554](https://jira.hochbahn.de/browse/MOS-19554) | Retry bei serverseitigen Google-Wallet-Update einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19548](https://jira.hochbahn.de/browse/MOS-19548) | UREKA Wallet Dateien ohne Gültigkeitszeitraum oder Ringe | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-19496](https://jira.hochbahn.de/browse/MOS-19496) | openapi generator plugin updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-69.0
 
 Deployment on **PROD** at
