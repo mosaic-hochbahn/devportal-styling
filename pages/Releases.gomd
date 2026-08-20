@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-183.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 20.08.26 - 12:06:15
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20012](https://jira.hochbahn.de/projects/MOS/versions/20012)
+
+key | summary |  type
+---- | ----|----
+[MOS-19588](https://jira.hochbahn.de/browse/MOS-19588) | Security-Findings fixen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19574](https://jira.hochbahn.de/browse/MOS-19574) | Billing - Jackson in OpenApi aktualisieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19543](https://jira.hochbahn.de/browse/MOS-19543) | Unregistrierte Zahlung - Kreditkarte einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19542](https://jira.hochbahn.de/browse/MOS-19542) | Payment Method Id vom Customer Service abrufen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19531](https://jira.hochbahn.de/browse/MOS-19531) | LogPay-Lib in Payment-Service einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19485](https://jira.hochbahn.de/browse/MOS-19485) | (Analyse) Flaky Integration-Tests verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19436](https://jira.hochbahn.de/browse/MOS-19436) | Mobi Datenbankfelder löschen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-70.0
 
 Deployment on **PROD** at: tba-TICKETING
