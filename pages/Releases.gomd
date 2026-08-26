@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-184.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 26.08.26 - 17:11:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20301](https://jira.hochbahn.de/projects/MOS/versions/20301)
+
+key | summary |  type
+---- | ----|----
+[MOS-19616](https://jira.hochbahn.de/browse/MOS-19616) | Monitoring/Alert für Pod-Restarts erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19615](https://jira.hochbahn.de/browse/MOS-19615) | Billing-Services: RAM Ressourcen erhöhen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-181.0
 
 Deployment on **PROD** at
