@@ -1,5 +1,22 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-71.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 04.09.26 - 12:53:30
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20300](https://jira.hochbahn.de/projects/MOS/versions/20300)
+
+key | summary |  type
+---- | ----|----
+[MOS-19676](https://jira.hochbahn.de/browse/MOS-19676) | Cancel API-URL entfernen und Dokumentation anpassen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19675](https://jira.hochbahn.de/browse/MOS-19675) | Ticketing GAR Docker Image Push in Pipeline | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19665](https://jira.hochbahn.de/browse/MOS-19665) | alte QA-App terrorisiert uns über BVG-Offer-V1 Schnittstellen | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-19458](https://jira.hochbahn.de/browse/MOS-19458) | Ticket Invalidate für neue Booking-Strukur ergänzen (für UREKA benötigt) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19324](https://jira.hochbahn.de/browse/MOS-19324) | UREKA – Idempotenz eines Gastkaufs bei Confirm | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18980](https://jira.hochbahn.de/browse/MOS-18980) | UREKA - Systemtest | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-185.0
 
 Deployment on **PROD** at: tba-BILLING
