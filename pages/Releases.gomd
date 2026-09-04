@@ -1,5 +1,29 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-185.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 04.09.26 - 12:21:39
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20303](https://jira.hochbahn.de/projects/MOS/versions/20303)
+
+key | summary |  type
+---- | ----|----
+[MOS-19640](https://jira.hochbahn.de/browse/MOS-19640) | OOTW: Dependencies updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19620](https://jira.hochbahn.de/browse/MOS-19620) | Testing DEV setup für Umgebungen dev/QA/prod (Billing) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19607](https://jira.hochbahn.de/browse/MOS-19607) | Automatisches Cancel im Order-Service entfernen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19597](https://jira.hochbahn.de/browse/MOS-19597) | Billing Libs auf Google Artifact Registry umstellen (Nacharbeiten) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19581](https://jira.hochbahn.de/browse/MOS-19581) | order-service: secureElement, cancelReason nicht mehr ausliefern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19575](https://jira.hochbahn.de/browse/MOS-19575) | Voucher Migrationslogik aufräumen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19498](https://jira.hochbahn.de/browse/MOS-19498) | Billing - Dependabot Registry auf private Google Artifact Registry umstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19492](https://jira.hochbahn.de/browse/MOS-19492) | EventSupplier aus der billing-common-lib im billing-service benutzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19491](https://jira.hochbahn.de/browse/MOS-19491) | EventSupplier aus der billing-common-lib im payment-service benutzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19422](https://jira.hochbahn.de/browse/MOS-19422) | AbstractEntityBaseIT in Libary auslagern und AbstractEntityBase nutzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19207](https://jira.hochbahn.de/browse/MOS-19207) | Karate v1 → v2 Migration: Payment-Service | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19190](https://jira.hochbahn.de/browse/MOS-19190) | Claim-History befüllen (Order-Service) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19074](https://jira.hochbahn.de/browse/MOS-19074) | Speicherverbrauch von Java-25-Anwendungen optimieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-184.0
 
 Deployment on **PROD** at: tba-BILLING
