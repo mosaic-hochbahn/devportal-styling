@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-72.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 10.09.26 - 15:26:12
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20501](https://jira.hochbahn.de/projects/MOS/versions/20501)
+
+key | summary |  type
+---- | ----|----
+[MOS-19608](https://jira.hochbahn.de/browse/MOS-19608) | Warning für fehlende Rechnungsnummer  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18124](https://jira.hochbahn.de/browse/MOS-18124) | Nach Verlängerungslauf von DTs kommt es zur Namensänderung nur am neuen DT | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## BILLING-187.0
 
 Deployment on **PROD** at: tba-BILLING
