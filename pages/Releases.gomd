@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-187.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 10.09.26 - 11:32:19
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20402](https://jira.hochbahn.de/projects/MOS/versions/20402)
+
+key | summary |  type
+---- | ----|----
+[MOS-19711](https://jira.hochbahn.de/browse/MOS-19711) | Fix Security Findings | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19669](https://jira.hochbahn.de/browse/MOS-19669) | Payment-Service Schnittstelle Reservierung für 2FA erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19668](https://jira.hochbahn.de/browse/MOS-19668) | Payment-Service Schnittstelle Kunden-initiierte Zahlung für 2FA erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19623](https://jira.hochbahn.de/browse/MOS-19623) | Start 3DS  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19609](https://jira.hochbahn.de/browse/MOS-19609) | Lasttest Billing - Ticketkauf One-App | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-71.0
 
 Deployment on **PROD** at
