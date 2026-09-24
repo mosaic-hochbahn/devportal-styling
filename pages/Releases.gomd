@@ -1,5 +1,25 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-74.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 24.09.26 - 13:29:50
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20900](https://jira.hochbahn.de/projects/MOS/versions/20900)
+
+key | summary |  type
+---- | ----|----
+[MOS-19802](https://jira.hochbahn.de/browse/MOS-19802) | HTO: GuestPayOrchestration API updaten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19721](https://jira.hochbahn.de/browse/MOS-19721) | UREKA - zusätzliches Secret einführen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19718](https://jira.hochbahn.de/browse/MOS-19718) | UREKA - Rate-Limits konfigurieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19306](https://jira.hochbahn.de/browse/MOS-19306) | SAM-Server Update 26.05.2 - Deployment-Begleitung (Prod) (24.09.2026) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19304](https://jira.hochbahn.de/browse/MOS-19304) | SAM-Server Update 26.05.2 - Wartungsankündigung  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19303](https://jira.hochbahn.de/browse/MOS-19303) | SAM-Server Update 26.05.2 - CAB Genehmigung  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19302](https://jira.hochbahn.de/browse/MOS-19302) | SAM-Server Update 26.05.2 - Termin abstimmen (Prod) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19299](https://jira.hochbahn.de/browse/MOS-19299) | SAM-Server Update 26.05.2 - Claranet-Auftrag (Test-Updates) begleiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-18124](https://jira.hochbahn.de/browse/MOS-18124) | Nach Verlängerungslauf von DTs kommt es zur Namensänderung nur am neuen DT | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+
 ## TICKETING-73.0
 
 Deployment on **PROD** at
