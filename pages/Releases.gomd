@@ -1,5 +1,26 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-189.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 24.09.26 - 13:38:00
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20800](https://jira.hochbahn.de/projects/MOS/versions/20800)
+
+key | summary |  type
+---- | ----|----
+[MOS-19775](https://jira.hochbahn.de/browse/MOS-19775) | Ergänzung der Klärfall-E-Mail | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19774](https://jira.hochbahn.de/browse/MOS-19774) | Payment-Service langsame Datenbank-Query verbessern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19756](https://jira.hochbahn.de/browse/MOS-19756) | QA-Deployment payment-method-service vorbereiten | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19752](https://jira.hochbahn.de/browse/MOS-19752) | Bugfix Systemtest PreferredPaymentMethod | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19750](https://jira.hochbahn.de/browse/MOS-19750) | Testing PCG DEV setup - Deploy first Services | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19707](https://jira.hochbahn.de/browse/MOS-19707) | Systemtest: Logpay-Account-Aktivierung bei MSP-Aktivierung | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19682](https://jira.hochbahn.de/browse/MOS-19682) | Payment-Method-Service: Validierungsfehler werfen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19673](https://jira.hochbahn.de/browse/MOS-19673) | Payment-Service Customer-Pay-Flow um 2FA erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19614](https://jira.hochbahn.de/browse/MOS-19614) | Karate v1 → v2 Migration: Alle Microservices | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19423](https://jira.hochbahn.de/browse/MOS-19423) | AbstractEntityBaseIT und AbstractEntityBase in allen Billing Service mit DB verwenden | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-74.0
 
 Deployment on **PROD** at: tba-TICKETING
