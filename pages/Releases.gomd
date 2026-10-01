@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-186.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 01.10.26 - 13:34:58
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20803](https://jira.hochbahn.de/projects/MOS/versions/20803)
+
+key | summary |  type
+---- | ----|----
+[MOS-19833](https://jira.hochbahn.de/browse/MOS-19833) | Tarifanpassung Cambio - Oktober | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19798](https://jira.hochbahn.de/browse/MOS-19798) | ALIKE - Update der Phase nach Check-In dauert lange | <img class="issue-type" alt="Fehler" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10303&amp;avatarType=issuetype"></img>
+[MOS-19784](https://jira.hochbahn.de/browse/MOS-19784) | Ride-MSP KW39 - 21.09. - 25.09.2026 | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19760](https://jira.hochbahn.de/browse/MOS-19760) | VOI - customer hasUsablePaymentMethod verwenden  | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19749](https://jira.hochbahn.de/browse/MOS-19749) | Live-MSP - Name-Space Migration switchpoint | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19633](https://jira.hochbahn.de/browse/MOS-19633) | VOI - Error Handling für externe API Calls | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-18936](https://jira.hochbahn.de/browse/MOS-18936) | Data-Source-Alerts von Azure-Grafana abstellen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-190.0
 
 Deployment on **PROD** at: tba-BILLING
