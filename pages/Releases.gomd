@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-190.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 01.10.26 - 12:00:51
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20903](https://jira.hochbahn.de/projects/MOS/versions/20903)
+
+key | summary |  type
+---- | ----|----
+[MOS-19813](https://jira.hochbahn.de/browse/MOS-19813) | Payment-Method-Service: Monitoring für QA und PROD ergänzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19777](https://jira.hochbahn.de/browse/MOS-19777) | Payment-Service Customer-Pay-Flow um Bestätigung von 2FA erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19764](https://jira.hochbahn.de/browse/MOS-19764) | Neuer Microservice direct-pay-orchestration | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19694](https://jira.hochbahn.de/browse/MOS-19694) | Cambio-Erstattung mit Vat 0% verbuchen | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19674](https://jira.hochbahn.de/browse/MOS-19674) | Payment-Service Default-PostPay-Flow um 2FA erweitern | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-189.0
 
 Deployment on **PROD** at
