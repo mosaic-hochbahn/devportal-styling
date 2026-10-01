@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-75.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 01.10.26 - 14:10:27
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20802](https://jira.hochbahn.de/projects/MOS/versions/20802)
+
+key | summary |  type
+---- | ----|----
+[MOS-17832](https://jira.hochbahn.de/browse/MOS-17832) | Anonyme Nutzer, Ticketing: Umstellung von Token auf API-Key (Systemtests, Postman) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-186.0
 
 Deployment on **PROD** at: tba-RIDE
