@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-191.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 08.10.26 - 13:27:43
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20906](https://jira.hochbahn.de/projects/MOS/versions/20906)
+
+key | summary |  type
+---- | ----|----
+[MOS-19859](https://jira.hochbahn.de/browse/MOS-19859) | direct-pay-orchestration: Gutschein reservieren im UseCase (I) implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19849](https://jira.hochbahn.de/browse/MOS-19849) | Dependency Security Updates  | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19780](https://jira.hochbahn.de/browse/MOS-19780) | Contract-Tests in der Merchant-Pay-Orchestration implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19769](https://jira.hochbahn.de/browse/MOS-19769) | direct-pay-orchestration: API (I) implementieren und Datenmodell erstellen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19766](https://jira.hochbahn.de/browse/MOS-19766) | direct-pay-orchestration: APIs spezifizieren und abstimmen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## RIDE-187.0
 
 Deployment on **PROD** at: tba-RIDE
