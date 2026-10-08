@@ -1,5 +1,17 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-76.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 08.10.26 - 14:48:57
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/20907](https://jira.hochbahn.de/projects/MOS/versions/20907)
+
+key | summary |  type
+---- | ----|----
+[MOS-19205](https://jira.hochbahn.de/browse/MOS-19205) | HTO in STS migrieren (Hochzeit) | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-191.0
 
 Deployment on **PROD** at: tba-BILLING
