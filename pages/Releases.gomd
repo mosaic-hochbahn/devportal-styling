@@ -1,5 +1,23 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## BILLING-192.0
+
+Deployment on **PROD** at: tba-BILLING
+
+Deployment on *QA* at: 15.10.26 - 13:09:25
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/21100](https://jira.hochbahn.de/projects/MOS/versions/21100)
+
+key | summary |  type
+---- | ----|----
+[MOS-19897](https://jira.hochbahn.de/browse/MOS-19897) | Dependency Security Updates | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19873](https://jira.hochbahn.de/browse/MOS-19873) | direct-pay-orchestration: Kundenprofil holen im UseCase (I) implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19863](https://jira.hochbahn.de/browse/MOS-19863) | direct-pay-orchestration: DirectPayCase aktualisieren im UseCase (I) implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19861](https://jira.hochbahn.de/browse/MOS-19861) | direct-pay-orchestration: Zahlung durchführen im UseCase (I) implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19860](https://jira.hochbahn.de/browse/MOS-19860) | direct-pay-orchestration: DirectPayCase speichern im UseCase (I) implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19858](https://jira.hochbahn.de/browse/MOS-19858) | direct-pay-orchestration: Zahlungsmethode holen im UseCase (I) implementieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19819](https://jira.hochbahn.de/browse/MOS-19819) | Neuer Microservice direct-pay-orchestration (II) | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## TICKETING-76.0
 
 Deployment on **PROD** at
