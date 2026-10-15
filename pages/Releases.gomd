@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-77.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 15.10.26 - 13:45:17
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/21101](https://jira.hochbahn.de/projects/MOS/versions/21101)
+
+key | summary |  type
+---- | ----|----
+[MOS-19891](https://jira.hochbahn.de/browse/MOS-19891) | Identifikation  accounts mit aktivem Ticket/ Buchung | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19881](https://jira.hochbahn.de/browse/MOS-19881) | Umstellung der Systemtests auf Cidaas | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+
 ## BILLING-192.0
 
 Deployment on **PROD** at: tba-BILLING
