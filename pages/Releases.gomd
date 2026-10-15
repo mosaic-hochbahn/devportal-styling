@@ -1,5 +1,21 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## RIDE-188.0
+
+Deployment on **PROD** at: tba-RIDE
+
+Deployment on *QA* at: 15.10.26 - 14:56:24
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/21000](https://jira.hochbahn.de/projects/MOS/versions/21000)
+
+key | summary |  type
+---- | ----|----
+[MOS-19856](https://jira.hochbahn.de/browse/MOS-19856) | Metriken einbauen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19821](https://jira.hochbahn.de/browse/MOS-19821) | Voi - Voi.yaml korrigieren | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19706](https://jira.hochbahn.de/browse/MOS-19706) | Warnings in Mobility Service Locator | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19611](https://jira.hochbahn.de/browse/MOS-19611) | Jib durch Dockerfile ersetzen | <img class="issue-type" alt="Aufgabe" src="https://jira.hochbahn.de/secure/viewavatar?size=xsmall&amp;avatarId=10318&amp;avatarType=issuetype"></img>
+[MOS-19603](https://jira.hochbahn.de/browse/MOS-19603) | Analyse &amp; Architekturentscheidung: Zielarchitektur &amp; Datenmodell | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## TICKETING-77.0
 
 Deployment on **PROD** at: tba-TICKETING
