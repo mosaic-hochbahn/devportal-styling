@@ -1,5 +1,18 @@
 # Release Notes
 [comment]: <> (Insert next here)
+## TICKETING-79.0
+
+Deployment on **PROD** at: tba-TICKETING
+
+Deployment on *QA* at: 27.10.26 - 14:40:41
+
+Release version in Jira [https://jira.hochbahn.de/projects/MOS/versions/21006](https://jira.hochbahn.de/projects/MOS/versions/21006)
+
+key | summary |  type
+---- | ----|----
+[MOS-19907](https://jira.hochbahn.de/browse/MOS-19907) | TICKETING / UREKA - Endpunkt für Sperre/Storno | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+[MOS-19450](https://jira.hochbahn.de/browse/MOS-19450) | HTO abschalten | <img class="issue-type" alt="Story" src="https://jira.hochbahn.de/images/icons/issuetypes/story.svg"></img>
+
 ## BILLING-193.0
 
 Deployment on **PROD** at
